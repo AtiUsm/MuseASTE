@@ -10,7 +10,7 @@ Aspect Sentiment Triplet Extraction (ASTE) within the automotive review domain. 
 5.	The code for Sampling is in Sampling.ipynb
 6.	The Simplest version OF USECASE demo figure that creates ASTE knowledge graphs is in USECASE_DEMO_FIGURE_SIMPLEST_NOTEBOOK_VERSION.ipynb
 7.	Other folders contain supplementary material, like post-processed annotations, example annotator feedback, and sampled subset.
-8.	Code for baseline- cleaning and uploading
+8.	Code for baseline is in Generative-ABSA folder and contains the re-implemtation of [4].
 
 #  Acknowledgement
 [1] Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, and Luo Si. Knowing what, how and why: A near complete solution for aspect-based sentiment analysis. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 34, pages 8600–8607, 2020.
@@ -18,3 +18,5 @@ Aspect Sentiment Triplet Extraction (ASTE) within the automotive review domain. 
 [2]Stappen, Lukas, Alice Baird, Lea Schumann, and Schuller Bjorn. "The multimodal sentiment analysis in car reviews (muse-car) dataset: Collection, insights and improvements." IEEE Transactions on Affective Computing (2021).
 
 [3] Muse 2020 - ACM MM 2020 (no date) MuSe 2020 - ACM MM 2020. Available at: https://sites.google.com/view/muse2020 (Accessed: 07 November 2023).
+
+[4] [3] Towards generative aspect-based sentiment analysis. Wenxuan Zhang, Xin Li, Yang Deng, Lidong Bing, and Wai Lam. In ACL, 2021.
