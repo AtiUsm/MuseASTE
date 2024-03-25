@@ -10,7 +10,7 @@ Aspect Sentiment Triplet Extraction (ASTE) within the automotive review domain. 
 5.	The code for Sampling is in Sampling.ipynb
 6.	The Simplest version OF USECASE demo figure that creates ASTE knowledge graphs is in USECASE_DEMO_FIGURE_SIMPLEST_NOTEBOOK_VERSION.ipynb
 7.	Other folders contain supplementary material, like post-processed annotations, example annotator feedback, and sampled subset.
-8.	Code for baseline is in Generative-ABSA folder and contains the re-implemtation of [4].
+8.	Code for baseline is in Generative-ABSA folder and contains the re-implemtation of [4], under different experimental settings for our dataset.
 
 #  Acknowledgement
 [1] Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, and Luo Si. Knowing what, how and why: A near complete solution for aspect-based sentiment analysis. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 34, pages 8600–8607, 2020.
