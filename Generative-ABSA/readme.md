@@ -1,6 +1,6 @@
 # Generative ABSA
 
-This repo contains the data and code for our paper [Towards Generative Aspect-Based Sentiment Analysis](https://aclanthology.org/2021.acl-short.64.pdf) in ACL 2021.
+This repo contains the data and code of re-implementation of the paper [Towards Generative Aspect-Based Sentiment Analysis](https://aclanthology.org/2021.acl-short.64.pdf) in ACL 2021, under different implementation settings. The code is obtained from publically released repository and modified to run on our and semeval datasets.
 
 
 ## Requirements
@@ -14,10 +14,8 @@ Pls note that some packages (such as transformers) are under highly active devel
 
 ## Quick Start
 
-- Set up the environment as described in the above section
-- Download the pre-trained T5-base model (you can also use larger versions for better performance depending on the availability of the computation resource), put it under the folder `T5-base`.
-  - You can also skip this step and the pre-trained model would be automatically downloaded to the cache in the next step
-- Run command `sh run.sh`, which runs the `UABSA` task on the `laptop14` dataset.
+- Set up the environment as described in the above section. You can use gas.yml file
+- Run command `sh run.sh`,
 
 
 
@@ -30,16 +28,16 @@ python main.py --task $task \
             --paradigm $paradigm \
             --n_gpu 0 \
             --do_train \
-            --do_direct_eval \
-            --train_batch_size 16 \
-            --gradient_accumulation_steps 2 \
-            --eval_batch_size 16 \
+            --do_eval \
+            --train_batch_size 12 \
+            --gradient_accumulation_steps 1 \
+            --eval_batch_size 12 \
             --learning_rate 3e-4 \
             --num_train_epochs 20 
 ```
-- `$task` refers to one of the ABSA task in [`aope`, `uabsa`, `aste`, `tasd`] 
-- `$dataset` refers to one of the four datasets in [`laptop14`, `rest14`, `rest15`, `rest6`]
-- `$paradigm` refers to one of the two paradigms proposed in the model. 
+- `$task` refers to one of the task of Aspect Sentiment Triplet Extraction in [`aste`] 
+- `$dataset` refers to one of the four datasets in [`laptop14`, `rest14`, `rest15`, `rest6`, 'muse']
+- `$paradigm` refers to one of the extraction paradigms proposed in the model. 
 
 More details can be found in the paper and the help info in the `main.py`.
 
