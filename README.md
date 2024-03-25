@@ -19,4 +19,4 @@ Aspect Sentiment Triplet Extraction (ASTE) within the automotive review domain. 
 
 [3] Muse 2020 - ACM MM 2020 (no date) MuSe 2020 - ACM MM 2020. Available at: https://sites.google.com/view/muse2020 (Accessed: 07 November 2023).
 
-[4] [3] Towards generative aspect-based sentiment analysis. Wenxuan Zhang, Xin Li, Yang Deng, Lidong Bing, and Wai Lam. In ACL, 2021.
+[4] Towards generative aspect-based sentiment analysis. Wenxuan Zhang, Xin Li, Yang Deng, Lidong Bing, and Wai Lam. In ACL, 2021.
