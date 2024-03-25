@@ -15,8 +15,9 @@ Pls note that some packages (such as transformers) are under highly active devel
 ## Quick Start
 
 - Set up the environment as described in the above section. You can use gas.yml file
-- Run command `sh run.sh`,
-
+- Run command `sh run.sh`
+- Use the code files in Code for Muse folder for Muse Dataset.
+- Use the code files in Code for SemEval for SemEval Dataset.
 
 
 ## Detailed Usage
