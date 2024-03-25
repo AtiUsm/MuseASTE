@@ -1,6 +1,6 @@
 # Generative ABSA
 
-This repo contains the data and code of re-implementation of the paper [Towards Generative Aspect-Based Sentiment Analysis](https://aclanthology.org/2021.acl-short.64.pdf) in ACL 2021, under different implementation settings. The code is obtained from publically released repository and modified to run on our and semeval datasets.
+This repo contains the data and code of re-implementation of the paper [Towards Generative Aspect-Based Sentiment Analysis](https://aclanthology.org/2021.acl-short.64.pdf) in ACL 2021, under different implementation settings. The code is obtained from publically released repository and modified considerably to run aste task on our and semeval datasets.
 
 
 ## Requirements
