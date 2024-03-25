@@ -3,18 +3,10 @@
 This repo contains the data and code of re-implementation of the paper [Towards Generative Aspect-Based Sentiment Analysis](https://aclanthology.org/2021.acl-short.64.pdf) in ACL 2021, under different experiment settings. The code is obtained from publically released repository and modified to run aste task on our and semeval datasets. The reference to the original authors is cited below.
 
 
-## Requirements
-
-Pls note that some packages (such as transformers) are under highly active development, so we highly recommend you to install the specified version of the following packages:
-- transformers==4.0.0
-- sentencepiece==0.1.91
-- pytorch_lightning==0.8.1
-
-
 
 ## Quick Start
 
-- Set up the environment as described in the above section. You can use gas.yml file
+- Set up the environment as described in the above section. You can use gas.yml file to set up the environment or use the requirements file.
 - Run command `sh run.sh`
 - Use the code files in Code for Muse folder for Muse Dataset.
 - Use the code files in Code for SemEval for SemEval Dataset.
