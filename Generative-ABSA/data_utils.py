@@ -3,45 +3,47 @@
 import time
 from torch.utils.data import Dataset
 import pandas as pd
-import pandas as pd
+
 senttag2word = {'pos': 'positive', 'neg': 'negative', 'neu': 'neutral'}
-
-
-
-def get_extraction_aste_targets(data_path): 
+def get_extraction_aste_targets(data_path):
     df= pd.read_csv(data_path)
+    ids=df['id']
+    ids=list(ids)
+    ids=set(ids)
     label_dict=[]
-    ids=[]
     flag=0
     label=''
     context=[]
-    for ind in df.index:
-        if pd.isna(df["Unnamed: 0"][ind])== False:
-            ids.append(df["Unnamed: 0"][ind])
-            if flag!=0:
-                label_dict.append({curr_id:label})
-                context.append({curr_id:text})
+    for id in ids:
+        sf=df.loc[df['id']==id]
+        s_ids=sf['segment_id']
+        s_id=list(s_ids)
+        s_ids=set(s_id)
+        for s_id in s_ids:
+            nf=sf.loc[sf['segment_id']==s_id]
+            flag=0
+            for ind in nf.index:
 
+                if flag==0:
+                    text=nf['text'][ind]
+                    curr_id=str(id)+'-'+str(s_id)
+                    label=''
+                    if nf["aspect"][ind]!="-":
+                        label+='(' + nf["aspect"][ind] +', '+ nf["opinion"][ind]+', '+ senttag2word[nf["sentiment"][ind]]+')'
+                    else:
+                        label= "(None" +','+ "None" +','+ "None)"
 
-            label=' '
-            if df["aspect"][ind]!="-":
-                label+='(' + df["aspect"][ind] +', '+ df["opinion"][ind]+', '+ senttag2word[df["sentiment"][ind]]+')'
-            else:
-                label= "(None" +', '+ "None" +', '+ "None)"
-            curr_id=df["Unnamed: 0"][ind]
-            text=df["text"][ind]
-            flag=1
-        if pd.isna(df["Unnamed: 0"][ind])== True:
-            if df["aspect"][ind]!="-":
-                label=label+'; ('+df["aspect"][ind] +', '+ df["opinion"][ind]+', '+ senttag2word[df["sentiment"][ind]]+')'
-
-    label_dict.append({curr_id:label})
-    context.append({curr_id:text})
+                if flag==1:
+                    if nf["aspect"][ind]!="-":
+                        #print(nf["sentiment"][ind])
+                        label=label+'; ('+nf["aspect"][ind] +', '+ nf["opinion"][ind]+', '+ senttag2word[nf["sentiment"][ind]]+')'
+                flag=1
+            label_dict.append({curr_id:label})
+            context.append({curr_id:text})
     targets=[v  for i in label_dict  for k,v in i.items()]
     inputs=[c.split()  for i in context  for k,c in i.items()]
     sents=[c  for i in context  for k,c in i.items()]
     return sents, inputs, targets
-
 
 def get_transformed_io(data_path, paradigm, task):
     """
@@ -118,4 +120,28 @@ class ABSADataset(Dataset):
             self.inputs.append(tokenized_input)
             self.targets.append(tokenized_target)
 
+def write_results_to_log(log_file_path, args, dev_results, global_steps):
+    """
+    Record dev and test results to log file
+    """
+    local_time = time.asctime(time.localtime(time.time()))
 
+    train_settings = "Train setting: bs={0}, lr={1}, num_epochs={2}".format(
+        args.train_batch_size, args.learning_rate, args.num_train_epochs
+    )
+    results_str = "\n* Results *:  Dev  \n"
+
+    metric_names = ['f1', 'precision', 'recall']
+    for gstep in global_steps:
+        results_str += f"Step-{gstep}:\n"
+        for name in metric_names:
+            name_step = f'{name}_{gstep}'
+            results_str += f"{name:<8}: {dev_results[name_step]:.4f}"
+            results_str += ' '*5
+        results_str += '\n'
+
+    exp_settings = f"{args.task} on {args.dataset} under {args.paradigm}; Train bs={args.train_batch_size}, num_epochs = {args.num_train_epochs}"
+    log_str = f"{local_time}\n{exp_settings}\n{results_str}\n\n"
+
+    with open(log_file_path, "a+") as f:
+        f.write(log_str)

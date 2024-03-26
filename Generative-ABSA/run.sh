@@ -5,6 +5,7 @@ python main.py --task aste \
             --model_name_or_path t5-base \
             --paradigm extraction \
             --n_gpu 0 \
+            --do_train\
             --do_eval\
             --train_batch_size 12\
             --gradient_accumulation_steps 1 \

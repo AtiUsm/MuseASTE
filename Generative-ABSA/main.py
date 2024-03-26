@@ -73,7 +73,7 @@ def init_args():
                         help="Whether to run direct eval on the dev/test set.")
 
     # Other parameters
-    parser.add_argument("--max_seq_length", default=512, type=int)
+    parser.add_argument("--max_seq_length", default=128, type=int)
     parser.add_argument("--n_gpu", default=0)
     parser.add_argument("--train_batch_size", default=12, type=int,
                         help="Batch size per GPU/CPU for training.")
@@ -131,7 +131,7 @@ def evaluate(data_loader, MODEL, paradigm, task, sents, TOKENIZER):
         # need to push the data to device
         outs = MODEL.generate(input_ids=batch['source_ids'].to(device), 
                                     attention_mask=batch['source_mask'].to(device), 
-                                    max_length=512)
+                                    max_length=128)
 
         dec = [TOKENIZER.decode(ids, skip_special_tokens=True) for ids in outs]
         target = [TOKENIZER.decode(ids, skip_special_tokens=True) for ids in batch["target_ids"]]
@@ -161,7 +161,7 @@ def generate(data_loader, MODEL, paradigm, task, TOKENIZER):
         # need to push the data to device
         outs = MODEL.generate(input_ids=batch['source_ids'].to(device), 
                                     attention_mask=batch['source_mask'].to(device), 
-                                    max_length=512)
+                                    max_length=128)
 
         dec = [TOKENIZER.decode(ids, skip_special_tokens=True) for ids in outs]
         target = [TOKENIZER.decode(ids, skip_special_tokens=True) for ids in batch["target_ids"]]
