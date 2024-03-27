@@ -1,0 +1,1 @@
+This is the code to run on SemEval Dataset.  Copy paste in the main folder of Generative-ABSA and run sh run.sh
