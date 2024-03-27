@@ -30,7 +30,7 @@ python main.py --task $task \
             --num_train_epochs 20 
 ```
 - `$task` refers to one of the task of Aspect Sentiment Triplet Extraction in [`aste`] 
-- `$dataset` refers to one of the four datasets in [`laptop14`, `rest14`, `rest15`, `rest6`, 'muse']
+- `$dataset` refers to one of the four datasets in [`laptop14`, `rest14`, `rest15`, `rest6`,`muse`]
 - `$paradigm` refers to one of the extraction paradigms proposed in the model. 
 
 More details can be found in the paper and the help info in the `main.py`.
