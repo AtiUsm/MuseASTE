@@ -1,0 +1,1 @@
+These are the files to be used on Muse Dataset. Copy paste in the main folder of Generative-ABSA and run sh run.sh.
