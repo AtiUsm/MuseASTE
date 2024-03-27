@@ -10,6 +10,7 @@ This repo contains the data and code of re-implementation of the paper [Towards 
 - Run command `sh run.sh`
 - Use the code files in Code for Muse folder for Muse Dataset.
 - Use the code files in Code for SemEval for SemEval Dataset.
+- Put the combined muse train.csv and dev.csv files in data/aste/muse folder, by combining text data from muse dataset, and annotations from this repository.
 
 
 ## Detailed Usage
