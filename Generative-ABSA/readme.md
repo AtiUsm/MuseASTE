@@ -1,6 +1,6 @@
 # Generative ABSA
 
-This repo contains the data and code of re-implementation of the paper [Towards Generative Aspect-Based Sentiment Analysis](https://aclanthology.org/2021.acl-short.64.pdf) in ACL 2021, under different experiment settings. The code repository by the original authors has been modified, with different data extraction method for muse, more detailed evaluation on ASTE task, and a different implementation of the main T5 model, to run aste task on our and semeval datasets. Furthermore, Code related to additional tasks have been removed and cleaned. But the repo follows the same technique as the original authors, hence the reference to the original authors is cited below.
+This repo contains the data and code of re-implementation of the paper [Towards Generative Aspect-Based Sentiment Analysis](https://aclanthology.org/2021.acl-short.64.pdf) in ACL 2021, under different experiment settings. The code repository by the original authors has been modified, with different data extraction method for MuSe-ASTE dataset, more detailed evaluation on ASTE tasks on both datasets- of 5 subtasks along with ASTE: aspect term ectraction, opinion term extraction, aspect-sentiment co-extractrion, aspect-opinion pairing, and aste triple extraction; and a different implementation of the main T5 model, to run aste task on our and semeval datasets. Furthermore, Code related to additional tasks have been removed and cleaned. But the repo follows the same technique as the original authors, hence the reference to the original authors is cited below.
 
 
 
