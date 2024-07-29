@@ -1,1 +1,3 @@
-Contains the triples after removing all empty and implicit segments and labels frm the dataset
+Due to limitations of current baseline models, contain the leftover triples and segments after removing
+ - segments not yielding any triples, or empty triples
+ - segments contatining implicit labels
