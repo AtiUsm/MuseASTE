@@ -4,4 +4,4 @@ Due to limitations of current state-of-the-art baseline models (predict explicit
  - removing segments contatining implicit labels
  - replacing the aspects and opinion with their positional token numbers (or of their lemmatized/nearest version) in the text transcript segment, as required by constraints of current baseline models
 
-Results reported in the paper
+Results reported in the paper for different experiments and datasets (full, processed, benchmark, comparison).
