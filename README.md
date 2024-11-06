@@ -1,6 +1,7 @@
 **Code and Data** for the following paper [MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos](https://doi.org/10.1016/j.eswa.2024.125695) 
 
-*Cite the following paper if you use this dataset, and also follow the instructions:*
+*Cite the following paper if you use this dataset, and follow the instructions:*
+
 Usmani, A., Hamood Alsamhi, S., Jaleed Khan, M., Breslin, J., Curry, E., MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos, Expert Systems with Applications (2024), doi: https://doi.org/10.1016/j.eswa.2024.125695
 
 # MuseASTE
@@ -18,6 +19,7 @@ Aspect Sentiment Triplet Extraction (ASTE) within the automotive review domain. 
 7.	Other folders contain supplementary material, like post-processed annotations (sto-word removed and lemmaized), example annotator feedback, and sampled subset file.
 8.	Code for baselines is taken from the original repositories and adapted to our datatset, the orginial repositories are cited in respective readme files.
 9.	Please also cite the Muse-Dataset[2] and sign their agreement.
+10.	If you use any baseline code cite their original papers.
 #  Acknowledgement
 [1] Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, and Luo Si. Knowing what, how and why: A near complete solution for aspect-based sentiment analysis. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 34, pages 8600–8607, 2020.
 
