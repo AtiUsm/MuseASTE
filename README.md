@@ -16,7 +16,7 @@ Aspect Sentiment Triplet Extraction (ASTE) within the automotive review domain. 
 4.	The code for generating figures, tables and charts is in Dataset Statistical Analysis.ipynb
 5.	The code for Sampling is in Sampling.ipynb
 6.	The Simplest version OF USECASE demo figure that creates ASTE knowledge graphs is in USECASE_DEMO_FIGURE_SIMPLEST_NOTEBOOK_VERSION.ipynb
-7.	Other folders contain supplementary material, like post-processed annotations (sto-word removed and lemmaized), example annotator feedback, and sampled subset file.
+7.	Other folders contain supplementary material, like post-processed annotations (stop-word removed and lemmaized), example annotator feedback, and sampled subset file.
 8.	Code for baselines is taken from the original repositories and adapted to our datatset, the orginial repositories are cited in respective readme files.
 9.	Please also cite the Muse-Dataset[2] and sign their agreement[3].
 10.	Additionally, provided if you use any baseline code then cite them.
