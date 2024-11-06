@@ -1,4 +1,4 @@
-**Code and Data** for the following paper [MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos](https://doi.org/10.1016/j.eswa.2024.125695) 
+**Code and Data** for the following paper as submitted to journal [MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos](https://doi.org/10.1016/j.eswa.2024.125695) 
 
 *Cite the following paper if you use this dataset, also star our repo, and must follow the instructions and cite relevant :*
 
