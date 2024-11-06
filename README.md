@@ -1,5 +1,6 @@
 **Code and Data** for the following paper [MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos](https://doi.org/10.1016/j.eswa.2024.125695) 
 
+*Cite the following paper if you use this dataset, and also follow the instructions:*
 Usmani, A., Hamood Alsamhi, S., Jaleed Khan, M., Breslin, J., Curry, E., MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos, Expert Systems with Applications (2024), doi: https://doi.org/10.1016/j.eswa.2024.125695
 
 # MuseASTE
