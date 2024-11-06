@@ -1,3 +1,5 @@
-Due to limitations of current baseline models, the processed dataset contains the leftover triples and segments after removing
- - segments not yielding any triples, or empty triples
- - segments contatining implicit labels
+Four SOTA baseline models were implemented on our as well as current benchmark dataset.
+Due to limitations of current state-of-the-art baseline models (predict explicit start and position,do not work with implicit /empyty triples) the  dataset was processed as followed for a valid comparison across all baselines and with benchmark dataset:
+ - removing segments not yielding any triples, or empty triples
+ - removing segments contatining implicit labels
+ -replacing the aspects and opinion with their positional token numbers (or of their lemmatized/nearest version) in the sentance, as required by constraints of current baselines
