@@ -1,0 +1,38 @@
+name: bmrc
+channels:
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - _openmp_mutex=5.1
+  - ca-certificates=2024.3.11
+  - certifi=2021.5.30
+  - ld_impl_linux-64=2.38
+  - libffi=3.3
+  - libgcc-ng=11.2.0
+  - libgomp=11.2.0
+  - libstdcxx-ng=11.2.0
+  - ncurses=6.4
+  - openssl=1.1.1w
+  - pip=21.2.2
+  - python=3.6.13
+  - readline=8.2
+  - setuptools=58.0.4
+  - sqlite=3.45.3
+  - tk=8.6.14
+  - wheel=0.37.1
+  - xz=5.4.6
+  - zlib=1.2.13
+  - pip:
+      - cached-property==1.5.2
+      - charset-normalizer==2.0.12
+      - docopt==0.6.2
+      - flexicon==0.1.0
+      - github-clone==1.2.0
+      - idna==3.7
+      - pyml==0.0.5
+      - pyparsing==3.1.2
+      - requests==2.27.1
+      - tokenizers==0.7.0
+      - torch==1.2.0
+      - transformers==2.9.0
+prefix: /home/atiya/anaconda3/envs/bmrc
