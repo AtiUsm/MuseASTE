@@ -1,0 +1,4300 @@
+,Unnamed: 0,id,segment_id,aspect_lemmatized,opinion_lemmatized,sentiment
+0,0,15,1,A5,shining example high end downsizing,pos
+1,,15,1,size,midsize,neu
+2,1,15,2,shape,conservative,neu
+3,,15,2,shape,lack edge,neg
+4,,15,2,shape,age well,pos
+5,,15,2,shape,classy,pos
+6,,15,2,interior,different,pos
+7,,15,2,car,mordern interpretation BMW classsic aesthetic,pos
+8,2,15,3,character,stately,pos
+9,,15,3,grip,proper BMW,pos
+10,,15,3,brake,proper BMW,pos
+11,,15,3,accelerate,proper BMW,pos
+12,,15,3,sensation,deluded degree,pos
+13,,15,3,comfort,big,pos
+14,,15,3,ride quality,totally comfortable,pos
+15,,15,3,ride quality,hair Mercedes Eclass,pos
+16,,15,3,drive,lie smaller seven,neu
+17,,15,3,luxury spectrum,bad thing,pos
+18,3,15,4,noise suppression,positively top notch,pos
+19,4,15,5,turning radius,insanely tight,neu
+20,,15,5,seat,adjustment point,pos
+21,6,15,7,steering wheel,laughably thick,neu
+22,,15,7,sun visor,slide,neg
+23,,15,7,instrument cluster,beautifully mix physical digital design element,pos
+24,,15,7,seat,ruby,pos
+25,7,15,8,center tunnel,huge,neu
+26,,15,8,rear seat,foldable,pos
+27,,15,8,floor,low,pos
+28,,15,8,floor,flat,pos
+29,,15,8,boot capacity,vast,pos
+30,,15,8,boot capacity,supremely usable,pos
+31,8,15,9,acceleration,swift,pos
+32,,15,9,range,pure electric,pos
+33,,15,9,engine stop start feature,save fuel,pos
+34,9,15,10,drive mode,customized driving experience,pos
+35,,15,10,drive mode,operate expected,pos
+36,,15,10,ICO mode,surprisingly fun,pos
+37,,15,10,sport mode,dedicated,pos
+38,,15,10,front seat side bolster,tighten,pos
+39,10,15,11,price,offer wide range,pos
+40,,15,11,basic five series,perfect lovely conveyance,pos
+41,,15,11,front seat,16 way adjustable,neu
+42,,15,11,headlight,adaptive led,neu
+43,11,15,12,pricier version,plethora automotive delight,pos
+44,,15,12,front seat,massaging,pos
+45,,15,12,front seat,ventilated,pos
+46,12,15,13,audio system,glorious sounding,pos
+47,,15,13,audio system,premium,pos
+48,,15,13,steering system,adaptive,neu
+49,,15,13,steering system,work well untill,neg
+50,13,15,14,safety technology,advanced,pos
+51,,15,14,side collision avoidance system,automatically steer away,pos
+52,,15,14,adaptive steering,personalized,pos
+53,14,15,15,trim,numerous upholstery,pos
+54,,15,15,interior,real centrepiece,pos
+55,15,15,16,I drive,completely revamped,pos
+56,,15,16,I drive,touch screen,neu
+57,,15,16,remote gesture control,simplified,pos
+58,16,15,17,-,-,-
+59,17,15,18,-,-,-
+60,18,15,19,Apple carplay,work nearly good tether solution,pos
+61,19,15,20,Android auto,unrelated technology,neg
+62,20,15,21,camera system,coolest,pos
+63,21,15,22,-,-,-
+64,22,15,23,Audi A6,well rounded,pos
+65,,15,23,S90,sweetest,pos
+66,,15,23,price,higher starting price,neg
+67,,15,23,Mercedes-Benz e class,lot like flag ship sclass,neu
+68,,15,23,Mercedes-Benz e class,big fan,pos
+69,,15,23,Mercedes-Benz e class,smaller,neu
+70,23,15,24,Mercedes-Benz e class,similar concept early predecessor,neu
+71,,15,24,Mercedes-Benz e class,engaging,neg
+72,24,15,25,technology,huge leap forward,pos
+73,,15,25,interior sophistication,huge leap forward,pos
+74,25,15,26,nameplate,embracing change,pos
+75,,15,26,nameplate,refreshing,pos
+76,26,15,27,-,-,-
+77,27,16,1,character,,pos
+78,,16,1,height,lower,pos
+79,,16,1,length,longer,pos
+80,,16,1,car,wider,pos
+81,,16,1,design,aggressively sophisticated spin,pos
+82,,16,1,car,convertible,pos
+83,,16,1,performance,high,pos
+84,28,16,2,hood,elongated,neu
+85,,16,2,vent,specially designed,pos
+86,,16,2,vent,reduce drag,pos
+87,,16,2,roofline,sweeping,neu
+88,,16,2,deck lid,short,neu
+89,29,16,3,stance,low,neu
+90,,16,3,centre gravity,lowest,neu
+91,,16,3,exterior design,head turning,pos
+92,,16,3,interior,shortcoming,neu
+93,30,16,4,cabin layout,elegant,pos
+94,,16,4,cabin layout,ergonomically sound,pos
+95,,16,4,cabin layout,glaring abscense basic creature comfort,neg
+96,31,16,5,-,-,-
+97,32,16,6,driving dynamic,clear advantage,pos
+98,,16,6,ride,impeccabbly balanced,pos
+99,,16,6,handling package,renowned,pos
+100,,16,6,ride quality,befitting car,pos
+101,,16,6,noise,make evident high speed,neg
+102,,16,6,suspension,work harmoniously,pos
+103,,16,6,chasis,work harmoniously,pos
+104,,16,6,brake,easy modulate,pos
+105,,16,6,steering,electrically assissted,pos
+106,,16,6,steering feedback,noticeably better,pos
+107,,16,6,steering response,noticeably better,pos
+108,,16,6,steering,inclination towards understeer,neg
+109,33,16,7,cargo area,larger,pos
+110,34,16,8,rear seat,comparitively spacious,pos
+111,,16,8,front quarter,ample headroom taller driver,pos
+112,35,16,9,drive,wheel,neu
+113,,16,9,ICO mode,save fuel,pos
+114,,16,9,ICO mode,exceeds mpg rating three,pos
+115,36,16,10,option,premium,pos
+116,,16,10,steering,heated,pos
+117,37,16,11,-,-,-
+118,38,16,12,-,-,-
+119,39,17,1,model,smaller,neu
+120,,17,1,type,compact SUV,neu
+121,40,17,2,exterior,sporting look offroad activity,pos
+122,,17,2,look,agressive parking maneuver,pos
+123,,17,2,roof,lower,neu
+124,,17,2,roofline,athletic,pos
+125,,17,2,grill,kidney,neu
+126,,17,2,grill,longer,pos
+127,,17,2,headlight,new,pos
+128,,17,2,tail light,new,pos
+129,,17,2,roof spoiler,downward sloping,pos
+130,,17,2,look,aggressive,neu
+131,,17,2,look,muscular,neu
+132,,17,2,look,mean,neu
+133,,17,2,interior fit finish,piano black,neu
+134,,17,2,interior fit finish,nice,pos
+135,,17,2,finish,fake,neg
+136,,17,2,interior,badging everywhere,pos
+137,,17,2,dash,dramatically sparse,pos
+138,,17,2,dash,elegant,pos
+139,,17,2,center stack,well thought,pos
+140,,17,2,button,enough,pos
+141,,17,2,technology,nice balance high low,pos
+142,,17,2,display,touchscreen,neu
+143,41,17,3,center console,good use,pos
+144,,17,3,cup holder,integrated,pos
+145,42,17,4,dash,make car feel brighter,pos
+146,,17,4,visibility,improves,pos
+147,43,17,5,head display,larger,pos
+148,,17,5,steering wheel,sport,neu
+149,,17,5,digital gauge cluster,optional,neu
+150,44,17,6,seat,firm,neu
+151,,17,6,seat,like feel,pos
+152,,17,6,seat,little lacking snazzy look,neg
+153,,17,6,leg room second row,okay,neu
+154,,17,6,headroom,okay,neu
+155,,17,6,headroom,larger person might issue,neg
+156,,17,6,middle seat,really one,neg
+157,45,17,7,boot capacity,,pos
+158,46,17,8,acoustic,nice,pos
+159,,17,8,wind noise,well controlled,pos
+160,,17,8,city noise,well controlled,pos
+161,,17,8,interior experience,really pleasent,pos
+162,,17,8,acoustic,much improved,pos
+163,47,17,9,-,-,-
+164,48,17,10,engine,zero lag,pos
+165,,17,10,eight speed automatic transmission,excellent,pos
+166,,17,10,gear shift,expeditious,pos
+167,,17,10,gear shift,well spaced,pos
+168,,17,10,sport mode,little interesting,pos
+169,,17,10,sport mode,gear held longer,pos
+170,,17,10,sport mode,acceleration immediate,pos
+171,,17,10,sport mode,lot BMW,pos
+172,,17,10,sport mode,control,pos
+173,,17,10,sport mode,quick acceleration,pos
+174,,17,10,sport mode,situation simply hit,pos
+175,49,17,11,ride,feel well,pos
+176,,17,11,sitting,high,pos
+177,,17,11,feel,like sedan,neu
+178,,17,11,chasis,rigid firm right place,pos
+179,,17,11,suspension,rigid comfortable,pos
+180,,17,11,balance,strike nice,pos
+181,,17,11,steering,nice resistance,pos
+182,,17,11,steering,responsive,pos
+183,,17,11,steering,quick,pos
+184,,17,11,drive,really really great,pos
+185,,17,11,inside,kind like Goldie lock,pos
+186,50,17,12,X Drive System,enhanced traction handling,pos
+187,,17,12,X Drive System,offroad capability,pos
+188,51,17,13,-,-,-
+189,52,17,14,-,-,-
+190,53,17,15,price,pricier,neg
+191,,17,15,downforce,improved,pos
+192,,17,15,rear apron,diffuser style,neu
+193,,17,15,trim,side skirt,neu
+194,,17,15,intake,larger,pos
+195,54,17,16,engine,pretty beefed number,pos
+196,55,17,17,M performance version,plus move,pos
+197,56,17,18,dynamic handling package,prolific,pos
+198,,17,18,steering,variable,pos
+199,,17,18,steering,sport,pos
+200,,17,18,brake,sport,pos
+201,,17,18,damper control,dynamic,pos
+202,,17,18,ride quality,improved,pos
+203,57,17,19,-,-,-
+204,58,17,20,-,-,-
+205,59,17,21,Android auto,wireless,pos
+206,,17,21,Android auto,like,pos
+207,60,17,22,-,-,-
+208,61,17,23,drive,really satisfying,pos
+209,,17,23,X3,luxurious,pos
+210,62,18,1,look,straight ad sponsored sci fi film,pos
+211,,18,1,technology,24 thinking,neu
+212,,18,1,weight,lightweight,pos
+213,,18,1,powertrain,sophisticated,pos
+214,63,18,2,formula,oven guard,neu
+215,,18,2,door,vertical opening,pos
+216,,18,2,door,scissor,neu
+217,,18,2,door,progressive,pos
+218,64,18,3,look,futuristic,pos
+219,,18,3,front apron port,reduce drag,pos
+220,,18,3,hood vent,functional,pos
+221,,18,3,rear balance,show,neg
+222,65,18,4,current design,contemporary,pos
+223,,18,4,accent,blue,neu
+224,,18,4,accent,clear contrast,neu
+225,,18,4,material,high quality,pos
+226,,18,4,front seat,aesthetic shell type,pos
+227,,18,4,glass,chemically hardened,pos
+228,,18,4,glass,emphasize eye,pos
+229,,18,4,weight,lightweight,pos
+230,66,18,5,practical,surprisingly,pos
+231,67,18,6,rear seat,suitable,neg
+232,,18,6,cargo space,small cubby hole,neg
+233,68,18,7,-,-,-
+234,69,18,8,front seat,weight conscious,neu
+235,,18,8,front seat,six way adjustable,neg
+236,,18,8,front seat,lumbar support,neg
+237,70,18,9,accelerates,BMW,pos
+238,,18,9,handle,BMW,pos
+239,,18,9,high speed,exceptionally composed,pos
+240,,18,9,corner,carves surgeon precision,pos
+241,,18,9,stereo system,truly unique,pos
+242,,18,9,electric assisstant,criticism regarding feedback,pos
+243,,18,9,electric steering,cracked code,pos
+244,,18,9,steering,electromechanical,pos
+245,,18,9,steering,responsive,pos
+246,,18,9,steering,effortless,pos
+247,,18,9,steering,hydraulically actuated,neu
+248,71,18,10,exhaust note,tune,pos
+249,,18,10,engine,better efficiency,pos
+250,,18,10,drive system,hyper intelligent,pos
+251,,18,10,transmission,lightweight,pos
+252,,18,10,weight,lighter,pos
+253,72,18,11,-,-,-
+254,73,18,12,sound system,premium,pos
+255,,18,12,cruise control,adaptive,pos
+256,,18,12,windshield wiper,rain sensing,pos
+257,74,18,13,leather,perforated,pos
+258,,18,13,leather,exclusive color,pos
+259,,18,13,seatbelt strap,blue,neu
+260,,18,13,seatbelt strap,cosmetic variety,pos
+261,75,18,14,price point,shortage alternative,neu
+262,76,18,15,A8,everyone,neg
+263,77,19,1,-,-,-
+264,78,19,2,body structure,aluminium intensive,neu
+265,,19,2,body structure,three inch wider,pos
+266,,19,2,exhaust tip,quad,neu
+267,,19,2,car,fender adornment,pos
+268,79,19,3,chasis,modified,pos
+269,,19,3,car,racy,pos
+270,,19,3,engine,really special,pos
+271,,19,3,power,lack,pos
+272,,19,3,power,useable,pos
+273,80,19,4,torque,enough pull,pos
+274,,19,4,brake,still feel really good,pos
+275,,19,4,brake,sign fading,pos
+276,,19,4,brake,little squeaking,neg
+277,,19,4,drive,magical,pos
+278,,19,4,turn,delay,pos
+279,,19,4,throttle,extremely predictable,pos
+280,81,19,5,-,-,-
+281,82,19,6,driving experience,really pleasent,pos
+282,,19,6,sound,cabin fairly quiet,pos
+283,83,19,7,power seat,comfortable,pos
+284,,19,7,power seat,supportive,pos
+285,84,19,8,steering wheel,offer ability,pos
+286,85,19,9,comfort,impressive,pos
+287,,19,9,ride,comfortable,pos
+288,,19,9,race track,capable,pos
+289,86,19,10,transmission,unrefined nature,neg
+290,,19,10,transmission,cold,neg
+291,,19,10,speed,absolutely brilliant,pos
+292,,19,10,gear change,zero lag time,pos
+293,,19,10,throttle,feel little bit partial engagement,pos
+294,,19,10,gear change,pretty neat,pos
+295,,19,10,manual driving,quiet taken,pos
+296,,19,10,manual driving,responsive,pos
+297,,19,10,clutch,light,pos
+298,,19,10,clutch,easy use,pos
+299,,19,10,steering,really good,pos
+300,87,19,11,M two,refined nature,pos
+301,,19,11,M two,return glory,pos
+302,88,20,1,vehicle,coupe like,neu
+303,89,20,2,car,proper coop,neg
+304,,20,2,car,comparitively sporty,pos
+305,,20,2,X two,lower,neu
+306,,20,2,X two,le lengthy,neu
+307,90,20,3,interior space,suffer,neg
+308,,20,3,car,condensed form,neu
+309,,20,3,seating position,preferred,pos
+310,,20,3,seating position,knee touch,pos
+311,,20,3,cutout design,thanks,pos
+312,,20,3,front seat,little bit high,neu
+313,,20,3,fron seat,slide foot underneath,pos
+314,,20,3,back seat,recline little bit,pos
+315,,20,3,back seat,comfortable,pos
+316,,20,3,headliner,bad,neu
+317,,20,3,middle spot,like extended trip,neg
+318,,20,3,roof line,dipping,neg
+319,,20,3,back seat,mind ducking,neg
+320,,20,3,backseat,endurable,neg
+321,91,20,4,underfloor storage,super deep,pos
+322,,20,4,boot,sizeable square space,pos
+323,,20,4,boot lip,high,neg
+324,92,20,5,rear seat,lowered cargo area,neg
+325,,20,5,steering,wish lower,neg
+326,,20,5,rear seat,lowered,pos
+327,93,20,6,feel,real BMW,pos
+328,,20,6,material,pleasing,pos
+329,,20,6,layout,stylish,pos
+330,,20,6,upholstery,nice,pos
+331,,20,6,upholstery,nice faux leather,pos
+332,,20,6,seat,10 way power adjustable,pos
+333,,20,6,side bolster,fancy,pos
+334,94,20,7,Apple Carplay price,offensive,neg
+335,95,20,8,Apple Carplay,wireless,pos
+336,96,20,9,veering,superficial,neg
+337,,20,9,look,cool,pos
+338,,20,9,BMW badge,tempted remove,neu
+339,97,20,10,vibe,squat,pos
+340,,20,10,vibe,athletic,pos
+341,,20,10,driving,athletic,pos
+342,,20,10,corner handling,carry serious speed,pos
+343,98,20,11,steering,little imprecise,neg
+344,,20,11,brake pedal,demand finesse,neg
+345,,20,11,brake pedal,touchy,neg
+346,,20,11,drive,generally pleasure,pos
+347,99,20,12,roof line,stylish,pos
+348,,20,12,blind spot,massive,neg
+349,100,20,13,-,-,-
+350,101,20,14,visibility,issue,neg
+351,,20,14,sport suspension,ride quality skews firmer side,pos
+352,,20,14,driving assisstance package,happy note,pos
+353,102,20,15,ride comfort,top priority,pos
+354,,20,15,damper,adjustable,pos
+355,,20,15,ICO pro mode,efficiency enhancing,pos
+356,,20,15,dynamic cruise control,handy,pos
+357,,20,15,drive,front wheel standard,neu
+358,103,20,16,shift lever,mechanical,neu
+359,,20,16,shift lever,blessedly simple,pos
+360,,20,16,electronic shifter,comparitively tricky,neg
+361,,20,16,automatic engine start stop system,intrusive,neu
+362,,20,16,automatic engine start stop system,help save,pos
+363,,20,16,switch,conveniently placed,pos
+364,,20,16,engine,refined operation,pos
+365,,20,16,acceleration,brisk,pos
+366,,20,16,turbo lag,lag,pos
+367,,20,16,fuel economy,good,pos
+368,104,20,17,price,ain't cheap,neg
+369,,20,17,fuel,recommends premium,neu
+370,105,20,18,M6 port,loaded,pos
+371,,20,18,drive,wheel,neu
+372,,20,18,Mercedes-Benz G g l,powerful,pos
+373,,20,18,BMW X3,decently equipped,neu
+374,106,20,19,-,-,-
+375,107,20,20,x two,swap practicaly style,neu
+376,108,21,1,size,smallest,neu
+377,,21,1,price,cheapest,pos
+378,,21,1,proportion,sub compact,neu
+379,,21,1,type,SUV,neu
+380,109,21,2,size,small,neu
+381,,21,2,cargo area,small,pos
+382,,21,2,trunk,conveniently square,pos
+383,,21,2,underfloor storage area,handy,pos
+384,,21,2,rear seat,20 40 split,pos
+385,,21,2,rear seat,handy,pos
+386,,21,2,backseat,drop,pos
+387,,21,2,power release,optional,neu
+388,,21,2,cargo hold,fairly flat,pos
+389,,21,2,cargo hold,surprisingly vast,pos
+390,110,21,3,storage nook,throughout,pos
+391,,21,3,front seat set,impressive,pos
+392,,21,3,leg room,great,pos
+393,,21,3,footspace,excellent,pos
+394,,21,3,headroom,similarly good,pos
+395,,21,3,middle,hump,neg
+396,,21,3,middle seat,perfectly inhabitable,pos
+397,111,21,4,centre armrest,adjustable,pos
+398,,21,4,centre armrest,comfortable height,pos
+399,,21,4,centre armrest,touch storage base,pos
+400,,21,4,second row seat,sliding,pos
+401,,21,4,second row seat,reclining,pos
+402,,21,4,comfort,even better,pos
+403,112,21,5,X1,proper BMW,pos
+404,,21,5,plastic,high quality,pos
+405,,21,5,material,soft,pos
+406,,21,5,cabin layout,stylish,pos
+407,113,21,6,X1,smaller,neu
+408,,21,6,X1,cheaper,pos
+409,,21,6,steering,slack,neg
+410,,21,6,corner,adept,pos
+411,,21,6,traffic,adept slogging,pos
+412,,21,6,move,sporty,pos
+413,,21,6,move,pleasing,pos
+414,,21,6,drive,like BMW,neu
+415,114,21,7,X1,definitely fun BMW,neg
+416,,21,7,drive,pretty thrilling,pos
+417,,21,7,SUV,small,neu
+418,,21,7,SUV,luxury,pos
+419,,21,7,type,SUV,neu
+420,115,21,8,power,fairly well,pos
+421,116,21,9,car,winning combination,pos
+422,,21,9,acceleration,swift,pos
+423,,21,9,operation,refined,pos
+424,,21,9,fuel economy,good,pos
+425,117,21,10,accleration,engine take moment spool,pos
+426,,21,10,automatic engine start stop system,engine restarts jarring,neg
+427,,21,10,powerful,plenty,pos
+428,,21,10,drive,rear wheel,neu
+429,,21,10,wheel drive,raise base price,neg
+430,,21,10,wheel drive,plus traction suffers,pos
+431,118,21,11,drive mode,multiple,pos
+432,,21,11,X1,customized,pos
+433,,21,11,sport mode,quicker throttle response,pos
+434,,21,11,sport mode,heavy steering,pos
+435,,21,11,ICO pro mode,efficiency enhancing,pos
+436,,21,11,coasting,sound fun,pos
+437,119,21,12,seat,eight way power,neu
+438,,21,12,lift gate,power,neu
+439,120,21,13,Mercedes-Benz G . L . A,seductive,pos
+440,,21,13,Audi Q3,sophisticated,pos
+441,,21,13,Lincoln M . K . C,well equipped,pos
+442,121,21,14,backup camera,optional,neu
+443,122,21,15,roof,moon,pos
+444,,21,15,roof,panoramic,pos
+445,,21,15,front seat,leather,pos
+446,,21,15,front seat,heated,pos
+447,123,21,16,-,-,-
+448,124,21,17,option package,go nutty,pos
+449,125,21,18,X1,much BMW,pos
+450,,21,18,X1,smaller,neu
+451,,21,18,parkability,appreciate,pos
+452,126,22,1,-,-,-
+453,127,22,2,BMW I A8,much racier,pos
+454,,22,2,BMW I A8 price,expensive,neg
+455,,22,2,car,electric,neu
+456,128,22,3,BMW badge,important,pos
+457,,22,3,plastic,reinforced,neu
+458,129,22,4,-,-,-
+459,130,22,5,-,-,-
+460,131,22,6,engine,tiny,neu
+461,,22,6,total range,double,pos
+462,,22,6,pure electric range,little bit reduced,neg
+463,,22,6,engine,add weight,neg
+464,132,22,7,drive,like BMW,pos
+465,,22,7,steering,variable assisst,pos
+466,,22,7,steering,quick ratio,pos
+467,,22,7,steering,nimble sense,pos
+468,,22,7,steering,nicely supported,pos
+469,,22,7,handling limit,higher expected,pos
+470,,22,7,body roll,bit,neg
+471,,22,7,car,tall,pos
+472,,22,7,car,electric,pos
+473,,22,7,drive,wierdly fun,pos
+474,133,22,8,BMW I three,celebrates hard,pos
+475,,22,8,engine,keep pulling,pos
+476,,22,8,pull,nice,pos
+477,134,22,9,power recovery,really aggressive,neu
+478,,22,9,electric motor,really strange,neg
+479,135,22,10,deceleration,shame,neg
+480,,22,10,brake,feel almost normal,neu
+481,136,22,11,window,big,pos
+482,,22,11,turning circle,tight,neu
+483,,22,11,length,short,neu
+484,137,22,12,optional backup camera,easy maneuver,pos
+485,,22,12,parking sensor,easy maneuver,pos
+486,138,22,13,suspension,skillfully manages tarmac inconsistency,pos
+487,139,22,14,car,electric,pos
+488,140,22,15,-,-,-
+489,141,22,16,BMW,traditional progressive balance pretty well,pos
+490,,22,16,stance,tall,pos
+491,,22,16,window,frameless,pos
+492,,22,16,panel,contrasting,pos
+493,,22,16,weirdness,general,neu
+494,,22,16,car,utterly distinct,pos
+495,,22,16,car,weird endearing way,pos
+496,142,22,17,panel,reflex,neg
+497,,22,17,interior,feel pretty special,pos
+498,,22,17,interior,swoopy shape,pos
+499,,22,17,interior,contrasting texture,pos
+500,,22,17,dash,bold futurism,pos
+501,,22,17,A3,surprisingly welcoming,pos
+502,,22,17,interior,familiar BMW,pos
+503,143,22,18,steering wheel control,straightforward,pos
+504,,22,18,bluetooth,easy pair,pos
+505,,22,18,I Drive,intuitive,pos
+506,,22,18,auxillary connector,conveniently placed,pos
+507,,22,18,auxillary connector,clearly labelled,pos
+508,,22,18,Dr Selector,annoying,neg
+509,144,22,19,putting gear,pretty straightforward,pos
+510,,22,19,push button reach,awkwardly around steering,neg
+511,145,22,20,screen,far away,neg
+512,146,22,21,screen,nice bigger,neg
+513,,22,21,get,reasonably simple,pos
+514,,22,21,front climbing back,effort,neu
+515,,22,21,contouring,comfortable,pos
+516,,22,21,headroom,plentiful,pos
+517,,22,21,center armrest,adjustable,neu
+518,,22,21,steering wheel,telescopic,pos
+519,,22,21,steering wheel,long throw,pos
+520,,22,21,steering,easy meld car,pos
+521,,22,21,front seat,nice,pos
+522,,22,21,front seat,adjustable,pos
+523,,22,21,front seat,lumbar support,pos
+524,,22,21,backseat legroom,okay,neu
+525,,22,21,back,really quite good,pos
+526,,22,21,back seating,elevated,pos
+527,,22,21,view,nice,pos
+528,,22,21,view,claustrophobia free,pos
+529,147,22,22,lift height,high,neg
+530,,22,22,loading heavy cargo,struggle,pos
+531,,22,22,trunk size,decent,neu
+532,,22,22,trunk shape,pragmatic,pos
+533,148,22,23,-,-,-
+534,149,22,24,headlight,led,neu
+535,,22,24,upholstery,leather like,pos
+536,,22,24,-,-,-
+537,150,22,25,-,-,-
+538,151,22,26,audio system,premium,pos
+539,,22,26,quick charge system,bump battery 80%,pos
+540,152,22,27,-,-,-
+541,153,22,28,car,electric,neu
+542,,22,28,car,everybody,neg
+543,,22,28,car,premium,pos
+544,,22,28,car,expensive,pos
+545,,22,28,look,utterly insane,neg
+546,154,22,29,-,-,-
+547,165,38,11,weight,le,pos
+548,,38,11,weight,lighter,pos
+549,169,38,15,-,-,-
+550,172,212,1,car,smallest Mercedes SUV,neu
+551,,212,1,car,fast fast,neu
+552,174,212,3,look,distinctive,pos
+553,,212,3,grill,wider,pos
+554,,212,3,diffuser,aggressive,neu
+555,,212,3,height,lower,neu
+556,,212,3,exhaust tip,chrome black,neu
+557,,212,3,exhaust tip,compliment,pos
+558,175,212,4,steering wheel,flat bottom,neu
+559,,212,4,contrast,super fancy red,pos
+560,,212,4,accent,carbon fibre,neu
+561,,212,4,front seat,extra bolstering,pos
+562,176,212,5,GOC 43,high performance SUV,pos
+563,177,212,6,-,-,-
+564,178,212,7,engine,,pos
+565,,212,7,pull,hard,pos
+566,,212,7,pull,low,pos
+567,179,212,8,exhaust sound,fantastic,pos
+568,180,212,9,stop,hurry,neg
+569,,212,9,overall,really good,pos
+570,181,212,10,nine speed automatic,quick witted,pos
+571,182,212,11,drive,wheel,neu
+572,183,212,12,engine,undoubtedly centerpiece,pos
+573,184,212,13,handling,legitamate,pos
+574,,212,13,rubber,sticky,neu
+575,,212,13,rubber,continental,neu
+576,185,212,14,ride quality,posse simple,neg
+577,,212,14,turning,chasis roll past degree,neg
+578,,212,14,chasis,firm,neu
+579,186,212,15,ride quality,harsh,neu
+580,,212,15,ride quality,smooth,pos
+581,187,212,16,price,cheap,neg
+582,,212,16,price,number desirable standard,pos
+583,189,212,18,-,-,-
+584,190,212,19,-,-,-
+585,191,212,20,shape,interesting,pos
+586,,212,20,practicality,le practical actually,neu
+587,,212,20,car,engaging dynamic quality,pos
+588,192,212,21,car,super sporty crossover,pos
+589,,212,21,car,everyone,neg
+590,193,213,1,-,-,-
+591,194,213,2,drive,rear wheel,neu
+592,,213,2,car,two seat convertible,pos
+593,195,213,3,V six,really good,pos
+594,,213,3,power,come quickly,pos
+595,,213,3,power,plety,pos
+596,196,213,4,nine speed automatic transmission,best,pos
+597,,213,4,speed transmission shift,staggering immediacy,pos
+598,,213,4,fuel,really satisfying,pos
+599,,213,4,fuel,mechanical,neu
+600,197,213,5,gear shifter,hilariously small,neg
+601,198,213,6,power,notable advantage,pos
+602,,213,6,suspension,much stiffer,neu
+603,,213,6,suspension,enhances dynamic ability,pos
+604,,213,6,suspension,enhances imperfection road,neg
+605,199,213,7,SL C300,better choice,pos
+606,,213,7,0 60 time,perfectly zippy,pos
+607,,213,7,four cylinder engine,fine,pos
+608,200,213,8,-,-,-
+609,201,213,9,drive,fun,pos
+610,,213,9,steer,joyful urgency,pos
+611,,213,9,weight,heavier,neg
+612,202,213,10,cruising,high speed,pos
+613,,213,10,cruising,dig stable,pos
+614,203,213,11,top,hard,neu
+615,,213,11,top,retractable,neu
+616,,213,11,security,advantage,pos
+617,,213,11,interior noise,advantage,pos
+618,,213,11,trunk capacity,drop nearly half top lowered,pos
+619,204,213,12,experience,open air,pos
+620,,213,12,experience,delightful,pos
+621,205,213,13,top air,flow smootly,pos
+622,,213,13,view,penned header,pos
+623,,213,13,feel,open,pos
+624,,213,13,feel,connected outside world,pos
+625,206,213,14,top,still enjoy scenery,pos
+626,,213,14,roof panel,electro chroma,pos
+627,,213,14,Magic Sky Control,cool trick,pos
+628,,213,14,Magic Sky Control,modestly impress,pos
+629,207,213,15,cabin,hard criticize,neg
+630,,213,15,climate control knob,feel plasticky,neg
+631,,213,15,climate control knob,cheap,neg
+632,,213,15,interior,well appointed,pos
+633,,213,15,interior,classy,pos
+634,,213,15,interior,right sized,pos
+635,208,213,16,head space,double check tall people,neu
+636,209,213,17,seat,contoured,pos
+637,,213,17,seat,ensure long haul comfort,pos
+638,,213,17,storage cubby,decent size,pos
+639,,213,17,nook,decent size,pos
+640,,213,17,cabin,dose practicalty,pos
+641,210,213,18,seat,power,pos
+642,,213,18,seat,eight way,pos
+643,,213,18,roof,glass panel,pos
+644,,213,18,engine start stop system,automatic,neu
+645,,213,18,engine start stop system,help save fuel,pos
+646,211,213,19,-,-,-
+647,212,213,20,seat,heated,pos
+648,,213,20,air scarf,blast neck toasty toasty air,pos
+649,,213,20,sound,Harman Kardon surround,neu
+650,213,213,21,air scarf,lover feature,pos
+651,,213,21,blind spot warning,enjoy,pos
+652,,213,21,suspension,adaptive,neu
+653,,213,21,cruise control,adaptive,neu
+654,,213,21,headlamp,led,neu
+655,214,213,22,-,-,-
+656,215,213,23,-,-,-
+657,216,213,24,-,-,-
+658,217,213,25,Portia 7 18,utterly sexy,pos
+659,,213,25,Portia 7 18,brilliant handling,pos
+660,218,213,26,-,-,-
+661,219,213,27,-,-,-
+662,220,213,28,price,competitively priced,pos
+663,221,213,29,car,fun,pos
+664,,213,29,car,attractive,pos
+665,,213,29,interior,top,pos
+666,222,213,30,value,reasonably well,pos
+667,,213,30,interior,fantastic,pos
+668,223,213,31,-,-,-
+669,224,215,1,car,mechanical mastery model,pos
+670,,215,1,car,purest driver,pos
+671,225,215,2,-,-,-
+672,226,215,3,body,seductively sculpted line,pos
+673,,215,3,proportion,elegantly edgy,pos
+674,,215,3,car,sport,pos
+675,,215,3,car,iconic Mercedes-Benz,pos
+676,,215,3,hood,long,pos
+677,,215,3,deck,short,pos
+678,,215,3,side vent,functional,pos
+679,,215,3,look,special,pos
+680,227,215,4,chasis,mostly aluminium,neu
+681,,215,4,weight,still tip scale,neu
+682,228,215,5,dynamic engine,optional,neu
+683,,215,5,chasis brace,multitude,pos
+684,,215,5,suspension,remote,neu
+685,,215,5,suspension,electronically controlled,neu
+686,,215,5,car,totally liveable,pos
+687,,215,5,seat,compressed vertebra,pos
+688,,215,5,car,daily,pos
+689,,215,5,car,driveable,pos
+690,,215,5,car,civilized,pos
+691,,215,5,car,supercar,pos
+692,,215,5,steer,oversteer,neg
+693,,215,5,steer,thruster make look pretty cool,pos
+694,229,215,6,-,-,-
+695,230,215,7,car,hell thing,pos
+696,231,215,8,car,sport,pos
+697,,215,8,top discerning,bit underwhelming,neg
+698,,215,8,power,surge dramatic yet orderly manner,pos
+699,,215,8,balance,additional thrust upset harmonious balance,neg
+700,232,215,9,-,-,-
+701,233,215,10,power,boasting abundance,pos
+702,,215,10,aero bit,active,neu
+703,,215,10,aero bit,additional,neu
+704,,215,10,aero bit price,lot money,neg
+705,234,215,11,paddle shifter,delay,neu
+706,,215,11,pedal field,linear,neg
+707,,215,11,stopping power,absolutely tremendous,pos
+708,,215,11,acceleration,slowly stop,neg
+709,,215,11,acceleration stop,irritating,neg
+710,235,215,12,drive,minor jerkiness,neg
+711,,215,12,performance,unexpectedly well,pos
+712,,215,12,noise level,par,pos
+713,,215,12,visibility,good untill need back,neg
+714,,215,12,car,daily driver,neu
+715,236,215,13,storage space,reasonable amount,pos
+716,,215,13,design,nifty liftback,pos
+717,,215,13,seat,bit firm,neg
+718,,215,13,front seat,let toss item trunk,pos
+719,237,215,14,leg side bolster,admirable job holding place,pos
+720,,215,14,leg side bolster,power adjustable,pos
+721,238,215,15,center console,unique,pos
+722,,215,15,center console,minimally functional,neu
+723,,215,15,layout,resemble V eight engine,neu
+724,,215,15,center console,nested seat,neu
+725,239,215,16,exhaust volume,competitive rival,pos
+726,,215,16,suspension,alter,neu
+727,,215,16,firmness,alter,neu
+728,240,215,17,-,-,-
+729,241,215,18,seat,heated,pos
+730,,215,18,seat,performance,pos
+731,,215,18,seat,apple leather,pos
+732,242,215,19,-,-,-
+733,243,215,20,beam,automatic,neu
+734,,215,20,beam,high,neu
+735,,215,20,headlight,led,neu
+736,,215,20,cruse control,adaptive,neu
+737,244,215,21,power band,widened,pos
+738,,215,21,interior trim,matt carbon firbre,neu
+739,,215,21,wheel option,six staggered,neu
+740,245,215,22,horsepower,high,pos
+741,,215,22,car,sport,pos
+742,,215,22,AMG GT,coolest,pos
+743,,215,22,ball room number generator,great,pos
+744,,215,22,straight line,quite exciting,pos
+745,,215,22,race track,handful,pos
+746,246,215,23,car,flat fun,pos
+747,247,216,1,car,luxury entry,pos
+748,248,216,2,price,cheapest,pos
+749,250,216,4,headroom,issue,neu
+750,,216,4,persona,go getter,pos
+751,,216,4,contrast,nice,pos
+752,251,216,5,interior,look premium,pos
+753,,216,5,interior,feel premium,pos
+754,252,216,6,back seat,create pressure point shoulder blade,neg
+755,,216,6,back seat,little hump,neg
+756,253,216,7,steering wheel,extra buzz,neg
+757,,216,7,power,enough,neu
+758,254,216,8,throttle responsiveness,increase,neu
+759,,216,8,power,wait kick,pos
+760,255,216,9,-,-,-
+761,256,216,10,-,-,-
+762,257,216,11,drive,wheel,neu
+763,258,216,12,cruising,really well,pos
+764,,216,12,sound,quiet,pos
+765,,216,12,ride,nice,pos
+766,,216,12,ride,smooth,pos
+767,,216,12,corner,shy away,neu
+768,,216,12,grip,good,pos
+769,,216,12,steering,nice,pos
+770,,216,12,steering,direct,pos
+771,,216,12,hold feature,new,pos
+772,,216,12,brake pedal,hard,neg
+773,,216,12,brake pedal,gently resting,neg
+774,,216,12,brake pedal,particularly greulling ordeal,neg
+775,259,216,13,assist,interesting feature,pos
+776,,216,13,assisst,electronic nagging save life,pos
+777,260,216,14,screen,new,pos
+778,,216,14,navigation,fine,neu
+779,261,216,15,-,-,-
+780,262,216,16,air bag,plenty,pos
+781,263,216,17,feature,plethora,pos
+782,264,216,18,parking guidance system,help identify proper sized parking spot,pos
+783,,216,18,beam,high,pos
+784,,216,18,beam,automatic,neu
+785,265,216,19,-,-,-
+786,266,216,20,price,several $1000 le,pos
+787,267,216,21,size,midsize,neu
+788,,216,21,car,luxury,pos
+789,268,216,22,car,comfortable,pos
+790,,216,22,style,beautiful,pos
+791,,216,22,technology,nifty,pos
+792,269,216,23,-,-,-
+793,270,217,1,car,posh,pos
+794,,217,1,car,luxurious,pos
+795,,217,1,car,intensely emotional,pos
+796,271,217,2,car,sexy beast,pos
+797,,217,2,level,entry level Mercedes lineup,neu
+798,,217,2,size,compact,neu
+799,,217,2,car,luxury,pos
+800,,217,2,weight,le,pos
+801,,217,2,performance,better,pos
+802,,217,2,fuel economy,notable improvement,pos
+803,,217,2,rival,compact luxury vehicle,neu
+804,272,217,3,exterior,skewed upscale,neu
+805,,217,3,exterior,reserved,pos
+806,,217,3,persona,luxurious,pos
+807,,217,3,design,artful,pos
+808,,217,3,persona,athleticism,pos
+809,,217,3,nose,long,pos
+810,,217,3,body line,taut,neu
+811,,217,3,body line,short,neu
+812,,217,3,body line,rear,neu
+813,,217,3,look,elegant,pos
+814,,217,3,look,strong,pos
+815,,217,3,whole,harmonious,pos
+816,,217,3,C class,presence,pos
+817,,217,3,C class,emotive,pos
+818,,217,3,C class,uptight,pos
+819,273,217,4,interior,absolutely gorgeous,pos
+820,,217,4,interior,expensive luxury car,pos
+821,,217,4,detail,tactical,pos
+822,,217,4,material,feel expensive,pos
+823,,217,4,stunning,interior,pos
+824,,217,4,design,attractive,pos
+825,,217,4,car,touchworthy goodness,pos
+826,,217,4,button,feel expensive,pos
+827,,217,4,window switch,move light,pos
+828,,217,4,window switch,precise action,pos
+829,,217,4,window switch,satisfying click,pos
+830,,217,4,button,feel expensive,pos
+831,274,217,5,usability,issue,neg
+832,,217,5,control,beautifully arranged,pos
+833,,217,5,control,little bit tricky,neg
+834,,217,5,technology,learning curve,neu
+835,275,217,6,button,perfect,neu
+836,276,217,7,size,increase,neu
+837,,217,7,rear seat headroom,tight,neg
+838,,217,7,center tunnel,pronounced,neg
+839,,217,7,seating tunnel,questionable proposition,neg
+840,277,217,8,trunk space,reasonable,neu
+841,,217,8,box,expanding,pos
+842,,217,8,box,amazing,pos
+843,278,217,9,rear passenger,le blissful,neg
+844,,217,9,front,generous dimension,pos
+845,,217,9,drive,satisfying,pos
+846,279,217,10,driving dynamic,prime choice,neg
+847,,217,10,C class,nimble,pos
+848,,217,10,C class,sure footed,pos
+849,,217,10,corner,flick,pos
+850,,217,10,drive,lot fun,pos
+851,280,217,11,steering,giving information,neg
+852,281,217,12,sound,cabin wonderfully serene,pos
+853,,217,12,wind noise,isolated,pos
+854,,217,12,road noise,isolated,pos
+855,282,217,13,acceleration,strong,pos
+856,,217,13,road imperfection,absorb relative ease,pos
+857,283,217,14,drive,wheel,neu
+858,,217,14,engine,engine,pos
+859,,217,14,propulsion,efficient choice,pos
+860,,217,14,drive,wheel,pos
+861,284,217,15,drive,basic rear,neu
+862,285,217,16,-,-,-
+863,286,217,17,upholstery,faux leather,pos
+864,,217,17,driver seat,power memory,pos
+865,287,217,18,option sheet,appease fancier taste,pos
+866,288,217,19,luxury package,comfort tuned suspension,neu
+867,,217,19,luxury package,classy aesthetic touch,pos
+868,,217,19,sport package,sporty detail,pos
+869,,217,19,sport package,performance tuned suspension,neu
+870,289,217,20,-,-,-
+871,290,217,21,C E400,powerful,pos
+872,291,217,22,competion choice,exhilirating,neg
+873,,217,22,competion choice,attainable,neg
+874,,217,22,competion choice,responsible,neg
+875,,217,22,competion choice,American,neu
+876,292,217,23,price,higher pricing spectrum,neg
+877,,217,23,car,"intriguing intersection quality , comfort performance .",pos
+878,293,217,24,car,compact luxury,pos
+879,,217,24,buy,buyer might jump ship,pos
+880,294,218,1,version,convertible,neu
+881,295,218,2,performance,higher performing,pos
+882,,218,2,feel,solidly put together,pos
+883,296,218,3,steering response,even hint awkward delay,pos
+884,297,218,4,experience,enjoy open air,pos
+885,,218,4,structural integrity,uncertainity way,pos
+886,298,218,5,protection,really good,pos
+887,,218,5,high speed,annoying buffering,pos
+888,,218,5,upward visibility,obstructed,pos
+889,,218,5,top,soft,neu
+890,299,218,6,wind noise,supressed good,pos
+891,,218,6,sound,rattle,neg
+892,,218,6,top,look better,pos
+893,,218,6,top,soft,pos
+894,300,218,7,sound,glorious,pos
+895,301,218,8,gearbox,can't pronounce,neg
+896,302,218,9,-,-,-
+897,303,218,10,-,-,-
+898,304,218,11,steering,real well,pos
+899,,218,11,slip differential,limited,neu
+900,,218,11,suspension,adaptive,neu
+901,,218,11,suspension,multimode,neu
+902,,218,11,rear end,wider,neu
+903,,218,11,echaust system,electrically controlled,neu
+904,,218,11,leather,nappa,neu
+905,305,218,12,GT,happy,pos
+906,,218,12,GT price,lost le money,pos
+907,306,218,13,-,-,-
+908,307,218,14,driving experience,enhanced ditching top,pos
+909,308,220,1,-,-,-
+910,309,220,2,-,-,-
+911,310,220,3,interior,top others,pos
+912,,220,3,finish,utterly flawless,pos
+913,,220,3,material,place,pos
+914,,220,3,price,well six figure,neu
+915,,220,3,car,strong resemblance class,pos
+916,,220,3,car,downsized flagship,neu
+917,,220,3,car,exude distinct air sophistication prestige,pos
+918,311,220,4,-,-,-
+919,312,220,5,interface operation,bit clunky,neg
+920,,220,5,command,might take week,neg
+921,,220,5,button,operates main display pretty well thought,pos
+922,313,220,6,front seat,exceptionally comfortable,pos
+923,,220,6,front seat,supportive,pos
+924,,220,6,ventilated seat option,wise warmer climate,neu
+925,314,220,7,moon roof shade,annoying,neg
+926,,220,7,moon roof shade,sunlight hit face,neg
+927,315,220,8,back,much complain,pos
+928,,220,8,leg room,abundance,pos
+929,,220,8,head room,abundance,pos
+930,,220,8,trunk,roomy,pos
+931,,220,8,floor,nearly flat,pos
+932,,220,8,sunshade,power,pos
+933,,220,8,sunshade,conveniently located,pos
+934,316,220,9,road,cemented appeal,pos
+935,317,220,10,car,business class,pos
+936,,220,10,car,luxury,pos
+937,,220,10,driving experience,scream class,pos
+938,,220,10,modal,well equipped,pos
+939,,220,10,ride quality,spot,pos
+940,,220,10,air suspension,multimodal,neu
+941,318,220,11,steering,slightly left,neg
+942,,220,11,steering,annoying,neg
+943,319,220,12,steering,precise,pos
+944,,220,12,steering,proper weighted,pos
+945,,220,12,corner,exactly eager pitched,neu
+946,320,220,13,acceleration,perfectly acceptable,pos
+947,,220,13,sound,idol,pos
+948,,220,13,base engine,might think unfit wrong,pos
+949,,220,13,E400 twin Turbo V six power,25%,pos
+950,,220,13,E 43 M G,top performance hierarchy,pos
+951,,220,13,design,super sedan,pos
+952,,220,13,engine,conventianlly powered,neu
+953,,220,13,transmission,buttery,pos
+954,,220,13,transmission,smooth,pos
+955,321,220,14,cabriole,seven passenger wagon,neu
+956,,220,14,cabriole price entry point,higher,neg
+957,,220,14,drive,wheel,neu
+958,322,220,15,windshield wiper,rain sensing,pos
+959,,220,15,car,fitted notable nicety,pos
+960,,220,15,headlight,led,neu
+961,323,220,16,driver seat,memory,pos
+962,324,220,17,front seat,multi contour,pos
+963,,220,17,front seat,massage function,pos
+964,,220,17,ambient lighting,beautifully arranged,pos
+965,325,220,18,trunk,handsfree,pos
+966,,220,18,swerve control,active,pos
+967,326,220,19,car,spectacular piece machinery,pos
+968,327,221,1,car,significant,pos
+969,328,221,2,damper suspension,good,pos
+970,,221,2,suspension,aromatic,pos
+971,,221,2,suspension,intelligent,pos
+972,,221,2,suspension,electric,neu
+973,,221,2,spring,controlled individually,pos
+974,,221,2,damper,controlled individually,pos
+975,,221,2,wheel,completely customizble,pos
+976,,221,2,sand,bounce vehicle,pos
+977,329,221,3,ride,really nice,pos
+978,,221,3,ride,comfortable,pos
+979,,221,3,ride,Mercede ish,pos
+980,330,221,4,ride quality,great,pos
+981,,221,4,ride,gliding comfortably,pos
+982,331,221,5,-,-,-
+983,332,221,6,X interface,new,pos
+984,,221,6,X interface,quite intuitive,pos
+985,333,221,7,safety feature,extensive list,pos
+986,334,221,8,-,-,-
+987,335,221,9,electrical system,new,pos
+988,336,221,10,sound,love,pos
+989,337,221,11,sound,good,pos
+990,338,221,12,trim piece,chrome,neu
+991,,221,12,front seat,massage,pos
+992,340,221,14,exterior,vast improvement,pos
+993,,221,14,front,aggressive looking,pos
+994,,221,14,look,athletic,pos
+995,,221,14,rear view,bad,neu
+996,,221,14,look,distinctive,pos
+997,,221,14,look,defined,pos
+998,341,221,15,wheelbase,longer,pos
+999,,221,15,overhang,shorter,neu
+1000,,221,15,interior space,,pos
+1001,,221,15,offroad,easier get,pos
+1002,,221,15,wheelbase,extended,pos
+1003,,221,15,thirdrow seat,electronically operated,pos
+1004,,221,15,thirdrow seat,fold,pos
+1005,,221,15,cargo floor,flat,pos
+1006,,221,15,cargo floor,plentiful space,pos
+1007,342,221,16,-,-,-
+1008,343,221,17,-,-,-
+1009,344,221,18,upgrade,quite nice,pos
+1010,,221,18,innovation,quite nice,pos
+1011,345,223,1,class,lastest,pos
+1012,,223,1,class,nothing short spectacular,pos
+1013,346,223,2,technology,advanced,pos
+1014,,223,2,car,preserve class greatness,pos
+1015,347,223,3,amenity,chockfull,pos
+1016,348,223,4,infotaintment platform,intuitive right bat,pos
+1017,,223,4,infotaintment platform,easiest system use,pos
+1018,,223,4,amenity,easy use,pos
+1019,349,223,5,display,high resolution,pos
+1020,,223,5,display,hurt,neu
+1021,350,223,6,surround view parking,best,pos
+1022,,223,6,parallel parking,autonomous,pos
+1023,,223,6,trunk,handsfree,pos
+1024,,223,6,cup holder,heated,pos
+1025,,223,6,cup holder,cooled,pos
+1026,351,223,7,steering wheel,heated,pos
+1027,,223,7,front armrest,heated,pos
+1028,,223,7,rear armrest,heated,pos
+1029,,223,7,car,simulated hot stone massage,pos
+1030,352,223,8,Mercedes,reign supreme luxury exotica,pos
+1031,,223,8,Mercedes,nearly flawless,pos
+1032,,223,8,every material,highest quality,pos
+1033,,223,8,every material,constructed impeccable detail attention,pos
+1034,,223,8,car,luxury,pos
+1035,,223,8,taste,one step,pos
+1036,,223,8,comfort,one step,pos
+1037,,223,8,opulence,one step,pos
+1038,353,223,9,persona,ultra exclusive,pos
+1039,354,223,10,rear seating,scream executive class,pos
+1040,,223,10,foot leg rest,power operated,pos
+1041,,223,10,foot leg rest,optional,neu
+1042,355,223,11,tray table,fold,neu
+1043,,223,11,headrest pillow,detachable,neu
+1044,,223,11,seat,heated,pos
+1045,,223,11,seat,cooled,pos
+1046,356,223,12,fuel efficient,slightly,pos
+1047,,223,12,engine,bit quicker,pos
+1048,,223,12,drive,rear wheel,neu
+1049,357,223,13,price,significantly expensive,neg
+1050,,223,13,engine,slightly faster,pos
+1051,358,223,14,-,-,-
+1052,359,223,15,emotion,tough sell,neg
+1053,360,223,16,driving experience,luxury car,pos
+1054,361,223,17,sound,cabin quiet,pos
+1055,,223,17,ride quality,border flawless,pos
+1056,,223,17,camera,stereoscopic,pos
+1057,,223,17,bump,virtually elliminated bod movement,pos
+1058,362,223,18,air suspension,coolest feature,pos
+1059,,223,18,camera,coolest feature,pos
+1060,363,223,19,WiFi speed,sluggish,neg
+1061,,223,19,cruise control,intrusive,neg
+1062,364,223,20,standard equipment,extensive list,pos
+1063,,223,20,price,$2000 price cut,pos
+1064,365,223,21,door,soft close,pos
+1065,,223,21,voice recognition,advanced,pos
+1066,,223,21,cabin,classy,pos
+1067,,223,21,ambient lighting,led,neu
+1068,366,223,22,cruise control,full rein,pos
+1069,,223,22,cruise control,"starts, stops, steer traffic",pos
+1070,367,223,23,feature set,contemporary,pos
+1071,,223,23,newest class,grandeur,pos
+1072,,223,23,newest class,prestige,pos
+1073,,223,23,newest class price,le half cost,pos
+1074,368,223,24,class,finest choice,pos
+1075,369,223,25,driving,powerful engaging,pos
+1076,,223,25,driving,exceptionally refined,pos
+1077,,223,25,driving,love hate relationship,neu
+1078,370,223,26,class,luxury,pos
+1079,,223,26,type,sedan,neu
+1080,371,224,1,-,-,-
+1081,372,224,2,gear change,rapid,pos
+1082,,224,2,gear change,near seamlees,pos
+1083,,224,2,engine,quick enough,pos
+1084,,224,2,look,racy,pos
+1085,,224,2,lag,hint,pos
+1086,,224,2,engine,responsive,pos
+1087,373,224,3,character,spunky,neu
+1088,,224,3,efficiency,surprisingly efficient,pos
+1089,,224,3,car,sexier,pos
+1090,,224,3,car,hybrid,pos
+1091,374,224,4,engine start stop system,work pretty good,pos
+1092,,224,4,engine start stop system,intrusive,pos
+1093,,224,4,engine start stop system,little vibration,neu
+1094,,224,4,sound,little,neu
+1095,375,224,5,car,plenty playful,pos
+1096,,224,5,steering,quick,pos
+1097,,224,5,steering,precise,pos
+1098,,224,5,steering,engaging,pos
+1099,,224,5,corner,really pushing feel understeer,neu
+1100,376,224,6,-,-,-
+1101,377,224,7,drive,little bit stiff,neu
+1102,378,224,8,ride,little bit better,pos
+1103,,224,8,performance,high,pos
+1104,,224,8,suspension,sport,pos
+1105,379,224,9,brake,feel good,pos
+1106,,224,9,pedal,nice,pos
+1107,,224,9,pedal,firm,pos
+1108,380,224,10,sound,pretty quiet,pos
+1109,381,224,11,drive,well,pos
+1110,,224,11,price,cheap,pos
+1111,,224,11,interior,look perfectly premium,pos
+1112,,224,11,interior,feel perfectly premium,pos
+1113,382,224,12,overall,nice,pos
+1114,,224,12,overall,sporty,pos
+1115,,224,12,bit,plasticky,neg
+1116,383,224,13,interior space,major shortcoming,neg
+1117,,224,13,front seat,fine,neu
+1118,,224,13,head room,fine,neu
+1119,,224,13,elbow room,fine,neu
+1120,,224,13,center stack,crowd inward leg,neg
+1121,,224,13,rear seat headroom,tight position,neg
+1122,,224,13,getting back,real challenge,neg
+1123,384,224,14,roof line,dipping,neg
+1124,,224,14,roof line,look cool,pos
+1125,385,224,15,climate control,placed really low,neg
+1126,,224,15,climate control,far driver's sight,neg
+1127,386,224,16,front seat back,could softer,neg
+1128,,224,16,boslters,put pressur shoulder,neg
+1129,,224,16,front seat,comfortable enough,neu
+1130,,224,16,headrest,integrated,neu
+1131,,224,16,front seat,look cool,neu
+1132,,224,16,front seat,practical,pos
+1133,387,224,17,trunk space,decent,pos
+1134,,224,17,rear seat,split folding,pos
+1135,388,224,18,-,-,-
+1136,389,224,19,price,comparitive bargain,pos
+1137,,224,19,price,still priced competitively,pos
+1138,390,224,20,seat,power,pos
+1139,,224,20,seat,memory,pos
+1140,,224,20,wiper,rain sensing,pos
+1141,391,224,21,-,-,-
+1142,392,224,22,front seat,heated,pos
+1143,,224,22,infotaintment system,upgraded,pos
+1144,393,224,23,cruise control,dynamic,neu
+1145,,224,23,sunroof,lovely,pos
+1146,,224,23,sunroof,panomaric,neu
+1147,,224,23,parking system,automatic,neu
+1148,394,224,24,technology,calvacade future rich goodness,pos
+1149,395,224,25,attitude,angrier,pos
+1150,,224,25,clutch,performance tuned,pos
+1151,396,224,26,interior,tight,neg
+1152,,224,26,car,luxury commoner,neu
+1153,,224,26,handling,satisfying,pos
+1154,,224,26,style,ton,pos
+1155,,224,26,fuel economy,great,pos
+1156,,224,26,value,solid,pos
+1157,397,224,27,-,-,-
+1158,398,226,1,-,-,-
+1159,399,226,2,car,sport,neu
+1160,,226,2,s8,striking resemblance 300 SL,neu
+1161,,226,2,hood,incredibly long,neu
+1162,,226,2,rear deck lid,short,neu
+1163,,226,2,rear deck lid,low greenhouse,neu
+1164,400,226,3,door,striking feature,pos
+1165,,226,3,door,take much effort,pos
+1166,,226,3,door,open pretty easily,pos
+1167,401,226,4,door,open high enough,pos
+1168,,226,4,get,issue,pos
+1169,402,226,5,SL AMG,ultimate Mercedes-Benz,pos
+1170,403,226,6,door,wing like,pos
+1171,,226,6,door,inspiration,pos
+1172,,226,6,SLs,feature airplaine cockpit,pos
+1173,,226,6,car,made fly metaphorically,pos
+1174,,226,6,feature,number unique,pos
+1175,,226,6,gear selector,thruster like,neu
+1176,,226,6,air event,jet engine like,neu
+1177,,226,6,theme,jet,neu
+1178,,226,6,car,abudance aluminium,neu
+1179,,226,6,car,luxury touch,pos
+1180,,226,6,seating,designer leather,pos
+1181,,226,6,surface,Calcaterra clad,pos
+1182,,226,6,surface,soft,pos
+1183,,226,6,stitching,contrast,pos
+1184,404,226,7,car,supercar,pos
+1185,,226,7,car,grand touring,neu
+1186,,226,7,cargo area,considerable amount room luggage,pos
+1187,405,226,8,wheel,eye catching,pos
+1188,,226,8,design,intriguing,pos
+1189,406,226,9,hood,long,neu
+1190,,226,9,engine,naturally aspirated,pos
+1191,,226,9,engine,exclusive,pos
+1192,407,226,10,car,mean slow,pos
+1193,,226,10,car,supercar,pos
+1194,,226,10,gear shift,little slower thought,neg
+1195,408,226,11,manual mode transmission,get car,pos
+1196,409,226,12,corner handling,attractive,neg
+1197,,226,12,corner handling,great,neg
+1198,410,226,13,sound,completely enamored,pos
+1199,,226,13,engine,show tiger,neg
+1200,411,226,14,steering,responsive,pos
+1201,,226,14,centre gravity,low,pos
+1202,,226,14,suspension,double wishbone,pos
+1203,,226,14,suspension,sport,pos
+1204,,226,14,car,approachable,pos
+1205,,226,14,car,supercar,pos
+1206,,226,14,body,extensive use lightweight aluminum,pos
+1207,,226,14,weight,lightweight,pos
+1208,412,226,15,-,-,-
+1209,413,226,16,wheel,lightweight,pos
+1210,,226,16,grip,optimum grip obsolesence,pos
+1211,414,226,17,tire,continental,neu
+1212,,226,17,tire design,exclusive,pos
+1213,415,226,18,stop,fast,pos
+1214,,226,18,stop,faster,pos
+1215,416,226,19,price,Audi R8,neg
+1216,,226,19,price,substantially le Lexus,pos
+1217,417,226,20,performance,exceptional,pos
+1218,,226,20,performance,soul stirring,pos
+1219,,226,20,performance,exhausting,pos
+1220,,226,20,interior,gorgeous,pos
+1221,,226,20,look,stunning,pos
+1222,418,226,21,car,supercar,pos
+1223,419,227,1,size,small,neu
+1224,420,227,2,look,effortlessly beautiful,pos
+1225,,227,2,look,air contemporary elegance,pos
+1226,,227,2,GLC,longer,pos
+1227,,227,2,GLC,wider,pos
+1228,,227,2,GLC,lighter,pos
+1229,421,227,3,driving experience,butter,pos
+1230,422,227,4,sound,quiter quiet,pos
+1231,423,227,5,sightlines,excellent every direction except fromthe steering brake,neu
+1232,424,227,6,gearbox,middling,neu
+1233,,227,6,horsepower,good,neu
+1234,,227,6,fuel economy,largely mirror DA,neu
+1235,,227,6,hybrid engine,interesting efficiency,pos
+1236,,227,6,car,bonafide green machine,pos
+1237,,227,6,output figure,impressive,pos
+1238,,227,6,acceleration,serious straight line,pos
+1239,425,227,7,performance,top pyramid,pos
+1240,,227,7,suspension,AMG tuned air,pos
+1241,,227,7,drive,wheel,neu
+1242,426,227,8,inside,beyond expected refinement,pos
+1243,,227,8,arm rest,cushy,pos
+1244,,227,8,display,high resoultion,pos
+1245,,227,8,trim,premium,pos
+1246,,227,8,inside,subtle nuance win u,pos
+1247,,227,8,event,make satisfying click,pos
+1248,427,227,9,head rest,well padded,pos
+1249,,227,9,head rest,adjust raft,pos
+1250,,227,9,material quality,ranking highest,pos
+1251,,227,9,material quality,soft touch,pos
+1252,,227,9,size,mid size,neu
+1253,428,227,10,-,-,-
+1254,429,227,11,display,high resolution,pos
+1255,,227,11,touch pad,ergonomically shaped,pos
+1256,,227,11,gesture control,becomes pleasant use day,pos
+1257,430,227,12,practicality,master pragmatic art,pos
+1258,,227,12,rear leg room,abundance,pos
+1259,,227,12,headroom,abundance,pos
+1260,,227,12,storage,numerous,pos
+1261,,227,12,underfloor compartment,handy,pos
+1262,431,227,13,load floor,completely flush,pos
+1263,,227,13,load floor,free annoying gap,pos
+1264,,227,13,load floor,free protrusion,pos
+1265,432,227,14,front seat,move forward automatically,pos
+1266,433,227,15,rear quarter,perfect,neg
+1267,434,227,16,GLC C300,well furnished goody,pos
+1268,,227,16,liftgate,power,pos
+1269,,227,16,windshield wiper,rain sensing,pos
+1270,,227,16,driver seat,supremely comfortable,pos
+1271,,227,16,driver seat,14 way adjustable,pos
+1272,,227,16,driver seat,extendable support,pos
+1273,,227,16,driver seat,three position memory,pos
+1274,435,227,17,trapping,high end,pos
+1275,,227,17,front seat,leather,pos
+1276,,227,17,front seat,heated,pos
+1277,,227,17,front seat,ventilated,pos
+1278,,227,17,steering,heated,pos
+1279,,227,17,cruise control,adaptive,pos
+1280,436,227,18,audio,premium,pos
+1281,,227,18,headlight,full led,pos
+1282,,227,18,corner lamp,active,pos
+1283,,227,18,price,respectable$52000,pos
+1284,,227,18,leather,exclusive nappa,pos
+1285,,227,18,roof,moon,neu
+1286,,227,18,roof,panaramic,neu
+1287,,227,18,air suspension,dramatic,pos
+1288,,227,18,air suspension,spotty reliability record,neg
+1289,,227,18,air suspension,negligible performance benefit,neg
+1290,,227,18,air suspension,recommend,neg
+1291,,227,18,sticker price,inflates $60000,neg
+1292,437,227,19,standard feature content,similarly priced alternative can't match,pos
+1293,438,227,20,X1,impressively well rounded,pos
+1294,,227,20,X1,accurate,pos
+1295,,227,20,GLC,X1 top GLC begin,pos
+1296,439,227,21,residual value,highest,pos
+1297,,227,21,type,SUV,neu
+1298,,227,21,size,compact,neu
+1299,,227,21,car,luxury,pos
+1300,440,227,22,car,luxurrious,pos
+1301,,227,22,quality,one step,pos
+1302,,227,22,comfort,one step,pos
+1303,,227,22,refinement,one step,pos
+1304,,227,22,value,decent,pos
+1305,,227,22,car,luxury,pos
+1306,441,228,1,size,midsize,neu
+1307,,228,1,type,SUV,neu
+1308,442,228,2,car,much Mercedes,pos
+1309,,228,2,steering,light,neu
+1310,,228,2,brake,light,neu
+1311,,228,2,steering,squishy,neu
+1312,,228,2,brake,squishy,neu
+1313,,228,2,steering,soft,neu
+1314,,228,2,steering,disconnected,neg
+1315,,228,2,suburban dwelling,kind dwelling,pos
+1316,443,228,3,drive,easy,pos
+1317,,228,3,ride,well controlled,pos
+1318,,228,3,interior,welcoming,pos
+1319,444,228,4,material,premium,pos
+1320,,228,4,material,pefectly line Mercedes,pos
+1321,445,228,5,image,upscale,pos
+1322,,228,5,front,spacious,pos
+1323,,228,5,rear seating,spacious,pos
+1324,,228,5,boot capacity,generous,pos
+1325,446,228,6,seat dropping,let,neg
+1326,,228,6,seat dropping,release rear cargo area,neg
+1327,,228,6,seat release,awkward,neg
+1328,447,228,7,outward visibility,hurt side pillar,neg
+1329,,228,7,side pillar,fix,neu
+1330,448,228,8,sun visor,extend,neg
+1331,,228,8,automatic engine shutoff,occasionally engages,neg
+1332,449,228,9,automatic engine shutoff,subtle,neu
+1333,,228,9,side mirror,kind nice,pos
+1334,,228,9,side mirror,wider,pos
+1335,450,228,10,aura,rich,pos
+1336,,228,10,aura,premium,pos
+1337,,228,10,aura,worth possessing,pos
+1338,451,228,11,2.1 leader Turbo Diesel four cylinde,fairly efficient,neu
+1339,,228,11,G l E 63,sassy version,pos
+1340,,228,11,torque,identical,neu
+1341,452,228,12,thing,complicated,neg
+1342,453,228,13,drive,wheel,neu
+1343,,228,13,price,BMW X5,neu
+1344,454,228,14,-,-,-
+1345,455,228,15,price,Q7,neu
+1346,,228,15,seating flexibility,Q7 offer,pos
+1347,456,228,16,lift gate,power,pos
+1348,,228,16,front seat,heated,pos
+1349,,228,16,windshield wiper,rain sensing,neu
+1350,,228,16,frugal G L E 3 50,lovely stuff,pos
+1351,,228,16,frugal G L E 3 50,lack backup camera,neg
+1352,,228,16,backup camera,pretty big oversight,pos
+1353,457,228,17,entry,keyless,pos
+1354,,228,17,engine start,keyless,pos
+1355,458,228,18,-,-,-
+1356,459,228,19,-,-,-
+1357,460,228,20,car,worthwhile,pos
+1358,461,228,21,audio system,lovely,pos
+1359,,228,21,air suspension,facilitates 11 inch ground clearence,pos
+1360,462,228,22,-,-,-
+1361,463,228,23,price,premium,neu
+1362,464,229,1,-,-,-
+1363,465,229,2,car,faster,pos
+1364,,229,2,performance,powerful,pos
+1365,466,229,3,-,-,-
+1366,467,229,4,-,-,-
+1367,468,229,5,sound,fantastic,pos
+1368,,229,5,exhaust note,glorious,pos
+1369,,229,5,exhaust note,awesome,pos
+1370,,229,5,exhaust note,good,pos
+1371,,229,5,iPod connector stereo,suck,neg
+1372,469,229,6,front,aggressive,pos
+1373,,229,6,event,little,neg
+1374,,229,6,look,lot like German touring car,pos
+1375,,229,6,event,pretty cool,pos
+1376,470,229,7,C63,lot effort,pos
+1377,,229,7,front suspension,fully redesigned,pos
+1378,,229,7,track,wider,neu
+1379,,229,7,rear track,0.4 inch wider,pos
+1380,,229,7,result,really impressive,pos
+1381,,229,7,handling,clingsto road,pos
+1382,,229,7,steering,great,pos
+1383,,229,7,ride,uncomfortable,neg
+1384,471,229,8,seat,standout feature,pos
+1385,,229,8,corner handling,seat move,pos
+1386,,229,8,bosters,bold,neu
+1387,,229,8,bolster,can't move arm,neg
+1388,,229,8,hard corner,restrict mobility little bit,neg
+1389,472,229,9,paddle shifter,quick,pos
+1390,,229,9,downshift,even smoother,pos
+1391,,229,9,upshift,seemless,pos
+1392,473,229,10,sport setting,faster shift,pos
+1393,474,229,11,engine,impressive,pos
+1394,,229,11,brake,impressive,pos
+1395,475,229,12,-,-,-
+1396,476,229,13,price,BMW M3,neu
+1397,,229,13,price,"$14,000 le expensive Audi RS4",pos
+1398,,229,13,fuel budget,huge drain,neg
+1399,,229,13,fuel economy,waste fuel,neg
+1400,,229,13,fuel budget,pretty enticing drain,pos
+1401,477,229,14,-,-,-
+1402,478,231,1,size,subcompact,neu
+1403,,231,1,car,luxury,pos
+1404,479,231,2,car,good,pos
+1405,,231,2,size,small,pos
+1406,,231,2,drive,joy,pos
+1407,480,231,3,rear seat headroom,certainly better,neu
+1408,,231,3,rear seat headroom,barely brush headliner right seat,neg
+1409,,231,3,rear seat headroom,little bit better middle,neg
+1410,,231,3,front seat,roomier,pos
+1411,,231,3,front seat,comfortable,pos
+1412,,231,3,center tunnel,need think,neg
+1413,481,231,4,car,really tall hatchback,neu
+1414,,231,4,type,hatchback,neu
+1415,,231,4,view,commanding,neg
+1416,,231,4,cargo space,exceptional,neg
+1417,482,231,5,cargo area,larger BMW X1,pos
+1418,,231,5,cargo area,smaller Mazda three hatch,neg
+1419,,231,5,backseat,drop,pos
+1420,,231,5,extended cargo area,le X1,neg
+1421,,231,5,size,small,neu
+1422,483,231,6,parkability,wonderful sense refinement,pos
+1423,,231,6,sound,pretty quiet,pos
+1424,,231,6,ramp,fun,pos
+1425,,231,6,F40 5 a.m. G suspension,lower,neu
+1426,,231,6,F40 5 a.m. G suspension,stiffer,neu
+1427,,231,6,F40 5 a.m. G brake,big,pos
+1428,,231,6,F40 5 a.m. G,thrilling,pos
+1429,484,231,7,drive,wheel,neu
+1430,,231,7,summer tire,grippy,pos
+1431,,231,7,exterior styling,aggressive,pos
+1432,,231,7,gear shift,presumably sport,pos
+1433,,231,7,interior,raced,pos
+1434,,231,7,drive,enhanced thrill,pos
+1435,485,231,8,-,-,-
+1436,486,231,9,ride,noticeably firmer,pos
+1437,487,231,10,car,fun,pos
+1438,488,231,11,car,fun,pos
+1439,489,231,12,clutch,dual,neu
+1440,,231,12,clutch,quicker,pos
+1441,,231,12,clutch,smoother,pos
+1442,,231,12,clutch,turbolag,neg
+1443,,231,12,acceleration,feel uneven stop,neg
+1444,,231,12,acceleration,sudden power hit pronounced,neg
+1445,,231,12,GT-R,good balance power efficiency,pos
+1446,,231,12,G L A4,especially pronounced,pos
+1447,490,231,13,feel,bold,pos
+1448,,231,13,highway efficiency,low thirty,neu
+1449,491,231,14,drive,wheel,neu
+1450,,231,14,lift gate,power,pos
+1451,,231,14,leather,faux,pos
+1452,,231,14,front seat,memory,pos
+1453,,231,14,front seat,14 way,pos
+1454,,231,14,key le entrry,sound entitled,pos
+1455,,231,14,car,luxury,pos
+1456,492,231,15,price,line BMW X1 Audi Q3,pos
+1457,493,231,16,room,Acura RDX roomier,neg
+1458,,231,16,size,small,neu
+1459,,231,16,GI .A.,fun fit,pos
+1460,494,232,1,A4,high regard,pos
+1461,,232,1,car,conventional,pos
+1462,,232,1,performance,increased,pos
+1463,495,232,2,-,-,-
+1464,496,232,3,drive,hoot,pos
+1465,,232,3,pedal spring,hesitation,pos
+1466,,232,3,0 60,well,pos
+1467,,232,3,0 60,good,pos
+1468,,232,3,throttle response,real magic,pos
+1469,,232,3,tour curve,hugely expansive,pos
+1470,,232,3,power buildup,linear,neu
+1471,,232,3,power buildup,non dramatic,pos
+1472,497,232,4,practical side,placate,pos
+1473,,232,4,front seat,supremely comfortable,pos
+1474,,232,4,front seat,anti extension,neg
+1475,,232,4,cabin,well hushed,pos
+1476,498,232,5,fuel economy,surprisingly decent,pos
+1477,,232,5,power,significantly powerful A4,pos
+1478,,232,5,mpg,6 compared A4,pos
+1479,,232,5,practicality,stop fuel economy,pos
+1480,499,232,6,S4,agressively tuned,neu
+1481,,232,6,steering reflex,sharp,pos
+1482,,232,6,Quattro drive system,smartly callibrated,pos
+1483,,232,6,going fast,require great deal control,pos
+1484,,232,6,handling,slouch,pos
+1485,500,232,7,price,never affordable,pos
+1486,,232,7,corner handling,blast corner,pos
+1487,501,232,8,headlight,full led,neu
+1488,,232,8,roof,moon,neu
+1489,502,232,9,front seat,heated,pos
+1490,,232,9,individual setting,customizable,pos
+1491,,232,9,medium centre,intuitively designed,pos
+1492,,232,9,medium centre,remote operated,pos
+1493,,232,9,medium centre,seven inch,neu
+1494,,232,9,transmission,really good,pos
+1495,,232,9,A4 dual clutch,sophisticated,pos
+1496,503,232,10,upshifts,nearly quick twin clutch,pos
+1497,,232,10,downshift,slight hesitation,neg
+1498,504,232,11,-,-,-
+1499,505,232,12,steering wheel,heated,pos
+1500,506,232,13,cruise control,adaptive,neu
+1501,,232,13,technology,safe,pos
+1502,507,232,14,BMW 3 40 I engine,slightly le powerful,neg
+1503,,232,14,"BMW 3 40 I , drive",reae wheel,neg
+1504,508,232,15,price,similar AMG C 43,neu
+1505,509,232,16,drive,rear wheel,neu
+1506,,232,16,interior,gorgeous,pos
+1507,,232,16,output figure,comparable,neu
+1508,510,232,17,town,legitimate luxury sedan,pos
+1509,,232,17,S4,better,pos
+1510,,232,17,S4,higher performing A4,pos
+1511,,232,17,S4,proper sport car,pos
+1512,511,234,1,-,-,-
+1513,512,234,2,car,player entry luxury segment,neu
+1514,,234,2,price tag,low,pos
+1515,513,234,3,price,sound good,pos
+1516,,234,3,type,sedan,neu
+1517,514,234,4,-,-,-
+1518,515,234,5,sunroof,big,pos
+1519,,234,5,seat,leather,pos
+1520,,234,5,screen,thin,neg
+1521,,234,5,screen,low resolution,neg
+1522,516,234,6,base car,lovely,pos
+1523,,234,6,drive,front wheel,neu
+1524,,234,6,gearbox,winner,pos
+1525,,234,6,shifting,impressive,pos
+1526,,234,6,shifting,smoothness,pos
+1527,517,234,7,road demeanor,worthy praise,pos
+1528,,234,7,steering wheel parking,light,pos
+1529,,234,7,steering wheel parking,manageable,pos
+1530,,234,7,steering speed,firm,pos
+1531,,234,7,steering speed,engaging,pos
+1532,,234,7,A3,agile,pos
+1533,,234,7,suspension,never abusive,pos
+1534,,234,7,brake,feel good,pos
+1535,,234,7,sound,quiet,pos
+1536,,234,7,overall length,short,neu
+1537,,234,7,car,totally stable,pos
+1538,518,234,8,size,small,neu
+1539,,234,8,size,lack,neu
+1540,,234,8,general layout,clean,pos
+1541,,234,8,general layout,logical,pos
+1542,,234,8,general layout,touch sportiness,pos
+1543,,234,8,material selection,excellent,pos
+1544,519,234,9,trunk,small side,neg
+1545,,234,9,backseat,"well, cozy",neu
+1546,520,234,10,-,-,-
+1547,521,234,11,Audi interface,simple,pos
+1548,,234,11,Audi interface,intuitive,pos
+1549,,234,11,climate control,simple,pos
+1550,,234,11,climate control,intuitive,pos
+1551,,234,11,button placement,visually hard check,neg
+1552,,234,11,passenger space,gain much needed,neu
+1553,522,234,12,gear stuff,high end,pos
+1554,,234,12,headlight,led,neu
+1555,,234,12,touch pad,clever,pos
+1556,,234,12,touch pad,conveniently,pos
+1557,523,234,13,-,-,-
+1558,524,234,14,Mercedes-Benz C . L . A,fewer feature,pos
+1559,,234,14,Mercedes-Benz C . L . A,interesting design,pos
+1560,,234,14,BMW two series,powerful,pos
+1561,,234,14,A3 gravitas,neither could match,pos
+1562,,234,14,S3,high performance,pos
+1563,,234,14,Audi A3 lineup,plug hybrid sportsback,pos
+1564,,234,14,A3,gasoline powered,neu
+1565,,234,14,A3,traditional sedan,neu
+1566,,234,14,traditional sedan,love,pos
+1567,,234,14,traditional sedan,nice,pos
+1568,525,234,15,riding,premium,pos
+1569,,234,15,handling,premium,pos
+1570,,234,15,feature,bunch cool,pos
+1571,,234,15,car,luxury,pos
+1572,,234,15,car,elevated image,pos
+1573,,234,15,size,smaller package,neu
+1574,,234,15,size,downsize,neu
+1575,526,235,1,A7,exceptionally nice,pos
+1576,,235,1,A7,luxury,pos
+1577,,235,1,type,SUV,neu
+1578,527,235,2,architecture,completely new,pos
+1579,,235,2,architecture,aluminium rich,pos
+1580,,235,2,weight,hundred pound lighter,pos
+1581,528,235,3,weight,lighter,pos
+1582,,235,3,look,prettier,pos
+1583,529,235,4,cabinet,plenty praise,pos
+1584,,235,4,sound,serenely quiet,pos
+1585,,235,4,aura,luxury,pos
+1586,,235,4,aura,sweet,pos
+1587,,235,4,sound,quiet luxury,pos
+1588,530,235,5,suspension,softly srung,neg
+1589,,235,5,suspension,definitely feel road,neg
+1590,,235,5,normal driving,unpleasent harshness deftly subdued,pos
+1591,,235,5,ride,lovely,pos
+1592,,235,5,corner grip,tenacious,pos
+1593,,235,5,body control,impressive,pos
+1594,,235,5,steering,delightful directness,pos
+1595,,235,5,balance point,nearly ideal fun refinement,pos
+1596,,235,5,drive train flooring,nearly ideal fun refinement,pos
+1597,531,235,6,engine output,adequate,pos
+1598,,235,6,shift,swift,pos
+1599,,235,6,shift,nearly imperceptible,pos
+1600,,235,6,drive,wheel,neu
+1601,,235,6,fuel economy,good,pos
+1602,,235,6,torque capability,admirable,pos
+1603,,235,6,automatic engine start stop system,fairly unobtrusive,pos
+1604,,235,6,automatic engine start stop system,conserve fuel,pos
+1605,,235,6,0 60 acceleration,sub six,neu
+1606,532,235,7,display,high resolution,pos
+1607,,235,7,display,right looking,pos
+1608,,235,7,display,look pretty cool,pos
+1609,533,235,8,Q7,perfect,neg
+1610,534,235,9,flipping second row seat,require two seat,neg
+1611,,235,9,flipping second row seat,flop,neg
+1612,535,235,10,interior,kind wonderful,pos
+1613,,235,10,interior,look mordern,pos
+1614,,235,10,interior,rich,pos
+1615,,235,10,material quality,brilliant,pos
+1616,,235,10,accent,love,pos
+1617,,235,10,accent,techie,pos
+1618,,235,10,accent,streaky,pos
+1619,,235,10,map light,touch,pos
+1620,,235,10,map light,glowing ring surround,pos
+1621,536,235,11,car,new,neu
+1622,537,235,12,Q7,functional note,neu
+1623,538,235,13,center console,little storage,neg
+1624,,235,13,phone spot,handy,pos
+1625,,235,13,arm,adjustable,pos
+1626,,235,13,arm,handy,pos
+1627,539,235,14,control,demand slight learning curve,neg
+1628,,235,14,control,make sense long,pos
+1629,540,235,15,size,dimensionally smaller,neg
+1630,,235,15,inside,actually roomier,pos
+1631,,235,15,second row seat,reclining,pos
+1632,,235,15,second row seat,sliding,pos
+1633,,235,15,second row seat,split three way,pos
+1634,,235,15,back space,ton,pos
+1635,,235,15,third row,power operated 50 50 split,neu
+1636,,235,15,third row,barely tolerable adult,neg
+1637,,235,15,third row,kid should'nt complain,pos
+1638,541,235,16,-,-,-
+1639,542,235,17,cargo sppace,healthy,pos
+1640,,235,17,cargo space,boost lowering third row,pos
+1641,543,235,18,trim,premium,pos
+1642,,235,18,equipment,robustly equipped,pos
+1643,,235,18,lift gate,power,pos
+1644,,235,18,upholstery,leather,neu
+1645,,235,18,sunroof,two channel,neu
+1646,,235,18,sunroof,panoranamic,pos
+1647,,235,18,automatic braking,sens vehicle pedestrian,pos
+1648,544,235,19,-,-,-
+1649,545,235,20,audio system,premium,pos
+1650,,235,20,tailgate,foot activated,pos
+1651,546,235,21,car,lot fun play,pos
+1652,,235,21,car,luxury,pos
+1653,547,235,22,pricewise,absolutely loaded,pos
+1654,,235,22,pricewise,Q7 prestige trip,neu
+1655,548,235,23,Audi Q7,deserves attention,pos
+1656,,235,23,Audi Q7,luxury SUV,pos
+1657,,235,23,vehicle,proper luxury,pos
+1658,,235,23,vehicle,legitimate family hauler,pos
+1659,,235,23,drive,enjoy,pos
+1660,,235,23,car,enjoy live,pos
+1661,549,237,1,size,compact,neu
+1662,,237,1,car,luxury,pos
+1663,,237,1,car,pretty much everything,pos
+1664,550,237,2,interior,fawning praise,pos
+1665,,237,2,material,top quality,pos
+1666,,237,2,look,crisp,pos
+1667,,237,2,look,mordern aesthetic,pos
+1668,,237,2,look,mordernism,pos
+1669,,237,2,cockpit,usable space,pos
+1670,,237,2,control,unfussy,pos
+1671,551,237,3,long haul,supportive,pos
+1672,,237,3,front seat,powered,pos
+1673,,237,3,feature,list indulgent,pos
+1674,552,237,4,-,-,-
+1675,553,237,5,backseat,everybody's plush,pos
+1676,,237,5,front seat,nice material quality,pos
+1677,,237,5,front seat sound,note,neg
+1678,,237,5,second row sound,slide decline,neg
+1679,,237,5,laid back position,could use little lean,neg
+1680,,237,5,center tunnel,incredibly high,neg
+1681,,237,5,middle seat,ludicrous position,neg
+1682,,237,5,middle seat legroom,jam front seat rail,neg
+1683,554,237,6,rear quarter,work fine,pos
+1684,,237,6,roof,panoramic,neu
+1685,,237,6,roof,moon,neu
+1686,555,237,7,cabin,delightful,pos
+1687,,237,7,cabin,feel bright,pos
+1688,,237,7,cabin,open,pos
+1689,,237,7,interior,even delightful,pos
+1690,556,237,8,cup holder,small,neg
+1691,,237,8,cup holder,dislike,neg
+1692,,237,8,look,handsome,pos
+1693,,237,8,look,sculpted,pos
+1694,,237,8,look,desirable,pos
+1695,557,237,9,cargo hold,nicely shaped,pos
+1696,,237,9,release,conveniently placed,pos
+1697,,237,9,rear seat,split 40 2040,neu
+1698,558,237,10,fuel economy,amazing compact SUV,neg
+1699,,237,10,fuel economy,actually quite good compact luxury SUV,pos
+1700,,237,10,power delivery,refined,pos
+1701,,237,10,shift,kind rapid expect,pos
+1702,,237,10,shift operation,seamless,pos
+1703,,237,10,shift operation,slightly marred little bit surgeon,neg
+1704,,237,10,drive,wheel,neu
+1705,,237,10,efficiency,improved,pos
+1706,,237,10,handling,lively,pos
+1707,,237,10,grip,wheather,pos
+1708,559,237,11,offroad mode,dedicated,pos
+1709,,237,11,ground clearence,8.2 inch,neu
+1710,,237,11,driving,outstanding manner,pos
+1711,,237,11,performance,skillfully negotiated chasm comfort sport,pos
+1712,560,237,12,sound,incredibly quiet,pos
+1713,,237,12,outward visibility,clear,pos
+1714,,237,12,brake,strong,pos
+1715,,237,12,field,excellent,pos
+1716,561,237,13,drive,absolute pleasure,pos
+1717,,237,13,air suspension,adaptive,pos
+1718,562,237,14,-,-,-
+1719,563,237,15,SUV,fun,pos
+1720,564,237,16,feature,packed,pos
+1721,,237,16,tailgate,power,neu
+1722,565,237,17,-,-,-
+1723,566,237,18,infotaintment system,work pretty well,pos
+1724,,237,18,infotaintment system knob,wish touch screen,neg
+1725,,237,18,Apple carplay,lovely,pos
+1726,,237,18,Apple carplay,standard,neu
+1727,,237,18,touch screen,lack,neg
+1728,,237,18,swiping zoom maneuver,great,pos
+1729,,237,18,Apple carplay,love much,pos
+1730,567,237,19,front seat,ventilated,pos
+1731,,237,19,rear seat,heated,pos
+1732,,237,19,tailgate,handsfree,pos
+1733,568,237,20,speaker,brilliant,pos
+1734,,237,20,audio system,premium,pos
+1735,,237,20,display,vivid,pos
+1736,,237,20,display,reconfigurable,pos
+1737,569,237,21,beam,high,neu
+1738,,237,21,beam,automatic,neu
+1739,,237,21,steering guidance,invest little le brain power,pos
+1740,570,237,22,car,maximally loaded,pos
+1741,,237,22,drive,wheel,neu
+1742,,237,22,Q5,sporty,pos
+1743,,237,22,Q5,comfortable,pos
+1744,,237,22,Q5,agreeable,pos
+1745,,237,22,Q5,understanding,pos
+1746,571,237,23,car,charm intensified,pos
+1747,,237,23,car,truly well-rounded,pos
+1748,,237,23,size,compact,neu
+1749,,237,23,car,luxury,pos
+1750,572,238,1,Audi TT,pretty well,pos
+1751,,238,1,shape,basic,neu
+1752,,238,1,driving experience,evolved considerably,pos
+1753,573,238,2,design,fresh familiar,neu
+1754,,238,2,front face,three D style,pos
+1755,,238,2,edge,sharper,pos
+1756,,238,2,TT,look like baby R8,neu
+1757,,238,2,TT,mini R8,neu
+1758,574,238,3,virtual cockpit,positively fantastic,pos
+1759,575,238,4,display,easily switched,pos
+1760,,238,4,system,instantaneous response,pos
+1761,,238,4,information,blended together harmonious way,pos
+1762,,238,4,distracted driving,reduced inclination,pos
+1763,,238,4,MMI interface,revamped,pos
+1764,,238,4,touch pad,gesture controlled,pos
+1765,,238,4,ergonomics,natural,pos
+1766,,238,4,ergonomics,ease use,pos
+1767,,238,4,mastering system,slight learning curve,pos
+1768,,238,4,mastering system,moderate tech savy driver feel home,pos
+1769,576,238,5,philosophy,minimalist,pos
+1770,,238,5,philosophy,holy,pos
+1771,,238,5,digital climate control,embracing elegance simplicity,pos
+1772,,238,5,digital climate control,built directly air vent,neu
+1773,,238,5,event,fixed position,neu
+1774,577,238,6,clicking sound,annoying,neg
+1775,,238,6,driver's seat,left nothing desired term comfort support,pos
+1776,,238,6,rear seat legroom,friendly leg Annie Wilkes,neg
+1777,,238,6,rear seat roadster,non-existant,neg
+1778,578,238,7,storage space,clever use,pos
+1779,579,238,8,cell phone spot,convenient,neg
+1780,580,238,9,winding mountain road,everything ask,pos
+1781,,238,9,drive,light nimble package,pos
+1782,,238,9,grip,quickly becomes non issue,pos
+1783,,238,9,driving position,perfectly centred,pos
+1784,,238,9,steering wheel shape,elevate Audi rival,pos
+1785,,238,9,steering ratio,best quality,pos
+1786,,238,9,steering ratio,tiight,pos
+1787,,238,9,turning radius,also tight,pos
+1788,,238,9,steering ratio ride,quick,pos
+1789,,238,9,ride quality,"slip softer BMW , Z4 Mercedes-Benz S L C aggressive Porsche , Boxter Cayman",pos
+1790,,238,9,stopping power,"slip softer BMW , Z4 Mercedes-Benz S L C aggressive Porsche , Boxter Cayman",pos
+1791,,238,9,driver involvement,"slip softer BMW , Z4 Mercedes-Benz S L C aggressive Porsche , Boxter Cayman",pos
+1792,,238,9,comfort,everyday,pos
+1793,,238,9,performance,engaging,pos
+1794,581,238,10,cabin noise,equal small luxury sedan,pos
+1795,582,238,11,TT,convertible,neu
+1796,,238,11,quality,high end touring,pos
+1797,,238,11,price point,significantly lower,neg
+1798,,238,11,windscreen,electronic,neu
+1799,,238,11,windscreen,releives wind turbulence,pos
+1800,583,238,12,event,blow hot air,pos
+1801,,238,12,top,soft,neu
+1802,,238,12,top,triple layer,neu
+1803,584,238,13,engine,exclusive,pos
+1804,,238,13,dual clutch,well mannered,pos
+1805,,238,13,turbo lag,practically free,pos
+1806,,238,13,fuel economy,greatly impacting,pos
+1807,,238,13,drive,rear wheel,neu
+1808,,238,13,exterior,sharper styling,pos
+1809,,238,13,seat,sport,neu
+1810,,238,13,seat,heavily bolstered,pos
+1811,585,238,14,-,-,-
+1812,586,238,15,equipment,impressively well equipped,pos
+1813,,238,15,windshield wiper,rain sensing,pos
+1814,,238,15,fuel filler,capitalist,pos
+1815,,238,15,seat,heated,pos
+1816,,238,15,seat,leather,pos
+1817,587,238,16,-,-,-
+1818,588,238,17,-,-,-
+1819,589,238,18,blind spot mornitoring,highly recommendable,pos
+1820,,238,18,speaker sound system,banging,pos
+1821,590,238,19,TT,fully loaded,pos
+1822,,238,19,price,relatively bargain,pos
+1823,,238,19,car,convertible,neu
+1824,,238,19,car,luxury,pos
+1825,,238,19,door,two,neu
+1826,,238,19,Audi TT,tough,pos
+1827,591,239,1,-,-,-
+1828,592,239,2,drive,wheel,neu
+1829,,239,2,ip torque vectoring rear differentia,limited,neg
+1830,,239,2,performance,abundance,pos
+1831,,239,2,torque rating,seem little underwhelming,neg
+1832,,239,2,rev,abundant,pos
+1833,,239,2,drive,taunting drive hard abundant,pos
+1834,,239,2,top end rush,abundant,pos
+1835,,239,2,engine,inspirational,pos
+1836,,239,2,V8 engine,glorious,pos
+1837,,239,2,power,big,pos
+1838,,239,2,performance,stellar,pos
+1839,,239,2,performance,remarkably accessible,pos
+1840,593,239,3,drive system,wheel,neu
+1841,,239,3,drive system,dynamically deviate traction demand,pos
+1842,,239,3,drive system,excellent,pos
+1843,,239,3,agility,improved,pos
+1844,,239,3,torque redirection,constant,neu
+1845,,239,3,torque redirection,utterly predictable,pos
+1846,,239,3,corner acceleration,drama free,pos
+1847,,239,3,lateral grip,abundant,pos
+1848,,239,3,steering,slightly numb,neg
+1849,,239,3,steering,precise,pos
+1850,,239,3,dynamic package,compelling,pos
+1851,,239,3,dynamic package,welcome driver,pos
+1852,,239,3,dynamic package,intimidating,pos
+1853,,239,3,unfamiliar back road,nice trade,pos
+1854,,239,3,front brake,powerful,pos
+1855,,239,3,front brake disk,squeezed,pos
+1856,594,239,4,disk,neat looking,pos
+1857,,239,4,design feature,weight reducing,pos
+1858,,239,4,front brake,carbon ceramic,neu
+1859,595,239,5,clutch,excellent,pos
+1860,,239,5,clutch,shift quickly,pos
+1861,,239,5,throttle response,better,pos
+1862,596,239,6,E brake,old school,neu
+1863,,239,6,E break activation lever,little,neu
+1864,597,239,7,interior design,super clean,pos
+1865,,239,7,trim,carbon fibre,neu
+1866,,239,7,steering wheel,flat bottom,neu
+1867,,239,7,seat,sport,pos
+1868,,239,7,seat,heavily bolstered,pos
+1869,,239,7,door handle,redesigned,pos
+1870,,239,7,door handle,impression lightness,neu
+1871,598,239,8,exterior,share roof door A5,pos
+1872,,239,8,roof,hood,neu
+1873,,239,8,exterior,numerous enhancement,pos
+1874,,239,8,visual presence,supersedes already gorgeous A5,pos
+1875,,239,8,grill,honeycomb,pos
+1876,,239,8,grill,huge,pos
+1877,,239,8,light,striking led,pos
+1878,,239,8,height,lowered 0.8 inch,pos
+1879,,239,8,fender,flaired air,neu
+1880,,239,8,spoiler,enlarged,pos
+1881,,239,8,spoiler,retractable,pos
+1882,599,239,9,appearence,track ready,pos
+1883,,239,9,ride,firm,pos
+1884,,239,9,ride,harsh,pos
+1885,,239,9,suspension,signle setting,neg
+1886,,239,9,suspension,reasonable compromise,neu
+1887,,239,9,damper,,neg
+1888,600,239,10,-,-,-
+1889,601,239,11,performer,highly capable,pos
+1890,602,239,12,price,may huge deal,neg
+1891,603,239,13,design,excellent,pos
+1892,,239,13,performance,exhillirating,pos
+1893,,239,13,performance,untimidating,neu
+1894,,239,13,spirit,iconoclast,pos
+1895,,239,13,hierarchy,top,pos
+1896,,239,13,price,worth money,pos
+1897,604,241,1,-,-,-
+1898,605,241,2,-,-,-
+1899,606,241,3,chasis,lighter,pos
+1900,,241,3,chasis,rigid,pos
+1901,,241,3,suspension tuning,brilliant,pos
+1902,,241,3,car,luxury sedan,pos
+1903,,241,3,type,sedan,neu
+1904,,241,3,grip,like vice,pos
+1905,,241,3,ride,like popular luxury,pos
+1906,,241,3,steering,certified snob,pos
+1907,,241,3,steering,waiting spot,pos
+1908,,241,3,steering,well calibrated,pos
+1909,,241,3,high speed,car stable,pos
+1910,,241,3,A4,heart,pos
+1911,607,241,4,steering,fantastic,pos
+1912,,241,4,steering,extremely tight turning radius,pos
+1913,,241,4,tight space,joy navigate,pos
+1914,608,241,5,excellent,economics,pos
+1915,,241,5,sightlines,good,pos
+1916,,241,5,sound,quieter cabin,pos
+1917,609,241,6,size,something special,pos
+1918,,241,6,throttle response,frustratingly lag,neg
+1919,,241,6,0 60 spread,good,pos
+1920,,241,6,0 60 spread,pretty quick,pos
+1921,,241,6,pull,hard way rpm range,pos
+1922,,241,6,sound,pretty darn good,pos
+1923,610,241,7,-,-,-
+1924,611,241,8,efficiency,trump,pos
+1925,612,241,9,A4 ultra,based,pos
+1926,,241,9,clutch,smooth,pos
+1927,,241,9,clutch,remarkably quick,pos
+1928,613,241,10,cockpit,driver oriented,pos
+1929,,241,10,cockpit,dignified show luxury,pos
+1930,,241,10,knee rest,rock hard,neg
+1931,,241,10,interior,laiden high quality material,pos
+1932,,241,10,material,high quality,pos
+1933,,241,10,material,soft touch,pos
+1934,,241,10,material,thoughful touch,pos
+1935,,241,10,center arm,highly adjustable,pos
+1936,,241,10,switch,nifty,pos
+1937,614,241,11,leg room,average best,neg
+1938,,241,11,middle seat,effectively uninhabitable,neg
+1939,615,241,12,rear quarter,tight,neg
+1940,,241,12,trunk,largest,pos
+1941,,241,12,rear seatbacks,wide aperture,pos
+1942,,241,12,rear seatbacks,pull almost completely flat,pos
+1943,616,241,13,virtual cockpit,well sorted,pos
+1944,,241,13,virtual cockpit,easy use,pos
+1945,,241,13,virtual cockpit,integrate seamlessly,pos
+1946,617,241,14,system,lack wow factor,neg
+1947,,241,14,system,absolute joy use,pos
+1948,,241,14,rotary dial,large,pos
+1949,,241,14,control,cleverly situated,pos
+1950,,241,14,interface,uncluttered,pos
+1951,,241,14,interface,notably easier operate,pos
+1952,,241,14,system,topping,pos
+1953,618,241,15,standard equipment,lengthier list,pos
+1954,,241,15,headlight control,auomatic,neu
+1955,,241,15,windshield wiper,rain sensing,neu
+1956,619,241,16,driver seat,eight way power,neu
+1957,,241,16,driver seat,four way lumbar support,neu
+1958,620,241,17,roof,moon,neu
+1959,,241,17,parking brake,electronic,neu
+1960,621,241,18,-,-,-
+1961,622,241,19,-,-,-
+1962,623,241,20,speaker,premium,pos
+1963,,241,20,head rest,four way,neu
+1964,,241,20,front seat,extension,neu
+1965,624,241,21,price,bit steep,pos
+1966,,241,21,price,similarly equipped alternative cost thousand,pos
+1967,,241,21,durability,residual value trail rival,pos
+1968,,241,21,long term reliability,le stellar history Audi,neg
+1969,625,241,22,reliability,improved,pos
+1970,626,242,1,car,favorite,pos
+1971,627,242,2,car,fast,pos
+1972,,242,2,car,normal,neu
+1973,,242,2,car,supercar,pos
+1974,628,242,3,engine note,amazing,pos
+1975,629,242,4,velocity,intense,pos
+1976,,242,4,roar,amazing,pos
+1977,,242,4,speed,pure visible,pos
+1978,630,242,5,rpm band,wide enough,pos
+1979,,242,5,gated shifter,excellent,pos
+1980,631,242,6,six speed manual,pure meachanical bliss,pos
+1981,632,242,7,gear shift,big deal,pos
+1982,633,242,8,car,fast,pos
+1983,,242,8,car,capable,pos
+1984,,242,8,car,fun,pos
+1985,,242,8,car,approachable,pos
+1986,,242,8,stability control,lot fun,pos
+1987,,242,8,steering,slight bit understeer oversteer,neg
+1988,,242,8,drive,wheel,neu
+1989,,242,8,drive,nice,pos
+1990,,242,8,drive,feel like rear drive,neu
+1991,,242,8,snow,front power help,pos
+1992,,242,8,slippery track,front power help,pos
+1993,634,242,9,track performance,outstanding,pos
+1994,,242,9,ride suspension,adaptive,pos
+1995,,242,9,ride suspension,magnetic,pos
+1996,,242,9,ride,smooth enough,pos
+1997,,242,9,drive,happy,pos
+1998,635,242,10,car,quicker,pos
+1999,,242,10,car,stylish blast,pos
+2000,636,242,11,front trunk,gargantuan,neu
+2001,,242,11,front trunk,big enough,pos
+2002,637,242,12,door,supercar like,pos
+2003,,242,12,get,crawling gymnastics,pos
+2004,,242,12,headroom,ample,pos
+2005,,242,12,leg room,ample,pos
+2006,,242,12,back seat,move several inch,pos
+2007,,242,12,steering,telescope,pos
+2008,,242,12,steering,go right hand wan,pos
+2009,,242,12,steering,awesome,pos
+2010,638,242,13,dead paddle,really like,pos
+2011,,242,13,dead paddle,leg somewhere laze,pos
+2012,,242,13,clutch,really like,pos
+2013,639,242,14,car,exotic,pos
+2014,,242,14,car,cool,neg
+2015,,242,14,car,fun,pos
+2016,,242,14,car,stylish cross,pos
+2017,640,242,15,-,-,-
+2018,641,242,16,side blade,conspicuous,pos
+2019,,242,16,look,designed future,pos
+2020,,242,16,look,gushing,pos
+2021,,242,16,plastic,hard,neg
+2022,,242,16,R8,flaw,neg
+2023,642,242,17,fuel economy,popular mother nature,neg
+2024,643,242,18,base price,real problem,neg
+2025,644,242,19,car,favorite,pos
+2026,645,242,20,style,power handling,pos
+2027,646,242,21,price,fabulous wealth,neu
+2028,647,243,1,car,favorite,pos
+2029,,243,1,car,fast,pos
+2030,,243,1,car,sexy,pos
+2031,,243,1,room,two plus luggage,pos
+2032,,243,1,race track,playful manageable,pos
+2033,,243,1,car,amazingly civilized,pos
+2034,,243,1,body style,spider,neu
+2035,648,243,2,drive,wheel,neu
+2036,,243,2,engine,perfectly satisfying,pos
+2037,,243,2,sound,wicked,pos
+2038,649,243,3,-,-,-
+2039,650,243,4,exterior,subtle change,neu
+2040,,243,4,side mirror,redesigned,pos
+2041,,243,4,tailpipe,round,neu
+2042,,243,4,grill,reworked,pos
+2043,,243,4,wheel,new,pos
+2044,,243,4,headlight,standard,neu
+2045,,243,4,headlight,explosionof LEDs,pos
+2046,,243,4,tail light,incredibly cool,pos
+2047,651,243,5,trim,revised,pos
+2048,,243,5,steering wheel,thicker,pos
+2049,,243,5,diamond,optional,pos
+2050,652,243,6,transmission,dual clutch,neu
+2051,,243,6,transmission,replaced much better,pos
+2052,,243,6,transmission,work wonderfully well,pos
+2053,,243,6,shift,super quick,pos
+2054,,243,6,shift,fast,pos
+2055,,243,6,shift,smooth,pos
+2056,,243,6,peddle operation,regular automatic,pos
+2057,,243,6,manual transmission,way efficient fuel economy,pos
+2058,,243,6,manual transmission,choose,pos
+2059,,243,6,manual transmission,cheaper,pos
+2060,,243,6,manual transmission,satisfying link every shift,pos
+2061,653,243,7,engine,range topping,pos
+2062,,243,7,engine,fair enogh deal,pos
+2063,,243,7,engine,boast 25 horsepower advantage,pos
+2064,654,243,8,weight,le,pos
+2065,,243,8,brake,carbon ceramic,neu
+2066,,243,8,sound insulation,reduced,pos
+2067,,243,8,fuel tank,smaller,neg
+2068,,243,8,seat,manual,neu
+2069,655,243,9,V 10 plus,faster 60,pos
+2070,656,243,10,price,seems pricey,pos
+2071,658,244,1,Audi Q3,downsize without downgrading,pos
+2072,,244,1,Audi Q3,luxury,pos
+2073,,244,1,look,like caricature,neg
+2074,659,244,2,Q3,distictive,pos
+2075,,244,2,Q3,inappropriately minimalistic,neg
+2076,,244,2,silhouette,instantly recognizable,pos
+2077,660,244,3,front,enough room,neu
+2078,,244,3,back seat,average sized adult sit comfortably,pos
+2079,661,244,4,length,slightly longer X1,neu
+2080,,244,4,size,similarly sized Mercedes-Benz,neu
+2081,,244,4,maximum cargo space,equal BMW X1,neu
+2082,,244,4,maximum cargo space,beat Mercedes-Benz,pos
+2083,662,244,5,interior,versatile,pos
+2084,,244,5,interior,elegant,pos
+2085,,244,5,material,first rate,pos
+2086,,244,5,fit,impeccable,pos
+2087,,244,5,finish,impeccable,pos
+2088,,244,5,lower dash plastic,soft touch surface support,pos
+2089,663,244,6,cabin,exquisitively crafted,pos
+2090,,244,6,driver seat,12 way,neu
+2091,,244,6,armrest,tense padding underlay,pos
+2092,,244,6,driver seat heat dissipation,top class,pos
+2093,664,244,7,sun visor,extend,neg
+2094,,244,7,steering wheel,downward travel restricted,neg
+2095,,244,7,driving position,awkward tall driver,neg
+2096,,244,7,steering wheel,chief complain,neg
+2097,665,244,8,ergonomics,working,neu
+2098,,244,8,Q3,impress,pos
+2099,,244,8,balance,supremely well balanced,pos
+2100,,244,8,corner handling,thread agility,pos
+2101,666,244,9,steering system,precisely callibrated,pos
+2102,,244,9,car,dedicated sport,pos
+2103,,244,9,sound,quieter cabin,pos
+2104,,244,9,ride,smoother,pos
+2105,,244,9,handling,run table,pos
+2106,,244,9,ride,run table,pos
+2107,667,244,10,acceleration,set world alight,neu
+2108,,244,10,power,yearning,pos
+2109,668,244,11,fuel economy,middling,neg
+2110,,244,11,X1 X Drive 28,powerful,pos
+2111,669,244,12,center stack,high praise,pos
+2112,,244,12,center stack,well thought,pos
+2113,,244,12,steering wheel control,well thought,pos
+2114,670,244,13,control interface,logically laid,pos
+2115,,244,13,driver distraction,minimize,pos
+2116,,244,13,graphic,beautiful,pos
+2117,671,244,14,upholstery,leather,pos
+2118,,244,14,starting price,slew premium standard,pos
+2119,672,244,15,front seat,heated,pos
+2120,,244,15,roof,moon,pos
+2121,,244,15,roof,panoramic,pos
+2122,,244,15,roof rail,aluminium,neu
+2123,673,244,16,wiper,rain sensing,pos
+2124,,244,16,SD card slot,utterly useless,neg
+2125,674,244,17,-,-,-
+2126,675,244,18,-,-,-
+2127,676,244,19,amenity,executive class,pos
+2128,,244,19,front seat,ventilated,pos
+2129,,244,19,cruise control,adaptive,neu
+2130,,244,19,value,terrific,pos
+2131,,244,19,base X1,alluring,pos
+2132,,244,19,starting price,BMW cant hold candle comparably equipped Audi Q3,pos
+2133,,244,19,value,middle,neu
+2134,,244,19,comfort,middle,neu
+2135,,244,19,dynamism,middle,neu
+2136,677,275,1,SUV,small,neg
+2137,,275,1,SUV,luxury,pos
+2138,678,275,2,Mercedes,tough,pos
+2139,,275,2,Mercedes,mind getting tough dirty,pos
+2140,,275,2,drive,full wheel,pos
+2141,679,275,3,car,feel connected road,pos
+2142,,275,3,car,could toss around,pos
+2143,680,275,4,SUV,big,pos
+2144,,275,4,SUV,tall,pos
+2145,681,275,5,mile per gallon,downside,neg
+2146,,275,5,mile per gallon,great,neg
+2147,,275,5,0 60 time,upside,pos
+2148,,275,5,foot adjustment,needed,pos
+2149,682,275,6,tailgate,automatically opening,pos
+2150,,275,6,Mercedes,finer thing life,pos
+2151,683,275,7,leather,supple,pos
+2152,684,275,8,sunroof,huge,pos
+2153,,275,8,sunroof,dual,neu
+2154,685,275,9,user interface,mordern,pos
+2155,,275,9,user interface,multifunction,pos
+2156,,275,9,user interface,frankly quite confusing,neg
+2157,686,275,10,car,hit sweet spot small luxury SUV,pos
+2158,,275,10,type,SUV,neu
+2159,687,275,11,-,-,-
+2160,688,276,1,technology,built seat,pos
+2161,,276,1,seat,three level heating,pos
+2162,,276,1,seat,three level cooling,pos
+2163,,276,1,seat,four level massage,pos
+2164,,276,1,seat,80 different adjustment,pos
+2165,,276,1,seat,three level air scarf,pos
+2166,,276,1,seat,side bolster push side,neg
+2167,689,276,2,Mercedes- Benz,sign wealth,pos
+2168,,276,2,Mercedes- Benz,sign power,pos
+2169,,276,2,Mercedes- Benz,sign prestige,pos
+2170,,276,2,car,fast lane,pos
+2171,,276,2,weight,exactly light,neu
+2172,,276,2,car,A3 trait,neu
+2173,,276,2,car,halo,pos
+2174,690,276,3,car,power,pos
+2175,,276,3,car,prestige,pos
+2176,,276,3,car,technology,pos
+2177,691,276,4,-,-,-
+2178,692,276,5,-,-,-
+2179,693,276,6,V8 engine,favorite,pos
+2180,,276,6,engine,avoid gas guzzler tax,pos
+2181,,276,6,engine,pretty cool,pos
+2182,,276,6,engine,crazy fast,pos
+2183,694,276,7,0 60 time,fast,pos
+2184,,276,7,0 60 time,seriously fast,pos
+2185,695,276,8,look,downright frumpy,neg
+2186,,276,8,front,bronze,neu
+2187,,276,8,look,designed committee three,neg
+2188,,276,8,look,menacing,neg
+2189,,276,8,look,elegant,pos
+2190,,276,8,look,hard combination pull,neg
+2191,696,276,9,car,pretty darn quick,pos
+2192,,276,9,outside,glorious,pos
+2193,697,276,10,suspension,adjust within millisecond,pos
+2194,,276,10,turn,flying around,pos
+2195,,276,10,door,love,pos
+2196,,276,10,door,completely flat,pos
+2197,,276,10,door,neutral,neu
+2198,,276,10,steering,little numb,neg
+2199,,276,10,breaking,non-linear,neg
+2200,,276,10,car,sharpest knife drawer,neg
+2201,,276,10,car,race car,pos
+2202,,276,10,balance,fine GT,pos
+2203,,276,10,steering,fine GT,pos
+2204,,276,10,breaking,fine GT,pos
+2205,698,276,11,look,Aston Martin better looking,neg
+2206,699,276,12,Porsche 911,better performance,pos
+2207,,276,12,BMW 6 50,better exhaust note,pos
+2208,700,276,13,SL,everything,pos
+2209,701,276,14,top cover,stupid,neg
+2210,702,276,15,technology,much,pos
+2211,703,276,16,-,-,-
+2212,704,276,17,seat,heated,pos
+2213,,276,17,seat,cooled,pos
+2214,,276,17,air scarf,blow gentle breeze,pos
+2215,,276,17,car,every creature comfort,pos
+2216,705,276,18,Magic sky Control,biggest party trick,pos
+2217,,276,18,sunroof,cool,pos
+2218,706,276,19,Mercedes-Benz,sign power,pos
+2219,,276,19,Mercedes-Benz,sign wealth,pos
+2220,,276,19,Mercedes-Benz,sign prestige,pos
+2221,707,276,20,torque,huge smile,pos
+2222,708,276,21,car seat,fast lane,pos
+2223,709,276,22,sound,better,pos
+2224,,276,22,sound,better forsooth,pos
+2225,710,277,1,price,least expensive SL,pos
+2226,,277,1,power,least powerful SL,neg
+2227,711,277,2,-,-,-
+2228,712,277,3,-,-,-
+2229,713,277,4,engine,smallest,neg
+2230,,277,4,sport mode,faster comfort mode,pos
+2231,,277,4,car,potentially slower Mercedes,neg
+2232,,277,4,sport mode,faster comfort mode,neu
+2233,714,277,5,control,lot different variable,pos
+2234,715,277,6,exhaust note,change,neu
+2235,,277,6,exhaust note,baffle open,pos
+2236,,277,6,exhaust note,change,pos
+2237,,277,6,sound,better,pos
+2238,716,277,7,sport mode,slower comfort,neg
+2239,717,277,8,SL,least luxurious,neg
+2240,,277,8,power,least powerful,neg
+2241,718,277,9,option,stuffed full,pos
+2242,,277,9,door,soft closed,pos
+2243,,277,9,roof,magic,pos
+2244,,277,9,roof,transparent,pos
+2245,,277,9,roof,transforms much light come cabin,pos
+2246,,277,9,seat,massaging,pos
+2247,,277,9,air scarf,wop warm air,pos
+2248,719,277,10,turbos,spool,neu
+2249,720,277,11,acceleration,mode direct impact,neu
+2250,,277,11,mile sea level,slower,neg
+2251,721,277,12,-,-,-
+2252,722,277,13,car,pretty darn luxurious,pos
+2253,,277,13,car,pretty darn fast,pos
+2254,,277,13,car,perfect sweet 16 gift,pos
+2255,,277,13,car,still fast,pos
+2256,,277,13,car,still safe,pos
+2257,,277,13,car,still fun drive,pos
+2258,,277,13,car,fast lane,pos
+2259,,277,13,Mercedes,perfect sweet 16,pos
+2260,723,277,14,-,-,-
+2261,724,278,1,car,absolutely gorgeous,pos
+2262,,278,1,headlight,led accent,pos
+2263,,278,1,BMW,best accent,pos
+2264,,278,1,Mercedes-Benz accent,topped,pos
+2265,,278,1,drive,wheel,neu
+2266,,278,1,tyre,summer,neu
+2267,,278,1,tyre,absolutely useless snow,pos
+2268,725,278,2,drive,four wheel,neu
+2269,726,278,3,sea level,faster,pos
+2270,,278,3,0 60 time,surprising,neu
+2271,,278,3,0 60 time,fast,pos
+2272,727,278,4,control,unfortunately computer controlling vehicle,neg
+2273,,278,4,car,mordern,pos
+2274,728,278,5,torque,way stronger,pos
+2275,,278,5,sound,better,pos
+2276,729,278,6,-,-,-
+2277,730,278,7,0 60 time,boring,neu
+2278,,278,7,0 60 time,identical,neu
+2279,731,278,8,acceleration,fastest possible,pos
+2280,,278,8,gear shift,quickly possible,pos
+2281,,278,8,car,give youall bean either mode,neu
+2282,732,278,9,-,-,-
+2283,733,278,10,seatbelt,hand like butler,pos
+2284,,278,10,seatbelt,tightens start engine,pos
+2285,,278,10,seatbelt,interesting,pos
+2286,734,278,11,car,fast lane,pos
+2287,735,278,12,power allocation,cool,pos
+2288,736,279,1,look,badass,pos
+2289,,279,1,vehicle,vicious,pos
+2290,737,279,2,-,-,-
+2291,738,279,3,engine,heavily heavily modified,pos
+2292,,279,3,engine,able propel weighs heavily,pos
+2293,,279,3,weight,ton like God,neu
+2294,740,279,5,car,like scalded cat,pos
+2295,741,279,6,traction control,really intrusive,neg
+2296,,279,6,traction control,problem,neg
+2297,742,279,7,wheel,big,neu
+2298,743,279,8,wheel,lot,pos
+2299,,279,8,exterior design,lot bulky,pos
+2300,,279,8,height,lower looking vehicle,neu
+2301,,279,8,look,blow border another country quickly,pos
+2302,744,279,9,wheel,amazing,pos
+2303,,279,9,wheel,beautiful,pos
+2304,,279,9,wheel,fantastic,pos
+2305,745,279,10,height,little low,neu
+2306,,279,10,car,lot street presence,pos
+2307,,279,10,look,bit purposeful,pos
+2308,746,279,11,steering,heavy,neg
+2309,,279,11,steering,frankly communicate well,neg
+2310,,279,11,steering weight,okay,neu
+2311,,279,11,rear end,little bit,neu
+2312,747,279,12,-,-,-
+2313,748,279,13,exterior,gangster,pos
+2314,,279,13,engine,gangster,pos
+2315,,279,13,interior,bos,pos
+2316,,279,13,interior,one nicest,pos
+2317,,279,13,interior,outdone,pos
+2318,,279,13,seat,comfortable,pos
+2319,,279,13,interior,fantastic place,pos
+2320,,279,13,interior,beautiful wood,pos
+2321,,279,13,interior,dark wood,pos
+2322,,279,13,learther,dark,neu
+2323,,279,13,interior,raised white stitching,neu
+2324,749,279,14,head rest put,pain,neg
+2325,,279,14,seating,honestly uncomfortable,neg
+2326,,279,14,third row space,little bit,neg
+2327,,279,14,third row space,good enough adult,neg
+2328,,279,14,get,terrified hurting seat,neg
+2329,750,279,15,car,faster,pos
+2330,,279,15,car,pretty way faster,neg
+2331,751,279,16,sea level,second slower,neg
+2332,,279,16,car,"still really , really , really , really , really fast",pos
+2333,,279,16,car,quick,pos
+2334,,279,16,power,much,pos
+2335,,279,16,weight,pretty much close,pos
+2336,,279,16,weight,heavier lot pickup truck,pos
+2337,,279,16,weight,lot meat,pos
+2338,752,279,17,towing,wierd,pos
+2339,,279,17,seat,fall push button,pos
+2340,,279,17,seat,fall flat,pos
+2341,,279,17,space,lot extra underneath seat,pos
+2342,,279,17,storage,inflation kit,neu
+2343,,279,17,storage,great place keep weapon,pos
+2344,,279,17,utility,reallly,pos
+2345,,279,17,comfort,ton,pos
+2346,753,279,18,-,-,-
+2347,754,279,19,engine note,glorious,pos
+2348,755,279,20,-,-,-
+2349,756,279,21,car,beast,pos
+2350,,279,21,car,angry crossover SUV,pos
+2351,,279,21,car,many solid thing,pos
+2352,,279,21,car,bigger,pos
+2353,,279,21,car,better,pos
+2354,,279,21,car,meaner,pos
+2355,,279,21,price,lot money,neg
+2356,757,279,22,-,-,-
+2357,758,279,23,-,-,-
+2358,759,279,24,drive,lot easier,pos
+2359,760,279,25,weight,three ton,neu
+2360,,279,25,corner,horrible done,neg
+2361,,279,25,car,beast,neg
+2362,,279,25,purchase,like reallistically buy,neg
+2363,,279,25,size,big,neg
+2364,,279,25,size,much,neg
+2365,,279,25,purchase,would lease,pos
+2366,,279,25,vehicle,awesome around track,pos
+2367,,279,25,size,big,neg
+2368,,279,25,car,mean,neg
+2369,761,280,1,Mercedes-Benz,brand new,pos
+2370,,280,1,engine choice,new,pos
+2371,762,280,2,exterior styling,new,pos
+2372,,280,2,interior,new,pos
+2373,763,280,3,-,-,-
+2374,764,280,4,look,lot like S class,neu
+2375,,280,4,look,baby class strong family rememblance,neu
+2376,,280,4,aluminium,new,neu
+2377,,280,4,external panel,pretty much every aluminium,pos
+2378,,280,4,weight,lighter,pos
+2379,765,280,5,torque,lot,pos
+2380,,280,5,power,lot,pos
+2381,,280,5,drive,four wheel,neu
+2382,766,280,6,Big Boy Twin Turbo,really good,pos
+2383,767,280,7,horsepower,quite frankly phenomenal,pos
+2384,768,280,8,C class,far elegant,pos
+2385,,280,8,C class,nicest mind,pos
+2386,,280,8,BMW,little austere,neg
+2387,,280,8,Audi,little long tooth,neg
+2388,,280,8,interior,elegant,pos
+2389,,280,8,interior,stylish,pos
+2390,,280,8,interior,soft,pos
+2391,,280,8,interior,look expensive,pos
+2392,,280,8,interior,that's want,pos
+2393,,280,8,interior,expensive,pos
+2394,769,280,9,feel,lot bigger,neu
+2395,,280,9,drive,lot bigger,neu
+2396,,280,9,size,e class c class,neu
+2397,,280,9,theme,luxurious one,pos
+2398,,280,9,weight,lighter,pos
+2399,,280,9,size,bigger,neu
+2400,770,280,10,back,lot room,pos
+2401,,280,10,back,four inch longer,pos
+2402,,280,10,knee room,,pos
+2403,,280,10,legroom,,pos
+2404,,280,10,car,eclass,pos
+2405,,280,10,headroom,little bit tight,neg
+2406,771,280,11,sunroof,panoramic,pos
+2407,,280,11,sunroof,cool,pos
+2408,772,280,12,turbo lag,little bit,neg
+2409,,280,12,torque,oh gosh,pos
+2410,,280,12,torque,kick,pos
+2411,,280,12,torque,feel phenomenal,pos
+2412,,280,12,size,lot bigger,neu
+2413,,280,12,car,doesnt feel agile,neg
+2414,,280,12,car,feel quite like want dance much,neg
+2415,,280,12,car,touring,pos
+2416,773,280,13,car,luxury,pos
+2417,,280,13,setting,obligatory,neu
+2418,,280,13,air suspension,work,pos
+2419,,280,13,horsepower,would like sport plus mode,pos
+2420,774,280,14,safety feature,ful suite,pos
+2421,,280,14,drive,hit brake,pos
+2422,,280,14,drive,really cool stuff,pos
+2423,,280,14,steering,active,pos
+2424,,280,14,technology,sweet,pos
+2425,775,280,15,-,-,-
+2426,776,280,16,design,characteristic S class,pos
+2427,,280,16,car,something customer looking,pos
+2428,,280,16,quality,different,neu
+2429,,280,16,fit,different,neu
+2430,,280,16,finish,different,neu
+2431,777,280,17,drive,wheel,neu
+2432,,280,17,drive version,interesting,pos
+2433,,280,17,car,luxurious,pos
+2434,,280,17,price,expensive,neg
+2435,778,280,18,touch pad,big news,pos
+2436,,280,18,command system,old Mercedes,neu
+2437,,280,18,command system,still work,neu
+2438,,280,18,screen,little bit bigger,pos
+2439,,280,18,touch pad,cross iPhone,pos
+2440,,280,18,system,nice,pos
+2441,,280,18,system,like,pos
+2442,779,280,19,steering,electronic,neu
+2443,,280,19,steering,weighted nicely,pos
+2444,,280,19,steering,good sense wheel,pos
+2445,,280,19,drive,push car around confidently,pos
+2446,,280,19,slow road,poise,pos
+2447,,280,19,feel,rock solid,pos
+2448,,280,19,feel,rail,pos
+2449,780,280,20,steering wheel,love,pos
+2450,781,280,21,receiving position,comfortable,pos
+2451,,280,21,receiving position,sporty,pos
+2452,,280,21,sound,impressed quiet,pos
+2453,,280,21,sound,extra length make quiet,pos
+2454,,280,21,camera roof,little bit whistle,neu
+2455,782,280,22,power,lot,pos
+2456,,280,22,sound,lot,pos
+2457,,280,22,BMW,luxurious,pos
+2458,,280,22,Audi A4,oldest,neg
+2459,,280,22,Alexis I,size smaller,neu
+2460,,280,22,Alexis I,much nimble,pos
+2461,,280,22,car,chocolate luxury flavour icecream,pos
+2462,,280,22,car,true driver's car,pos
+2463,,280,22,overall,impressed,pos
+2464,,280,22,car,best sense German Automobiles,pos
+2465,,280,22,weight,lighter predecessor,pos
+2466,783,280,23,-,-,-
+2467,784,280,24,handling,better,pos
+2468,,280,24,performance,better,pos
+2469,,280,24,fuel economy,increase,pos
+2470,785,280,25,-,-,-
+2471,786,280,26,drive,different,pos
+2472,,280,26,car,heavier,neu
+2473,787,280,27,size,bigger,pos
+2474,,280,27,weight,lighter,pos
+2475,,280,27,size,bigger,pos
+2476,,280,27,look,handsome,pos
+2477,,280,27,weight,lighter,pos
+2478,788,280,28,car,happy owning,pos
+2479,,280,28,drive,need spend little time behind wheel,pos
+2480,789,280,29,car,great Colarado mountain,pos
+2481,790,280,30,brake,love,pos
+2482,,280,30,brake,feel plant,pos
+2483,,280,30,brake,feel solid,pos
+2484,791,280,31,car,right,pos
+2485,,280,31,car,grand touring,pos
+2486,,280,31,car,comfortable,pos
+2487,,280,31,car,luxurious,pos
+2488,,280,31,inside,everything make feel special,pos
+2489,,280,31,inside,nice touch,pos
+2490,792,280,32,event,great,neg
+2491,,280,32,wood grain,really bad,neg
+2492,,280,32,steering wheel,really bad,neg
+2493,,280,32,inside,crazy,neg
+2494,,280,32,inside,comfortable,pos
+2495,793,280,33,car,comfortable,pos
+2496,,280,33,car,comfortable big guy,pos
+2497,794,281,1,car,sexy,pos
+2498,,281,1,car,magical,pos
+2499,,281,1,door,two,neu
+2500,,281,1,door,lengthen,neu
+2501,,281,1,car,sexy two door,neu
+2502,795,281,2,car,longer,neu
+2503,,281,2,car,wider,neu
+2504,,281,2,belt line,new,pos
+2505,,281,2,belt line,run entire length,pos
+2506,,281,2,shape,sexy coke bottle,pos
+2507,,281,2,design,ground,neu
+2508,,281,2,design,share many component sedan,neu
+2509,,281,2,wheelbase,length,neu
+2510,,281,2,seating,lower,neu
+2511,796,281,3,styling,unique,pos
+2512,,281,3,car,feel like put together one solid piece,pos
+2513,797,281,4,drive,wheel,pos
+2514,,281,4,snow,great place plenty snow,pos
+2515,798,281,5,-,-,-
+2516,799,281,6,air suspension,change way drive,neu
+2517,,281,6,sport suspension,firm,neu
+2518,,281,6,steering,bit faster,pos
+2519,,281,6,steering,precise,pos
+2520,,281,6,sport suspension,widely inactive car,pos
+2521,800,281,7,exhaust note,grunt,pos
+2522,801,281,8,car,luxury,pos
+2523,802,281,9,comfort,sit back,pos
+2524,,281,9,comfort,put head back,pos
+2525,,281,9,comfort,cruise street,pos
+2526,,281,9,window,panoramic,pos
+2527,,281,9,feel,kind sexy,pos
+2528,,281,9,car,footloose,pos
+2529,,281,9,car,free,pos
+2530,803,281,10,steering wheel,flat bottom,neu
+2531,,281,10,car,sporting ambition,neu
+2532,,281,10,car,grand touring,neu
+2533,804,281,11,inside,sense private space,pos
+2534,,281,11,seat,ultimately adjustable,pos
+2535,,281,11,seat,best business adjustment,pos
+2536,,281,11,seat adjustment,easy use,pos
+2537,,281,11,seating position,comfortable,pos
+2538,805,281,12,design,lot attention focused,pos
+2539,,281,12,trim,wood,neu
+2540,,281,12,design,nice flowing line,pos
+2541,,281,12,material,"very, high quality",pos
+2542,806,281,13,room,would expect,pos
+2543,,281,13,comfort,would expect,pos
+2544,,281,13,practicality,everyday except back,neg
+2545,,281,13,back,little bit smaller,neu
+2546,,281,13,size,smaller,neu
+2547,,281,13,door,two,neu
+2548,,281,13,headroom,little bit le,neg
+2549,,281,13,seat,retracts way,neg
+2550,,281,13,seat verdict,I fit,neg
+2551,,281,13,leg room,far good,pos
+2552,,281,13,seat,automatically move forward,pos
+2553,807,281,14,handle,easy use,pos
+2554,808,281,15,back,tight,neg
+2555,809,281,16,car,practical,pos
+2556,810,281,17,rear seat,split folding 40 2040,pos
+2557,,281,17,rear seat,usable,pos
+2558,811,281,18,-,-,-
+2559,812,281,19,car,sporty,pos
+2560,,281,19,car,fast,pos
+2561,,281,19,character,relaxed gran tour,pos
+2562,813,281,20,-,-,-
+2563,814,281,21,steering,electric,neu
+2564,,281,21,steering,lost tactile feel actual road surface,neg
+2565,,281,21,steering,hard feel tire,neg
+2566,815,281,22,tail light,dramatic,pos
+2567,816,281,23,light,full wraparound led,neu
+2568,817,281,24,Mercedes-Benz star,prominent visuals,pos
+2569,818,281,25,car,solid,pos
+2570,819,281,26,car,comfortable,pos
+2571,,281,26,car,confidence inspiring,pos
+2572,,281,26,car,even sexy,pos
+2573,820,281,27,-,-,-
+2574,821,282,1,-,-,-
+2575,822,282,2,-,-,-
+2576,823,282,3,-,-,-
+2577,824,282,4,engine,hand built,pos
+2578,,282,4,drive,four wheel,pos
+2579,,282,4,0 60,craziest number,pos
+2580,,282,4,speed,lot,pos
+2581,,282,4,money,lot,neg
+2582,825,282,5,roader,really good,pos
+2583,826,282,6,vehicle,military,neu
+2584,,282,6,horsepower,small,neg
+2585,,282,6,car,sport,pos
+2586,827,282,7,car,retro,neu
+2587,,282,7,look,similar first generation,pos
+2588,,282,7,look,completely utterly new,pos
+2589,828,282,8,-,-,-
+2590,829,282,9,vehicle,famous,pos
+2591,,282,9,vehicle,iconic,pos
+2592,,282,9,body,vault like construction,pos
+2593,830,282,10,-,-,-
+2594,831,282,11,vehicle everything else,completely new,pos
+2595,832,282,12,outside,simple,pos
+2596,833,282,13,road,pretty worthy,pos
+2597,,282,13,look,road worthy,pos
+2598,834,282,14,-,-,-
+2599,835,282,15,wheel,unusual,pos
+2600,,282,15,wheel,kind blacked,pos
+2601,,282,15,midnight edition,really hot,pos
+2602,,282,15,vehicle,gone old school,pos
+2603,,282,15,vehicle,match bull bar,pos
+2604,,282,15,vehicle,like,pos
+2605,836,282,16,inside,biggest difference,pos
+2606,,282,16,inside,lot bigger,pos
+2607,,282,16,car,five inch wider,pos
+2608,,282,16,car,two inch longer,pos
+2609,837,282,17,infotaintment system,latest,pos
+2610,,282,17,infotaintment system,greatest,pos
+2611,838,282,18,event,wonderful,pos
+2612,,282,18,event,elegant,pos
+2613,839,282,19,center section,let change driving dynamic,pos
+2614,,282,19,center section,let change offroad ability,pos
+2615,840,282,20,exhaust note,changing,pos
+2616,,282,20,exhaust note,favorite feature,pos
+2617,,282,20,exhaust,butterfly valve,neu
+2618,,282,20,exhaust,cab loud quiet,pos
+2619,841,282,21,backseat,biggest,pos
+2620,,282,21,backseat,extra space,pos
+2621,,282,21,headroom,plenty,pos
+2622,,282,21,knee room,plenty,pos
+2623,842,282,22,sunroof,full size,neg
+2624,843,282,23,-,-,-
+2625,844,282,24,headliner,pretty elegant,pos
+2626,,282,24,headliner,super kush,pos
+2627,,282,24,headliner,almost velour like,pos
+2628,845,282,25,vehicle,body frame,neu
+2629,,282,25,road,goodness,pos
+2630,,282,25,car,fast,pos
+2631,,282,25,car,road worthy,pos
+2632,,282,25,car,small horse,neu
+2633,846,282,26,suspension,front,neu
+2634,,282,26,right road,much controllable,pos
+2635,,282,26,right road,much compliant,pos
+2636,847,282,27,power,much chasis,pos
+2637,848,282,28,front suspension,independent,pos
+2638,,282,28,construction technique,much mordern,pos
+2639,,282,28,shape,breadbox,neu
+2640,,282,28,drive,much better,pos
+2641,,282,28,turn,swallow around,pos
+2642,,282,28,car,ability go drive around world,pos
+2643,,282,28,car,ability keep fastest sport car,pos
+2644,849,282,29,price,cost lot,neg
+2645,,282,29,car,worth lot,pos
+2646,850,282,30,vehicle,al status,neu
+2647,851,282,31,offroad,ultimately capable,pos
+2648,,282,31,offroad,could,pos
+2649,,282,31,offroad,part huge appeal,pos
+2650,852,282,32,-,-,-
+2651,853,282,33,car,real truck,neu
+2652,854,282,34,price,even expensive,pos
+2653,,282,34,car,dream,pos
+2654,855,282,35,0 60 time,crazy,pos
+2655,856,282,36,-,-,-
+2656,857,282,37,-,-,-
+2657,858,282,38,-,-,-
+2658,859,283,1,look,gorgeous,pos
+2659,,283,1,look,good,pos
+2660,,283,1,look,never seen good one,pos
+2661,,283,1,car,sculpted,pos
+2662,,283,1,car,beautifully built,pos
+2663,860,283,2,horsepower,quite enough,neg
+2664,,283,2,weight,two ton,neu
+2665,,283,2,car,fastlane,neu
+2666,861,283,3,-,-,-
+2667,862,283,4,cruise control,stupid,neg
+2668,863,283,5,rear row seat,problem,neg
+2669,,283,5,size,"really , really , really , really small",neg
+2670,864,283,6,minivan,stupid,neg
+2671,,283,6,driving car,best,pos
+2672,,283,6,car,fast lane,pos
+2673,,283,6,backseat room,1/3 seat,neu
+2674,865,283,7,-,-,-
+2675,866,283,8,-,-,-
+2676,867,284,1,-,-,-
+2677,868,284,2,-,-,-
+2678,869,284,3,-,-,-
+2679,870,284,4,-,-,-
+2680,871,284,5,road,gorgeous,pos
+2681,,284,5,road,phenomenal,pos
+2682,,284,5,road,spectacular,pos
+2683,872,284,6,-,-,-
+2684,873,284,7,-,-,-
+2685,874,284,8,car,amazing,pos
+2686,,284,8,car,big,pos
+2687,,284,8,weight,veritable heavy,pos
+2688,875,284,9,car,lively,pos
+2689,,284,9,car,sporting,pos
+2690,,284,9,e class,large family,pos
+2691,,284,9,diesel engine,traditional,neu
+2692,876,284,10,drive,lot fun,pos
+2693,,284,10,car,convertible,neu
+2694,877,284,11,car,amazing,pos
+2695,,284,11,price,expensive,pos
+2696,,284,11,price,lot money,pos
+2697,878,284,12,safety feature,packed full,pos
+2698,879,284,13,traffic,self driving,neu
+2699,880,284,14,brake,phenomenal,pos
+2700,,284,14,steering,direct,pos
+2701,,284,14,comfrot mode ride,well dampened,pos
+2702,,284,14,feel,race car driver,pos
+2703,,284,14,drive,flying,pos
+2704,,284,14,drive,pretty quickly,pos
+2705,,284,14,styling,lot,pos
+2706,881,284,15,-,-,-
+2707,882,284,16,car,luxury,pos
+2708,,284,16,car,go really fast,pos
+2709,,284,16,sound,tire noise,pos
+2710,,284,16,road,fantastic,pos
+2711,883,284,17,sound,kind squealing,neg
+2712,884,284,18,front,feel weight engine,neu
+2713,885,284,19,corner,understeer,neu
+2714,,284,19,corner,part neutral,neu
+2715,886,284,20,-,-,-
+2716,887,284,21,car,perfect Miami,pos
+2717,888,284,22,-,-,-
+2718,889,284,23,top,pretty quickly,pos
+2719,890,284,24,color,right,pos
+2720,,284,24,car,convertible,neu
+2721,,284,24,color,silver,neu
+2722,,284,24,top,red,neu
+2723,,284,24,top,really really cool,pos
+2724,,284,24,car,classy,pos
+2725,891,284,25,-,-,-
+2726,892,284,26,-,-,-
+2727,893,284,27,drive,little much fun,pos
+2728,894,284,28,-,-,-
+2729,895,285,1,Audi A7,brand new,pos
+2730,,285,1,Audi A7,identical A6,neu
+2731,,285,1,drive train technology,identical A6,neu
+2732,,285,1,A7,sexy one,pos
+2733,,285,1,A7 price,expensive,neg
+2734,,285,1,A7,little bit sporty,neu
+2735,,285,1,technology,tour de force,pos
+2736,896,285,2,A6 weight,lighter,pos
+2737,,285,2,red cable hybrid engine,interesting,pos
+2738,,285,2,mpg,lot better,pos
+2739,,285,2,fuel efficient,,pos
+2740,897,285,3,skin,different,neu
+2741,898,285,4,tail,sexy,pos
+2742,,285,4,tail,sloping,pos
+2743,,285,4,back headroom,cut,neg
+2744,,285,4,car,ultimate hatchback,pos
+2745,899,285,5,A7 practicalty,little bit compromised,neg
+2746,,285,5,headrom,adequate,neu
+2747,,285,5,three passenger,go A6,pos
+2748,,285,5,three passenger,go,neu
+2749,,285,5,seat,fold,pos
+2750,,285,5,hatchback,love see,pos
+2751,900,285,6,back,little bit tighter,neg
+2752,,285,6,outside,lot better looking,pos
+2753,901,285,7,quattro ultra system,newest,pos
+2754,,285,7,quattro ultra system,interesting,pos
+2755,,285,7,fuel efficient,,pos
+2756,,285,7,quattro system,predictive,neu
+2757,,285,7,drive,wheel,neu
+2758,,285,7,drive,front wheel,neu
+2759,,285,7,snow,confidence wheel drive,pos
+2760,,285,7,snow,sudden snap oversteer,pos
+2761,902,285,8,technology,new,pos
+2762,,285,8,steering,wheel,neu
+2763,,285,8,rear wheel steering,great,pos
+2764,,285,8,parking,easier,pos
+2765,,285,8,rear wheel steering,great parking,pos
+2766,903,285,9,screen,little bit counting,neu
+2767,,285,9,technology,advanced,pos
+2768,,285,9,technology,similar cell phone operation,neu
+2769,,285,9,system,new,neu
+2770,904,285,10,system,similar cell phone,neu
+2771,,285,10,touchscreen,much easier,pos
+2772,,285,10,screen interface,haptic feedback,neu
+2773,,285,10,system,gonna bust owner's manual really get well acquainted,neg
+2774,,285,10,technology,lot,pos
+2775,,285,10,Google Earth,love,pos
+2776,,285,10,car setting,100 way customize,pos
+2777,,285,10,screen,customize,pos
+2778,,285,10,system,probablty become intuitive,pos
+2779,,285,10,wireless charging,best,pos
+2780,,285,10,system,good,pos
+2781,,285,10,function,lot,neu
+2782,,285,10,touch screen,soft,neu
+2783,,285,10,touch screen,haptic feedback,pos
+2784,905,285,11,shape,modified coke bottle,neu
+2785,,285,11,shape,classic,pos
+2786,,285,11,shape,sexy,pos
+2787,,285,11,shape,show haunch car,pos
+2788,,285,11,shape,show big tire,pos
+2789,,285,11,front,sleek,pos
+2790,,285,11,back shape,classic coke bible,pos
+2791,,285,11,haunch,kind come,neu
+2792,,285,11,tire,wider,pos
+2793,,285,11,tire,fatter,pos
+2794,,285,11,look,much aggressive,pos
+2795,,285,11,front,sleek,pos
+2796,,285,11,back,aggressive,pos
+2797,,285,11,back,pretty tough looking,pos
+2798,,285,11,gas cap,lot cleaner,pos
+2799,,285,11,gas cap,lot sexier,pos
+2800,,285,11,gas cap,like,pos
+2801,,285,11,gas cap,small detail,neu
+2802,906,285,12,center screen,cool,pos
+2803,,285,12,center screen,configure easily,pos
+2804,907,285,13,drive,pretty quick,pos
+2805,,285,13,drive,make lot sense,pos
+2806,908,285,14,corner,feel stable,pos
+2807,,285,14,corner,feel well planted,pos
+2808,,285,14,dynamic,neutral,neu
+2809,909,285,15,dynamic,certainly neutral,pos
+2810,,285,15,dynamic,confidence inspiring,pos
+2811,,285,15,weight,little bit heavier,neu
+2812,,285,15,weight,heavier,neu
+2813,,285,15,push,good,pos
+2814,,285,15,push,linear,pos
+2815,,285,15,turbo lag,little bit,neg
+2816,910,285,16,-,-,-
+2817,911,285,17,electronics,lot,pos
+2818,,285,17,engine turn,seamless,pos
+2819,,285,17,Stop Start system,pretty much seamless,pos
+2820,,285,17,front,heavy,neu
+2821,,285,17,weight,wheel,neu
+2822,912,285,18,door,cool,pos
+2823,,285,18,door,semi electric,neu
+2824,,285,18,electricity,cool,pos
+2825,913,285,19,rotate,front axis,neu
+2826,,285,19,back,weight,neu
+2827,,285,19,turn,much neutral,neu
+2828,914,285,20,price,pay little want go sexy,pos
+2829,915,285,21,feel,planted,pos
+2830,,285,21,size,big,neu
+2831,,285,21,drive,big,neu
+2832,,285,21,car's incisor,feel half left,neu
+2833,,285,21,car,perfectly neutral,neu
+2834,,285,21,steering,electronic,neu
+2835,,285,21,steering,confidence inducing,pos
+2836,,285,21,steering,little communicate inside,neg
+2837,,285,21,steering,tell front wheel,pos
+2838,,285,21,car,grand touring,neu
+2839,,285,21,car,le canyon carving,neg
+2840,,285,21,car,GT,neu
+2841,916,285,22,headlight,high beam,pos
+2842,,285,22,headlight,laser,neu
+2843,,285,22,headlight,cool,pos
+2844,917,285,23,car,dream car,pos
+2845,,285,23,type,hatchback,neu
+2846,,285,23,car,love,pos
+2847,,285,23,back,throw bike,pos
+2848,,285,23,look,love,pos
+2849,,285,23,A6 backseat,appreciate,pos
+2850,,285,23,A6 backseat,utility,pos
+2851,918,285,24,back,pretty tight,neg
+2852,,285,24,back,super happy long period,neg
+2853,,285,24,A6 back,pretty happy,pos
+2854,919,285,25,room,lot,pos
+2855,,285,25,infotaintment system,like,pos
+2856,,285,25,infotaintment system,smartphone based,neu
+2857,,285,25,technology,lot,pos
+2858,,285,25,leather,beige,neu
+2859,,285,25,screen,sea black,neu
+2860,,285,25,A6,dark,neu
+2861,,285,25,A6,tearing,neu
+2862,,285,25,A6,lot life,pos
+2863,920,285,26,design,minimalist,pos
+2864,,285,26,design,little dark,pos
+2865,,285,26,real wood,love,pos
+2866,,285,26,corner,love way seat hold,pos
+2867,,285,26,seat,love way hold,pos
+2868,921,285,27,feature,lot thoughtful,pos
+2869,922,285,28,purchase,Audi would definitely choose,pos
+2870,,285,28,car,sexy,pos
+2871,,285,28,look,keep knocking ball park,pos
+2872,,285,28,drive,keep knocking ball park,pos
+2873,,285,28,generation,whole new,pos
+2874,,285,28,technology,,pos
+2875,,285,28,steering,wheel,neu
+2876,,285,28,technology,ton,pos
+2877,,285,28,technology,simiar cellphone,pos
+2878,,285,28,power,,pos
+2879,,285,28,fuel economy,better,pos
+2880,,285,28,car,what's love,pos
+2881,,285,28,tech,much,pos
+2882,,285,28,new technology,fascinating,pos
+2883,,285,28,change,incredible amoounts automotive world,pos
+2884,,285,28,electricity fuel,good,pos
+2885,923,286,1,sound,good,pos
+2886,924,286,2,launch control process,,neu
+2887,,286,2,launch control,simple,pos
+2888,,286,2,0 60 time,fast,pos
+2889,,286,2,car,really mustang,neu
+2890,,286,2,drive,wheel,neu
+2891,,286,2,front wheel,lot weight,neu
+2892,,286,2,power,lot,pos
+2893,,286,2,attitude,lot,pos
+2894,,286,2,exhaust,big,neu
+2895,,286,2,exhaust,oval,neu
+2896,,286,2,engine,little hot,neu
+2897,,286,2,engine,hot,neu
+2898,,286,2,weight,reduced,pos
+2899,,286,2,torque,much,pos
+2900,,286,2,0 60 time,going moiving quickly,pos
+2901,,286,2,0 60 time,fastest class,pos
+2902,,286,2,0 60 time,faster,pos
+2903,925,286,3,dynamic mode,baffle open,neu
+2904,,286,3,lower side wall,little firmness feelinng road,pos
+2905,,286,3,tire,hand cooked,pos
+2906,,286,3,tire,Audi specific hand cook,pos
+2907,,286,3,tire,specific,neu
+2908,,286,3,tire,low profile,pos
+2909,,286,3,tire,little profile,neu
+2910,926,286,4,grip,lot,pos
+2911,,286,4,grip,good track,pos
+2912,,286,4,grip,harsh arizona,neg
+2913,,286,4,tyre,low profile,neg
+2914,,286,4,drive mode,sramatically change character,pos
+2915,,286,4,dynamic mode,least amount suspension complianc,neu
+2916,927,286,5,sound,like Formula One,neu
+2917,928,286,6,drive,little bit harsher road,neg
+2918,,286,6,drive,bad,neg
+2919,,286,6,comfort mode,change character car,pos
+2920,,286,6,comfort mode,much relaxed,pos
+2921,,286,6,car,much grand tour,neu
+2922,929,286,7,exhaust sound,little bit mechanical,neu
+2923,,286,7,dynamic mode,baffle open,neu
+2924,,286,7,engine noise,simply amplifies little bit,neu
+2925,,286,7,windshield,essentially like speaker,neu
+2926,,286,7,engine noise,amplifying,pos
+2927,,286,7,automatic acceleration,better,pos
+2928,,286,7,automatic number,better,pos
+2929,,286,7,automatic performance,better,pos
+2930,,286,7,manual,little bit limitation,neg
+2931,,286,7,manual,love,pos
+2932,,286,7,manual,minority minority buy,neg
+2933,,286,7,manual,market anymore,neg
+2934,930,286,8,display,configurable,pos
+2935,,286,8,display,really great job,pos
+2936,,286,8,power,really cool,pos
+2937,,286,8,torque,really cool,pos
+2938,931,286,9,-,-,-
+2939,932,286,10,display,easily readable,pos
+2940,,286,10,display,easy use road,pos
+2941,,286,10,display,easy use track,pos
+2942,,286,10,display,one best job biz,pos
+2943,,286,10,digital display,configurable,pos
+2944,,286,10,digital display,pleasing,pos
+2945,,286,10,digital display,understandable,pos
+2946,,286,10,digital display,user friendly,pos
+2947,933,286,11,car,GT-R sport,pos
+2948,,286,11,car,really GT,neu
+2949,,286,11,car,good,pos
+2950,,286,11,car,everyday,pos
+2951,,286,11,comfort,able drive,pos
+2952,,286,11,weight,gain little bit,pos
+2953,,286,11,equipment level,heavy,pos
+2954,,286,11,equipped,well,pos
+2955,934,286,12,trunk,nice slope,pos
+2956,,286,12,trunk,roomy,neg
+2957,,286,12,seat,folding,pos
+2958,,286,12,seat,40 60 split,pos
+2959,,286,12,trunk,folding seat give lot room,pos
+2960,,286,12,trunk,enough room put pair ski,pos
+2961,935,286,13,virtual cockpit,,neu
+2962,,286,13,display,sport,pos
+2963,,286,13,display,couple feature,pos
+2964,,286,13,gauge,additional,neu
+2965,,286,13,tire pressure monitoring,important,pos
+2966,,286,13,display,configure,pos
+2967,936,286,14,fuel economy,class leading,pos
+2968,,286,14,mile per gallon,respectable,pos
+2969,937,286,15,map,little FBI,neg
+2970,,286,15,map,zoom,pos
+2971,938,286,16,long distance,comfortable cruiser,pos
+2972,,286,16,brake,surrounding,neu
+2973,,286,16,speed,quickly,pos
+2974,,286,16,style,comfort,pos
+2975,,286,16,Audi,green,pos
+2976,939,286,17,color,green,neu
+2977,,286,17,color,like,pos
+2978,,286,17,color,help highlight vehicle,pos
+2979,,286,17,color,unique,pos
+2980,940,286,18,system,intuitive,pos
+2981,,286,18,system,next generation,pos
+2982,941,286,19,power,surge,pos
+2983,,286,19,power,favorite,pos
+2984,,286,19,performance amount,little bit subtle,neu
+2985,,286,19,look,favorite feature,pos
+2986,942,286,20,body,wide,pos
+2987,,286,20,back,look fantastic,pos
+2988,,286,20,back,little bit wider,pos
+2989,943,286,21,front,wider,neu
+2990,,286,21,rear,wider,neu
+2991,,286,21,track,increased,neu
+2992,,286,21,hub,large,neu
+2993,,286,21,hub,strengthened,neu
+2994,,286,21,wheel,offset,neu
+2995,944,286,22,drive,wheel,neu
+2996,,286,22,dynamic mode,let slide back bit,pos
+2997,,286,22,control,wheel drive,pos
+2998,,286,22,dynamic,rear wheel drive benefit,pos
+2999,,286,22,turn,fastest way around,pos
+3000,945,286,23,drive,wheel,neu
+3001,946,286,24,number,important,neu
+3002,947,286,25,tire pressure monitor,pretty cool,pos
+3003,,286,25,space,spacey,pos
+3004,948,286,26,color,lot different,pos
+3005,,286,26,color,calm,pos
+3006,,286,26,color,interesting,pos
+3007,,286,26,green color,lot pride,pos
+3008,,286,26,RS6 color,lot cult following,pos
+3009,,286,26,RS5 color,sonoma Green,neu
+3010,,286,26,RS5 color,exclusive,pos
+3011,,286,26,RS5 color,love,pos
+3012,,286,26,RS5 color,gorgeous kind,pos
+3013,,286,26,RS5 color,sometimes deep green,neu
+3014,,286,26,RS5 color,sun little bit olive green,neu
+3015,,286,26,color,awesome,pos
+3016,,286,26,color,quite unique,pos
+3017,,286,26,color,polarizing,neu
+3018,,286,26,color,people seem love,pos
+3019,949,286,27,-,-,-
+3020,950,287,1,-,-,-
+3021,951,287,2,drive,wheel,neu
+3022,,287,2,suspension,active,pos
+3023,,287,2,color,red,neu
+3024,,287,2,car,love,pos
+3025,952,287,3,-,-,-
+3026,953,287,4,-,-,-
+3027,954,287,5,-,-,-
+3028,955,287,6,-,-,-
+3029,956,287,7,car,lot fun,pos
+3030,,287,7,booth,canyon carving,pos
+3031,,287,7,job break,bad tool,neg
+3032,957,287,8,engine,linear,neu
+3033,,287,8,engine,lusty,pos
+3034,,287,8,engine,power,pos
+3035,958,287,9,engine,power,pos
+3036,,287,9,drive,fast,pos
+3037,,287,9,drive,lot fun,pos
+3038,959,287,10,-,-,-
+3039,960,287,11,engine,sexy,pos
+3040,,287,11,power distribution,good,pos
+3041,,287,11,engine,cool,pos
+3042,,287,11,cover,plastic,neg
+3043,961,287,12,dual clutch,none,neg
+3044,,287,12,clutch,manual,neu
+3045,,287,12,clutch,okay,neu
+3046,,287,12,clutch,eight speed automatic,neu
+3047,962,287,13,-,-,-
+3048,963,287,14,steering,hard enough,neg
+3049,,287,14,steering,electric,neu
+3050,,287,14,steering,yet find one work well old,neg
+3051,,287,14,steering,get heavier,neg
+3052,,287,14,get,hard time,neg
+3053,964,287,15,interior,driver centric,pos
+3054,,287,15,car,sporty,pos
+3055,965,287,16,everything,leather,neu
+3056,,287,16,car,full aluminium,neu
+3057,966,287,17,steering wheel,big,pos
+3058,,287,17,steering wheel,fat,neu
+3059,,287,17,steering wheel,flat bottom,neu
+3060,967,287,18,navigation,mordern,pos
+3061,,287,18,navigation,comfortable,pos
+3062,,287,18,navigation,tuckey,pos
+3063,968,287,19,headroom,,neu
+3064,,287,19,leg room,,neu
+3065,,287,19,back,comfortable,neg
+3066,,287,19,driver's seat,want,pos
+3067,969,287,20,suspension,active,pos
+3068,,287,20,drive,wheel,neu
+3069,,287,20,car,neutral,neu
+3070,,287,20,power,going back,neu
+3071,970,287,21,-,-,-
+3072,971,287,22,-,-,-
+3073,972,287,23,front end,sculpted,pos
+3074,,287,23,front end,rugged,pos
+3075,,287,23,front end,masculine,pos
+3076,,287,23,front end,masculine,pos
+3077,,287,23,weight,lot,pos
+3078,,287,23,S5,emotionally,pos
+3079,973,287,24,car,similar,neu
+3080,974,287,25,engine note,really hear,neg
+3081,975,287,26,speaker,realism,pos
+3082,,287,26,exhaust,cool,pos
+3083,,287,26,exhaust,real,pos
+3084,,287,26,exhaust flap,open,neu
+3085,976,287,27,motor noise,emphasized,neu
+3086,,287,27,windshield,like soundboard,neu
+3087,,287,27,windshield intensity,resonating,neu
+3088,,287,27,engine noise,resonating,neu
+3089,,287,27,sound,emphasized,neu
+3090,,287,27,sound,adjust,neu
+3091,977,287,28,-,-,-
+3092,978,288,1,car,fast,pos
+3093,,288,1,car,fun,pos
+3094,979,288,2,drive,wheel,neu
+3095,,288,2,power train,familiar,neu
+3096,980,288,3,headlight,new,pos
+3097,,288,3,tail light,new,pos
+3098,981,288,4,grill,purposeful,pos
+3099,,288,4,grill,meaner,pos
+3100,,288,4,look,like baby A4,neu
+3101,,288,4,look,like Mini Me A8,neu
+3102,,288,4,size,small,neg
+3103,982,288,5,version,refreshed,pos
+3104,,288,5,A3 platform,familiar,neu
+3105,983,288,6,drive,hoot,pos
+3106,984,288,7,size,small,neu
+3107,,288,7,car,premium,pos
+3108,,288,7,car,really good choice,pos
+3109,,288,7,version,mini,neu
+3110,985,288,8,-,-,-
+3111,986,288,9,performance,near level S4,neu
+3112,,288,9,power,A3,pos
+3113,,288,9,size,smaller,neu
+3114,987,288,10,interior,hard pressed,neu
+3115,,288,10,interior,classy,pos
+3116,,288,10,interior,stylish,pos
+3117,,288,10,interior,sporty,pos
+3118,,288,10,seat,sport,pos
+3119,,288,10,seat,really hug,pos
+3120,,288,10,steering wheel,flat bottom,neu
+3121,,288,10,front seating,love,pos
+3122,,288,10,front seating,great place spend time,pos
+3123,988,288,11,backseat,like,neg
+3124,,288,11,backseat,good,neg
+3125,,288,11,headroom,none,neg
+3126,,288,11,leg room,much,neg
+3127,,288,11,size,tiny,neg
+3128,,288,11,backseat,penalty box,neg
+3129,989,288,12,Virtual Cockpit,new,pos
+3130,,288,12,Virtual Cockpit,different,neu
+3131,990,288,13,Virual Cockpit,customize,pos
+3132,,288,13,car setting,everything done fingertip,pos
+3133,,288,13,car setting,take hand wheel,pos
+3134,991,288,14,number,important,neu
+3135,992,288,15,seat,sport,neu
+3136,,288,15,paint,metallic white glacier,neu
+3137,,288,15,wheel,big,pos
+3138,993,288,16,0 60 time,exactly hellcat,neg
+3139,,288,16,drive,way fast,pos
+3140,,288,16,0 60 time,fee like five second,neu
+3141,,288,16,engine,four banger Turbo,pos
+3142,994,288,17,three price,cake eat,pos
+3143,995,288,18,torque,ability adjust essentially front rear,pos
+3144,,288,18,quattro software,specific,pos
+3145,,288,18,turn,little fun drive,pos
+3146,,288,18,dynamic mode,torque back,pos
+3147,,288,18,dynamic mode,little bit fun drive,pos
+3148,,288,18,shock absorber,magnetic,neu
+3149,,288,18,ride,lot stable high speed,pos
+3150,,288,18,car,nice,pos
+3151,,288,18,turn,flat,pos
+3152,996,288,19,stick shift,miss,neg
+3153,997,288,20,dual clutch,really phenomenal,pos
+3154,,288,20,material,upper quality,pos
+3155,,288,20,manual transmission,,neg
+3156,998,288,21,engine,amazing,pos
+3157,,288,21,power,much,pos
+3158,,288,21,engine,small,neg
+3159,,288,21,engine,nice,pos
+3160,,288,21,engine,quite extraordinary,pos
+3161,,288,21,turbo lag,hint,pos
+3162,,288,21,take,like scalded cat,pos
+3163,999,288,22,steering,electric,pos
+3164,,288,22,steering,heavieras car speed,pos
+3165,,288,22,steering,lighter slows,pos
+3166,1000,288,23,Audi S A3,good thing,pos
+3167,,288,23,size,small package,neu
+3168,1001,289,1,car,mid cycle refresh,neu
+3169,,289,1,front grill,new,pos
+3170,,289,1,engine output,new,pos
+3171,1002,289,2,engine,big news,pos
+3172,,289,2,engine,revised,neu
+3173,1003,289,3,look,luxurious,pos
+3174,,289,3,tailpipe,little integrated,neu
+3175,1004,289,4,fuel economy,fuel efficient,pos
+3176,,289,4,fuel economy,fuel efficient,pos
+3177,,289,4,engine,powerful,pos
+3178,,289,4,mpg,great,pos
+3179,,289,4,engine,surprisingly powerful,pos
+3180,1005,289,5,tail light,led,pos
+3181,,289,5,grill,important difference,pos
+3182,1006,289,6,look,cleaned led,neu
+3183,,289,6,look,little bit mordern,pos
+3184,,289,6,look,chrome,pos
+3185,,289,6,look,angular,pos
+3186,,289,6,exterior,design change,pos
+3187,,289,6,lighting,led,neu
+3188,,289,6,lighting,new,pos
+3189,,289,6,look,little bit dynamic,pos
+3190,,289,6,stance,little wider,pos
+3191,,289,6,look,chrome,neu
+3192,,289,6,grill,single frame,neu
+3193,,289,6,grill,different shape,neu
+3194,,289,6,front,little bit wider splitter,pos
+3195,,289,6,stance,wider,pos
+3196,,289,6,stance,dynamic,pos
+3197,,289,6,sound,much quieter cabin,pos
+3198,,289,6,wood,different color,pos
+3199,,289,6,interior design,class leading,pos
+3200,1007,289,7,interior design,good,pos
+3201,,289,7,engine,sense top,pos
+3202,,289,7,engine,like,pos
+3203,,289,7,fuel economy,better,pos
+3204,,289,7,horsepower,,pos
+3205,,289,7,torque,greater,pos
+3206,,289,7,angular,even,pos
+3207,1008,289,8,styling,sophisticated,pos
+3208,1009,289,9,engine,improved,pos
+3209,,289,9,sound,great,pos
+3210,,289,9,uphill drive,great acceleration,pos
+3211,,289,9,uphill drive,torque feel confident,pos
+3212,,289,9,engine,good,pos
+3213,1010,289,10,tyre,fattest,neu
+3214,1011,289,11,engine note,enhance,neg
+3215,,289,11,engine note,noise cancellation,pos
+3216,,289,11,engine note,harsh,pos
+3217,,289,11,engine note,cool,pos
+3218,,289,11,engine note,respect,pos
+3219,1012,289,12,engine note,possible,pos
+3220,1013,289,13,car,compromised harshness possibility,neu
+3221,1014,289,14,overall,tightened package,neg
+3222,1015,289,15,car,lot compliant,pos
+3223,,289,15,car,lot compliant,pos
+3224,,289,15,suspension,five degree softer,pos
+3225,,289,15,bump,better job soaking,pos
+3226,,289,15,handling,quite sharp,neg
+3227,,289,15,brake,quite grabby,neg
+3228,,289,15,brake,powerful,neg
+3229,,289,15,car,designed luxurious,pos
+3230,,289,15,door,four,neu
+3231,,289,15,car,family sedan,pos
+3232,,289,15,car,sporting,pos
+3233,1016,289,16,drive,fun,pos
+3234,,289,16,drive,comfortable,pos
+3235,1017,289,17,smell,good,pos
+3236,,289,17,car,luxurious,pos
+3237,,289,17,type,sedan,neu
+3238,,289,17,car,family,pos
+3239,1018,290,1,-,-,-
+3240,1019,290,2,torque,amount greater,pos
+3241,,290,2,torque,force gassing horsepower,pos
+3242,,290,2,horsepower,important,pos
+3243,,290,2,sound,great,pos
+3244,,290,2,sound,nothing like lot corn,pos
+3245,1020,290,3,engine,proportionately blown away,pos
+3246,,290,3,engine,absolutely bulletproof,pos
+3247,,290,3,engine,phenomenal,pos
+3248,,290,3,engine,unbeatable,pos
+3249,,290,3,diesel engine,far reliable,pos
+3250,,290,3,diesel engine,long lasting,pos
+3251,,290,3,diesel engine,doubled,pos
+3252,,290,3,drive,like schmuck,pos
+3253,1021,290,4,grill,big,pos
+3254,,290,4,grill,classic,pos
+3255,1022,290,5,headlight,cool led,pos
+3256,,290,5,headlight,best term led bling,pos
+3257,,290,5,headlight,led bling change quite often,neu
+3258,,290,5,headlight,led bling change obvious,neu
+3259,,290,5,headlight,led bling change obvious,neu
+3260,,290,5,front headlight,change year,neu
+3261,,290,5,front headlight,brilliant,pos
+3262,1023,290,6,back,tasteful,pos
+3263,,290,6,back,deserves slap,pos
+3264,,290,6,back,beautiful,pos
+3265,,290,6,styling car,never overweight,pos
+3266,1024,290,7,engine,fantastic,pos
+3267,,290,7,engine,fast,pos
+3268,,290,7,engine,rocket,pos
+3269,,290,7,engine,little lust,neg
+3270,1025,290,8,diesel engine,expensive,neg
+3271,1026,290,9,torque,get much,pos
+3272,,290,9,torque,getting benefit,pos
+3273,,290,9,turbo lag,little bit,neg
+3274,,290,9,torque,linear,neu
+3275,,290,9,torque,push back harder harder,pos
+3276,,290,9,power,,pos
+3277,,290,9,power,effortless,pos
+3278,,290,9,power,feel moment pas nectcar,pos
+3279,,290,9,power,pull horse trailer style comfort,pos
+3280,1027,290,10,-,-,-
+3281,1028,290,11,sound,hear,neg
+3282,,290,11,radio,hear,pos
+3283,1029,290,12,sound,can't hear torque,neg
+3284,,290,12,torque,feel,pos
+3285,,290,12,power,really feel,pos
+3286,,290,12,power,hear,pos
+3287,,290,12,size,little,neu
+3288,,290,12,size,big,neu
+3289,,290,12,torque,much,pos
+3290,,290,12,torque,pull face,pos
+3291,1030,290,13,car,love,pos
+3292,,290,13,price,expensive,pos
+3293,,290,13,price,lot money,pos
+3294,1031,290,14,price,lot money,pos
+3295,,290,14,seat,cool,neg
+3296,,290,14,car,hot,pos
+3297,1032,290,15,sunroof,really nice,pos
+3298,,290,15,sunroof,panoramic,pos
+3299,,290,15,sunroof,cool,pos
+3300,,290,15,camera,coming way back,neu
+3301,1033,290,16,size,biggest,neu
+3302,,290,16,size,take car,pos
+3303,1034,290,17,interior,best class,pos
+3304,,290,17,interior,feel little bit dated,neg
+3305,,290,17,screen,feel bit small,neg
+3306,1035,290,18,interior,getting better,pos
+3307,,290,18,interior,little bit convoluted,neg
+3308,1036,290,19,interior,everything feel expensive,pos
+3309,,290,19,material,nice touch,pos
+3310,,290,19,interior,older,neg
+3311,,290,19,interior,aging,neg
+3312,,290,19,interior,still better lot interior,pos
+3313,1037,290,20,competition,crowded segment,pos
+3314,,290,20,drive,favorite,pos
+3315,1038,290,21,car,quite like sporty,neu
+3316,,290,21,car,certainly sporty,pos
+3317,,290,21,car,really feel wheel,pos
+3318,,290,21,car,great sense comfort,pos
+3319,,290,21,steering,ideal,pos
+3320,,290,21,seating position,ideal,pos
+3321,1039,290,22,seat,excellent,pos
+3322,,290,22,seat,comfortable,pos
+3323,1040,290,23,-,-,-
+3324,1041,290,24,grip,relatively good,pos
+3325,,290,24,mud,relatively good,pos
+3326,,290,24,snow,relatively good,pos
+3327,1042,290,25,interior,fantastic,pos
+3328,1043,290,26,backseat,little tight,neg
+3329,,290,26,knee room,loosing little bit,neg
+3330,,290,26,seat,little tight,neg
+3331,,290,26,legroom,seat kind get stuck seat,neg
+3332,1044,290,27,trunk,amazing,pos
+3333,1045,290,28,trunk,big enough,pos
+3334,1046,290,29,-,-,-
+3335,1047,290,30,seat,really impressive,pos
+3336,,290,30,seat,back,pos
+3337,1048,290,31,trunk,everything feel nice,pos
+3338,,290,31,trunk,actually comfortable,pos
+3339,1049,290,32,-,-,-
+3340,1050,290,33,paddle shifter,ten slower,neg
+3341,,290,33,0 60 time,crazy fast,pos
+3342,,290,33,car,holding nicely,pos
+3343,1051,290,34,0 60 time,identical,neu
+3344,1052,290,35,-,-,-
+3345,1053,290,36,sound,quiet,pos
+3346,,290,36,power,good,pos
+3347,,290,36,power plant,fantastic,pos
+3348,,290,36,torque,mileage,pos
+3349,,290,36,engine,speed,pos
+3350,,290,36,engine,everyone one like,pos
+3351,,290,36,fuel,diesel,neu
+3352,1054,290,37,-,-,-
+3353,1055,290,38,-,-,-
+3354,1056,291,1,technology,bridge latest technology autonomous car,pos
+3355,,291,1,technology,latest,pos
+3356,1057,291,2,version,long,neu
+3357,,291,2,cabin,gentle smell spring,pos
+3358,,291,2,seat,massage foot,pos
+3359,,291,2,seat,massage back,pos
+3360,,291,2,drive,,pos
+3361,1058,291,3,torque,confident,pos
+3362,1059,291,4,power,bad boy need lot,pos
+3363,1060,291,5,exhaust,like,neg
+3364,,291,5,exhaust tip,fake,neg
+3365,1061,291,6,0 60 time,felt pretty fast,pos
+3366,,291,6,torque,rush towards start,pos
+3367,,291,6,torque,dissipitated little bit towards end,neg
+3368,1062,291,7,-,-,-
+3369,1063,291,8,experience,bespoke,pos
+3370,,291,8,experience,unique,pos
+3371,,291,8,experience,custom,pos
+3372,,291,8,profile,several different,pos
+3373,,291,8,feature,different,pos
+3374,,291,8,feature,customized,pos
+3375,,291,8,door,electric,neu
+3376,,291,8,door,newest feature,pos
+3377,,291,8,door open,gently put hand door,pos
+3378,,291,8,door close,gentle,pos
+3379,,291,8,event,coolest,pos
+3380,,291,8,event,open close walk,pos
+3381,,291,8,sound,incredibly silent,pos
+3382,,291,8,event,incredibly cool,pos
+3383,,291,8,car,cool party,pos
+3384,,291,8,event,reclines dashboard,pos
+3385,,291,8,wood,giant,neu
+3386,,291,8,wood,elegant,pos
+3387,,291,8,wood,beautiful,pos
+3388,,291,8,Google Earth,favorite,pos
+3389,,291,8,Google Earth,zoom,pos
+3390,,291,8,Google Earth,zoom,pos
+3391,,291,8,screen,three different,pos
+3392,,291,8,screen,customizable,pos
+3393,,291,8,feature,lot,pos
+3394,,291,8,screen,pretty configurable,pos
+3395,,291,8,setting,400 different,neu
+3396,,291,8,rpm,small,neg
+3397,,291,8,rpm,make bigger,pos
+3398,,291,8,guages,large,pos
+3399,,291,8,car,set way like,pos
+3400,,291,8,profile,different,pos
+3401,,291,8,profile,memorize,pos
+3402,,291,8,profile,powerful way customizing,pos
+3403,,291,8,profile,making car familiar,pos
+3404,,291,8,smell,good,pos
+3405,,291,8,fragrance,set,pos
+3406,,291,8,fragrance,really preference,pos
+3407,,291,8,touch screen,take stress driving,pos
+3408,,291,8,touch screen,take cognitive load,pos
+3409,,291,8,touch screen,bit intuitive,pos
+3410,,291,8,button,gotten rid,neu
+3411,,291,8,car,brand new,pos
+3412,,291,8,writing pad,natural handwriting recognition,pos
+3413,,291,8,car interaction,big upgrade,pos
+3414,1064,291,9,display,wonderful,pos
+3415,,291,9,display,giant sweeping piano black,pos
+3416,,291,9,screen,privacy,neu
+3417,,291,9,button,hard wired,pos
+3418,1065,291,10,display,lot way elegant,pos
+3419,,291,10,economy,basically level two,neu
+3420,,291,10,autonomous driving,much would keep car fully autonomous,pos
+3421,,291,10,drive,driving,pos
+3422,,291,10,autonomous driving,depends condition,pos
+3423,1066,291,11,front,classic Audi,neu
+3424,,291,11,front,intersecting line,neu
+3425,,291,11,front,lot angle,neu
+3426,,291,11,front,sharp,pos
+3427,,291,11,front,mordern,pos
+3428,,291,11,back,changed quite bit,neu
+3429,,291,11,look,feel like two different designer front back,neg
+3430,,291,11,back,intersecting line,neu
+3431,,291,11,back,round,neu
+3432,,291,11,back,angular,neu
+3433,,291,11,back,sort look like Lincoln continental,neu
+3434,1067,291,12,headroom,plenty,pos
+3435,1068,291,13,backseat environment,lot control,pos
+3436,,291,13,control,best,pos
+3437,,291,13,control,much,pos
+3438,,291,13,backseat function,able learn,neg
+3439,,291,13,car,luxury,pos
+3440,,291,13,type,sedan,neu
+3441,,291,13,comfort package,greatest thing,pos
+3442,,291,13,seat,individua; reroute,neu
+3443,,291,13,seat,sport,neu
+3444,,291,13,control,lot,pos
+3445,,291,13,seat,recline bit,pos
+3446,,291,13,seat,lumbar,pos
+3447,,291,13,rear seat control,remote,pos
+3448,,291,13,remote control,nice thing,pos
+3449,,291,13,seat,adjust,pos
+3450,,291,13,seat,massage,pos
+3451,,291,13,massage program,different,pos
+3452,,291,13,massage,60 80 %,pos
+3453,,291,13,luxury,higher level,pos
+3454,,291,13,remote feature,interesting,pos
+3455,,291,13,reading light,matrix,pos
+3456,,291,13,reading light,interesting,pos
+3457,,291,13,reading light,set different size,pos
+3458,,291,13,reading light,move around,pos
+3459,,291,13,reading light,nice idea,pos
+3460,,291,13,front headlight,matrix beam,neu
+3461,1069,291,14,-,-,-
+3462,1070,291,15,seat,heated,pos
+3463,,291,15,seat,cooled,pos
+3464,,291,15,seat,got heating four,pos
+3465,,291,15,seat,massage four,pos
+3466,,291,15,seat,lumbar four,pos
+3467,,291,15,seat,ventilated,pos
+3468,,291,15,seat,recline,pos
+3469,,291,15,button,hardy hard,neg
+3470,,291,15,front seat,control rear,pos
+3471,,291,15,front seat control,cool,pos
+3472,,291,15,seat,move forward legroom,pos
+3473,,291,15,utility,ski pas,pos
+3474,,291,15,utility,put snowboard,pos
+3475,,291,15,control,pretty cool,pos
+3476,,291,15,interior design philosophy,sophisticated,pos
+3477,,291,15,interior design philosophy,simplistic,pos
+3478,,291,15,control,slider instead button,pos
+3479,1071,291,16,technology,lot benteley,pos
+3480,,291,16,price,either bargain expensive,neu
+3481,1072,291,17,power,powerful,pos
+3482,,291,17,engine,bigger,pos
+3483,,291,17,engine,sense power,pos
+3484,,291,17,power,unlimited,neu
+3485,,291,17,engine,sense world warping around,neu
+3486,,291,17,engine,fast,neu
+3487,,291,17,engine,take breadth away fast,neu
+3488,,291,17,technology,much need powered,neu
+3489,1073,291,18,grill,laser,neu
+3490,,291,18,grill,let car sense environment,pos
+3491,,291,18,sensor,suite ultrasonic,pos
+3492,1074,291,19,-,-,-
+3493,1075,291,20,canyon,car,pos
+3494,,291,20,canyon,exactly designed,neg
+3495,,291,20,canyon,happy sad,neg
+3496,1076,291,21,steering,dynamic rear wheel,neu
+3497,,291,21,car,nimble,pos
+3498,,291,21,steering,front back wheel steer,pos
+3499,,291,21,steering,benefit,pos
+3500,,291,21,steering,wheel,neu
+3501,,291,21,corner handling,accurately carve,pos
+3502,,291,21,curvy road,accurately carve corner,pos
+3503,,291,21,turning radius,much tighter,pos
+3504,,291,21,turning radius,lot,pos
+3505,,291,21,turning radius,exact Audi A4,neu
+3506,,291,21,size,definition large,pos
+3507,1077,291,22,version,short,neu
+3508,,291,22,car,German luxury,pos
+3509,,291,22,Audi,would choose,pos
+3510,,291,22,technology,silver bullet,pos
+3511,,291,22,drive,wheel,neu
+3512,,291,22,car,kind understated elegance,pos
+3513,,291,22,car,elegant understated combination sportiness luxury,pos
+3514,,291,22,price,little wealthy old unit,neg
+3515,1078,292,1,utility,sedan,neu
+3516,,292,1,car,sexiness coupe,pos
+3517,,292,1,utility,hatchback,neu
+3518,,292,1,back,sport,pos
+3519,,292,1,type,three coupe sedan hatchback mashed one,pos
+3520,1079,292,2,-,-,-
+3521,1080,292,3,utility,sedan,neu
+3522,,292,3,functionality,hatchback,neu
+3523,,292,3,room,hatchback,neu
+3524,,292,3,car,sport back,neu
+3525,1081,292,4,profile,special,pos
+3526,1082,292,5,type,hatchback,neu
+3527,1083,292,6,car,lot sexier A4 A5,pos
+3528,,292,6,body,much sexier top,pos
+3529,1084,292,7,back,sport,neu
+3530,,292,7,front door,relatively short,pos
+3531,1085,292,8,door,relatively short,neg
+3532,,292,8,get,little tricker,neg
+3533,1086,292,9,back,sport,neu
+3534,1087,292,10,drive,four wheel,neu
+3535,1088,292,11,-,-,-
+3536,1089,292,12,roof,lower,neu
+3537,,292,12,roof,sexier,pos
+3538,,292,12,get,hard,neg
+3539,,292,12,get,hard,neg
+3540,1090,292,13,get,crane neck little get back,neg
+3541,,292,13,back,bad,neu
+3542,,292,13,room,okay,neu
+3543,,292,13,headroom,place I want take road trip,neg
+3544,,292,13,back,comfortable think,pos
+3545,,292,13,roof,roofline,neu
+3546,1091,292,14,mpg,rather remarkable,neu
+3547,1092,292,15,navigation,fancy,pos
+3548,,292,15,wood,beautiful,pos
+3549,,292,15,stuff,expensive,pos
+3550,,292,15,vehicle,premium,pos
+3551,,292,15,utility,A4,pos
+3552,,292,15,functionality,A4,pos
+3553,,292,15,sexiness,A5 coop,pos
+3554,,292,15,car,completely different,pos
+3555,,292,15,car,beauty,pos
+3556,,292,15,car,combining coupe sedan,pos
+3557,1093,292,16,-,-,-
+3558,1094,292,17,design,dynamic,pos
+3559,,292,17,design,functional,pos
+3560,,292,17,look,kind sexy,pos
+3561,,292,17,look,stretched,pos
+3562,,292,17,look,coop line,neu
+3563,,292,17,style,proper,pos
+3564,1095,292,18,-,-,-
+3565,1096,292,19,car,fantastic,pos
+3566,1097,292,20,torque,immediate amount,pos
+3567,,292,20,turbo lag,little,neg
+3568,,292,20,transmission,dual clutch,neu
+3569,,292,20,launch,evenly line,pos
+3570,,292,20,S5 sport back torque,much,pos
+3571,,292,20,S5 sport back launch,hard get smooth,neg
+3572,,292,20,drive,way handle,pos
+3573,1098,292,21,A5 sport back,love,pos
+3574,,292,21,A5 sport back,similar A4,neu
+3575,,292,21,car,confidence inspiring,pos
+3576,,292,21,handling,neutral,neu
+3577,,292,21,Quattro system,wheather capability,pos
+3578,,292,21,Quattro system,wheather confidence,pos
+3579,,292,21,drive,feel like rear wheel,neu
+3580,,292,21,steering,missing little bit sporting,neg
+3581,,292,21,sport mode steering,heavy,neu
+3582,,292,21,sport mode shift,little bit later,neg
+3583,,292,21,steering,necessarily communicative,neg
+3584,1099,292,22,steering,electronic,neu
+3585,,292,22,steering,fall,neg
+3586,,292,22,navigation,favorite feature,pos
+3587,,292,22,navigation,configurable,pos
+3588,,292,22,navigation,tomorrow,pos
+3589,,292,22,Audi,new,pos
+3590,,292,22,navigation,well,pos
+3591,1100,292,23,generation,second,neu
+3592,,292,23,purchase,easy go,pos
+3593,,292,23,utility,love,pos
+3594,,292,23,utility,hatchback,pos
+3595,,292,23,car,sexiness coupe,pos
+3596,1101,292,24,boot capacity,room,pos
+3597,,292,24,boot capacity,get kayak,pos
+3598,,292,24,boot capacity,get bike,pos
+3599,,292,24,seat,folding,pos
+3600,1102,292,25,-,-,-
+3601,1103,293,1,engine,pretty,pos
+3602,,293,1,Audi,brand new,pos
+3603,1104,293,2,badge,little,neu
+3604,,293,2,badge,tiny,neu
+3605,,293,2,air intake,lower,neu
+3606,,293,2,headlight,new,pos
+3607,,293,2,horsepower,kind confusing,neg
+3608,,293,2,horsepower,terrible really,neg
+3609,,293,2,mirror,chrome,neu
+3610,,293,2,mirror,lovely,pos
+3611,,293,2,exhaust,premium looking,pos
+3612,,293,2,exhaust,bad as,pos
+3613,,293,2,exhaust,pretty sweet,pos
+3614,,293,2,exhaust,look pretty bad as,pos
+3615,,293,2,exhaust,poking,neu
+3616,1105,293,3,0 60,five second,neg
+3617,1106,293,4,-,-,-
+3618,1107,293,5,back room,bad,neu
+3619,,293,5,body,small,neg
+3620,,293,5,body,really big,neg
+3621,,293,5,room,enough,neu
+3622,,293,5,back,surprisingly deep,pos
+3623,,293,5,back,move back little bit,pos
+3624,1108,293,6,look,marvelous,pos
+3625,1109,293,7,steering wheel,flat bottom,neu
+3626,,293,7,dual clutch,unavailable,neg
+3627,1110,293,8,back comfort,bad,neu
+3628,1111,293,9,comfort,bad,neg
+3629,,293,9,car,sport,pos
+3630,,293,9,car,hard,neu
+3631,,293,9,car,precise,pos
+3632,,293,9,car,bump,neu
+3633,,293,9,car,jump,neu
+3634,,293,9,sound,rattle teeth,neu
+3635,,293,9,corner handlig,fast,pos
+3636,,293,9,corner handling,flat,pos
+3637,,293,9,car,bad,neu
+3638,1112,293,10,-,-,-
+3639,1113,293,11,-,-,-
+3640,1114,293,12,-,-,-
+3641,1115,293,13,car,convertible,pos
+3642,,293,13,car,enjoy wide open road,pos
+3643,,293,13,car,feel classic wind hair,pos
+3644,,293,13,driving experience,missing anything,pos
+3645,1116,294,1,BMW,ultimate drive machine,pos
+3646,,294,1,offroad,good,pos
+3647,1117,294,2,-,-,-
+3648,1118,294,3,-,-,-
+3649,1119,294,4,-,-,-
+3650,1120,294,5,-,-,-
+3651,1121,294,6,parking assist,little annoying,neg
+3652,1122,294,7,offroading traction control,advanced,pos
+3653,,294,7,offroading traction control,electronic,pos
+3654,,294,7,offroadinfg,fine,pos
+3655,1123,294,8,tire,season,neu
+3656,,294,8,tire,popular German brand,pos
+3657,,294,8,tire,relatively good offroad,pos
+3658,,294,8,offroader,light,neu
+3659,,294,8,offroad,would upgrade tire terrain tire,neg
+3660,1124,294,9,-,-,-
+3661,1125,294,10,offroad,vehicle designed,neu
+3662,1126,294,11,offroad,actually bad,pos
+3663,,294,11,air suspension,lucky,pos
+3664,,294,11,height,raise lower vehicle,pos
+3665,,294,11,vehicle lowest setting,pretty miserable offroading,neg
+3666,1127,294,12,departure angle,better,pos
+3667,,294,12,sight,well,pos
+3668,,294,12,camera,cool,pos
+3669,,294,12,camera,full 360 degree,neu
+3670,,294,12,camera,see top hill,pos
+3671,,294,12,BMW X5,new,pos
+3672,,294,12,price,expensive,neg
+3673,,294,12,camera,relatively high definition,pos
+3674,,294,12,camera,really good job,pos
+3675,,294,12,offroad,one new wonder,pos
+3676,,294,12,visibility,ideal,neg
+3677,1128,294,13,chasis,teeter totter,neu
+3678,1129,294,14,chasis,rigid,pos
+3679,1130,294,15,brand,familiar,pos
+3680,1131,294,16,front grill,new design language,pos
+3681,,294,16,front grill,big,pos
+3682,,294,16,front grill,XL,pos
+3683,,294,16,grill,big,pos
+3684,1132,294,17,front,double XL,pos
+3685,,294,17,inside,pretty much classic,pos
+3686,,294,17,digital dash,new,pos
+3687,,294,17,display,big,pos
+3688,,294,17,gear selector,funky,neg
+3689,,294,17,gear selector,never fallen love,neg
+3690,,294,17,control,whole bunch different,pos
+3691,1133,294,18,headroom,plenty,pos
+3692,,294,18,sunroof,massive,pos
+3693,,294,18,sunroof,stretch way back,pos
+3694,,294,18,room,plenty,pos
+3695,,294,18,back,see five people relative comfort,pos
+3696,1134,294,19,room,generous look,pos
+3697,,294,19,back,lot space,pos
+3698,,294,19,backpack,two big,neu
+3699,,294,19,split gate,love,pos
+3700,,294,19,split gate,really great offroading,pos
+3701,,294,19,split gate,really great overlanding,pos
+3702,,294,19,height,lowered,neu
+3703,,294,19,split gate height,squat far,neu
+3704,,294,19,split gate height,pet get,pos
+3705,,294,19,split gate,incredible,pos
+3706,,294,19,split gate,really thoughtful,pos
+3707,,294,19,split gate,lower,pos
+3708,,294,19,split gate,raise offroad,pos
+3709,,294,19,air suspension,probably suspension want,neg
+3710,1135,294,20,water porting,vehicle go across,neg
+3711,1136,294,21,-,-,-
+3712,1137,294,22,river,vehicle want take across,neg
+3713,,294,22,offroad,good Land Rover,neg
+3714,,294,22,offroad,good Range Rover,neg
+3715,,294,22,car,heritage onroad driving,pos
+3716,,294,22,wood,problem,pos
+3717,,294,22,wood,hgets little dusty mudy,neu
+3718,,294,22,mountain,fine,pos
+3719,,294,22,snow storm,fine,pos
+3720,,294,22,offroad,ultimate machine,neg
+3721,,294,22,serious offroad,may want stick German car,pos
+3722,1138,294,23,-,-,-
+3723,1139,295,1,-,-,-
+3724,1140,295,2,look,similar outgoing car,pos
+3725,,295,2,wheelbase,stretched,neu
+3726,,295,2,length,,neu
+3727,,295,2,car,wider,neu
+3728,,295,2,roof line,sleek,pos
+3729,,295,2,roof line,lowered 0.1 inch,pos
+3730,,295,2,inside,room,pos
+3731,1141,295,3,-,-,-
+3732,1142,295,4,price,start little bit le,pos
+3733,1143,295,5,crossover,traditional,neu
+3734,,295,5,design,sleek,pos
+3735,,295,5,performance,high,pos
+3736,,295,5,car,luxury machine,pos
+3737,,295,5,competition,quite bit,pos
+3738,,295,5,X line,popular,pos
+3739,,295,5,hood,progress,pos
+3740,1144,295,6,drive,wheel,neu
+3741,,295,6,torque,lot,pos
+3742,1145,295,7,cockpit,typical BMW,neu
+3743,,295,7,cockpit,really good,pos
+3744,,295,7,driving dynamic,pride,pos
+3745,,295,7,feel behind steering,pride,pos
+3746,1146,295,8,seat,plenty adjustment,pos
+3747,,295,8,steering,telescoping,pos
+3748,,295,8,seat,bolstering adjustment,pos
+3749,,295,8,steering,wheel adjustment,pos
+3750,1147,295,9,steering wheel,really comfortable behind wheel,pos
+3751,,295,9,equipment,standard,pos
+3752,1148,295,10,navigation,standard,neu
+3753,,295,10,apple carplay,standard,neu
+3754,,295,10,driver assisstance technology,standard,neu
+3755,1149,295,11,car,performance,pos
+3756,,295,11,car,style,pos
+3757,,295,11,car,luxury,pos
+3758,,295,11,leg room,limited,neg
+3759,,295,11,headroom,head touching ceiling,neg
+3760,,295,11,roof,sunroof,neu
+3761,,295,11,back legroom,stretched,pos
+3762,,295,11,back,little bit space,pos
+3763,,295,11,legroom,car,neg
+3764,,295,11,headroom,car,neg
+3765,1150,295,12,headroom,premium,pos
+3766,,295,12,car,style,neg
+3767,,295,12,utility,car,neg
+3768,1151,295,13,back,comfortable kid,neu
+3769,1152,295,14,capacity,little,pos
+3770,,295,14,cargo volume,one cubic foot,pos
+3771,,295,14,rear seat,folding,pos
+3772,,295,14,rear seat,favorite utility feature,pos
+3773,,295,14,middle section,fold,pos
+3774,,295,14,boot,put sky,pos
+3775,1153,295,15,-,-,-
+3776,1154,295,16,engine,magic,pos
+3777,,295,16,entire engine lineup,magic,pos
+3778,,295,16,engine,quicker,pos
+3779,,295,16,engine,fuel efficient,pos
+3780,,295,16,0 60 time,0.1 second quicker,pos
+3781,,295,16,fuel economy,improved dramatically,pos
+3782,,295,16,mpg,improvement,pos
+3783,,295,16,acceleration,faster,pos
+3784,,295,16,fuel economy,better,pos
+3785,,295,16,engine,cake eat,pos
+3786,1155,295,17,design,emotional,pos
+3787,,295,17,roof line,stylish,pos
+3788,,295,17,roof line,changed,neu
+3789,,295,17,tail lamp,nice,pos
+3790,,295,17,tail lamp,led,neu
+3791,1156,295,18,F40 X Dr,maximum performance,pos
+3792,1157,295,19,BMW 360 degree surround camera,real love,pos
+3793,,295,19,BMW 360 degree surround camera,change angle,pos
+3794,1158,295,20,design,enough differentiate new X1 old,neu
+3795,,295,20,front,enough differentiate new X1 old,neu
+3796,1159,295,21,look,similar old X1,neu
+3797,,295,21,rear headroom,decreased,neg
+3798,,295,21,roof,slope style,neu
+3799,1160,295,22,360 degree camera system,really cool,pos
+3800,,295,22,backup camera,really reallistic picture,pos
+3801,1161,295,23,-,-,-
+3802,1162,295,24,-,-,-
+3803,1163,295,25,Wifi connectivity,standard,neg
+3804,,295,25,Wireless charging,standard,neg
+3805,,295,25,Wifi connectivity,love,pos
+3806,,295,25,Wireless charging,love,pos
+3807,1164,295,26,safety kit,relective jacket,neu
+3808,,295,26,safety kit,strange,neu
+3809,,295,26,safety kit,German,neu
+3810,1165,295,27,-,-,-
+3811,1166,295,28,look,really cool,pos
+3812,1167,295,29,badge,place,neu
+3813,1168,295,30,I drive system,latest version,pos
+3814,,295,30,voice recognition,natural,pos
+3815,,295,30,voice recognition,work,pos
+3816,1169,295,31,-,-,-
+3817,1170,295,32,performance,additional,neu
+3818,,295,32,style,maximum,pos
+3819,1171,295,33,differential,limited slip,neu
+3820,1172,295,34,dynamic handling package,limit lean,pos
+3821,,295,34,corner,limit,pos
+3822,,295,34,ride,sweet,pos
+3823,1173,295,35,-,-,-
+3824,1174,295,36,-,-,-
+3825,1175,296,1,car,latest BMW variant,pos
+3826,1176,296,2,car,sexier A3 series,pos
+3827,,296,2,car,unique,pos
+3828,1177,296,3,0 60,full second faster,pos
+3829,,296,3,0 60,mile sea level,neu
+3830,,296,3,0 60,le power,neu
+3831,,296,3,0 60,le air density,neu
+3832,1178,296,4,height,lower,neu
+3833,,296,4,car,superior,pos
+3834,1179,296,5,headroom,lot le back,neg
+3835,,296,5,back,want spend lot time,neg
+3836,1180,296,6,-,-,-
+3837,1181,296,7,window,frame,pos
+3838,,296,7,look,sexier coop,pos
+3839,1182,296,8,-,-,-
+3840,1183,296,9,car,wide,neu
+3841,,296,9,footprint,bigger,pos
+3842,,296,9,handle,little bit better,pos
+3843,,296,9,weight distribution,little bit rear,neu
+3844,,296,9,weight distribution,ideal 50 50,pos
+3845,,296,9,handle,little bit better track,pos
+3846,1184,296,10,tire,aggressive,pos
+3847,,296,10,weight distribution,hopefully ideal 50 50,pos
+3848,,296,10,turbo power,come right away,pos
+3849,,296,10,steering,sharp,pos
+3850,,296,10,steering,electric,neu
+3851,,296,10,steering,simulating field,pos
+3852,1185,296,11,steering,electric,neu
+3853,,296,11,steering,tad disconnected,neg
+3854,,296,11,steering,would want little field,neg
+3855,1186,296,12,engine,rage,pos
+3856,,296,12,torque,incredible amount,pos
+3857,,296,12,displacement,norm,neu
+3858,1187,296,13,technology price,considerable chunk change,neg
+3859,,296,13,technology price,oh,neu
+3860,1188,296,14,brake,feel really strong,pos
+3861,1189,296,15,suspension,really strong,pos
+3862,,296,15,power,,pos
+3863,,296,15,torque,,pos
+3864,1190,296,16,limit,right,pos
+3865,,296,16,power,really great,pos
+3866,,296,16,brake,hit really hard,pos
+3867,1191,296,17,car,different flavour BMW,pos
+3868,,296,17,engine,gem,pos
+3869,1192,297,1,-,-,-
+3870,1193,297,2,-,-,-
+3871,1194,297,3,infotaintment system,five different way interact,pos
+3872,,297,3,car,everything interchangeable,pos
+3873,,297,3,technology,full,pos
+3874,,297,3,car,double luxury,pos
+3875,,297,3,gesture control,interesting,pos
+3876,1195,297,4,technology,crammed full cutting edge technology,pos
+3877,1196,297,5,torque,definition wave,pos
+3878,1197,297,6,BMW launch control,little nervous,neg
+3879,,297,6,BMW launch control,nightmare,neg
+3880,,297,6,BMW launch control,really easy,pos
+3881,,297,6,0 60 run,really easy,pos
+3882,1198,297,7,torque,wave,pos
+3883,,297,7,torque,impressive,pos
+3884,,297,7,weight,heavy,neu
+3885,1199,297,8,technology,ton,pos
+3886,,297,8,weight,magically reduced,pos
+3887,,297,8,body,expensive metal,pos
+3888,1200,297,9,drive mode,fewer four,neg
+3889,,297,9,sport mode,lean towards comfort luxury,pos
+3890,,297,9,comfort mode,Rolls Royce like super,pos
+3891,1201,297,10,-,-,-
+3892,1202,297,11,car,ultimately comfort,pos
+3893,,297,11,comfort ICO plus,change,pos
+3894,,297,11,comfort mode,Rolls royce like,pos
+3895,,297,11,car,go ultimate driving machine,neg
+3896,1203,297,12,class,rather driver seat,pos
+3897,,297,12,class driving experience,much satisfying,pos
+3898,,297,12,BMW backseat,would rather back seat,pos
+3899,1204,297,13,-,-,-
+3900,1205,297,14,control,iPad like,pos
+3901,,297,14,comfort,ultimate,pos
+3902,,297,14,leg room,ultimate,pos
+3903,,297,14,seat,massaging,pos
+3904,1206,297,15,car,business level,pos
+3905,,297,15,car,higher luxury,pos
+3906,,297,15,car,higher comfort,pos
+3907,1207,297,16,-,-,-
+3908,1208,297,17,-,-,-
+3909,1209,297,18,design,classic BMW,pos
+3910,,297,18,design,love,pos
+3911,,297,18,design,little busy,neg
+3912,,297,18,Mercedes-Benz design,holistic,pos
+3913,,297,18,Mercedes-Benz design,bit striking,pos
+3914,,297,18,Mercedes-Benz design,little bit road presence,pos
+3915,,297,18,wheelbase,long,pos
+3916,,297,18,car,better looking,pos
+3917,1210,297,19,button,little,neu
+3918,,297,19,button,look like perfume bottle,pos
+3919,,297,19,smell,car wasp fresh scented air,pos
+3920,,297,19,smell,spring fresh,pos
+3921,,297,19,smell,little extra lightness,pos
+3922,1211,297,20,buy,go class,pos
+3923,,297,20,class front seat,like back,pos
+3924,1212,297,21,BMW technology,nothing wrong,pos
+3925,,297,21,BMW technology,Harry Porter like Magic Wand,pos
+3926,,297,21,BMW technology,piled top technology top technology,pos
+3927,,297,21,Mercedes technology,baked,neu
+3928,,297,21,Mercedes technology,bad,neu
+3929,1213,297,22,-,-,-
+3930,1214,297,23,-,-,-
+3931,1215,297,24,-,-,-
+3932,1216,298,1,size,much larger,pos
+3933,,298,1,trunk,great,pos
+3934,1217,298,2,trunk,giant,pos
+3935,,298,2,car,work,pos
+3936,,298,2,car,hybrid station wagon crossover sedan,pos
+3937,,298,2,room,unique,pos
+3938,,298,2,room,lot room,pos
+3939,1218,298,3,back seat,room seven series,pos
+3940,,298,3,back,lot room,pos
+3941,1219,298,4,open bonnet,unique,pos
+3942,1220,298,5,engine,quick,pos
+3943,,298,5,engine,two variation,pos
+3944,,298,5,engine,fast,pos
+3945,1221,298,6,air intake,funky feature,neg
+3946,,298,6,air intake GT-R,dysfunctional,neg
+3947,,298,6,BMW air intake,like,pos
+3948,,298,6,BMW air intake,look cool,pos
+3949,1222,298,7,car,wider,pos
+3950,,298,7,car,longer,pos
+3951,,298,7,height,taller,pos
+3952,,298,7,functionality,lot,pos
+3953,,298,7,utility,lot,pos
+3954,1223,298,8,weight,heavier,pos
+3955,1224,298,9,seating,sitting essence behind mountain crossover,pos
+3956,1225,298,10,headroom,lot,pos
+3957,,298,10,sunroof,enormous,pos
+3958,1226,298,11,car,feel like puffed standard three series,neu
+3959,1227,298,12,interior,love,neg
+3960,,298,12,interior,feel like BMW,neu
+3961,,298,12,plastic,feel little bit cheap,neg
+3962,,298,12,door handle,feel little bit cheap,neg
+3963,,298,12,interior,logical,pos
+3964,,298,12,interior,mechanical,pos
+3965,,298,12,interior,BMW,pos
+3966,1228,298,13,seat,20 different way adjust,pos
+3967,,298,13,seat,30 70 split,neu
+3968,,298,13,seat,50 50 split,neu
+3969,,298,13,seat,fold,pos
+3970,,298,13,back,giant enormous room,pos
+3971,1229,298,14,car,bit schizophrenic,neu
+3972,,298,14,spoiler button,coolest feature,pos
+3973,,298,14,spoiler,little,neu
+3974,,298,14,spoiler,say speed,pos
+3975,1230,298,15,hatchback,flip open,pos
+3976,,298,15,boot capacity,queen sized bed,pos
+3977,,298,15,BMW,meant carving canyon,neu
+3978,,298,15,BMW,meant carrying stuff,pos
+3979,1231,298,16,steering,rather numb,neg
+3980,,298,16,paddle shifter,best feature,pos
+3981,,298,16,paddle shifter,exquisite,pos
+3982,,298,16,shift,like tomorrow,pos
+3983,,298,16,shift,unusual,pos
+3984,,298,16,functionality,much,pos
+3985,1232,298,17,comfort mode,comfortable,pos
+3986,,298,17,sport plus mode,everything tightens,pos
+3987,,298,17,sport plus mode,steering becomes sharper,pos
+3988,,298,17,sport plus mode,car becomes sporty,pos
+3989,1233,298,18,I drive,latest version,pos
+3990,,298,18,I drive,improving,pos
+3991,,298,18,I drive,getting better,pos
+3992,1234,298,19,I drive,still huge fan,neg
+3993,,298,19,user interface,love,neg
+3994,,298,19,button,little,neu
+3995,,298,19,button,lot,neg
+3996,,298,19,toggle switch,lot way,neg
+3997,,298,19,sub menu,lot,neg
+3998,,298,19,system,functional,pos
+3999,,298,19,system,complicated,neg
+4000,,298,19,system,incredibly intuitive,neg
+4001,,298,19,functionality,lot,pos
+4002,,298,19,functionality,love,pos
+4003,,298,19,system,logical,pos
+4004,,298,19,system,straightforward,pos
+4005,,298,19,system,le user friendly,neg
+4006,,298,19,system,functionality,neu
+4007,,298,19,system,fall,neu
+4008,,298,19,system,give 5 functionality slash user friendliness scale,neu
+4009,1235,298,20,station wagon,functionality,pos
+4010,,298,20,station wagon,le room GT-R,neg
+4011,1236,298,21,room,mordern crossover,neu
+4012,,298,21,utility,mordern crossover,pos
+4013,,298,21,functionality,mordern crossover,pos
+4014,1237,298,22,wagon,little bit sharper,pos
+4015,,298,22,wagon,little bit dial,neu
+4016,,298,22,wagon,slower,neu
+4017,,298,22,wagon,lighter,pos
+4018,,298,22,wagon,better,pos
+4019,1238,298,23,drive,5000 mile without issue except gas,pos
+4020,1239,300,1,car,brand new,pos
+4021,,300,1,look,sexy,pos
+4022,,300,1,look,gorgeous,pos
+4023,,300,1,drive,wheel,neu
+4024,1240,300,2,sound,something bagman would composed .,pos
+4025,,300,2,engine,best,pos
+4026,,300,2,engine,safe stuffed,pos
+4027,1241,300,3,-,-,-
+4028,1242,300,4,-,-,-
+4029,1243,300,5,comfort,extremely comfortable,pos
+4030,,300,5,seat,really nice,pos
+4031,1244,300,6,interior,nicest,pos
+4032,,300,6,stitching,French,neu
+4033,,300,6,dashboard,mordern,pos
+4034,,300,6,interior,cool,pos
+4035,,300,6,interior,chic,pos
+4036,,300,6,interior,impressive,pos
+4037,1245,300,7,sunroof,panoramic,pos
+4038,1246,300,8,-,-,-
+4039,1247,300,9,seating,low compared door panel,neu
+4040,,300,9,car,ultimate G T cruiser,pos
+4041,1248,300,10,view,see outward sculpture shape,pos
+4042,,300,10,hood,beautifully scalloped,pos
+4043,,300,10,look,best looking BMW fleet,pos
+4044,1249,300,11,engine,magic happens,pos
+4045,,300,11,size,little bit big,pos
+4046,,300,11,weight,heavy,neu
+4047,,300,11,size,big,neu
+4048,,300,11,engine,big,pos
+4049,1250,300,12,weight,two ton,pos
+4050,,300,12,weight,heavier,pos
+4051,1251,300,13,car,grand touring,neu
+4052,,300,13,comfort,really meant four adult,neg
+4053,,300,13,seat,something quite cool,pos
+4054,,300,13,room,big enough,pos
+4055,,300,13,seat,dugout scallop,pos
+4056,,300,13,seat,pretty well back,pos
+4057,,300,13,seat,take long time get back,pos
+4058,1252,300,14,ride,easily controlled,pos
+4059,,300,14,handling,easily controlled,pos
+4060,,300,14,comfort,like exhales,pos
+4061,,300,14,sport,everything tightens like ready pop,pos
+4062,,300,14,ride,one best easily,pos
+4063,1253,300,15,drive,wheel,neu
+4064,,300,15,competition,handful,neu
+4065,,300,15,transmission,offer manual,neu
+4066,1254,300,16,weight,heavy,neu
+4067,,300,16,0 60 time,tick 5 second,neu
+4068,,300,16,0 60 time,Wow,pos
+4069,,300,16,fuel economy,thirsty thirsty car,neg
+4070,1255,300,17,price,lot money,neg
+4071,,300,17,engine note,lot,neg
+4072,,300,17,economy value,buy,neg
+4073,,300,17,competition,,neu
+4074,,300,17,engine note,could lot worse,neg
+4075,1256,300,18,-,-,-
+4076,1257,300,19,hood latch,awesome,pos
+4077,,300,19,safety,sticker prevent impaled,neu
+4078,,300,19,car,German,neu
+4079,1258,300,20,-,-,-
+4080,1259,301,1,price,least expensive,pos
+4081,1260,301,2,transmission,unique,pos
+4082,,301,2,drive,four wheel,neu
+4083,1261,301,3,interior,love,pos
+4084,,301,3,seat,perfect big fat guy,pos
+4085,,301,3,seat,feel like home,pos
+4086,,301,3,seat,little smaller,neu
+4087,1262,301,4,interior,well laid,pos
+4088,,301,4,material,high quality,pos
+4089,1263,301,5,transmission,exactly wierd flappy,neg
+4090,,301,5,transmission,push button want,neg
+4091,,301,5,automatic transmission,proper,pos
+4092,,301,5,cupholders,added afterthought,neg
+4093,,301,5,cupholders,look like belong mini car,neg
+4094,,301,5,cupholders,mini,neg
+4095,1264,301,6,interior,fantastic,pos
+4096,1265,301,7,seat,cozy,pos
+4097,,301,7,seat,big,pos
+4098,1266,301,8,front,comfortable two large men,pos
+4099,,301,8,rear,much,neg
+4100,,301,8,headroom,pretty good,pos
+4101,,301,8,headroom,good,pos
+4102,,301,8,cushion,nice,pos
+4103,,301,8,leg room,grasshopper lick,neg
+4104,,301,8,leg room,put toe front seat helpful,pos
+4105,,301,8,backseat,usable pair kid,pos
+4106,,301,8,backseat,make sure friend really short,neg
+4107,1267,301,9,back room,enough curl,pos
+4108,,301,9,back room,enough stroller,pos
+4109,,301,9,car,interesting family kid,pos
+4110,,301,9,car,interesting young demographic,pos
+4111,1268,301,10,inside,look great,pos
+4112,,301,10,interior,red,pos
+4113,,301,10,interior,look good,pos
+4114,,301,10,back,fantastic,pos
+4115,1269,301,11,carpeting,little thing seems place,neg
+4116,1270,301,12,car,premium small,neu
+4117,,301,12,size,mini,neu
+4118,,301,12,size,small,neu
+4119,,301,12,price,little pricey,neg
+4120,1271,301,13,package,packed BMW stuff,pos
+4121,,301,13,engine,big,pos
+4122,,301,13,engine,fat,pos
+4123,,301,13,drive,wheel,neu
+4124,,301,13,price,premium,pos
+4125,1272,301,14,height,tall,neu
+4126,,301,14,size,miniaturized A3 Siri's wagon,neu
+4127,,301,14,size,X1 size package,neu
+4128,1273,301,15,-,-,-
+4129,1274,301,16,size,baby baby,neu
+4130,1275,301,17,-,-,-
+4131,1276,301,18,back,slant,neu
+4132,,301,18,space,lot,neg
+4133,,301,18,space,little bit,neg
+4134,,301,18,car,good ski,pos
+4135,,301,18,wheel,look anemic,neg
+4136,,301,18,wheel,look little small,neg
+4137,,301,18,ground clearence,lot small,pos
+4138,1277,301,19,dirt road,yes,pos
+4139,,301,19,offroad,much,neg
+4140,,301,19,snow,yes,pos
+4141,1278,301,20,-,-,-
+4142,1279,301,21,look,good looking,pos
+4143,,301,21,look,handsome,pos
+4144,,301,21,front end,really like,pos
+4145,,301,21,whole package,good looking,pos
+4146,1280,301,22,-,-,-
+4147,1281,301,23,car,capable high six,pos
+4148,,301,23,engine,big,pos
+4149,,301,23,engine,fat,pos
+4150,,301,23,size,little,neu
+4151,1282,301,24,car,lot fun,pos
+4152,1283,301,25,standard engine power,fine,neu
+4153,,301,25,size,tiny,neu
+4154,,301,25,300D power,cool,pos
+4155,,301,25,torque,cool,pos
+4156,1284,301,26,power,overgrowth,pos
+4157,,301,26,corner,typical BMW,neu
+4158,,301,26,corner,good feel what's going,pos
+4159,,301,26,steering,feel decent,neu
+4160,,301,26,steering,go exactly pointed like scalpel,pos
+4161,1285,301,27,car,fun,pos
+4162,,301,27,drive,fun,pos
+4163,1286,301,28,power,crazy powerful,pos
+4164,,301,28,car,small,neu
+4165,,301,28,purchase,buy,pos
+4166,,301,28,Volvo XC60 offroad,better,pos
+4167,,301,28,Volvo XC60 room,,pos
+4168,1287,301,29,Volvo XC60 drive,fun,neg
+4169,,301,29,Volvo XC60 power,certainly much practical,pos
+4170,1288,301,30,car,funny hell,pos
+4171,,301,30,car,powerful,pos
+4172,,301,30,tyre,big fat Harry,pos
+4173,1289,302,1,X5,brand new,pos
+4174,,302,1,power,,pos
+4175,,302,1,package,performance sport,neu
+4176,,302,1,X5,ordinary,pos
+4177,1290,302,2,wheel,massive,neu
+4178,,302,2,tire,massive,neu
+4179,1291,302,3,-,-,-
+4180,1292,302,4,look,easy make look cartoonish,neu
+4181,1293,302,5,-,-,-
+4182,1294,302,6,fender flare,massive,pos
+4183,,302,6,look,fast,pos
+4184,,302,6,look,powerful,pos
+4185,,302,6,look,elegant,pos
+4186,,302,6,car,work family,pos
+4187,,302,6,look,scream,pos
+4188,,302,6,look,say mess subtly,pos
+4189,1295,302,7,third row seat,biggest change,neu
+4190,,302,7,third row seat,way back,neu
+4191,1296,302,8,getting back,slow,neg
+4192,,302,8,legroom,would crush toe,neg
+4193,,302,8,seating,potential seven passenger,neu
+4194,,302,8,back,good small kid,neg
+4195,1297,302,9,-,-,-
+4196,1298,302,10,tailgate,little,neu
+4197,,302,10,tailgate,love,pos
+4198,,302,10,getting stuff,simple,pos
+4199,1299,302,11,suspension,sport tuned,neu
+4200,,302,11,competition,still competes five passenger car,neu
+4201,1300,302,12,BMW,really rough,neu
+4202,,302,12,rough road,car knock filling,neg
+4203,,302,12,smooth road,pleasure,pos
+4204,,302,12,corner,dead flat,pos
+4205,,302,12,steering,know exactly wheel,pos
+4206,,302,12,steering,fat,pos
+4207,,302,12,steering,love,pos
+4208,,302,12,vehicle,sport activity,pos
+4209,,302,12,drive,car like BMW,pos
+4210,1301,302,13,competition,,neu
+4211,1302,302,14,car,twitst ease,pos
+4212,,302,14,car,absolute booth place,pos
+4213,1303,302,15,drive,amazed,pos
+4214,1304,302,16,-,-,-
+4215,1305,302,17,wheel,M,neu
+4216,,302,17,suspension,M,neu
+4217,1306,302,18,-,-,-
+4218,1307,302,19,air density,le,pos
+4219,,302,19,engine,le air,neg
+4220,,302,19,car,air slower,neg
+4221,,302,19,rpm,wow,pos
+4222,,302,19,engine,spooling,pos
+4223,1308,302,20,weight,lot,neg
+4224,1309,302,21,-,-,-
+4225,1310,302,22,torque,adequate,neu
+4226,,302,22,size,big,neu
+4227,,302,22,engine,love rev,pos
+4228,1311,302,23,rpm,phenomenal,pos
+4229,,302,23,rpm,match driving style like fine tailored suit,pos
+4230,1312,302,24,sound,smile,pos
+4231,1313,302,25,-,-,-
+4232,1314,302,26,diesel version,plenty torque,pos
+4233,,302,26,diesel version,really good gas mileage,pos
+4234,,302,26,driving experience,,pos
+4235,,302,26,real world testing,expensive,pos
+4236,1315,302,27,inside,really like,pos
+4237,,302,27,material,soft,pos
+4238,,302,27,material,real,pos
+4239,,302,27,steering,fat,pos
+4240,,302,27,steering,heated,pos
+4241,,302,27,interior,everything touch feel expensive,pos
+4242,1316,302,28,interior,everything oriented towards driver,pos
+4243,,302,28,I drive,second best system,pos
+4244,1317,302,29,sport performance package,perform like M,neg
+4245,,302,29,sport performance package,lease,neu
+4246,,302,29,sport performance package,look like M,neu
+4247,1318,302,30,car,bit poser,neu
+4248,,302,30,body,cladding,neu
+4249,1319,302,31,X5,like,pos
+4250,,302,31,purchase,gonna buy,pos
+4251,1320,302,32,snow,summer tyre get stuck,neg
+4252,,302,32,snow,get proper tyring,pos
+4253,1321,303,1,BMW,huge fan,pos
+4254,,303,1,BMW,love,pos
+4255,,303,1,drive,bir treat,pos
+4256,,303,1,car,plenty good,pos
+4257,1322,303,2,look,longer ugly duckling BMW family,neg
+4258,,303,2,design,mordern,pos
+4259,,303,2,design,elegant,pos
+4260,,303,2,car,wider,neu
+4261,,303,2,height,lowered,pos
+4262,,303,2,car,stretched,pos
+4263,,303,2,car,serious road presence,pos
+4264,,303,2,BMW,shaken stirred,neu
+4265,1323,303,3,torque,really feel car push back driver seat floored,pos
+4266,1324,303,4,package,optional sport,neu
+4267,1325,303,5,light,led,neu
+4268,,303,5,light,fog,neu
+4269,,303,5,goody,expensive,pos
+4270,1326,303,6,drive setting,actually work,pos
+4271,,303,6,ride,,pos
+4272,,303,6,handling,,pos
+4273,,303,6,drive setting,instantly feel difference,pos
+4274,,303,6,steering,complaint,neg
+4275,,303,6,steering,electronic,neu
+4276,,303,6,steering,somewhat dislocated,neg
+4277,,303,6,steering,low ground,neg
+4278,1327,303,7,tyre,performance,pos
+4279,1328,303,8,seating,biggest downside,neg
+4280,,303,8,front two seat,great,pos
+4281,,303,8,front two seat,get two full size grown adult,pos
+4282,,303,8,front two seat,fine,pos
+4283,,303,8,four people,better Range Rover,neg
+4284,1329,303,9,backseat,challenge,neg
+4285,,303,9,crossover,comfort four people,pos
+4286,,303,9,sedan,comfort four people,pos
+4287,1330,303,10,price,price elastic,neu
+4288,1331,303,11,-,-,-
+4289,1332,303,12,fuel economy,bad,neg
+4290,1333,303,13,power,boatload,pos
+4291,,303,13,performance,boatload,pos
+4292,,303,13,luxury,boatload,pos
+4293,1334,303,14,performance,close supercar,pos
+4294,,303,14,car,everyday,pos
+4295,,303,14,pirce,big buck,neg
+4296,,303,14,value,worth big buck,pos
+4297,,303,14,room,want little bit,neg
+4298,,303,14,power,intoxicating,pos
