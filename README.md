@@ -40,7 +40,7 @@ Aspect Sentiment Triplet Extraction (ASTE) within the automotive review domain. 
 
 # Contact
 [![mail](https://github.com/user-attachments/assets/16a603cf-0e51-450a-9e79-07147f26ceb8)
-](mailto:museaste@gmail.com) museaste@gmail.com
+](mailto:museaste@gmail.com) [museaste@gmail.com]
 
 #  Acknowledgement
 [1] Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, and Luo Si. Knowing what, how and why: A near complete solution for aspect-based sentiment analysis. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 34, pages 8600–8607, 2020.
