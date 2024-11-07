@@ -4,8 +4,7 @@
 )](https://www.sciencedirect.com/science/article/pii/S0957417424025624)
 [![ElsevierLink](https://img.shields.io/badge/PDF-red?style=plastic&logoColor=red&label=Elsevier&color=red
 )](https://www.sciencedirect.com/science/article/pii/S0957417424025624/pdfft?md5=0709c2b02ab9ad74d5e277aa4fe2d7d8&pid=1-s2.0-S0957417424025624-main.pdf)
-[![mail](https://github.com/user-attachments/assets/16a603cf-0e51-450a-9e79-07147f26ceb8)
-](mailto:museaste@gmail.com) 
+
 
 
 **Code and Data** for the following paper  [MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos](https://doi.org/10.1016/j.eswa.2024.125695) 
@@ -38,6 +37,10 @@ Aspect Sentiment Triplet Extraction (ASTE) within the automotive review domain. 
 # Usecase
 
 ![Screenshot_7-11-2024_6133_](https://github.com/user-attachments/assets/e5464294-606d-43fd-b64b-8bbe8204c61a)
+
+# Contact
+[![mail](https://github.com/user-attachments/assets/16a603cf-0e51-450a-9e79-07147f26ceb8)
+](mailto:museaste@gmail.com) museaste@gmail.com
 
 #  Acknowledgement
 [1] Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, and Luo Si. Knowing what, how and why: A near complete solution for aspect-based sentiment analysis. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 34, pages 8600–8607, 2020.
