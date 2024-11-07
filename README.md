@@ -1,5 +1,6 @@
-[![ElsevierLink](https://img.shields.io/badge/Springer-Page-darkblue.svg)](https://www.sciencedirect.com/science/article/pii/S0957417424025624)
-[![ElsevierLink](https://img.shields.io/badge/Springer-PDF-blue.svg)](https://rdcu.be/dkbIF)
+[![ElsevierLink](https://img.shields.io/badge/Elsevier-Page?label=Page)](https://www.sciencedirect.com/science/article/pii/S0957417424025624)
+[![ElsevierLink](https://img.shields.io/badge/Elsevier-PDF?logoColor=b&label=PDF&color=r
+)](https://www.sciencedirect.com/science/article/pii/S0957417424025624/pdfft?md5=0709c2b02ab9ad74d5e277aa4fe2d7d8&pid=1-s2.0-S0957417424025624-main.pdf)
 **Code and Data** for the following paper  [MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos](https://doi.org/10.1016/j.eswa.2024.125695) 
 
 *Cite the following paper if you use this dataset, also star our repo, and follow the instructions mentioned below and cite additional relevant citations :*
