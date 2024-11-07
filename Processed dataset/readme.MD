@@ -5,3 +5,6 @@ Due to limitations of current state-of-the-art baseline models (predict explicit
  - replacing the aspects and opinion with their positional token numbers (or of their lemmatized/nearest token) in the text transcript segment, as required by constraints of current baseline models
 
 Results reported in the paper for different experiments and datasets (full, processed, benchmark, comparison).
+
+The correct final format to run the baselines is shown is sample(format).txt file for a sample of 25 rows. 
+Complete train, dev and test annotation files are provided for each text transcript segment indicated by their id and segment_id.
