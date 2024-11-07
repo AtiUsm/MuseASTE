@@ -16,13 +16,14 @@ Aspect Sentiment Triplet Extraction (ASTE) within the automotive review domain. 
 1.	Access the Aspect Sentiment Triplet AExtraction Annotations provided here.
 2.	Then go to the primary dataset MuseCar-2020 [2] ([MuSe 2020 - ACM MM 2020 (google.com)](https://sites.google.com/view/muse2020), and acquire the Muse-Topic dataset to get access to the original transcript texts and other labels that maybe of interest to you like topic/category.
 3.	The id, segment_id, columns in the train and devel files of our annotation dataset match with the id, segment_id, and label_topic columns of  the train and devel files in the original MuSe-Topic dataset.
-4.	The code for generating figures, tables and charts is in Dataset Statistical Analysis.ipynb
-5.	The code for Sampling is in Sampling.ipynb
-6.	The Simplest version OF USECASE demo figure that creates ASTE knowledge graphs is in USECASE_DEMO_FIGURE_SIMPLEST_NOTEBOOK_VERSION.ipynb
-7.	Other folders contain supplementary material, like post-processed annotations (stop-word removed and lemmaized), example annotator feedback, and sampled subset file.
-8.	Code for baselines is taken from the original repositories and adapted to our datatset, the orginial repositories are cited in respective readme files.
-9.	Please also cite the Muse-Dataset[2] and sign their agreement[3].
-10.	Additionally, provided if you use any baseline code then cite them.
+4.	The gold labels for the full dataset is present in train.csv, and devel.csv files in the dataset folder. The processed annotations is present in the processed dataset folder.
+5.	The code for generating figures, tables and charts is in Dataset Statistical Analysis.ipynb
+6.	The code for Sampling is in Sampling.ipynb
+7.	The Simplest version OF USECASE demo figure that creates ASTE knowledge graphs is in USECASE_DEMO_FIGURE_SIMPLEST_NOTEBOOK_VERSION.ipynb
+8.	Other folders contain supplementary material, like post-processed annotations (stop-word removed and lemmaized), example annotator feedback, and sampled subset file.
+9.	Code for baselines is taken from the original repositories and adapted to our datatset, the orginial repositories are cited in respective readme files.
+10.	Please also cite the Muse-Dataset[2] and sign their agreement[3].
+11.	Additionally, provided if you use any baseline code then cite them.
 
 # Usecase
 
