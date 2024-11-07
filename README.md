@@ -8,11 +8,11 @@ Usmani, A., Hamood Alsamhi, S., Jaleed Khan, M., Breslin, J., Curry, E., MuSe-Ca
 Aspect Sentiment Triplet Extraction Annotations for the MuSe-Car Dataset - A multi-modal dataset consisting of many hours of video footage from YouTube and transcripts of reviewing automotive vehicles, mainly in English language. 
 
 # Task Description
-![image](https://github.com/user-attachments/assets/f0fa7462-cb25-4ec4-8e26-9c075661a058)
-
 Aspect Sentiment Triplet Extraction (ASTE) within the automotive review domain. ASTE as a task was introduced by Peng et al. [1], which is one of the tasks among the 7 sub-tasks of aspect-based sentiment analysis (ABSA). It gives a complete picture or story about a product by extracting triplets (a,s,o) from review sentences. These triplets are of the form <a,o,s> consist of an aspect a, an opinion o, and a sentiment s.   For example, from the sentence *“the gearbox is rubbish”*, the triplet *(gearbox, rubbish, NEG)* is extracted. Sometimes, an additionaly aspect category is also predicted.
 
+![image](https://github.com/user-attachments/assets/f0fa7462-cb25-4ec4-8e26-9c075661a058)
 
+#USECASE
 
 ![Screenshot_7-11-2024_6133_](https://github.com/user-attachments/assets/e5464294-606d-43fd-b64b-8bbe8204c61a)
 
