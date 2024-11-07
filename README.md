@@ -12,11 +12,6 @@ Aspect Sentiment Triplet Extraction (ASTE) within the automotive review domain. 
 
 ![image](https://github.com/user-attachments/assets/f0fa7462-cb25-4ec4-8e26-9c075661a058)
 
-#USECASE
-
-![Screenshot_7-11-2024_6133_](https://github.com/user-attachments/assets/e5464294-606d-43fd-b64b-8bbe8204c61a)
-
-
 # Instructions
 1.	Access the Aspect Sentiment Triplet AExtraction Annotations provided here.
 2.	Then go to the primary dataset MuseCar-2020 [2] ([MuSe 2020 - ACM MM 2020 (google.com)](https://sites.google.com/view/muse2020), and acquire the Muse-Topic dataset to get access to the original transcript texts and other labels that maybe of interest to you like topic/category.
@@ -28,6 +23,11 @@ Aspect Sentiment Triplet Extraction (ASTE) within the automotive review domain. 
 8.	Code for baselines is taken from the original repositories and adapted to our datatset, the orginial repositories are cited in respective readme files.
 9.	Please also cite the Muse-Dataset[2] and sign their agreement[3].
 10.	Additionally, provided if you use any baseline code then cite them.
+
+# USECASE
+
+![Screenshot_7-11-2024_6133_](https://github.com/user-attachments/assets/e5464294-606d-43fd-b64b-8bbe8204c61a)
+
 #  Acknowledgement
 [1] Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, and Luo Si. Knowing what, how and why: A near complete solution for aspect-based sentiment analysis. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 34, pages 8600–8607, 2020.
 
