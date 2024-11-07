@@ -10,3 +10,4 @@ Results reported in the paper for different experiments and datasets (full, proc
 2. Complete train, dev and test annotation files are provided for each text transcript segment indicated by their id and segment_id.
 3.  First obtain the muse text transcripts.
 4. Replace the transcript ids with the actual segment text in all annotation files(as shown in sample(format)) and save each file as train.txt, dev.txt, and text.txt
+5. Sample train test and dev files in correct format are shown.
