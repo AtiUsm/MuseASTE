@@ -19,7 +19,8 @@ Usmani, A., Hamood Alsamhi, S., Jaleed Khan, M., Breslin, J., Curry, E., MuSe-Ca
 # MuseASTE
 Aspect Sentiment Triplet Extraction Annotations for the MuSe-Car Dataset - A multi-modal dataset consisting of many hours of video footage from YouTube and transcripts of reviewing automotive vehicles, mainly in English language. 
 
-![Screenshot (154)](https://github.com/user-attachments/assets/4a6b9d59-713d-4de6-b65a-9e01d268359f)
+![Screenshot (154)](https://github.com/user-attachments/assets/a0431d20-7e03-48c8-ac50-6be42fbf75c6)
+
 
 
 # Task Description
