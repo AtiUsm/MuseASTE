@@ -6,7 +6,7 @@
 [![ElsevierLink](https://img.shields.io/badge/PDF-red?style=plastic&logoColor=red&label=Elsevier&color=red
 )](https://www.sciencedirect.com/science/article/pii/S0957417424025624/pdfft?md5=0709c2b02ab9ad74d5e277aa4fe2d7d8&pid=1-s2.0-S0957417424025624-main.pdf)
 [![PwC](https://img.shields.io/badge/Paper%20with%20Code%20-Blue?color=blue)](https://paperswithcode.com/dataset/musecar-aste)
-[![Slides](https://img.shields.io/badge/MuseASTE-orange?style=flat-square&logo=SlideShare&label=ppt&color=orange)](https://github.com/AtiUsm/MuseASTE/blob/main/Muse-CAR%20ASTE%20dataset.pdf)
+[![Slides](https://img.shields.io/badge/MuseASTE-orange?style=flat-square&logo=SlideShare&label=ppt&color=orange)](https://github.com/AtiUsm/MuseASTE/blob/main/Muse-CAR%20ASTE%20dataset.ppt)
 
 
 
