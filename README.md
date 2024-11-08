@@ -17,8 +17,7 @@
 
 *Cite the following paper if you use this dataset, also star our repo, and follow the instructions mentioned below and cite additional relevant citations :*
 ```
-Usmani, A., Hamood Alsamhi, S., Jaleed Khan, M., Breslin, J., Curry, E.,
- MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos,
+Usmani, A., Hamood Alsamhi, S., Jaleed Khan, M., Breslin, J., Curry, E.,MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos,
  Expert Systems with Applications (2024), doi: https://doi.org/10.1016/j.eswa.2024.125695
 ```
 # MuseASTE
