@@ -29,7 +29,7 @@ Aspect Sentiment Triplet Extraction (ASTE) within the automotive review domain. 
 ![image](https://github.com/user-attachments/assets/f0fa7462-cb25-4ec4-8e26-9c075661a058)
 
 # Key Aspects
-Benchmark- Current Benchmark for Aspect Sentiment Triplet Extraction  i.e., ASTE-V2[8]  Sem-Eval datasets(14lap, 14 res, 15res,16res) all four dataset combined.
+Benchmark- Current Benchmark for Aspect Sentiment Triplet Extraction  i.e., ASTE-V2[8]  Sem-Eval datasets(14lap, 14 res, 15res,16res) all four datasets combined.
 
 ![Screenshot (149)](https://github.com/user-attachments/assets/897c9bc9-c83d-4e26-9ed6-855ed68b93e0)
 
