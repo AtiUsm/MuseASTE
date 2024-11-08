@@ -15,11 +15,20 @@
 
 **Code and Data** for the following paper  [MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos](https://doi.org/10.1016/j.eswa.2024.125695) 
 
+
+# Research Citation
 *Cite the following paper if you use this dataset, also star our repo, and follow the instructions mentioned below and cite additional relevant citations :*
 ```
-Usmani, A., Hamood Alsamhi, S., Jaleed Khan, M., Breslin, J., Curry, E.,MuSe-CarASTE: A comprehensive dataset for aspect
-sentiment triplet extraction in automotive review videos, Expert Systems with Applications (2024),doi:https://doi.org/
-10.1016/j.eswa.2024.125695
+@article{USMANI2024125695,
+title = {MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos},
+journal = {Expert Systems with Applications},
+pages = {125695},
+year = {2024},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2024.125695},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417424025624},
+author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and John Breslin and Edward Curry},
+keywords = {MuSeCar dataset, Aspect sentiment triplet extraction, Sentiment analysis, Opinion mining, Video reviews, Transcription}}
 ```
 # MuseASTE
 Aspect Sentiment Triplet Extraction Annotations for the MuSe-Car Dataset - A multi-modal dataset consisting of many hours of video footage from YouTube and transcripts of reviewing automotive vehicles, mainly in English language. 
