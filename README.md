@@ -30,16 +30,16 @@ Aspect Sentiment Triplet Extraction (ASTE) within the automotive review domain. 
 # Research Citation
 *Cite the following paper if you use this dataset, also star our repo, and follow the instructions mentioned below and cite additional relevant citations :*
 ```
-@article{USMANI2024125695,
+@article{USMANI2025125695,
 title = {MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos},
 journal = {Expert Systems with Applications},
+volume = {262},
 pages = {125695},
-year = {2024},
+year = {2025},
 issn = {0957-4174},
 doi = {https://doi.org/10.1016/j.eswa.2024.125695},
 url = {https://www.sciencedirect.com/science/article/pii/S0957417424025624},
 author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and John Breslin and Edward Curry},
-}
 
 ```
 
