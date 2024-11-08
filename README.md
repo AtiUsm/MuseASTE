@@ -39,7 +39,7 @@ issn = {0957-4174},
 doi = {https://doi.org/10.1016/j.eswa.2024.125695},
 url = {https://www.sciencedirect.com/science/article/pii/S0957417424025624},
 author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and John Breslin and Edward Curry},
-keywords = {MuSeCar dataset, Aspect sentiment triplet extraction, Sentiment analysis, Opinion mining, Video reviews, Transcription}}
+}
 
 ```
 
