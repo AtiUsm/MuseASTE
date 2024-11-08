@@ -65,8 +65,8 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 ![Screenshot_7-11-2024_6133_](https://github.com/user-attachments/assets/e5464294-606d-43fd-b64b-8bbe8204c61a)
 
 # Properties
-Benchmark- Current Benchmark for Aspect Sentiment Triplet Extraction  i.e., ASTE-V2  Sem-Eval datasets(14lap, 14 res, 15res,16res) all four 
-dataset combined
+Benchmark- Current Benchmark for Aspect Sentiment Triplet Extraction  i.e., ASTE-V2  Sem-Eval datasets(14lap, 14 res, 15res,16res) all four dataset combined
+
 ![Screenshot (149)](https://github.com/user-attachments/assets/897c9bc9-c83d-4e26-9ed6-855ed68b93e0)
 
 
