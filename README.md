@@ -1,11 +1,11 @@
 # MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos
 [![MuseASTE](https://img.shields.io/badge/MuseASTE-blueviolet?style=flat-square&logo=Github&label=Github&color=blueviolet
 )](https://github.com/AtiUsm/MuseASTE/tree/main)
-[![ElsevierLink](https://img.shields.io/badge/Page-green?style=plastic&logoColor=greem&label=Elsevier&color=green
+[![ElsevierLink](https://img.shields.io/badge/Page-green?style=flat-square&logo=Elsevier&logoColor=White&label=Elsevier&labelColor=White&color=green
 )](https://www.sciencedirect.com/science/article/pii/S0957417424025624)
 [![ElsevierLink](https://img.shields.io/badge/PDF-red?style=flat-square&logo=Adobe%20Acrobat%20Reader&label=Elsevier&color=red
 )](https://www.sciencedirect.com/science/article/pii/S0957417424025624/pdfft?md5=0709c2b02ab9ad74d5e277aa4fe2d7d8&pid=1-s2.0-S0957417424025624-main.pdf)
-[![PwC](https://img.shields.io/badge/Paper%20with%20Code-blue?style=flat-square&logo=Papers%20With%20Code&label=Muse&color=blue
+[![PwC](https://img.shields.io/badge/Papers%20with%20Code-blue?style=flat-square&logo=Papers%20With%20Code&label=Muse&color=blue
 )](https://paperswithcode.com/dataset/musecar-aste)
 [![Slides](https://img.shields.io/badge/MuseASTE-orange?style=flat-square&logo=SlideShare&label=ppt&color=orange)](https://github.com/AtiUsm/MuseASTE/blob/main/Muse-CAR%20ASTE%20dataset.ppt)
 
