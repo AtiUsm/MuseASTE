@@ -70,6 +70,24 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 
 ![Screenshot_7-11-2024_6133_](https://github.com/user-attachments/assets/e5464294-606d-43fd-b64b-8bbe8204c61a)
 
+# Demo
+This demo gives you a sneak-peek in to one of our cars of our dataset. We created topic and ASTE labels for one car (example_demp.csv), and implemented this demo using streamlit
+
+Requirements:
+```
+pip install pandas
+pip install matplotlib
+pip install streamlit
+pip install networkx
+pip install streamit-extras
+```
+
+To run the code:
+
+```
+streamlit run demo.py
+
+```
 
 # Contact
 
