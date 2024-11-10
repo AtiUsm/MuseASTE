@@ -8,8 +8,13 @@ pip install matplotlib
 pip install streamlit
 pip install networkx
 pip install streamit-extras
+pip install st-annotated-text
 ```
+Or:
 
+```
+pip install -r requirements.txt
+```
 To run the code:
 
 ```
