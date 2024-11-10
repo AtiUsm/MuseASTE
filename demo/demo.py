@@ -1,5 +1,3 @@
-!pip install -r requirements.txt
-!pip install st-annotated-text
 import streamlit as st
 from annotated_text import annotated_text
 st.title(':blue[MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos]')
