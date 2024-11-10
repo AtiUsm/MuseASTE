@@ -65,11 +65,6 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 9.	Code for baselines is taken from the original repositories and adapted to our datatset, the orginial repositories are cited in respective readme files. Provided you use any baseline code then cite them. We also provide our experimental settings and environment file.
 10.	Please also cite the Muse-Dataset[2] and sign their agreement[3].
 
-
-# Usecase
-
-![Screenshot_7-11-2024_6133_](https://github.com/user-attachments/assets/e5464294-606d-43fd-b64b-8bbe8204c61a)
-
 # Demo
 Demo gives you a sneak-peek in to one of our cars of our dataset. We created topic and ASTE labels for one car, and implemented this demo using streamlit.
 
@@ -88,6 +83,10 @@ To run the code:
 streamlit run demo.py
 
 ```
+
+# Usecase
+
+![Screenshot_7-11-2024_6133_](https://github.com/user-attachments/assets/e5464294-606d-43fd-b64b-8bbe8204c61a)
 
 # Contact
 
