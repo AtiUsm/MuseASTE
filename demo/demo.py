@@ -1,5 +1,5 @@
 import streamlit as st
-from annotated_text import annotated_text
+from st_annotated_text import annotated_text
 st.title(':blue[MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos]')
 st.title(':green[Get a sneak-peek into our dataset! :eyes:]')
 st.markdown("# Car A")
