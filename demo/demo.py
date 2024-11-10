@@ -1,13 +1,6 @@
 import streamlit as st
 from annotated_text import annotated_text
-from streamlit_extras.mention import mention
 st.title(':blue[MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos]')
-mention(
-        label="muse-aste-homepage",
-        icon="github",  # GitHub is also featured!
-        url="https://github.com/AtiUsm/MuseASTE/tree/main",
-    )
-
 st.title(':green[Get a sneak-peek into our dataset! :eyes:]')
 st.markdown("# Car A")
 st.sidebar.markdown("# Profile")
@@ -20,10 +13,7 @@ with expand:
     elements.write('Type: :green[Convertible]')
     elements.write('Cost: :gray[$300,000]')
     elements.write('Fuel: :gray[Petrol]')
-x=st.sidebar.feedback("thumbs")
-if x==1:
-    st.balloons()
-st.sidebar.pills("Tags", ["ASTE", "Knowledge Graph", "Aspect Sentiment Triplet Extraction","Aspect Based Knowledge Graphs"])
+
 
 
 import streamlit as st
@@ -122,13 +112,12 @@ tab1, tab2 , tab3= st.tabs(["Arrange by Topic", "Arrange by Sentiment","View Com
 tab3.title("Select the maximum no. of ASTE triples per topic")
 
 fields=["id", "segment_id", "label_topic", "aspect","opinion","sentiment"]
-df=pd.read_csv("example_demo.csv", usecols=fields) #give the link to train file annotations
-#df2=pd.read_csv("devel_label (1).csv", usecols=fields) #give the link to devel file annotations
-#df=pd.concat([df1,df2],axis=0)
+df1=pd.read_csv("train_label (1).csv", usecols=fields) #give the link to train file annotations
+df2=pd.read_csv("devel_label (1).csv", usecols=fields) #give the link to devel file annotations
+df=pd.concat([df1,df2],axis=0)
 df['triple'] = df.apply(lambda x: construct_triple(x.aspect, x.opinion,x.sentiment), axis=1)
-#df['triple2'] = df.apply(lambda x: construct_triple2(x.id, x.label_topic,x.aspect), axis=1)
-#sf=df.loc[df['id']==36]
-#sf.to_csv('example_demo.csv')
+df['triple2'] = df.apply(lambda x: construct_triple2(x.id, x.label_topic,x.aspect), axis=1)
+
 # creates, draws, and saves topic graph. the graph is saved as .graphml file, and images as .pdf
 def draw_topic_graph(topic,df,id, a='all', s='all',flag=0):
   if flag==0:  
@@ -318,7 +307,7 @@ with tab1:
           # Update the progress bar with each iteration.
           latest_iteration.text(f'{i+1}')
           bar.progress(i + 1)
-          time.sleep(0.01)
+          time.sleep(0.05)
         '..now we are done! 3 2 1....'
         #'...and now we\'re done!
         triples=get_triples(topicnames.index(topic),df,36,'all','all')
@@ -380,7 +369,7 @@ with tab2:
           # Update the progress bar with each iteration.
           latest_iteration.text(f'{i+1}')
           bar.progress(i + 1)
-          time.sleep(0.01)
+          time.sleep(0.05)
         '..now we are done! 3 2 1....'
         st.pyplot(draw_sent_graph(df,36,'all', radio, flag=1))
         topic=st.selectbox("Filter by Topic", topicnames, index=None, key=5)
@@ -433,7 +422,7 @@ with tab3:
       # Update the progress bar with each iteration.
       latest_iteration.text(f'{i+1}')
       bar.progress(i + 1)
-      time.sleep(0.01)
+      time.sleep(0.05)
     '..rendering....'
     #'...and now we\'re done!'
-    st.pyplot(entity_graph(36,df,density)) #replace the entiyid by any entity you want
+    st.pyplot(entity_graph(15,df,density)) #replace the entiyid by any entity you want
