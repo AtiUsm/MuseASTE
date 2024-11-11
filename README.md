@@ -92,13 +92,13 @@ streamlit run demo/demo.py
 ![Screenshot_7-11-2024_6133_](https://github.com/user-attachments/assets/e5464294-606d-43fd-b64b-8bbe8204c61a)
 
 # Baselines
--**BRMC** Machine Comprehension based.
+-**BRMC** Machine Comprehension based.[6]
 
--**GAS** Large Language Model (T5) based generative approach.
+-**GAS** Large Language Model (T5) based generative approach.[7]
 
--**BART-ABSA** Pointer based indices generation/prediction approach. Predicts start and end positions of a tag.
+-**BART-ABSA** Pointer based indices generation/prediction approach. Predicts start and end positions of a tag.[4]
 
--**Span-ASTE** Tagging based span prediction method.
+-**Span-ASTE** Tagging based span prediction method.[5]
 
 # Contact
 
