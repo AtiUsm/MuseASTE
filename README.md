@@ -66,7 +66,7 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 10.	Please also cite the Muse-Dataset[2] and sign their agreement[3].
 
 # Demo
-Demo gives you a sneak-peek in to one of our cars of our dataset. We created topic and ASTE labels for one car, and implemented this demo using streamlit.
+Demo gives you a sneak-peek in to one of our ASTE knowledge graphs and allows you to play with it. We created topic and ASTE labels for one car in our dataset, and implemented this demo using streamlit.
 
 Requirements:
 ```
