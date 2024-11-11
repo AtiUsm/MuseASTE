@@ -79,10 +79,10 @@ pip install networkx
 pip install streamit-extras
 ```
 
-To run the code:
+To run the (demo) code:
 
 ```
-streamlit run demo.py
+streamlit run demo/demo.py
 
 ```
 
