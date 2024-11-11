@@ -91,6 +91,12 @@ streamlit run demo/demo.py
 
 ![Screenshot_7-11-2024_6133_](https://github.com/user-attachments/assets/e5464294-606d-43fd-b64b-8bbe8204c61a)
 
+# Baselines
+**BRMC** Machine Comprehension based.
+**GAS** Large Language Model (T5) based generative approach.
+**BART-ABSA** Pointer based indices generation/prediction approach.
+**Span-ASTE** Tagging based span prediction method.
+
 # Contact
 
 [![mail](https://github.com/user-attachments/assets/16a603cf-0e51-450a-9e79-07147f26ceb8)
