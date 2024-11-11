@@ -2,7 +2,6 @@
 #
 # Name                    Version                   Build  Channel
 #_anaconda_depends         2024.06             py312_mkl_2 
-st-annotated-text
 abseil-cpp                20211102.0           hd77b12b_0  
 aext-assistant            4.0.15          py312haa95532_jl4_0  
 aext-assistant-server     4.0.15          py312haa95532_0  
