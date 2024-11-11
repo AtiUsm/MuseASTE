@@ -1,7 +1,8 @@
 # packages in environment at C:\Users\Atiya\Downloads\anaconda3:
 #
 # Name                    Version                   Build  Channel
-_anaconda_depends         2024.06             py312_mkl_2  
+#_anaconda_depends         2024.06             py312_mkl_2 
+st-annotated-text
 abseil-cpp                20211102.0           hd77b12b_0  
 aext-assistant            4.0.15          py312haa95532_jl4_0  
 aext-assistant-server     4.0.15          py312haa95532_0  
@@ -458,6 +459,7 @@ streamlit                 1.40.0                   pypi_0    pypi
 streamlit-camera-input-live 0.2.0                    pypi_0    pypi
 streamlit-card            1.0.2                    pypi_0    pypi
 streamlit-echarts         0.4.0                    pypi_0    pypi
+st-annotated-text         4.0.1                    pypi_0    pypi
 streamlit-embedcode       0.1.2                    pypi_0    pypi
 streamlit-extras          0.5.0                    pypi_0    pypi
 streamlit-faker           0.0.3                    pypi_0    pypi
