@@ -1,6 +1,6 @@
 # packages in environment at C:\Users\Atiya\Downloads\anaconda3:
 #pip install
-python==3.12.4
+python
 streamlit==1.40.0
 streamlit-camera-input-live==0.2.0
 streamlit-card==1.0.2
@@ -19,6 +19,4 @@ matplotlib-inline==0.1.6
 plotly==5.22.0
 networkx==3.2.1 
 pandas==2.2.2 
-numpy==1.26.4
-numpy-base==1.26.4  
-numpydoc==1.7.0
+numpy
