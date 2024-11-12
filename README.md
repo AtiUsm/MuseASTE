@@ -61,7 +61,7 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 5.	The code for generating figures, tables and charts is in Dataset Statistical Analysis.ipynb
 6.	The code for Sampling is in Sampling.ipynb
 7.	The Simplest version OF USECASE demo figure that creates ASTE knowledge graphs is in USECASE_DEMO_FIGURE_SIMPLEST_NOTEBOOK_VERSION.ipynb
-8.	Other folders contain supplementary material, like post-processed annotations (stop-word removed and lemmaized), example annotator feedback, and sampled subset file.
+8.	Other folders contain supplementary material, like post-processed gold annotations (stop-word removed and lemmaized), example annotator feedback, and sampled subset file.
 9.	Code for baselines is taken from the original repositories and adapted to our datatset, the orginial repositories are cited in respective readme files. Provided you use any baseline code then cite them. We also provide our experimental settings and environment file.
 10.	Please also cite the Muse-Dataset[2] and sign their agreement[3].
 
