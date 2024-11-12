@@ -1,1 +1,47 @@
-
+# packages in environment at C:\Users\Atiya\Downloads\anaconda3:
+#
+# Name                    Version                   Build  Channel
+python                    3.12.4               h14ffc60_1 
+streamlit                 1.40.0                   pypi_0    pypi
+streamlit-camera-input-live 0.2.0                    pypi_0    pypi
+streamlit-card            1.0.2                    pypi_0    pypi
+streamlit-echarts         0.4.0                    pypi_0    pypi
+st-annotated-text         4.0.1                    pypi_0    pypi
+streamlit-embedcode       0.1.2                    pypi_0    pypi
+streamlit-extras          0.5.0                    pypi_0    pypi
+streamlit-faker           0.0.3                    pypi_0    pypi
+streamlit-image-coordinates 0.1.9                    pypi_0    pypi
+streamlit-keyup           0.2.4                    pypi_0    pypi
+streamlit-toggle-switch   1.0.2                    pypi_0    pypi
+streamlit-vertical-slider 2.5.5                    pypi_0    pypi
+matplotlib                3.8.4           py312haa95532_0  
+matplotlib-base           3.8.4           py312hc7c4135_0  
+matplotlib-inline         0.1.6           py312haa95532_0  
+plotly                    5.22.0          py312hfc267ef_0 
+python-dateutil           2.9.0post0      py312haa95532_2  
+python-dotenv             0.21.0          py312haa95532_0  
+python-fastjsonschema     2.16.2          py312haa95532_0  
+python-json-logger        2.0.7           py312haa95532_0  
+python-libarchive-c       2.9                pyhd3eb1b0_1  
+python-lmdb               1.4.1           py312hd77b12b_0  
+python-lsp-black          2.0.0           py312haa95532_0  
+python-lsp-jsonrpc        1.1.2              pyhd3eb1b0_0  
+python-lsp-server         1.10.0          py312haa95532_0  
+python-slugify            5.0.2              pyhd3eb1b0_0  
+python-snappy             0.6.1           py312hd77b12b_0  
+python-tzdata             2023.3             pyhd3eb1b0_0  
+pytoolconfig              1.2.6           py312haa95532_0  
+pytz                      2024.1          py312haa95532_0  
+pyvirtualdisplay          3.0                      pypi_0    pypi
+pyviz_comms               3.0.2           py312haa95532_0  
+pywavelets                1.5.0           py312he558020_0  
+pywin32                   305             py312h2bbff1b_0  
+pywin32-ctypes            0.2.2           py312haa95532_0  
+pywinpty                  2.0.10          py312h5da7b33_0  
+pyyaml                    6.0.1           py312h2bbff1b_0  
+pyzmq                     25.1.2          py312hd77b12b_0  
+networkx                  3.2.1           py312haa95532_0  
+pandas                    2.2.2           py312h0158946_0  
+numpy                     1.26.4          py312hfd52020_0  
+numpy-base                1.26.4          py312h4dde369_0  
+numpydoc                  1.7.0           py312haa95532_0  
