@@ -14,8 +14,6 @@ streamlit-keyup==0.2.4
 streamlit-toggle-switch==1.0.2
 streamlit-vertical-slider==2.5.5
 matplotlib==3.8.4
-matplotlib-base==3.8.4
-matplotlib-inline==0.1.6
 plotly==5.22.0
 networkx==3.2.1 
 pandas==2.2.2 
