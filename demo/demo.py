@@ -3,6 +3,12 @@ from annotated_text import annotated_text
 #from st_annotated_text import annotated_text
 st.title(':blue[MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos]')
 st.title(':green[Get a sneak-peek into our dataset! :eyes:]')
+mention(
+        label="muse-aste-homepage",
+        icon="github",  # GitHub is also featured!
+        url="https://github.com/AtiUsm/MuseASTE/tree/main",
+    )
+
 st.markdown("# Car A")
 st.sidebar.markdown("# Profile")
 expand=st.sidebar.expander('Features', expanded=True)
@@ -14,8 +20,10 @@ with expand:
     elements.write('Type: :green[Convertible]')
     elements.write('Cost: :gray[$300,000]')
     elements.write('Fuel: :gray[Petrol]')
-
-
+x=st.sidebar.feedback("thumbs")
+if x==1:
+    st.balloons()
+st.sidebar.pills("Tags", ["ASTE", "Knowledge Graph", "Aspect Sentiment Triplet Extraction","Aspect Based Knowledge Graphs"])
 
 import streamlit as st
 import time
