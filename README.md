@@ -1,4 +1,4 @@
-0000000000000000000000000000000000# MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos
+# MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos
 [![MuseASTE](https://img.shields.io/badge/MuseASTE-blueviolet?style=flat-square&logo=Github&label=Github&color=blueviolet
 )](https://github.com/AtiUsm/MuseASTE/tree/main)
 [![ElsevierLink](https://img.shields.io/badge/Page-green?style=flat-square&logo=Elsevier&logoColor=White&label=Elsevier&labelColor=White&color=green
