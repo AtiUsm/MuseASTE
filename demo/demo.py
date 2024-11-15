@@ -19,7 +19,7 @@ with expand:
 
 import streamlit as st
 import time
-st.image("car1.jpeg")
+st.image("./demo/car1.jpeg")
 import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
@@ -113,7 +113,7 @@ tab1, tab2 , tab3= st.tabs(["Arrange by Topic", "Arrange by Sentiment","View Com
 tab3.title("Select the maximum no. of ASTE triples per topic")
 
 fields=["id", "segment_id", "label_topic", "aspect","opinion","sentiment"]
-df=pd.read_csv("example_demo.csv", usecols=fields) #give the link to train file annotations
+df=pd.read_csv("./demo/example_demo.csv", usecols=fields) #give the link to train file annotations
 #df2=pd.read_csv("devel_l (1).csv", usecols=fields) #give the link to devel file annotations
 #df=pd.concat([df1,df2],axis=0)
 df['triple'] = df.apply(lambda x: construct_triple(x.aspect, x.opinion,x.sentiment), axis=1)
