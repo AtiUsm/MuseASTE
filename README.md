@@ -9,6 +9,7 @@
 )](https://paperswithcode.com/dataset/musecar-aste)
 [![Slides](https://img.shields.io/badge/MuseASTE-orange?style=flat-square&logo=SlideShare&label=ppt&color=orange)](https://github.com/AtiUsm/MuseASTE/blob/main/Muse-CAR%20ASTE%20dataset%20(1).pptx)
 [![Poster](https://img.shields.io/badge/Poster-%230D98BA?style=flat-square&label=Insight&labelColor=%2363E2C6&color=%236EF9F5)](https://github.com/AtiUsm/MuseASTE/blob/main/Muse%20Poster2.pdf)
+[!Demo](https://img.shields.io/badge/Demo%20%5BOnline%5D-darkgreen?label=Visit%20Here)](https://museaste-t5fkvvgrvagkl9soq7uu5j.streamlit.app/)
 
 
 
