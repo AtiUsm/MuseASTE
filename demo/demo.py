@@ -360,7 +360,7 @@ with tab2:
         #triples=get_triples(topicnames.index(topic),df,36,'all','all')
         #aspects=list(set([t[0] for t in triples]))
         st.title('Choose a sentiment')
-        radio=st.radio('',['pos','neg'], index=0, key=6)
+        radio=st.radio('which one?',['pos','neg'], index=0, key=6, label_visibility='hide')
         st.header(':rainbow[Getting all sentimental triples]')
         # Add a placeholder
         latest_iteration = st.empty()
