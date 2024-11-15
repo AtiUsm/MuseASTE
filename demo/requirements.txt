@@ -1,6 +1,5 @@
 # packages in environment at C:\Users\Atiya\Downloads\anaconda3:
 #pip install
-python==3.6.0
 streamlit==1.40.0
 streamlit-camera-input-live==0.2.0
 streamlit-card==1.0.2
