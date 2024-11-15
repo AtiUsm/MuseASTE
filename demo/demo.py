@@ -1,4 +1,4 @@
-import streamlit as st
+0import streamlit as st
 from annotated_text import annotated_text
 from streamlit_extras.mention import mention
 #from st_annotated_text import annotated_text
@@ -182,9 +182,9 @@ def draw_topic_graph(topic,df,id, a='all', s='all',flag=0):
   plt.suptitle("CAR:"+str(id), fontsize=40)
   plt.axis('off')
   #save graph
-  nx.write_graphml(G, str(id)+'.graphml')#you can open in other interactive tools
+  #nx.write_graphml(G, str(id)+'.graphml')#you can open in other interactive tools
   #save image
-  plt.savefig(str(id)+'.pdf') #saving image as pdf for clarity .jpg, .png etc. can be used
+  #plt.savefig(str(id)+'.pdf') #saving image as pdf for clarity .jpg, .png etc. can be used
   plt.show() 
   return plt
 #This creates , draws & saves the entire entity graph listing only positive and negative (not neutral (avoiding it so graph does not becomes big)) across all topics but is too big
@@ -231,8 +231,8 @@ def draw_sent_graph(df,id, a='all', sentiment='all',flag=0):
   # Display the plot
   plt.suptitle("CAR:A", fontsize=40)
   plt.axis('off')
-  plt.savefig(str(id)+'.png')
-  nx.write_graphml(G, "CAR:"+str(id)+'.graphml')
+  #plt.savefig(str(id)+'.png')
+  #nx.write_graphml(G, "CAR:"+str(id)+'.graphml')
   #you can open in other interactive tools. Since the graph is too big save as .graphml, open in other tools
   #st.set_option('deprecation.showPyplotGlobalUse', False)
   plt.show()
@@ -282,8 +282,8 @@ def entity_graph(id, df, density):
   # Display the plot
   plt.suptitle("CAR:A", fontsize=40)
   plt.axis('off')
-  plt.savefig(str(id)+'.png')
-  nx.write_graphml(G, "CAR:"+str(id)+'.graphml')
+  #plt.savefig(str(id)+'.png')
+  #nx.write_graphml(G, "CAR:"+str(id)+'.graphml')
   #you can open in other interactive tools. Since the graph is too big save as .graphml, open in other tools
   #st.set_option('deprecation.showPyplotGlobalUse', False)
   plt.show()
