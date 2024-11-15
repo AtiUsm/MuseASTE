@@ -12,6 +12,7 @@ pip install streamlit
 pip install networkx
 pip install streamit-extras
 pip install st-annotated-text
+pip install scipy
 ```
 Or:
 
