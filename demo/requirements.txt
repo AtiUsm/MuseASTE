@@ -15,3 +15,4 @@ streamlit-vertical-slider==2.5.5
 matplotlib
 networkx 
 pandas
+scipy
