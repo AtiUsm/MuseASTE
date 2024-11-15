@@ -19,7 +19,7 @@ with expand:
 
 import streamlit as st
 import time
-st.image("./car1.jpeg")
+st.image("car1.jpeg")
 import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
@@ -113,11 +113,11 @@ tab1, tab2 , tab3= st.tabs(["Arrange by Topic", "Arrange by Sentiment","View Com
 tab3.title("Select the maximum no. of ASTE triples per topic")
 
 fields=["id", "segment_id", "label_topic", "aspect","opinion","sentiment"]
-df1=pd.read_csv("train_label (1).csv", usecols=fields) #give the link to train file annotations
-df2=pd.read_csv("devel_label (1).csv", usecols=fields) #give the link to devel file annotations
-df=pd.concat([df1,df2],axis=0)
+df=pd.read_csv("example_demo.csv", usecols=fields) #give the link to train file annotations
+#df2=pd.read_csv("devel_l (1).csv", usecols=fields) #give the link to devel file annotations
+#df=pd.concat([df1,df2],axis=0)
 df['triple'] = df.apply(lambda x: construct_triple(x.aspect, x.opinion,x.sentiment), axis=1)
-df['triple2'] = df.apply(lambda x: construct_triple2(x.id, x.label_topic,x.aspect), axis=1)
+#df['triple2'] = df.apply(lambda x: construct_triple2(x.id, x.label_topic,x.aspect), axis=1)
 
 # creates, draws, and saves topic graph. the graph is saved as .graphml file, and images as .pdf
 def draw_topic_graph(topic,df,id, a='all', s='all',flag=0):
@@ -426,4 +426,4 @@ with tab3:
       time.sleep(0.05)
     '..rendering....'
     #'...and now we\'re done!'
-    st.pyplot(entity_graph(15,df,density)) #replace the entiyid by any entity you want
+    st.pyplot(entity_graph(36,df,density)) #replace the entiyid by any entity you want
