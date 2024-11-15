@@ -1,4 +1,4 @@
-# MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos
+0000000000000000000000000000000000# MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos
 [![MuseASTE](https://img.shields.io/badge/MuseASTE-blueviolet?style=flat-square&logo=Github&label=Github&color=blueviolet
 )](https://github.com/AtiUsm/MuseASTE/tree/main)
 [![ElsevierLink](https://img.shields.io/badge/Page-green?style=flat-square&logo=Elsevier&logoColor=White&label=Elsevier&labelColor=White&color=green
@@ -69,7 +69,7 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 
 # Demo
 *Added November 11*
-Demo gives you a sneak-peek in to one of our ASTE knowledge graphs and allows you to play with it. We created topic and ASTE labels for one car in our dataset (alternatively you can substitute segment-wise topic labels from primary dataset for more), and implemented this demo using streamlit. It also gives an insight into the aspect, sentiment, opinion annotations.
+Demo gives you a sneak-peek in to one of our ASTE knowledge graphs and allows you to play with it. We created topic and ASTE labels for one car in our dataset (alternatively you can substitute segment-wise topic labels from primary dataset for more), and implemented a demo online graph inspection tool using streamlit. It also gives an insight into the aspect, sentiment, opinion annotations.
 ![Screenshot (166)](https://github.com/user-attachments/assets/eb01bc87-051f-4cc1-ae06-3a71d327bbad)
 
 
@@ -80,6 +80,7 @@ pip install matplotlib
 pip install streamlit
 pip install networkx
 pip install streamit-extras
+pip install scipy
 ```
 
 To run the (demo) code:
