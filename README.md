@@ -66,7 +66,7 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 7.	The code for Sampling is in Sampling.ipynb
 8.	The Simplest version OF USECASE demo figure that creates ASTE knowledge graphs is in USECASE_DEMO_FIGURE_SIMPLEST_NOTEBOOK_VERSION.ipynb
 9.	Code for baselines is taken from the original repositories and adapted to our datatset, the orginial repositories are cited in respective readme files. Provided you use any baseline code then cite them. We also provide our experimental settings and environment file.
-10.	Please cite our paper provided under Research Citation, and also cite the Muse-Dataset[2] and challenge[4].
+10.	Please manditorily cite our paper[10] (provided under Research Citation), and also cite the Muse-Dataset[2] and challenge[4].
 
 # Demo
 *Added November 11*
@@ -127,6 +127,8 @@ streamlit run demo/demo.py
 [8] Zhang, W., Li, X., Deng, Y., Bing, L., & Lam, W. (2021, August). Towards generative aspect-based sentiment analysis. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers) (pp. 504-510).
 
 [9] xuuuluuu. (2020). GitHub - xuuuluuu/SemEval-Triplet-data: Aspect Sentiment Triplet Extraction (ASTE) dataset in AAAI 2020, EMNLP 2020 and ACL 2021. GitHub. (https://github.com/xuuuluuu/SemEval-Triplet-data) . Accessed 12 Mar. 2024.
+
+[10] Usmani, A., Alsamhi, S.H., Khan, M.J., Breslin, J. and Curry, E., 2025. MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos. Expert Systems with Applications, 262, p.125695.
 
 ### License
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/). This work is licensed under a [Creative Commons Attribution-NonCommercial-4.0-International License](http://creativecommons.org/licenses/by-nc/4.0/) for Noncommercial (academic & research) purposes only and must not be used for any other purpose without the author's explicit permission.
