@@ -68,6 +68,9 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 9.	Code for baselines is taken from the original repositories and adapted to our datatset, the orginial repositories are cited in respective readme files. Provided you use any baseline code then cite them. We also provide our experimental settings and environment file.
 10.	Please manditorily cite our paper[10] (provided under Research Citation), and also cite the Muse-Dataset[2] and challenge[4].
 
+# Domain
+Aspect Based Sentiment Analysis (ABSA), Aspect Sentiment Triplet Extraction (ASTE), Opinion Mining, Knowledge Graphs, Recommender Systems, Sentiment Classification, Target Aspect Sentiment Detection (TASD)
+
 # Demo
 *Added November 11*
 Demo gives you a sneak-peek in to one of our ASTE knowledge graphs and allows you to play with it. We created topic and ASTE labels for one car in our dataset (alternatively you can substitute segment-wise topic labels from primary dataset for more), and implemented a demo online graph inspection tool using streamlit. It also gives an insight into the aspect, sentiment, opinion annotations.
