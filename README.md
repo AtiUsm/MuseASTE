@@ -31,7 +31,7 @@ Aspect Sentiment Triplet Extraction (ASTE) within the automotive review domain. 
 ![image](https://github.com/user-attachments/assets/f0fa7462-cb25-4ec4-8e26-9c075661a058)
 
 # Key Aspects
-Benchmark- Current Benchmark for Aspect Sentiment Triplet Extraction  i.e., ASTE-V2[8]  Sem-Eval datasets(14lap, 14 res, 15res,16res) all four datasets combined.
+Benchmark- Current Benchmark for Aspect Sentiment Triplet Extraction  i.e., ASTE-V2[9]  Sem-Eval datasets(14lap, 14 res, 15res,16res) all four datasets combined.
 
 ![Screenshot (149)](https://github.com/user-attachments/assets/897c9bc9-c83d-4e26-9ed6-855ed68b93e0)
 
@@ -57,7 +57,7 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 
 # Instructions
 1.	Access the Aspect Sentiment Triplet AExtraction Annotations provided here.
-2.	Then go to the primary dataset MuseCar-2020 [2] ([MuSeTopic 2020 - ACM MM 2020 (google.com)](https://sites.google.com/view/muse2020/challenge/get-data?authuser=0), and acquire the Muse-Topic dataset to get access to other labels that maybe of interest to you like topic/ aspect category.
+2.	Then go to the primary dataset MuseCar-2020 [2,3] ([MuSeTopic 2020 - ACM MM 2020 (google.com)](https://sites.google.com/view/muse2020/challenge/get-data?authuser=0), and acquire the Muse-Topic dataset to get access to other labels that maybe of interest to you like topic/ aspect category.
 (Update! text transcripts from MuSe added after persmission)
 3.	The id, segment_id, columns in the train and devel files of our annotation dataset match with the id, segment_id, and label_topic columns of  the train and devel files in the original MuSe-Topic dataset.
 4.	The gold labels for the full dataset is present in train.csv, and devel.csv files in the dataset folder. The annotations,and  post-processed gold annotations (stop-word removed and lemmaized) is present in the annotations folder.
@@ -66,7 +66,7 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 7.	The code for Sampling is in Sampling.ipynb
 8.	The Simplest version OF USECASE demo figure that creates ASTE knowledge graphs is in USECASE_DEMO_FIGURE_SIMPLEST_NOTEBOOK_VERSION.ipynb
 9.	Code for baselines is taken from the original repositories and adapted to our datatset, the orginial repositories are cited in respective readme files. Provided you use any baseline code then cite them. We also provide our experimental settings and environment file.
-10.	Please also cite the Muse-Dataset[2] and sign their agreement[3].
+10.	Please cite our paper provided under Research Citation, and also cite the Muse-Dataset[2] and challenge[4].
 
 # Demo
 *Added November 11*
@@ -116,15 +116,17 @@ streamlit run demo/demo.py
 
 [3] Muse 2020 - ACM MM 2020 (no date) MuSe 2020 - ACM MM 2020. Available at: https://sites.google.com/view/muse2020 (Accessed: 07 November 2023).
 
-[4] Yan, H., Dai, J., Ji, T., Qiu, X., & Zhang, Z. (2021, August). A Unified Generative Framework for Aspect-based Sentiment Analysis. In C. Zong, F. Xia, W. Li, & R. Navigli (Eds.), Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 2416–2429). doi:10.18653/v1/2021.acl-long.188
+[4] Stappen, L., Baird, A., Rizos, G., Tzirakis, P., Du, X., Hafner, F., Schumann, L., Mallol-Ragolta, A., Schuller, B.W., Lefter, I. and Cambria, E., 2020, October. Muse 2020 challenge and workshop: Multimodal sentiment analysis, emotion-target engagement and trustworthiness detection in real-life media: Emotional car reviews in-the-wild. In Proceedings of the 1st International on Multimodal Sentiment Analysis in Real-life Media Challenge and Workshop (pp. 35-44).
 
-[5] Xu, L., Chia, Y. K., & Bing, L. (2021, August). Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction. In C. Zong, F. Xia, W. Li, & R. Navigli (Eds.), Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 4755–4766). doi:10.18653/v1/2021.acl-long.367
+[5] Yan, H., Dai, J., Ji, T., Qiu, X., & Zhang, Z. (2021, August). A Unified Generative Framework for Aspect-based Sentiment Analysis. In C. Zong, F. Xia, W. Li, & R. Navigli (Eds.), Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 2416–2429). doi:10.18653/v1/2021.acl-long.188
 
-[6] Chen, S., Wang, Y., Liu, J., & Wang, Y. (2021, May). Bidirectional machine reading comprehension for aspect sentiment triplet extraction. In Proceedings of the AAAI conference on artificial intelligence (Vol. 35, No. 14, pp. 12666-12674).
+[6] Xu, L., Chia, Y. K., & Bing, L. (2021, August). Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction. In C. Zong, F. Xia, W. Li, & R. Navigli (Eds.), Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 4755–4766). doi:10.18653/v1/2021.acl-long.367
 
-[7] Zhang, W., Li, X., Deng, Y., Bing, L., & Lam, W. (2021, August). Towards generative aspect-based sentiment analysis. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers) (pp. 504-510).
+[7] Chen, S., Wang, Y., Liu, J., & Wang, Y. (2021, May). Bidirectional machine reading comprehension for aspect sentiment triplet extraction. In Proceedings of the AAAI conference on artificial intelligence (Vol. 35, No. 14, pp. 12666-12674).
 
-[8] xuuuluuu. (2020). GitHub - xuuuluuu/SemEval-Triplet-data: Aspect Sentiment Triplet Extraction (ASTE) dataset in AAAI 2020, EMNLP 2020 and ACL 2021. GitHub. (https://github.com/xuuuluuu/SemEval-Triplet-data) . Accessed 12 Mar. 2024.
+[8] Zhang, W., Li, X., Deng, Y., Bing, L., & Lam, W. (2021, August). Towards generative aspect-based sentiment analysis. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers) (pp. 504-510).
+
+[9] xuuuluuu. (2020). GitHub - xuuuluuu/SemEval-Triplet-data: Aspect Sentiment Triplet Extraction (ASTE) dataset in AAAI 2020, EMNLP 2020 and ACL 2021. GitHub. (https://github.com/xuuuluuu/SemEval-Triplet-data) . Accessed 12 Mar. 2024.
 
 ### License
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/). This work is licensed under a [Creative Commons Attribution-NonCommercial-4.0-International License](http://creativecommons.org/licenses/by-nc/4.0/) for Noncommercial (academic & research) purposes only and must not be used for any other purpose without the author's explicit permission.
