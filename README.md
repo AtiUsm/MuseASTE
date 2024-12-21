@@ -57,15 +57,12 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 
 # Instructions
 1.	Access the Aspect Sentiment Triplet AExtraction Annotations provided here.
-2.	The text transcripts are already added after seeking permission. Go to the primary dataset MuseCar-2020 [2,3] ([MuSeTopic 2020 - ACM MM 2020 (google.com)](https://sites.google.com/view/muse2020/challenge/get-data?authuser=0), and acquire the Muse-Topic dataset to get access to other labels that maybe of interest to you like topic/ aspect category in case you want to do ACC (Aspect Category Classification).
-3.	The id, segment_id, columns in the train and devel files of our annotation dataset match with the id, segment_id, and label_topic columns of  the train and devel files in the original MuSe-Topic dataset.
-4.	The main gold dataset and gold annoations in in the dataset folder. Th processed dataset for comparison with baselines is in the processed dataset folder.
-5.	Other folders contain supplementary material, example annotator feedback, and sampled subset file.
-6.	The code for generating figures, tables and charts is in Dataset Statistical Analysis.ipynb
-7.	The code for Sampling is in Sampling.ipynb
-8.	The Simplest version OF USECASE demo figure that creates ASTE knowledge graphs is in USECASE_DEMO_FIGURE_SIMPLEST_NOTEBOOK_VERSION.ipynb
-9.	Code for baselines is taken from the original repositories and adapted to our datatset, the orginial repositories are cited in respective readme files. Provided you use any baseline code then cite them. We also provide our experimental settings and environment file.
-10.	Please manditorily cite our paper[10] (provided under Research Citation), and also cite the Muse-Dataset[2] and challenge[4].
+2.	The main gold dataset and gold annoations in in the dataset folder. Th processed dataset for comparison with baselines is in the processed dataset folder.
+3.	Other folders contain supplementary material, example annotator feedback, and sampled subset file.
+4.	The text transcripts are already added after seeking permission. Go to the primary dataset MuseCar-2020 [2,3] ([MuSeTopic 2020 - ACM MM 2020 (google.com)](https://sites.google.com/view/muse2020/challenge/get-data?authuser=0), and acquire the Muse-Topic dataset to get access to other labels that maybe of interest to you like topic/ aspect category in case you want to do ACC (Aspect Category Classification).
+5.	The id, segment_id, columns in the train and devel files of our annotation dataset match with the id, segment_id, and label_topic columns of  the train and devel files in the original MuSe-Topic dataset.
+6.	Code for baselines is taken from the original repositories and adapted to our datatset, the orginial repositories are cited in respective readme files. Provided you use any baseline code then cite them. We also provide our experimental settings and environment file.
+7.	Please manditorily cite our paper[10] (provided under Research Citation), and also cite the Muse-Dataset[2] and challenge[4].
 
 # Domain
 Aspect Sentiment Triplet Extraction (ASTE)
