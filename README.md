@@ -33,18 +33,6 @@ Benchmark- Current Benchmark for Aspect Sentiment Triplet Extraction  i.e., ASTE
 
 ![Screenshot (149)](https://github.com/user-attachments/assets/897c9bc9-c83d-4e26-9ed6-855ed68b93e0)
 
-# Domain
-This dataset can be applied to:
-Aspect Sentiment Triplet Extraction (ASTE)
-
-Aspect Based Sentiment Analysis (ABSA)
-
-Target Aspect Sentiment Detection (TASD)
-
-Aspect Category Classification (ACC)
-
-Sentiment Classification, Opinion Mining
-
 # Research Citation
 ***Cite the following paper** if you use this dataset, also star our repo, and follow the instructions mentioned below and cite additional relevant citations :*
 ```
@@ -107,6 +95,18 @@ streamlit run demo/demo.py
 
 ![Screenshot_7-11-2024_6133_](https://github.com/user-attachments/assets/e5464294-606d-43fd-b64b-8bbe8204c61a)
 
+
+# Domain
+This dataset can be applied to:
+Aspect Sentiment Triplet Extraction (ASTE)
+
+Aspect Based Sentiment Analysis (ABSA)
+
+Target Aspect Sentiment Detection (TASD)
+
+Aspect Category Classification (ACC)
+
+Sentiment Classification, Opinion Mining
 # Contact
 
 [![mail](https://github.com/user-attachments/assets/16a603cf-0e51-450a-9e79-07147f26ceb8)
