@@ -77,11 +77,7 @@ Target Aspect Sentiment Detection (TASD)
 
 Aspect Category Classification (ACC)
 
-Sentiment Classification, 
-
-Opinion Mining, 
-
-Recommender Systems
+Sentiment Classification, Opinion Mining
 
 # Demo
 *Added November 11*
