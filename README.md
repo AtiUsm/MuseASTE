@@ -69,7 +69,12 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 10.	Please manditorily cite our paper[10] (provided under Research Citation), and also cite the Muse-Dataset[2] and challenge[4].
 
 # Domain
-Aspect Based Sentiment Analysis (ABSA), Aspect Sentiment Triplet Extraction (ASTE), Opinion Mining, Knowledge Graphs, Recommender Systems, Sentiment Classification, Target Aspect Sentiment Detection (TASD)
+Aspect Sentiment Triplet Extraction (ASTE)
+Aspect Based Sentiment Analysis (ABSA)
+Target Aspect Sentiment Detection (TASD)
+Sentiment Classification, 
+Opinion Mining, 
+Recommender Systems
 
 # Demo
 *Added November 11*
