@@ -24,7 +24,17 @@ Aspect Sentiment Triplet Extraction Annotations for the MuSe-Car Dataset - A mul
 ![Screenshot (155)](https://github.com/user-attachments/assets/b12acf69-cd8f-47a8-8926-bb6a3ac55752)
 
 
+# Domain
+This dataset can be applied to:
+Aspect Sentiment Triplet Extraction (ASTE)
 
+Aspect Based Sentiment Analysis (ABSA)
+
+Target Aspect Sentiment Detection (TASD)
+
+Aspect Category Classification (ACC)
+
+Sentiment Classification, Opinion Mining
 
 # Task Description
 Aspect Sentiment Triplet Extraction (ASTE) within the automotive review domain. ASTE as a task was introduced by Peng et al. [1], which is one of the tasks among the 7 sub-tasks of aspect-based sentiment analysis (ABSA). It gives a complete picture or story about a product by extracting triplets (a,s,o) from review sentences. These triplets are of the form <a,o,s> consist of an aspect a, an opinion o, and a sentiment s.   For example, from the sentence *“the gearbox is rubbish”*, the triplet *(gearbox, rubbish, NEG)* is extracted. Sometimes, an additionaly aspect category is also predicted.
@@ -61,16 +71,6 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 3.	Code for baselines is taken from the original repositories and adapted to our datatset, the orginial repositories are cited in respective readme files. Provided you use any baseline code then cite them. We also provide our experimental settings and environment file.
 4.	Additionally, go to the primary dataset MuseCar-2020 [2,3] ([MuSeTopic 2020 - ACM MM 2020 (google.com)](https://sites.google.com/view/muse2020/challenge/get-data?authuser=0), and acquire the Muse-Topic dataset to get access to topic/category label that maybe of interest to you in case you want to do supervised topic modelling or ACC (Aspect Category Classification) also.
 
-# Domain
-Aspect Sentiment Triplet Extraction (ASTE)
-
-Aspect Based Sentiment Analysis (ABSA)
-
-Target Aspect Sentiment Detection (TASD)
-
-Aspect Category Classification (ACC)
-
-Sentiment Classification, Opinion Mining
 
 # Demo
 *Added November 11*
