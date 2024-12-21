@@ -70,11 +70,17 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 
 # Domain
 Aspect Sentiment Triplet Extraction (ASTE)
+
 Aspect Based Sentiment Analysis (ABSA)
+
 Target Aspect Sentiment Detection (TASD)
+
 Aspect Category Classification (ACC)
+
 Sentiment Classification, 
+
 Opinion Mining, 
+
 Recommender Systems
 
 # Demo
