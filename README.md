@@ -58,8 +58,6 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 # Instructions
 1.	Access the Aspect Sentiment Triplet AExtraction Annotations provided here.
 2.	Then go to the primary dataset MuseCar-2020 [2,3] ([MuSeTopic 2020 - ACM MM 2020 (google.com)](https://sites.google.com/view/muse2020/challenge/get-data?authuser=0), and acquire the Muse-Topic dataset to get access to other labels that maybe of interest to you like topic/ aspect category in case you want to do ACC (Aspect Category Classification).
-
-*Update! Text transcripts from MuSe added after persmission*
 3.	The id, segment_id, columns in the train and devel files of our annotation dataset match with the id, segment_id, and label_topic columns of  the train and devel files in the original MuSe-Topic dataset.
 4.	The gold labels for the full dataset is present in train.csv, and devel.csv files in the dataset folder. The annotations,and  post-processed gold annotations (stop-word removed and lemmaized) is present in the annotations folder.
 5.	Other folders contain supplementary material, example annotator feedback, and sampled subset file.
