@@ -1,7 +1,9 @@
-*Main dataset:* train.csv, devel.csv
+The contents of the folder is described below:
 
-*Full Dataset Folder:* Full dataset with transcripts, annotations, post-prcossed annotations
+**Main dataset:** train.csv, devel.csv
 
-*Annotations:* Full gold annotations
+**Full Dataset Folder:** Full dataset with transcripts, annotations, post-prcossed annotations
 
-*Supplementary Files* : Folder contain supplementary code files, like sampling, statistical analysis (creates figures and charts on the dataset), simple usecase and annotator feedback.
+**Annotations:** Full gold annotations
+
+**Supplementary Files** : Folder contain supplementary code files, like sampling, statistical analysis (creates figures and charts on the dataset), simple usecase and annotator feedback.
