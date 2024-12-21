@@ -1,8 +1,8 @@
 The contents of the folder is described below:
 
-- **Main dataset:** train.csv, devel.csv
+- **Main dataset:** train.csv, devel.csv, contain transcripts and gold annotations.
 
-- **Full Dataset Folder:** Full dataset with transcripts, annotations, post-prcossed annotations
+- **Full Dataset Folder:** Full dataset with transcripts, annotations, and  post-prcossed annotations
 
 - **Annotations:** Full gold annotations
 
