@@ -1,6 +1,6 @@
 ## Span-ASTE
 
-This repository implements our ACL 2021 research paper [Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction](https://aclanthology.org/2021.acl-long.367/).
+This repository implements  ACL 2021 research paper [Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction](https://aclanthology.org/2021.acl-long.367/).
 
 ### Usage
 
