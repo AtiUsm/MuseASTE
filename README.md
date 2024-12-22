@@ -35,7 +35,8 @@ Benchmark- Current Benchmark for Aspect Sentiment Triplet Extraction  i.e., ASTE
 
 # Research Citation
 ***Cite the following paper** if you use this dataset, also star our repo, and **follow the instructions** mentioned below and **cite additional** relevant citations :*
-Main paper (Muse-ASTE):
+
+. *Main paper (Muse-ASTE):*
 ```
 @article{USMANI2025125695,
 title = {MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos},
@@ -50,7 +51,8 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 }
 ```
 **Additional citations:** 
-Original Muse-Dataset and MuSe-challenge:
+
+2. Original Muse-Dataset and MuSe-challenge:
 ```
 @article{stappen2021multimodal,
   title={The multimodal sentiment analysis in car reviews (muse-car) dataset: Collection, insights and improvements},
@@ -71,7 +73,7 @@ Original Muse-Dataset and MuSe-challenge:
 }
 
 ```
-Provided you use any baseline code then cite them. 
+3.Provided you use any baseline code then cite them too.
 
 
 # Instructions
