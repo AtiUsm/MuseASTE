@@ -47,8 +47,9 @@ doi = {https://doi.org/10.1016/j.eswa.2024.125695},
 url = {https://www.sciencedirect.com/science/article/pii/S0957417424025624},
 author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and John Breslin and Edward Curry}
 }
-
+```
 **Additional citations:** 
+```
 @article{stappen2021multimodal,
   title={The multimodal sentiment analysis in car reviews (muse-car) dataset: Collection, insights and improvements},
   author={Stappen, Lukas and Baird, Alice and Schumann, Lea and Schuller, Bj{\"o}rn},
