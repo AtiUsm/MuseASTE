@@ -14,25 +14,9 @@ pip install git+https://github.com/fastnlp/fastNLP@dev
 pip install git+https://github.com/fastnlp/fitlog
 ```
 
-The structure of this code is as follows
-```text
- -  data
-    - beauty
-    - book 
-    - electronics 
-    - fashion
-    - grocery 
-    - home 
-    - pet
-    - toy
 - peng/
     train.py  # training file for ASTE
-```
-Please do remember to cite these dataset paper if you use them.
 
-After enter the folder, you can run the code by directly using
-```text
-python train.py --source beauty --target book
 ```
 The following output should be achieved
 ```text
