@@ -10,6 +10,4 @@ Results reported in the paper for different experiments and datasets (full, proc
 1. *Format*-The correct final format to run the baselines is shown is sample(format).txt file for a sample of 25 rows. 
 2. *Samples*- Sample train test and dev files in correct format are shown.
 3. *Annotation Files*- Full and Complete train, dev and test annotation files are provided for each text transcript segment indicated by their id and segment_id.
-4.  First obtain the muse text transcripts.
-5. Replace the transcript ids with the actual segment text in all annotation files(as shown in sample(format)) and save each file as train.txt, dev.txt, and text.txt
-6. After completing steps 4 & 5, *the final processed dataset with text transcripts is in **'Muse ASTE Full Processed Dataset with transcripts'** folder.*
+4. After adding raw transcripts from MuSe, *the final processed dataset with text transcripts is in **'Muse ASTE Full Processed Dataset with transcripts'** folder.*
