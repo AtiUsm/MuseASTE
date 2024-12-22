@@ -48,6 +48,25 @@ url = {https://www.sciencedirect.com/science/article/pii/S0957417424025624},
 author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and John Breslin and Edward Curry}
 }
 
+**Additional citations:** 
+@article{stappen2021multimodal,
+  title={The multimodal sentiment analysis in car reviews (muse-car) dataset: Collection, insights and improvements},
+  author={Stappen, Lukas and Baird, Alice and Schumann, Lea and Schuller, Bj{\"o}rn},
+  journal={IEEE Transactions on Affective Computing},
+  volume={14},
+  number={2},
+  pages={1334--1350},
+  year={2021},
+  publisher={IEEE}
+}
+@inproceedings{stappen2020muse,
+  title={Muse 2020 challenge and workshop: Multimodal sentiment analysis, emotion-target engagement and trustworthiness detection in real-life media: Emotional car reviews in-the-wild},
+  author={Stappen, Lukas and Baird, Alice and Rizos, Georgios and Tzirakis, Panagiotis and Du, Xinchen and Hafner, Felix and Schumann, Lea and Mallol-Ragolta, Adria and Schuller, Bj{\"o}rn W and Lefter, Iulia and others},
+  booktitle={Proceedings of the 1st International on Multimodal Sentiment Analysis in Real-life Media Challenge and Workshop},
+  pages={35--44},
+  year={2020}
+}
+
 ```
 
 
