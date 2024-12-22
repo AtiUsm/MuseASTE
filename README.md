@@ -3,8 +3,7 @@
 )](https://github.com/AtiUsm/MuseASTE/tree/main)
 [![ElsevierLink](https://img.shields.io/badge/Page-green?style=flat-square&logo=Elsevier&logoColor=White&label=Elsevier&labelColor=White&color=green
 )](https://www.sciencedirect.com/science/article/pii/S0957417424025624)
-[![ElsevierLink](https://img.shields.io/badge/PDF-red?style=flat-square&logo=Adobe%20Acrobat%20Reader&label=ResearchGate&color=red
-)](https://www.researchgate.net/publication/385563953_MuSe-CarASTE_A_comprehensive_dataset_for_aspect_sentiment_triplet_extraction_in_automotive_review_videos/link/676869d0e74ca64e1f25492e/download?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19)
+[![ResearchGateLink](https://www.researchgate.net/profile/Atiya-Usmani/publication/385563953_MuSe-CarASTE_A_comprehensive_dataset_for_aspect_sentiment_triplet_extraction_in_automotive_review_videos/links/676869d0e74ca64e1f25492e/MuSe-CarASTE-A-comprehensive-dataset-for-aspect-sentiment-triplet-extraction-in-automotive-review-videos.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19)
 [![Demo](https://img.shields.io/badge/Demo%20%5BOnline%5D-darkgreen?label=Visit%20Here)](https://museaste-t5fkvvgrvagkl9soq7uu5j.streamlit.app/)
 [![PwC](https://img.shields.io/badge/MuseASTE-blue?style=flat-square&logo=Papers%20with%20Code&label=Papers%20with%20Code&color=blue
 )](https://paperswithcode.com/dataset/musecar-aste)
