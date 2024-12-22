@@ -12,10 +12,6 @@ Authors: 	Shaowei Chen, Yu Wang, Jie Liu, Yuelin Wang
   transformers==2.9.0
 ```
 
-#### Original Datasets:
-
-You can download the 14-Res, 14-Lap, 15-Res, 16-Res datasets from https://github.com/xuuuluuu/SemEval-Triplet-data.
-
 #### Data Preprocess:
 
 ```
