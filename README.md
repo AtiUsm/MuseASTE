@@ -74,13 +74,13 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 }
 
 ```
-3.Provided you use any baseline code - BMRC[7], BART-ABSA[5], Span-ASTE[6], GAS[8], then cite them too.
+3.If you use any baseline code - BMRC[7], BART-ABSA[5], Span-ASTE[6], GAS[8], then cite them too, if relevant.
 
 
 # Instructions
 1.	The main gold dataset and annotations in in the dataset folder. Th processed dataset for comparison with baselines is in the processed dataset folder.
 2.	The text transcripts are already added after seeking permission from MuSe [2]. **Please manditorily cite our paper[10] (provided under Research Citation), and also cite the Muse-Dataset[2] and challenge[4].**
-3.	Code for baselines is taken from the original repositories and adapted to our datatset, the orginial repositories are cited in respective readme files. **Provided you use any baseline code then cite them.** We also provide our experimental settings and environment file.
+3.	Code for baselines is taken from the original repositories and adapted to our datatset, the orginial repositories are cited in respective readme files. **Provided you use any baseline code (see Baselines) then cite them.** We also provide our experimental settings and environment file.
 4.	Additionally, go to the primary dataset MuseCar-2020 [2,3] ([MuSeTopic 2020 - ACM MM 2020 (google.com)](https://sites.google.com/view/muse2020/challenge/get-data?authuser=0), and acquire the Muse-Topic dataset to get access to topic/category label that maybe of interest to you in case you want to do supervised topic modelling or ACC (Aspect Category Classification) also.
 
 
