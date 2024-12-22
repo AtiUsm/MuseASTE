@@ -19,7 +19,7 @@
 
 
 # MuseASTE
-Aspect Sentiment Triplet Extraction Annotations for the MuSe-Car Dataset - A multi-modal dataset consisting of many hours of video footage from YouTube and transcripts of reviewing automotive vehicles, mainly in English language. 
+Aspect Sentiment Triplet Extraction (ASTE) Annotations for the MuSe-Car Dataset - A multi-modal dataset consisting of many hours of video footage from YouTube and transcripts of reviewing automotive vehicles, mainly in English language. The largest dataset repository curated for ASTE. 
 
 ![Screenshot (155)](https://github.com/user-attachments/assets/b12acf69-cd8f-47a8-8926-bb6a3ac55752)
 
