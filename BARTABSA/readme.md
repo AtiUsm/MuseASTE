@@ -9,7 +9,7 @@ python process.py
 
 Install the package in the requirements.txt, then use the following
 commands to install two other packages
-```text
+```
 pip install git+https://github.com/fastnlp/fastNLP@dev
 pip install git+https://github.com/fastnlp/fitlog
 ```
@@ -19,7 +19,7 @@ pip install git+https://github.com/fastnlp/fitlog
 
 ```
 The following sample output should be achieved
-```text
+```
 Save cache to caches/data_facebook/bart-base_pengb/14lap_False.pt.                                                                   
 The number of tokens in tokenizer  50265
 50268 50273
