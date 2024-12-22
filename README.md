@@ -36,7 +36,8 @@ Benchmark- Current Benchmark for Aspect Sentiment Triplet Extraction  i.e., ASTE
 # Research Citation
 ***Cite the following paper** if you use this dataset, also star our repo, and **follow the instructions** mentioned below and **cite additional** relevant citations :*
 
-. *Main paper (Muse-ASTE):*
+**Main paper:**
+1. Muse-ASTE:
 ```
 @article{USMANI2025125695,
 title = {MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos},
@@ -73,7 +74,7 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 }
 
 ```
-3.Provided you use any baseline code then cite them too.
+3.Provided you use any baseline code - BMRC[7], BART-ABSA[5], Span-ASTE[6], GAS[8], then cite them too.
 
 
 # Instructions
@@ -107,13 +108,13 @@ streamlit run demo/demo.py
 ```
 
 # Baselines
--**BRMC** Machine Comprehension based [6].
+-**BRMC** Machine Comprehension based [7].
 
--**GAS** Large Language Model (T5) based generative approach [7].
+-**GAS** Large Language Model (T5) based generative approach [8].
 
--**BART-ABSA** Pointer based indices generation/prediction approach. Predicts start and end positions of a tag [4].
+-**BART-ABSA** Pointer based indices generation/prediction approach. Predicts start and end positions of a tag [5].
 
--**Span-ASTE** Tagging based span prediction method [5].
+-**Span-ASTE** Tagging based span prediction method [6].
 
 # Usecase
 
