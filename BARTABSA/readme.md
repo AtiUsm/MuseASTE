@@ -19,8 +19,7 @@ pip install git+https://github.com/fastnlp/fitlog
 
 ```
 The following sample output should be achieved
-```text
-Save cache to caches/data_facebook/bart-base_pengb/14lap_False.pt.                                                                   
+```Save cache to caches/data_facebook/bart-base_pengb/14lap_False.pt.                                                                   
 The number of tokens in tokenizer  50265
 50268 50273
 The number of parameters is 140607744
