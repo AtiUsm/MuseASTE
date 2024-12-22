@@ -34,7 +34,7 @@ Benchmark- Current Benchmark for Aspect Sentiment Triplet Extraction  i.e., ASTE
 ![Screenshot (149)](https://github.com/user-attachments/assets/897c9bc9-c83d-4e26-9ed6-855ed68b93e0)
 
 # Research Citation
-***Cite the following paper** if you use this dataset, also star our repo, and follow the instructions mentioned below and cite additional relevant citations :*
+***Cite the following paper** if you use this dataset, also star our repo, and **follow the instructions** mentioned below and **cite additional** relevant citations :*
 ```
 @article{USMANI2025125695,
 title = {MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos},
