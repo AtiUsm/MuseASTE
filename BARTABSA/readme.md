@@ -15,10 +15,10 @@ pip install git+https://github.com/fastnlp/fitlog
 ```
 
 - peng/
-    train.py  # training file for ASTE
+    -train.py  # training file for ASTE
 
 ```
-The following output should be achieved
+The following sample output should be achieved
 ```text
 Save cache to caches/data_facebook/bart-base_pengb/14lap_False.pt.                                                                   
 The number of tokens in tokenizer  50265
