@@ -33,6 +33,20 @@ Benchmark- Current Benchmark for Aspect Sentiment Triplet Extraction  i.e., ASTE
 
 ![Screenshot (149)](https://github.com/user-attachments/assets/897c9bc9-c83d-4e26-9ed6-855ed68b93e0)
 
+
+# Domain
+This dataset can be applied to:
+
+Aspect Sentiment Triplet Extraction (ASTE)
+
+Aspect Based Sentiment Analysis (ABSA)
+
+Target Aspect Sentiment Detection (TASD)
+
+Aspect Category Classification (ACC)
+
+Sentiment Classification, Opinion Mining
+
 # Research Citation
 ***Cite the following paper** if you use this dataset, also star our repo, and **follow the instructions** mentioned below and **cite additional** relevant citations :*
 
@@ -83,6 +97,14 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 3.	Code for baselines is taken from the original repositories and adapted to our datatset, the orginial repositories are cited in respective readme files. **Provided you use any baseline code (see Baselines) then cite them.** We also provide our experimental settings and environment file.
 4.	Additionally, in case you also want to do supervised topic modelling or ACC (Aspect Category Classification), go to the primary dataset MuseCar-2020 [2,3] (Link: [MuSeTopic 2020 - ACM MM 2020 (google.com)](https://sites.google.com/view/muse2020/challenge/get-data?authuser=0), and acquire the Muse-Topic dataset to get access to topic/category label that maybe of interest to you.
 
+# Baselines
+-**BRMC** Machine Comprehension based [7].
+
+-**GAS** Large Language Model (T5) based generative approach [8].
+
+-**BART-ABSA** Pointer based indices generation/prediction approach. Predicts start and end positions of a tag [5].
+
+-**Span-ASTE** Tagging based span prediction method [6].
 
 # Demo
 *Added November 11*
@@ -107,31 +129,10 @@ streamlit run demo/demo.py
 
 ```
 
-# Baselines
--**BRMC** Machine Comprehension based [7].
-
--**GAS** Large Language Model (T5) based generative approach [8].
-
--**BART-ABSA** Pointer based indices generation/prediction approach. Predicts start and end positions of a tag [5].
-
--**Span-ASTE** Tagging based span prediction method [6].
-
 # Usecase
 
 ![Screenshot_7-11-2024_6133_](https://github.com/user-attachments/assets/e5464294-606d-43fd-b64b-8bbe8204c61a)
 
-
-# Domain
-This dataset can be applied to:
-Aspect Sentiment Triplet Extraction (ASTE)
-
-Aspect Based Sentiment Analysis (ABSA)
-
-Target Aspect Sentiment Detection (TASD)
-
-Aspect Category Classification (ACC)
-
-Sentiment Classification, Opinion Mining
 # Contact
 
 [![mail](https://github.com/user-attachments/assets/16a603cf-0e51-450a-9e79-07147f26ceb8)
