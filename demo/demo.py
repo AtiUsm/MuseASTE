@@ -1,5 +1,8 @@
-import streamlit as st
+
+!pip install streamlit
+!pip install st-annotated-text
 #from annotated_text import annotated_text
+import streamlit as st
 from streamlit_extras.mention import mention
 from st_annotated_text import annotated_text
 st.title(':blue[MuSe-CarASTE: A comprehensive dataset for aspect sentiment triplet extraction in automotive review videos]')
