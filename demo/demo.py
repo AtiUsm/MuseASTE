@@ -1,6 +1,6 @@
 
-!pip install streamlit
-!pip install st-annotated-text
+pip install streamlit
+pip install st-annotated-text
 #from annotated_text import annotated_text
 import streamlit as st
 from streamlit_extras.mention import mention
