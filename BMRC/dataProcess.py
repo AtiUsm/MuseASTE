@@ -1,6 +1,6 @@
 # @Author: Shaowei Chen,     Contact: chenshaowei0507@163.com
 # @Date:   2021-5-4
-
+import os
 import pickle
 import torch
 import os
@@ -83,8 +83,12 @@ def fusion_dual_triplet(triplet):
     return triplet_aspect, triplet_opinion, triplet_sentiment, dual_opinion, dual_aspect
 
 
+
+
+
 if __name__ == '__main__':
-    
+    os.makedirs("./data/preprocess", exist_ok=True)  # Create the folder if missing
+    torch.save(sample_list, output_path)
     home_path = "./triplet_data/"
     dataset_name_list = os.listdir(home_path)
     dataset_name_list = [x for x in dataset_name_list if '.' not in x]
@@ -169,3 +173,4 @@ if __name__ == '__main__':
                 temp_sample = dual_sample(text_lines[k], text, forward_query_list, forward_answer_list, backward_query_list, backward_answer_list, sentiment_query_list, sentiment_answer_list)
                 sample_list.append(temp_sample)
             torch.save(sample_list, output_path)
+
