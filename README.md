@@ -109,7 +109,6 @@ author = {Atiya Usmani and Saeed {Hamood Alsamhi} and Muhammad {Jaleed Khan} and
 -**Span-ASTE** Tagging based span prediction method [6].
 
 # Demo
-*Added November 11*
 Demo gives you a sneak-peek in to one of our ASTE knowledge graphs and allows you to play with it. We created topic and ASTE labels for one car in our dataset (alternatively you can substitute segment-wise topic labels from primary dataset for more), and implemented a demo online graph inspection tool using streamlit. It also gives an insight into the aspect, sentiment, opinion annotations.
 ![Screenshot (166)](https://github.com/user-attachments/assets/eb01bc87-051f-4cc1-ae06-3a71d327bbad)
 
