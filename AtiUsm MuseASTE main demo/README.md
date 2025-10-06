@@ -22,6 +22,7 @@ pip install -r requirements.txt
 To run the code:
 
 ```
-streamlit run demo.py
+streamlit run Objective.py
+streamlit run Subjective.py
 
 ```
