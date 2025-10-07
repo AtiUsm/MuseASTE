@@ -815,25 +815,9 @@ with tab6:
         # -------------------------------
         st.markdown("""
         ### Sample Source and Credibility Metrics
-    
-
         Sample source video:
         """, unsafe_allow_html=True)
-
-        
-        st.markdown(
-            """
-            <div style="margin-top: 40px; font-size:14px; color: gray;">
-            <br>⚠️ Note: The video used is a sample video from the internet for non-commercial research demo purposes. <br>
-            ⚠️ Verify copyright if publishing!<br>
-            <br><b>Dataset videos cannot be published publicly. To get authorized access, please sign the End User License Agreement at 
-            <a href='https://sites.google.com/view/muse2020/challenge/get-data?authuser=0' target='_blank'>this link</a>.
-            The <code>copyright.csv</code> file contains the list of YouTube video links.</b>
-            </div>
-            """,
-            unsafe_allow_html=True
-        )
-        
+    
         st.video("https://www.youtube.com/embed/hw8wtDVYtaA")
         
 
@@ -903,3 +887,16 @@ with tab6:
                     <span style='color:#777'>👍 {c['likes']} likes</span>
                     </div>
                 """, unsafe_allow_html=True)    
+    st.markdown(
+            """
+            <div style="margin-top: 40px; font-size:14px; color: gray;">
+            <br>⚠️ Note: The video used is a sample video from the internet for non-commercial research demo purposes. <br>
+            ⚠️ Verify copyright if publishing!<br>
+            <br><b>Dataset videos cannot be published publicly. To get authorized access, please sign the End User License Agreement at 
+            <a href='https://sites.google.com/view/muse2020/challenge/get-data?authuser=0' target='_blank'>this link</a>.
+            The <code>copyright.csv</code> file contains the list of YouTube video links.</b>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+        
