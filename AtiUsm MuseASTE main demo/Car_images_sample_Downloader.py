@@ -35,8 +35,9 @@ for index, row in df.iterrows():
     # Rename the downloaded image to match the id
     for f in os.listdir(output_dir):
         if f.startswith(str(row['id'])):
-            os.rename(os.path.join(output_dir, f), os.path.join(output_dir, f"{row['id'].lstrip('0')}.jpg"))
+            os.rename(os.path.join(output_dir, f),os.path.join(output_dir, f"{str(row['id']).lstrip('0')}.jpg"))
             break
 
 print("Download completed!")
+
 
