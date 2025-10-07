@@ -15,6 +15,7 @@ import networkx as nx
 #import streamlit_toggle_switch as st_toggle_switch
 from streamlit_echarts import st_echarts
 import streamlit as st
+import plotly.express as px
 # demo.py
 import re
 import streamlit as st
@@ -186,7 +187,7 @@ def get_triples(topic, df,id, aspect='all',sentiment='all', flag=0):
   return triples
 
 # Insert containers separated into tabs:
-tab1, tab2 , tab3, tab4, tab5= st.tabs(["Arrange by Topic", "Arrange by Sentiment","View Subjective Knowledge Graph","Arrange By Aspect", "Review Opinion"])
+tab1, tab2 , tab3, tab4, tab5, tab6= st.tabs(["Arrange by Topic", "Arrange by Sentiment","View Subjective Knowledge Graph","Arrange By Aspect", "Review Opinion", "Source and Credibility Metrics"])
 #f=st.segmented_control("Filter", ["Open", "Closed"])
 #tab1.write(f)
 #tab1.write("'Getting Car Summary...'")
@@ -397,7 +398,7 @@ with tab1:
           # Update the progress bar with each iteration.
           latest_iteration.text(f'{i+1}')
           bar.progress(i + 1)
-          time.sleep(0.05)
+          time.sleep(0.001)
         '..now we are done! 3 2 1....'
         #'...and now we\'re done!
         triples=get_triples(topicnames.index(topic),df,36,'all','all')
@@ -459,7 +460,7 @@ with tab2:
           # Update the progress bar with each iteration.
           latest_iteration.text(f'{i+1}')
           bar.progress(i + 1)
-          time.sleep(0.05)
+          time.sleep(0.001)
         '..now we are done! 3 2 1....'
         st.pyplot(draw_sent_graph(df,36,'all', radio, flag=1))
         topic=st.selectbox("Filter by Topic", topicnames, index=None, key=5)
@@ -519,7 +520,7 @@ with tab3:
       # Update the progress bar with each iteration.
       latest_iteration.text(f'{i+1}')
       bar.progress(i + 1)
-      time.sleep(0.05)
+      time.sleep(0.001)
     '..rendering....'
     #'...and now we\'re done!'
     st.pyplot(entity_graph(36,df,density)) #replace the entiyid by any entity you want
@@ -543,7 +544,7 @@ with tab4:
         for i in range(100):
           latest_iteration.text(f'{i+1}')
           bar.progress(i + 1)
-          time.sleep(0.03)
+          time.sleep(0.001)
         '..now we are done! 3 2 1....'
         
         
@@ -766,4 +767,139 @@ with tab5:
             """, unsafe_allow_html=True)
     else:
         st.info("No reviews available for this car.")
+with tab6:
+        # -------------------------------
+        # Example video data (inside Tab 6)
+        # -------------------------------
+        video_data = {
+            "id": "hw8wtDVYtaA",
+            "title": "2025 Nissan Armada Review | Consumer Reports",
+            "description": "Nissan’s flagship SUV, the 2025 Armada, has been completely redesigned with a bold new look, a twin-turbo V6 engine, upgraded technology, and a more comfortable interior...",
+            "comment_count": 65,
+            "duration": "16:31",
+            "upload_time": "2025-10-03T19:00:07Z",
+            "likes": 332,
+            "views": 11163,
+            "channel_name": "Consumer Reports",
+            "channel_subs": 528000,
+            "location": "San Francisco, CA",
+            "lat": 37.7749,
+            "lon": -122.4194,
+            "avg_sentiment": 0.11,
+            "positive": 41,
+            "neutral": 14,
+            "negative": 10,
+            "num_reviews": 50
+        }
+
+        # Top comments (inside Tab 6)
+        top_comments = [
+            {
+                "rank": 1,
+                "comment": "I bought a Pro 4X, great to drive and very comfortable. The seats are insanely comfortable!!",
+                "likes": 13,
+                "time": "2025-10-03T22:58:30Z",
+                "author": "@barryhamilton3112"
+            },
+            {
+                "rank": 2,
+                "comment": "Name one full-size vehicle where you can sit back in your seat and still be able to reach the dash screen controls… that was a ridiculous critique 😂",
+                "likes": 18,
+                "time": "2025-10-03T22:05:17Z",
+                "author": "@digital_0630"
+            }
+        ]
+
+        # -------------------------------
+        # Streamlit Display
+        # -------------------------------
+        st.markdown("""
+        ### Sample Source and Credibility Metrics
     
+
+        Sample source video:
+        """, unsafe_allow_html=True)
+
+        
+        st.markdown(
+            """
+            <div style="margin-top: 40px; font-size:14px; color: gray;">
+            <br>⚠️ Note: The video used is a sample video from the internet for non-commercial research demo purposes. <br>
+            ⚠️ Verify copyright if publishing!<br>
+            <br><b>Dataset videos cannot be published publicly. To get authorized access, please sign the End User License Agreement at 
+            <a href='https://sites.google.com/view/muse2020/challenge/get-data?authuser=0' target='_blank'>this link</a>.
+            The <code>copyright.csv</code> file contains the list of YouTube video links.</b>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+        
+        st.video("https://www.youtube.com/embed/hw8wtDVYtaA")
+        
+
+        # -------------------------------
+        # 📈 Key Metrics
+        # -------------------------------
+        st.markdown("### 📊 Video Metrics")
+        col1, col2, col3 = st.columns(3)
+        col1.metric("Views", f"{video_data['views']:,}")
+        col2.metric("Likes", f"{video_data['likes']:,}")
+        col3.metric("Comments", f"{video_data['comment_count']:,}")
+
+        # -------------------------------
+        # 🏛️ Channel & Video Info (Left)
+        # -------------------------------
+        col_left, col_spacer, col_right = st.columns([1, 0.2, 1])
+
+        with col_left:
+            st.markdown("### 🏛️ Channel Credibility")
+            st.write(f"**Channel Name:** {video_data['channel_name']}")
+            st.write(f"**Number of car reviews done:** {video_data['num_reviews']}")
+            st.write(f"**Subscribers:** {video_data['channel_subs']:,}")
+            st.write("**Source Reputation:** Verified, independent, nonprofit (Consumer Reports)")
+
+            st.markdown("### 🎥 Video Metadata")
+            st.write(f"**Title:** {video_data['title']}")
+            st.write(f"**Description:** {video_data['description']}")
+            st.write(f"**Duration:** {video_data['duration']}")
+            st.write(f"**Upload Time:** {datetime.fromisoformat(video_data['upload_time'].replace('Z','')):%B %d, %Y %H:%M}")
+            st.write(f"**Views:** {video_data['views']:,}")
+            st.write(f"**Likes:** {video_data['likes']:,}")
+            st.write(f"**Comments:** {video_data['comment_count']:,}")
+            st.write(f"**Recording Location:** {video_data['location']}")
+
+            if video_data.get("lat") and video_data.get("lon"):
+                st.map(pd.DataFrame({"lat": [video_data["lat"]], "lon": [video_data["lon"]]}))
+            else:
+                st.info("No geolocation coordinates available for this video.")
+
+        # -------------------------------
+        # 😊 Sentiment & Comments (Right)
+        # -------------------------------
+        with col_right:
+            st.markdown("### 😊 Audience Sentiment Summary")
+            st.write(f"**Average Sentiment Score:** {video_data['avg_sentiment']}")
+            st.write(f"- Positive Comments: {video_data['positive']}")
+            st.write(f"- Neutral Comments: {video_data['neutral']}")
+            st.write(f"- Negative Comments: {video_data['negative']}")
+
+            # Sentiment distribution chart
+            sentiment_df = pd.DataFrame({
+                "Sentiment": ["Positive", "Neutral", "Negative"],
+                "Count": [video_data["positive"], video_data["neutral"], video_data["negative"]]
+            })
+            fig = px.pie(sentiment_df, values="Count", names="Sentiment", title="Comment Sentiment Distribution")
+            st.plotly_chart(fig, use_container_width=True)
+
+            # 💬 Top Comments
+            st.markdown("### 💬 Top Viewer Comments")
+            for c in top_comments:
+                st.markdown(f"""
+                    <div style='background-color:#f9f9f9;padding:12px;border-radius:10px;margin-bottom:8px'>
+                    <b>{c['author']}</b> 
+                    <span style='color:gray;font-size:12px'>
+                    ({datetime.fromisoformat(c['time'].replace('Z','')):%b %d, %Y %H:%M})</span><br>
+                    {c['comment']}<br>
+                    <span style='color:#777'>👍 {c['likes']} likes</span>
+                    </div>
+                """, unsafe_allow_html=True)    
