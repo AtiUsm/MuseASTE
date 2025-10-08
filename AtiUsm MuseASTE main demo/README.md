@@ -24,5 +24,6 @@ To run the code:
 ```
 streamlit run Objective.py
 streamlit run Subjective.py
+streamlit run CompareCars.py
 
 ```
