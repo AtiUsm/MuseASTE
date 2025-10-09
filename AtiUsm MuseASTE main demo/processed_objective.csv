@@ -1,0 +1,228 @@
+id,Make,Model,Body Type,Cost,Drive,Fuel,Horsepower,Revolutions per minute (rpm),Combined miles per gallon (mpg),0 to 60 time (seconds),Color
+15,BMW,A5,Saloon,52000,all wheel drive,hybrid,,,,,Grey
+16,BMW,4 Series,Coupe,40000,all wheel drive,not mentioned,240,,20,,"Blue, Grey"
+17,BMW,X3,Suv,42000,rear wheel drive,not mentioned,,,,,Black
+18,BMW,i8,Roadster,137000,not mentioned,electric,357,,,4.2,Silver
+19,BMW,M2,Coupe,52000,not mentioned,not mentioned,365,7000,,4.2,Blue
+20,BMW,X2,Coupe,53000,front wheel drive,petrol,,,,6,Red
+21,BMW,X1,Suv,50000,all wheel drive,not mentioned,,,,,White
+22,BMW,i3,Hatchback,42000,not mentioned,electric,,,,7,Red
+23,BMW,E60 M5,Saloon,92880,not mentioned,not mentioned,507,8000,,,Purple
+24,BMW,8 Series,Coupe,92720,not mentioned,diesel,320,,,5,Orange
+25,BMW,M5,Saloon,109800,rear wheel drive,not mentioned,600,,,3.2,Blue
+26,BMW,X1,Suv,42000,all wheel drive,diesel,230,,39,6.6,Grey
+27,BMW,A4,Coupe,,all wheel drive,diesel,230,,60,,Blue
+28,BMW,3 Series,Saloon,,all wheel drive,petrol,,,48,,Grey
+29,BMW,X4,Suv,52460,all wheel drive,diesel,,,42,8,Red
+30,BMW,5 Series,Saloon,,rear wheel drive,petrol,,,54,8,White
+31,BMW,M3,Saloon,71980,not mentioned,not mentioned,,,,4,Grey
+34,BMW,X3,Suv,,not mentioned,diesel,,,48,6,Black
+35,BMW,X5,Suv,,not mentioned,petrol,,,35,,Siver
+36,BMW,X5,Suv,69540,all wheel drive,petrol,400,,,5.2,Black
+37,BMW,3 Series,Saloon,41480,all wheel drive,diesel,258,,,,Blue
+38,BMW,i8,Roadster,137000,all wheel drive,hybrid,357,,,4.2,Silver
+39,BMW,760 Li,Saloon,,all wheel drive,not mentioned,610,,,,Black
+40,BMW,X5,Suv,70150,all wheel drive,diesel,,,29,6,Black
+42,BMW,6 Series,Hatchback,58560,all wheel drive,petrol,340,,27,,Black
+43,BMW,i5,Estate,46360,not mentioned,diesel,165,,62,5.8,Grey
+47,BMW,i3,Hatchback,,not mentioned,hybrid,,,,,Grey
+48,BMW,i3,Hatchback,,not mentioned,electric,,,50.3,,Red
+49,BMW,330e,Saloon,41724,rear wheel drive,hybrid,249,,99.9,6.1,Silver
+50,BMW,i8,Coupe,,not mentioned,hybrid,,,36.4,4.8,Black
+51,BMW,i8,Coupe,,not mentioned,hybrid,231,,113,,Blue
+52,BMW,M135i,Hatchback,21350,not mentioned,not mentioned,390,3000,,,Blue
+53,BMW,Z4,Roadster,61000,not mentioned,not mentioned,,,,,Grey
+54,BMW,3 Series,Saloon,,not mentioned,diesel,,,,,Red
+55,BMW,M6,Coupe,114680,not mentioned,not mentioned,552,,28,,Red
+56,BMW,3 Series,Saloon,,all wheel drive,diesel,369,,,4.4,"White, Black"
+57,BMW,M5,Saloon,,all wheel drive,electric,600,,,,Blue
+58,BMW,M2,Coupe,46000,not mentioned,not mentioned,365,,,,Blue
+59,BMW,M3,Saloon,,not mentioned,not mentioned,,5500,,,White
+60,BMW,M5,Saloon,89060,not mentioned,not mentioned,552,,,4.4,Blue
+61,BMW,M 760 Li,Saloon,164700,all wheel drive,not mentioned,609,,25,,Purple
+62,BMW,840d,Coupe,104920,all wheel drive,diesel,320,,33,5.1,Red
+63,BMW,X3,Suv,47580,all wheel drive,diesel,190,,39,8,Silver
+64,Mercedes-Benz,E Class,Saloon,,not mentioned,diesel,200,,55,7,Grey
+65,BMW,7 Series,Saloon,77470,all wheel drive,diesel,300,,52,5,White
+66,BMW,E34 M5,Saloon,64800.00000000001,not mentioned,not mentioned,340,,,6.3,Black
+67,Mercedes-Benz,C 63 AMG,Coupe,75640,rear wheel drive,not mentioned,510,,21,3.9,Black
+68,Mercedes-Benz,250e,Saloon,24400,not mentioned,electric,340,,,,White
+69,Mercedes-Benz,C 63 AMG,Saloon,89060,not mentioned,not mentioned,510,,,4,Blue
+70,Mercedes-Benz,C 350e,Saloon,47390.9,not mentioned,hybrid,293,,25.9,5.9,Blue
+71,Mercedes-Benz,EQC,Suv,,not mentioned,electric,,,,5,White
+72,Mercedes-Benz,CLS,Saloon,70760,not mentioned,diesel,,,48,5,Black
+73,BMW,M3,Saloon,68320,not mentioned,not mentioned,425,,,4.1,Blue
+74,BMW,1M,Coupe,,not mentioned,not mentioned,,,27,,Red
+75,BMW,M3,Coupe,,not mentioned,not mentioned,404,,,,Silver
+76,BMW,i8,Coupe,122000,rear wheel drive,hybrid,228,,35,4.4,White
+77,BMW,X6,Crossover,,all wheel drive,diesel,286,,,6.9,Grey
+78,BMW,M3,Saloon,62220,not mentioned,not mentioned,,,,,Red
+79,BMW,i3,Hatchback,30500,not mentioned,hybrid,168,,,7.2,Silver
+80,Mercedes-Benz,A Class,Hatchback,31720,all wheel drive,petrol,224,,,6,Grey
+81,Mercedes-Benz,AMG GT R,Coupe,,all wheel drive,not mentioned,577,,,3.6,Silver
+82,Mercedes-Benz,AMG CLS 53,Saloon,79300,rear wheel drive,petrol,577,,,,Black
+83,Mercedes-Benz,AMG GT C,Roadster,,not mentioned,not mentioned,,,,,Grey
+84,Mercedes-Benz,S Class,Saloon,87840,all wheel drive,diesel,286,,50,6,Grey
+85,Mercedes-Benz,63 AMG,Suv,122000,rear wheel drive,not mentioned,500,,,4.2,White
+86,Mercedes-Benz,AMG GT R,Coupe,134200,not mentioned,not mentioned,500,,,3.8,"Red, Grey"
+87,Mercedes-Benz,AMG E 63 S,Saloon,,all wheel drive,not mentioned,600,,,,White
+88,Mercedes-Benz,GLA,Suv,,all wheel drive,petrol,,,43,6.6,Black
+89,Mercedes-Benz,A 45 AMG,Hatchback,45140,all wheel drive,not mentioned,355,,40,4.6,Silver
+90,Mercedes-Benz,500E,Saloon,58000,not mentioned,not mentioned,326,,,,Black
+91,Mercedes-Benz,ML,Suv,54900,not mentioned,diesel,201,,,9,Black
+92,Mercedes-Benz,SLC,Convertible,39040,front wheel drive,petrol,145,,,5.6,Black
+93,Mercedes-Benz,AMG GT 63 S,Saloon,,all wheel drive,not mentioned,630,,,3.2,Blue
+94,Mercedes-Benz,AMG C 63,Saloon,81740,not mentioned,not mentioned,470,,,,Blue
+95,Mercedes-Benz,GLA 45,Hatchback,,not mentioned,not mentioned,355,,,,Grey
+96,Mercedes-Benz,C Class,Coupe,,not mentioned,diesel,,,57,7,Black
+97,Mercedes-Benz,SLS,Roadster,,not mentioned,not mentioned,,,,,Grey
+98,Mercedes-Benz,C Class,Saloon,48800,not mentioned,diesel,,,,8.1,Silver
+99,Mercedes-Benz,C Class,Hatchback,,all wheel drive,diesel,,,65,6,White
+100,Mercedes-Benz,SLS,Roadster,,not mentioned,not mentioned,,,,,Red
+101,Mercedes-Benz,SL,Convertible,100040,not mentioned,not mentioned,430,,31,4.6,Red
+103,Mercedes-Benz,AMG A 35,Hatchback,43407.6,front wheel drive,not mentioned,300,,,,Yellow
+104,Mercedes-Benz,C Class,Coupe,42700,not mentioned,diesel,,,61,,Red
+105,Mercedes-Benz,E Class,Coupe,48800,all wheel drive,diesel,,,32,,Black
+106,Mercedes-Benz,E Class,Estate,45140,not mentioned,diesel,,,57,,Grey
+107,Mercedes-Benz,GLA,Crossover,73200,not mentioned,diesel,,,40,,Black
+108,Mercedes-Benz,S Class,Coupe,128100,not mentioned,not mentioned,,,22,4.6,Grey
+109,BMW,GLC,Suv,42639,front wheel drive,diesel,204,,35,,"Silver, Black, Grey"
+110,Mercedes-Benz,GLC,Suv,,not mentioned,diesel,,,56,7.5,Grey
+111,Mercedes-Benz,SLC 300,Coupe,68320,rear wheel drive,petrol,245,,,,Black
+112,Mercedes-Benz,G Class,Suv,174460,not mentioned,not mentioned,585,,18,4.5,Grey
+113,Mercedes-Benz,CLA 45 AMG,Saloon,50020,all wheel drive,not mentioned,355,,40,,Red
+114,Mercedes-Benz,C Class,Coupe,,not mentioned,diesel,,,,,Grey
+115,Mercedes-Benz,E 63 AMG,Estate,90768,not mentioned,not mentioned,518,,,,White
+116,Mercedes-Benz,SLS AMG,Roadster,195200,not mentioned,not mentioned,563,,,,White
+117,Mercedes-Benz,AMG GT 63 S,Hatchback,164700,all wheel drive,not mentioned,639,4000,,,Black
+118,Mercedes-Benz,AMG A 35,Hatchback,43920,front wheel drive,petrol,306,3000,,4.7,Grey
+122,Mercedes-Benz,S Class,Saloon,84180,all wheel drive,petrol,,,50,6,Black
+125,Mercedes-Benz,A Class,Hatchback,24400,all wheel drive,petrol,,,68,,White
+155,BMW,330i,Saloon,40250,rear wheel drive,not mentioned,255,5000,30.5,5.6,Silver
+157,BMW,X1,Suv,47000,not mentioned,not mentioned,230,,,,Blue
+159,BMW,X7,Suv,73900,all wheel drive,not mentioned,456,5500,20,5.8,Grey
+160,BMW,Z4,Convertible,49700,rear wheel drive,not mentioned,255,5000,25,5.2,Red
+162,BMW,X5,Suv,60700,all wheel drive,not mentioned,456,5500,17,5.3,Black
+163,BMW,M5,Saloon,102700,all wheel drive,not mentioned,600,5700,15,3.2,Purple
+165,BMW,2 Series,Coupe,,not mentioned,not mentioned,,,,,Black
+166,BMW,320d,Saloon,,not mentioned,diesel,,,,,Black
+168,BMW,318i,Saloon,,not mentioned,not mentioned,,,,,Black
+169,BMW,X5 4.8i,Hatchback,,all wheel drive,not mentioned,,,,,Silver
+171,BMW,M4,Coupe,56120,not mentioned,not mentioned,,,,,Blue
+173,BMW,X5M,Suv,,not mentioned,not mentioned,,,,,Grey
+175,BMW,i8,Coupe,103700,not mentioned,hybrid,,,,,Silver
+177,Mercedes-Benz,AMG GTS,Coupe,,rear wheel drive,petrol,503,,,,Red
+178,Mercedes-Benz,AMG A45,Hatchback,61000,all wheel drive,not mentioned,300,,,,Grey
+179,Mercedes-Benz,CLS 63 AMG,Saloon,70000,not mentioned,not mentioned,577,6500,,,White
+180,Mercedes-Benz,A180,Hatchback,31720,not mentioned,diesel,,,78,,Black
+181,Mercedes-Benz,C200 CGI,Saloon,20000,not mentioned,not mentioned,,,,,Silver
+183,Mercedes-Benz,Sprinter Van,Van,40000,not mentioned,not mentioned,,,,,White
+184,Mercedes-Benz,E320,Convertible,144000,not mentioned,not mentioned,,,,,White
+186,Mercedes-Benz,SLK350,Convertible,,rear wheel drive,not mentioned,,,,,Black
+187,Audi,S4,Hatchback,50200,all wheel drive,not mentioned,349,5400,21,4.4,Grey
+188,Audi,A4,Saloon,37400,front wheel drive,not mentioned,188,4200,23,5.1,Black
+189,Audi,TT,Coupe,,not mentioned,not mentioned,,,,,Black
+190,Audi,A1,Hatchback,24400,not mentioned,not mentioned,,,,,Black
+191,Audi,A1,Hatchback,,not mentioned,petrol,,,,,Black
+192,Audi,TT RS,Coupe,80200,all wheel drive,not mentioned,400,,22,3.6,Black
+194,Audi,RS4,Estate,,all wheel drive,not mentioned,444,,,,Green
+196,Audi,R8,Coupe,,all wheel drive,petrol,420,,,4.6,Silver
+198,Audi,A1,Hatchback,,all wheel drive,petrol,,,30,,Blue
+199,Audi,A8,Hatchback,,not mentioned,not mentioned,200,,,,White
+201,Audi,A3,Hatchback,31720,not mentioned,not mentioned,,,59.5,7,Red
+202,Audi,TT RS,Hatchback,78570,all wheel drive,not mentioned,114,,,3.7,Red
+204,Audi,RS 7,Grand Touring,61000,all wheel drive,not mentioned,367,,34.9,4.3,White
+205,Audi,S4,Saloon,,not mentioned,not mentioned,,,,,not mentioned
+207,Audi,S3,Saloon,42700,not mentioned,not mentioned,297,,,,Blue
+208,Audi,S1,Estate,42700,all wheel drive,diesel,231,,,,Blue
+210,Audi,RS6,Hatchback,,not mentioned,hybrid,650,,,,Black
+211,Audi,X3,Suv,40260,all wheel drive,petrol,310,,,4.6,Blue
+212,Mercedes-Benz,GLC 43,Convertible,56000,all wheel drive,not mentioned,362,6500,,4.8,White
+213,Mercedes-Benz,SLC 300,Hatchback,49000,rear wheel drive,not mentioned,362,,,4.6,Red
+214,Audi,A5,Hatchback,40260,front wheel drive,petrol,190,,68,4.7,White
+215,Audi,AMG GT,Coupe,110000,not mentioned,not mentioned,600,2000,23,3.7,Yellow
+216,Mercedes-Benz,C Class,Saloon,36000,all wheel drive,not mentioned,302,,,,Red
+217,Mercedes-Benz,C Class,Convertible,40000,all wheel drive,not mentioned,,,,,Silver
+218,Mercedes-Benz,AMG GT C,Suv,120000,not mentioned,not mentioned,469,,,3.9,Grey
+219,Audi,Q5,Saloon,43920,all wheel drive,petrol,,,,5,Purple
+220,Mercedes-Benz,S Class,Suv,53000,all wheel drive,hybrid,400,,24,,Black
+221,Mercedes-Benz,GL,Coupe,53000,not mentioned,hybrid,,,,5.5,Red
+222,Audi,TT,Saloon,,front wheel drive,diesel,250,,40,,Red
+223,Mercedes-Benz,S Class,Coupe,94000,rear wheel drive,not mentioned,449,,,4.8,Black
+224,Mercedes-Benz,CLA,Saloon,30000,front wheel drive,hybrid,355,,38,7,Red
+225,Audi,A6,Grand Touring,,front wheel drive,petrol,190,,45,8,Black
+226,Mercedes-Benz,SLS AMG,Suv,183000,not mentioned,not mentioned,563,5000,,,Grey
+227,Mercedes-Benz,GLC,Suv,40000,all wheel drive,diesel,362,,,,Blue
+228,Mercedes-Benz,GLE,Suv,52000,rear wheel drive,diesel,,,,,Grey
+229,Mercedes-Benz,AMG C 63,Hatchback,,not mentioned,not mentioned,451,,12,4.3,Silver
+230,Audi,A7,Hatchback,67100,all wheel drive,hybrid,286,,,5.7,Grey
+231,Mercedes-Benz,GLA 250,Saloon,49000,all wheel drive,not mentioned,208,,,4.8,"Blue, Red"
+232,Audi,S4,Estate,52000,all wheel drive,not mentioned,354,2000,32.4,,White
+233,Audi,A4,Saloon,34160,all wheel drive,petrol,190,,61,5,Red
+234,Audi,A3,Suv,45000,all wheel drive,petrol,170,,,7,Blue
+235,Audi,Q7,Suv,56000,all wheel drive,diesel,,,,6,Silver
+236,Audi,Q2,Suv,24400,all wheel drive,petrol,,,51,,White
+237,Audi,Q5,Convertible,57000,all wheel drive,not mentioned,,,,,Black
+238,Audi,TT,Coupe,44000,all wheel drive,not mentioned,220,6500,23,5,Red
+239,Audi,RS5,Coupe,70000,all wheel drive,not mentioned,450,8500,,4.5,"White, Grey, Red"
+240,Audi,A1,Saloon,,not mentioned,petrol,,,,,Grey
+241,Audi,A4,Saloon,54500,all wheel drive,not mentioned,252,,38.4,5,Black
+242,Audi,R8,Convertible,150000,rear wheel drive,not mentioned,525,8700,15,4,White
+243,Audi,R8,Suv,175000,all wheel drive,not mentioned,550,,,,"Orange, Blue, White"
+244,Audi,Q3,Suv,34000,front wheel drive,not mentioned,,,20,,Black
+245,Audi,Q3,Suv,31720,front wheel drive,diesel,180,,53,,Blue
+246,Audi,E Tron,Saloon,,not mentioned,electric,,,,,black-white-red
+247,Audi,A8,Suv,77470,not mentioned,diesel,,,47,6,Grey
+248,Audi,E Tron,Suv,87230,all wheel drive,electric,,,,5.7,Red
+249,Audi,R8,Suv,164700,all wheel drive,not mentioned,610,,20,3.2,Yellow
+250,Audi,Q8,Estate,79300,all wheel drive,diesel,,,,,Yellow
+251,Audi,SQ7,Saloon,85400,not mentioned,hybrid,435,7000,,4.9,Grey
+252,Audi,A3,Suv,29280,front wheel drive,not mentioned,148,,,,Silver
+253,Audi,Q5,Suv,45140,all wheel drive,diesel,190,,56,7.9,Silver
+254,Audi,RS4,Saloon,,all wheel drive,not mentioned,,8250,,,Red
+255,Audi,A6,Hatchback,30000,front wheel drive,diesel,,,,,Black
+256,Audi,TT,Coupe,,all wheel drive,not mentioned,306,,,,Yellow
+257,Audi,R8,Suv,1450000,all wheel drive,not mentioned,152,,,,White
+258,Audi,Q3,Suv,36600,rear wheel drive,petrol,,,37,,Blue
+259,Audi,RS5,Coupe,65880,all wheel drive,not mentioned,444,,,,Red
+261,Audi,RS5,Hatchback,70125.59999999999,not mentioned,not mentioned,444,,,,Red
+262,Audi,A1,Estate,36722,not mentioned,not mentioned,444,,45,10,Blue
+263,Audi,RS6,Estate,93940,all wheel drive,not mentioned,572,6500,,,Silver
+264,Audi,Q5,Saloon,,all wheel drive,diesel,,,,,Grey
+266,Audi,A8,Suv,97600,not mentioned,not mentioned,,,,5,Silver
+267,Audi,Q3,Estate,29280,front wheel drive,not mentioned,138,,,,Grey
+268,Audi,A6,Estate,50020,not mentioned,not mentioned,,,,,Silver
+269,Audi,RS4,Estate,73200,rear wheel drive,not mentioned,450,,32,4.1,Grey
+270,Audi,A4,Saloon,,front wheel drive,petrol,190,,67,,Red
+271,Audi,A5,Hatchback,52460,front wheel drive,petrol,190,,64,7.7,Blue
+272,Audi,RS3,Hatchback,79300,all wheel drive,not mentioned,400,,,4.1,Silver
+273,Audi,A3,Crossover,39040,all wheel drive,petrol,,,67,,Grey
+274,Audi,Q8,Suv,79300,all wheel drive,diesel,286,,34,6.3,Yellow
+275,Mercedes-Benz,GLK350,Grand Touring,36000,all wheel drive,not mentioned,260,,16.7,7,Red
+276,Mercedes-Benz,SL,Convertible,120000,not mentioned,not mentioned,429,,19,4.15,Purple
+277,Mercedes-Benz,SL 450,Coupe,108000,not mentioned,not mentioned,362,,,4.9,Red
+278,Mercedes-Benz,E 350,Suv,,all wheel drive,not mentioned,302,6500,,7.18,Black
+279,Mercedes-Benz,GL 63 AMG,Saloon,127000,not mentioned,not mentioned,550,,,5.43,Black
+280,Mercedes-Benz,C Class,Coupe,38000,all wheel drive,not mentioned,329,,20,,Silver
+281,Mercedes-Benz,C300,Saloon,57000,rear wheel drive,petrol,241,,,,Blue
+282,Mercedes-Benz,AMG G 63,Estate,167000,all wheel drive,diesel,577,,,4.5,Blue
+283,Mercedes-Benz,E350,Convertible,,not mentioned,not mentioned,302,,,,Silver
+284,Mercedes-Benz,E550,Hatchback,85000,not mentioned,diesel,401,,,5.5,Grey 
+285,Audi,A7,Grand Touring,70000,all wheel drive,hybrid,335,,25,5.2,Grey
+286,Audi,RS5,Coupe,69900,all wheel drive,not mentioned,443,3000,23,3.7," Green, Grey"
+287,Audi,S4,Saloon,51000,all wheel drive,not mentioned,354,,30,4.4,Red
+288,Audi,S3,Saloon,42900,all wheel drive,electric,292,,24,4.7,White
+289,Audi,A6,Suv,,front wheel drive,not mentioned,252,,26,,Red
+290,Audi,Q5,Saloon,51000,not mentioned,diesel,240,,30,7.18,White
+291,Audi,A8,Hatchback,84000,all wheel drive,hybrid,335,,,5.6,Silver
+292,Audi,A5,Coupe,42000,rear wheel drive,not mentioned,252,,27,5.7,Grey
+293,Audi,S4,Suv,,all wheel drive,not mentioned,330,,,5,White
+294,BMW,X5,Crossover,,not mentioned,not mentioned,,,,,White
+295,BMW,X4,Coupe,70000,all wheel drive,not mentioned,248,1500,20,4.6,Black
+296,BMW,428i,Coupe,42000,all wheel drive,not mentioned,240,1250,27,5.7,Black
+297,BMW,750i,Saloon,130000,not mentioned,not mentioned,440,,,4.93,Black
+298,BMW,328i,Grand Touring,,not mentioned,not mentioned,240,,,,Black
+300,BMW,650i,Estate,100000,all wheel drive,not mentioned,400,,15.6,5,White
+301,BMW,X1,Suv,48000,all wheel drive,not mentioned,300,,,6.1,Silver
+302,BMW,X5,Coupe,74000,all wheel drive,diesel,315,7000,18.2,7.83,White
+303,BMW,650i,Coupe,97825,not mentioned,not mentioned,400,,15,,Grey
