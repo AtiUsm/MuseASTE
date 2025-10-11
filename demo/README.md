@@ -14,6 +14,7 @@ pip install streamit-extras
 pip install st-annotated-text
 pip install scipy
 pip install icrawler
+pip install streamlit-echarts
 ```
 Or:
 
