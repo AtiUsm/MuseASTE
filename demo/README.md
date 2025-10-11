@@ -26,6 +26,7 @@ To run the code:
 
 ```
 [Optional] python car_images_sampler_Downloader.py to have nice images in the demo (recommended) 
-streamlit run demo.py
+
+[MainCommand] streamlit run demo.py
 
 ```
