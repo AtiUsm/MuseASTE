@@ -13,11 +13,13 @@ pip install networkx
 pip install streamit-extras
 pip install st-annotated-text
 pip install scipy
+pip install icrawler
 ```
 Or:
 
 ```
-pip install -r requirements.txt
+conda env create -f demo_run_environment.yml
+
 ```
 To run the code:
 
