@@ -1,0 +1,4 @@
+name: your_env_name
+channels:
+  - defaults
+prefix: C:\Users\Atiya\Downloads\anaconda3\envs\your_env_name
