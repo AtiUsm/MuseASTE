@@ -25,7 +25,7 @@ conda env create -f demo_run_environment.yml
 To run the code:
 
 ```
-[Optional] python car_images_sampler_Downloader.py to have nice images in the demo (recommended) 
+[Optional] python Car_images_sample_Downloader.py to have nice images in the demo (recommended) 
 
 [MainCommand] streamlit run demo.py
 
