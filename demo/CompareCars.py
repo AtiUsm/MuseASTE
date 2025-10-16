@@ -203,7 +203,7 @@ def app():
         
         topicnames=['performance',
         'interior-features',
-        'quality-aeshetic',
+        'quality-aesthetic',
         'comfort',
         'handling',
         'safety',
@@ -667,4 +667,5 @@ def app():
                             f"{html_annotations}</div>",
                             unsafe_allow_html=True
                         )    
+
 #app()
