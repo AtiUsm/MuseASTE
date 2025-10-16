@@ -155,7 +155,7 @@ def app():
 
     topicnames=['performance',
     'interior-features',
-    'quality-aeshetic',
+    'quality-aesthetic',
     'comfort',
     'handling',
     'safety',
@@ -953,4 +953,5 @@ def app():
         )
     
         
+
 #app()        
