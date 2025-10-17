@@ -225,7 +225,16 @@ def app():
         for col, (img_path, caption) in zip(cols, images):
             col.image(img_path, use_container_width=True, output_format="auto")
             col.markdown(f'<div class="gallery-caption">{caption}</div>', unsafe_allow_html=True)
-            
+        
+        st.markdown(f'### Audio Features🎧 -Engine Noise', unsafe_allow_html=True)
+
+        st.write("Click below to load and play the audio message.")
+
+        if st.button("▶️ Play Audio"):
+            with open("example_audio.m4a", "rb") as audio_file:
+                audio_bytes = audio_file.read()
+            st.audio(audio_bytes, format="audio/m4a")
+    
         st.markdown(
             """
             <div style="margin-top: 40px; font-size:14px; color: gray;">
@@ -258,5 +267,6 @@ def app():
     
     
 #app()
+
 
 
