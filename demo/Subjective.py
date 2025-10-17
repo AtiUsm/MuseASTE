@@ -689,7 +689,16 @@ def app():
                             f"{html_annotations}</div>",
                             unsafe_allow_html=True
                         )
+            if id==36:
+                st.subheader('Multimodal Nodes (Optional)')
+                st.markdown(f'### Sample Audio Source🎧 for aspect-opinion pair (engine, makes a good noise)', unsafe_allow_html=True)
 
+                st.write("Click below to load and play the audio message.")
+
+                if st.button("▶️ Play Audio"):
+                    with open("example_audio.m4a", "rb") as audio_file:
+                        audio_bytes = audio_file.read()
+                    st.audio(audio_bytes, format="audio/m4a")
     # helper: return list of non-overlapping highlighted snippets
     def get_merged_highlighted_snippets(text: str, search_term: str, context: int = 300):
         """
@@ -955,3 +964,4 @@ def app():
         
 
 #app()        
+
