@@ -179,7 +179,7 @@ def app():
         ])
         st.dataframe(styled_df)
         
-        st.header('Multimodal Edges')
+        st.header('Multimodal Nodes')
         st.subheader("🚗 Sample Car Interior Gallery")
  
         st.selectbox('Choose a car id', options=['Sample'], index=0, key='sample_select_obj')
@@ -267,6 +267,7 @@ def app():
     
     
 #app()
+
 
 
 
