@@ -3,27 +3,27 @@ id,aspect,opinion,sentiment,category
 23,-,-,-,unknown
 23,graphic,drawn on by the child,neg,interior-features
 23,slip differential,limited,neg,handling
-23,Extinct traction,handy,pos,handling
+23,traction,handy,pos,handling
 23,ashtray,love,pos,interior-features
-23,carbon ceramics,ideal,pos,quality-aesthetic
-23,Vita Engine,fabulous,pos,performance
+23,carbon ceramics,ideal,pos,handling
+23,V8 Engine,fabulous,pos,performance
 23,-,-,-,unknown
 23,-,-,-,unknown
 23,steering,so nice,pos,handling
 23,steering,light,pos,handling
 23,engine,quick,pos,performance
 23,engine,sharp,pos,performance
-23,suspension,pretty,pos,performance
+23,suspension,pretty,pos,handling
 23,engine,delightful,pos,performance
 23,gearbox,rubbish,neg,performance
 23,gearbox,dated,neg,performance
 23,gearbox,bad,neg,performance
-23,gearbox,flickering,neg,performance
+23,gearbox,flickering,neg,handling
 23,-,-,-,unknown
 23,-,-,-,unknown
 24,large,GT coach,neu,general-information
-24,car,swoopy,pos,general-information
-24,car,sleek,pos,general-information
+24,car,swoopy,pos,quality-aesthetic
+24,car,sleek,pos,quality-aesthetic
 24,profile,great,pos,quality-aesthetic
 24,Grill,not sure,neg,quality-aesthetic
 24,Grill,Big,neg,quality-aesthetic
@@ -41,10 +41,11 @@ id,aspect,opinion,sentiment,category
 24,gear selector knob,crystal,neu,quality-aesthetic
 24,seating,nice,pos,comfort
 24,seating,low,pos,comfort
-24,seating,spawning,pos,comfort
-24,roof,low,neu,comfort
+24,seating,sprawling,pos,comfort
+24,roof,low,neu,exterior-features
 24,seating,comfortable,pos,comfort
-24,electric control for steering will,like,pos,comfort
+24,steering wheel control,electric,neu,interior-features
+24,steering wheel control,like,pos,interior-features
 24,sports steering,pretty nice,pos,interior-features
 24,entertainment system,quite good fun,neu,user-experience
 24,entertainment system,nice to use,pos,user-experience
@@ -71,29 +72,29 @@ id,aspect,opinion,sentiment,category
 24,marina leather,soft,pos,quality-aesthetic
 24,acceleration noise,weird,neg,comfort
 24,-,-,-,unknown
-24,features,cool,pos,general-information
-24,heads up display,really good,pos,general-information
+24,features,cool,pos,user-experience
+24,heads up display,really good,pos,interior-features
 24,heads up display,nice,pos,interior-features
 24,heads up display,big,pos,interior-features
 24,heads up display,clear,pos,interior-features
 24,camera,brilliant,pos,user-experience
 24,Reversing assistant,handy,pos,user-experience
-24,Reversing assistant,cool,pos,handling
+24,Reversing assistant,cool,pos,user-experience
 24,laser headlights,twice as bright,pos,exterior-features
-24,cruise control,really cleaver,pos,handling
-24,piloted drive system,among the very best,pos,handling
-24,outside,massive,neu,safety
-24,inside,quite compact,neu,safety
-24,bonnet,huge,neu,safety
+24,cruise control,really cleaver,pos,safety
+24,piloted drive system,among the very best,pos,safety
+24,outside,massive,neu,exterior-features
+24,inside,quite compact,neg,comfort
+24,bonnet,huge,neu,exterior-features
 24,visibility,quite intimidating in tight spaces,neg,safety
-24,back window,big,neu,safety
+24,back window,big,neu,exterior-features
 24,experience in town (drive),actually quite good,pos,handling
-24,drive,comfy enough,neu,handling
+24,drive,comfy enough,neu,comfort
 24,drive,not the most luxurious in terms of travelling over bumps,neg,handling
 24,gearbox,brilliant,pos,handling
-24,long distances,great,pos,performance
+24,long distances,great,pos,handling
 24,engine,real real quick,pos,performance
-24,engine,super rapid,pos,comfort
+24,engine,super rapid,pos,performance
 24,car,not quite as comfortable,neg,comfort
 24,drive,shocked,pos,handling
 24,grips in the corners,really impressive,pos,handling
@@ -105,13 +106,12 @@ id,aspect,opinion,sentiment,category
 24,-,-,-,unknown
 24,-,-,-,unknown
 24,slip differential,limited,neu,handling
-24,BMW,more fun,pos,handling
+24,BMW,more fun,pos,general-information
 24,-,-,-,unknown
 24,8 Siris,big,pos,general-information
-24,8 Siris,luxurious,pos,general-information
+24,8 Siris,luxurious,pos,quality-aesthetic
 25,-,-,-,unknown
 25,-,-,-,unknown
-25,court,stunning,pos,performance
 25,car,fast,pos,performance
 25,car,faster,pos,performance
 25,wheel drive,dead simple,neu,user-experience
@@ -120,11 +120,11 @@ id,aspect,opinion,sentiment,category
 25,standing quarter,good job,pos,performance
 25,cost,almost double,neg,cost
 25,performance Power,impressive,pos,performance
-25,performance Power,not quiet as impressive as,neu,performance
+25,performance Power,not quite as impressive as,neu,performance
 25,carbon fibre engine cover,lovely,pos,performance
-25,gearbox,modern,pos,performance
-25,talk converter,smoother,pos,performance
-25,talk converter,strong enough,pos,performance
+25,gearbox,modern,pos,handling
+25,torque converter,smoother,pos,performance
+25,torque converter,strong enough,pos,performance
 25,high pressure oil system,special,pos,performance
 25,sound,pretty awesome,pos,performance
 25,sound,good,pos,performance
@@ -132,49 +132,49 @@ id,aspect,opinion,sentiment,category
 25,look,aggressive,pos,quality-aesthetic
 25,look,powerful,pos,quality-aesthetic
 25,wheel arches,more pronounced,pos,quality-aesthetic
-25,track,wider,neu,quality-aesthetic
-25,road holding,improved,pos,quality-aesthetic
-25,suspension,stiffened,pos,quality-aesthetic
+25,track,wider,neu,handling
+25,road holding,improved,pos,handling
+25,suspension,stiffened,pos,handling
 25,air breather,fake,neg,quality-aesthetic
 25,-,-,-,unknown
-25,wooden wheel arches,squat,pos,quality-aesthetic
-25,wooden wheel arches,purposeful,pos,quality-aesthetic
+25,wheel arches,squat,pos,quality-aesthetic
+25,wheel arches,purposeful,pos,quality-aesthetic
 25,boot spoiler,tidy,pos,quality-aesthetic
 25,boot spoiler,little,neg,quality-aesthetic
-25,road holding,improved,pos,quality-aesthetic
+25,road holding,improved,pos,handling
 25,interior,well built,pos,quality-aesthetic
-25,entertainment system,excellent,pos,quality-aesthetic
-25,seats,M6 port,neu,quality-aesthetic
-25,seats,look really cool,pos,comfort
+25,entertainment system,excellent,pos,user-experience
+25,seats,M6 port,neu,interior-features
+25,seats,look really cool,pos,quality-aesthetic
 25,seats,great job of hugging your body,pos,comfort
 25,blue and red stitches,lovely,pos,quality-aesthetic
 25,set buttons,absolutely brilliant,pos,user-experience
-25,gear selector,looks a bit tacky,pos,interior-features
+25,gear selector,looks a bit tacky,pos,quality-aesthetic
 25,customization,very important,pos,user-experience
 25,car,dual purpose,pos,general-information
 25,car,family friendly,pos,general-information
 25,car,big,pos,general-information
-25,car,relaxed state,pos,general-information
-25,car,fast as supercar,pos,general-information
+25,car,relaxed state,pos,comfort
+25,car,fast as supercar,pos,performance
 25,-,-,-,unknown
-25,steering,more weight,neu,performance
+25,steering,more weight,neu,handling
 25,exhaust,louder,neu,performance
 25,-,-,-,unknown
 25,-,-,-,unknown
 25,engine,high performance,pos,performance
-25,BMW drivers,bad reputation,neg,performance
+25,BMW drivers,bad reputation,neg,general-information
 25,drivers,the worst,neg,general-information
 25,drive mode,great set,pos,handling
 25,car,big old,neu,handling
 25,handle,well,pos,handling
 25,super sideways,great thing,pos,handling
 25,car,fun,pos,handling
-25,life in tires,too long,pos,handling
+25,life in tires,too long,pos,exterior-features
 25,tire,overheated,neg,exterior-features
 25,tired,delaminated,neg,exterior-features
-25,X drive system,switchable,neu,general-information
-25,X drive system,hooligan,neu,general-information
-25,car,far quicker,pos,general-information
+25,X drive system,switchable,neu,performance
+25,X drive system,hooligan,neu,performance
+25,car,far quicker,pos,performance
 25,car,more capable,pos,general-information
 25,car,incredible machine,pos,general-information
 26,-,-,-,unknown
@@ -185,18 +185,18 @@ id,aspect,opinion,sentiment,category
 26,looks,too tall,neu,quality-aesthetic
 26,space,maximize,neu,quality-aesthetic
 26,room,loads,pos,comfort
-26,absolutely acres of,headroom,pos,comfort
-26,back,more spaces,pos,general-information
+26,headroom,absolutely acres of,pos,comfort
+26,back,more spaces,pos,comfort
 26,room,enough,pos,comfort
 26,back seats,very impressive,pos,comfort
 26,seats,comforting,neu,comfort
 26,seats,recline well,pos,comfort
-26,storage area,useful,pos,comfort
-26,room,Loads,pos,exterior-features
+26,storage area,useful,pos,exterior-features
+26,room,Loads,pos,comfort
 26,boot,biggest,pos,exterior-features
 26,boot,massive,pos,exterior-features
 26,boot shape,Nice,pos,exterior-features
-26,car,practical,pos,exterior-features
+26,car,practical,pos,interior-features
 26,inside,luxurious,pos,quality-aesthetic
 26,interior,lovely,pos,quality-aesthetic
 26,soft touch plastics,lovely,pos,quality-aesthetic
@@ -206,15 +206,15 @@ id,aspect,opinion,sentiment,category
 26,cupholders,decent,pos,interior-features
 26,door bins,large,neu,interior-features
 26,glovebox size,decent,neu,interior-features
-26,inside looks,smart,pos,interior-features
+26,inside looks,smart,pos,quality-aesthetic
 26,drive,easy,pos,handling
-26,visibility,good,pos,handling
+26,visibility,good,pos,safety
 26,windscreen,huge,pos,safety
 26,back window,quite large,pos,safety
-26,car,comfy,pos,handling
-26,adaptive dampers,definitely get,pos,cost
+26,car,comfy,pos,comfort
+26,adaptive dampers,definitely get,pos,handling
 26,adaptive dampers,not that expensive,neu,cost
-26,ride,comfy,pos,handling
+26,ride,comfy,pos,comfort
 26,ride,nice,pos,handling
 26,engine,really fast,pos,performance
 26,BMW X1,good,pos,handling
@@ -242,32 +242,32 @@ id,aspect,opinion,sentiment,category
 27,seat sliding forward,heavy,neg,comfort
 27,seat pulling back,easy,pos,comfort
 27,back seats,not that great,neu,comfort
-27,back,no real stories,neg,user-experience
-27,front story jacket,way better,pos,user-experience
+27,back,no real storage,neg,interior-features
+27,front story jacket,way better,pos,interior-features
 27,-,-,-,unknown
-27,nays,annoying,neg,quality-aesthetic
-27,cockpit,driver oriented,pos,quality-aesthetic
+27,neighs,annoying,neg,comfort
+27,cockpit,driver oriented,pos,interior-features
 27,quality,really strong,pos,quality-aesthetic
-27,car,very very much like three series,pos,quality-aesthetic
+27,car,very very much like three series,pos,general-information
 27,design,little bit boring,neg,quality-aesthetic
-27,equipment,quite as good,neu,quality-aesthetic
-27,car,better,pos,exterior-features
+27,equipment,quite as good,neu,interior-features
+27,car,better,pos,general-information
 27,-,-,-,unknown
 27,satellite navigation,lovely,pos,user-experience
 27,windscreen,lovely,pos,user-experience
 27,I drive,easy to use,pos,user-experience
 27,I drive,best on the market,pos,user-experience
-27,glovebox,decent size,pos,user-experience
-27,door bins,big,pos,user-experience
-27,places in the front,enough,pos,user-experience
-27,force,genuinely good,pos,handling
+27,glovebox,decent size,pos,interior-features
+27,door bins,big,pos,interior-features
+27,places in the front,enough,pos,interior-features
+27,force,genuinely good,pos,performance
 27,drive,fun,pos,handling
-27,car,feels like a sports car,pos,handling
-27,looks,like soprts car,pos,handling
-27,car,almost practical,neu,handling
-27,car,A salute,pos,handling
+27,feel,like a sports car,pos,handling
+27,looks,like sports car,pos,quality-aesthetic
+27,car,almost practical,neu,interior-features
+27,car,A salute,pos,general-information
 27,adaptive suspension,essential,pos,handling
-27,comfort mode,really really comfortable,pos,handling
+27,comfort mode,really really comfortable,pos,comfort
 27,road noise,shame,neg,comfort
 27,wind whistle,shame,neg,comfort
 27,turbo petrol,really quick,pos,performance
@@ -275,27 +275,27 @@ id,aspect,opinion,sentiment,category
 27,-,-,-,unknown
 27,BMW four Serious,pretty decent,pos,general-information
 27,BMW four Serious,all rounder,pos,general-information
-27,look,like sports,neu,performance
+27,look,like sports,neu,quality-aesthetic
 27,sound,more like a van,neu,performance
 27,phone cradle,pointless,neg,interior-features
-27,automatic gearbox,extra cost,neg,handling
-27,features,cool,pos,general-information
-27,centre of gravity,lowest,pos,general-information
-27,central hat,enough room,pos,general-information
+27,automatic gearbox,extra cost,neg,cost
+27,features,cool,pos,user-experience
+27,centre of gravity,lowest,pos,handling
+27,central hat,enough room,pos,comfort
 27,doors,high quality,pos,exterior-features
-27,seatbelt,automatic,neu,exterior-features
-27,get in the car,creepily,pos,interior-features
+27,seatbelt,automatic,neu,interior-features
+27,get in the car,creepily,pos,comfort
 27,-,-,-,unknown
 27,adaptive suspension,comfy,pos,comfort
-27,adaptive suspension,firm,pos,comfort
-27,spend extra on adaptive suspension,very practical,pos,comfort
+27,adaptive suspension,firm,pos,handling
+27,spend extra on adaptive suspension,very practical,pos,cost
 27,-,-,-,unknown
 27,-,-,-,unknown
 27,-,-,-,unknown
 27,-,-,-,unknown
-28,comforts,desirable,pos,general-information
+28,comforts,desirable,pos,comfort
 28,car,fun,pos,general-information
-28,car,surprisingly practical,pos,general-information
+28,car,surprisingly practical,pos,interior-features
 28,backseat,much room,pos,comfort
 28,room,Legendary,pos,comfort
 28,headroom,plenty,pos,comfort
@@ -306,18 +306,18 @@ id,aspect,opinion,sentiment,category
 28,boot shape,more practical,pos,exterior-features
 28,boot,not quite as good as,neg,exterior-features
 28,design,distinctive,pos,quality-aesthetic
-28,sit,nice,pos,quality-aesthetic
-28,sit,low,neu,quality-aesthetic
+28,sit,nice,pos,comfort
+28,sit,low,neu,comfort
 28,dash angle,towards you,pos,quality-aesthetic
-28,driving position,spot on,pos,quality-aesthetic
+28,driving position,spot on,pos,comfort
 28,build,quality,pos,quality-aesthetic
 28,dash,like,pos,quality-aesthetic
 28,build,really good,pos,quality-aesthetic
 28,inside,feels expensive,pos,quality-aesthetic
-28,space,not the best,neg,quality-aesthetic
-28,space,sufficient,pos,quality-aesthetic
-28,space,pretty good,pos,quality-aesthetic
-28,equipment,impressive,pos,quality-aesthetic
+28,space,not the best,neg,comfort
+28,space,sufficient,pos,comfort
+28,space,pretty good,pos,comfort
+28,equipment,impressive,pos,user-experience
 28,I drive system,dead easy to use,pos,user-experience
 28,I drive system,best on the market,pos,user-experience
 28,features,cool,pos,user-experience
@@ -341,24 +341,24 @@ id,aspect,opinion,sentiment,category
 28,engine,returns good economy,pos,performance
 28,miles per gallon,not too  bad,neu,performance
 28,diesel engine,little bit noisy,neg,performance
-28,three series,more road noise,neu,performance
-28,three series,more wind noise,neu,performance
-28,visibility,cannot fault,pos,comfort
-28,pillars,quite thin,pos,comfort
-28,view,very good,pos,comfort
-28,view,really handy,pos,comfort
-28,speed on,suffer from a bit of Tyrell,neg,general-information
+28,three series,more road noise,neu,comfort
+28,three series,more wind noise,neu,comfort
+28,visibility,cannot fault,pos,safety
+28,pillars,quite thin,pos,safety
+28,view,very good,pos,safety
+28,view,really handy,pos,safety
+28,speed on,suffer from a bit of tyre roll,neg,performance
 28,adaptive suspension,spend extra,neg,cost
 28,adaptive suspension,handles brilliantly,pos,handling
 28,drive,great fun,pos,handling
-28,adaptive suspension,surprisingly practical,pos,general-information
+28,adaptive suspension,surprisingly practical,pos,handling
 29,-,-,-,unknown
 29,-,-,-,unknown
 29,profile,coop like,neu,quality-aesthetic
-29,room inside,less,neg,quality-aesthetic
+29,room inside,less,neg,comfort
 29,profile,cooler,pos,quality-aesthetic
 29,-,-,-,unknown
-29,backend,swoopy,pos,exterior-features
+29,backend,swoopy,pos,quality-aesthetic
 29,backend capacity,less,neg,exterior-features
 29,boot,lowered tapered line,neg,exterior-features
 29,boot lid,problem for heavy items,neg,exterior-features
@@ -368,17 +368,17 @@ id,aspect,opinion,sentiment,category
 29,storage jets,removable,neu,exterior-features
 29,space,decent,neu,exterior-features
 29,boot,pretty flat,pos,exterior-features
-29,roofline,sloping,neg,comfort
+29,roofline,sloping,neg,exterior-features
 29,backseats,not wide open,neg,comfort
-29,rearward facing child seats,trickier,neu,comfort
+29,rearward facing child seats,trickier,neu,interior-features
 29,get in,dead easy,pos,comfort
 29,foot room,plenty,pos,comfort
 29,backseat head room,pretty tight,neg,comfort
 29,backseat for people over 6 4,cramped,neg,comfort
 29,window ledges,quite high,neg,comfort
 29,smaller people,struggle to see,neg,comfort
-29,seat backs,not very big,neg,interior-features
-29,seat backs,not much room,neg,interior-features
+29,seat backs,not very big,neg,comfort
+29,seat backs,not much room,neg,comfort
 29,door bins,huge,pos,interior-features
 29,digital climate control,useful,pos,interior-features
 29,coat hooks,neat,pos,interior-features
@@ -388,9 +388,10 @@ id,aspect,opinion,sentiment,category
 29,-,-,-,unknown
 29,-,-,-,unknown
 29,-,-,-,unknown
-29,sport seats,lovely,pos,comfort
+29,seats,sport,neu,interior-features
+29,seats,lovely,pos,comfort
 29,screen,wide,pos,comfort
-29,screen,glorious,pos,comfort
+29,screen,glorious,pos,user-experience
 29,traffic updates,good,pos,user-experience
 29,concierge service,really really good,pos,user-experience
 29,system,intuitive,pos,user-experience
@@ -404,15 +405,15 @@ id,aspect,opinion,sentiment,category
 29,events,feel cheap,neg,quality-aesthetic
 29,car,solid,pos,quality-aesthetic
 29,quality,very good,pos,quality-aesthetic
-29,door bins,big,pos,quality-aesthetic
+29,door bins,big,pos,interior-features
 29,storage by steering,like,pos,interior-features
 29,key,big,neu,interior-features
 29,remote key operations,good,pos,interior-features
 29,glove box size,a big bag of popcorn,neu,interior-features
 29,seating position,really good,pos,comfort
 29,extendable seat base,like,pos,comfort
-29,under fly support,like,pos,comfort
-29,steering wheen adjustment,plenty,pos,comfort
+29,under floor support,like,pos,comfort
+29,steering wheel adjustment,plenty,pos,comfort
 29,view,very high,pos,comfort
 29,-,-,-,unknown
 29,-,-,-,unknown
@@ -420,15 +421,15 @@ id,aspect,opinion,sentiment,category
 29,sun roof,one touch only open it 90% of the way,neg,exterior-features
 29,engine,quite rattling,neg,performance
 29,-,-,-,unknown
-29,car,like a pig from angry birds,neg,quality-aesthetic
+29,car,like a pig from angry birds,neg,performance
 29,-,-,-,unknown
 29,aerodynamics,improved,pos,exterior-features
 29,cutaways for covers,fit perfectly,pos,exterior-features
 29,optional heads up displays,brilliant,pos,interior-features
-29,weight distribution,perfect,pos,general-information
+29,weight distribution,perfect,pos,handling
 29,parking assistant Plus,brilliant,pos,user-experience
 29,view,good,pos,safety
-29,car,higher than other cars,pos,safety
+29,car,higher than other cars,pos,general-information
 29,blind spots,so many,neg,safety
 29,blind spot,huge,neg,safety
 29,automatic gearbox,love,pos,handling
@@ -455,21 +456,22 @@ id,aspect,opinion,sentiment,category
 30,carrying three in the back,not good,neg,comfort
 30,seats,tighter in the middle,neg,comfort
 30,front,really really comfy,pos,comfort
-30,cabin,really nice,pos,quality-aesthetic
+30,cabin,really nice,pos,interior-features
 30,cabin,not cheap,pos,quality-aesthetic
 30,storage,alright,neu,interior-features
 30,boxes,decent size,pos,interior-features
 30,spaces,kind a bit short,neg,interior-features
 30,equipment,really good,pos,interior-features
 30,satnav,standard,pos,interior-features
-30,leather seats,heated,pos,comfort
+30,seats,leather,neu,interior-features
+30,seats,heated,pos,comfort
 30,climate control,really really good,pos,interior-features
 30,-,-,-,unknown
-30,upgraded professional satnav,lovely,pos,interior-features
+30,upgraded professional satnav,lovely,pos,user-experience
 30,I drive system,slickest,pos,user-experience
-30,design,stood the test of time,pos,user-experience
-30,exteriors,stood the test of time,pos,user-experience
-30,boot,decent size,pos,quality-aesthetic
+30,design,stood the test of time,pos,quality-aesthetic
+30,exteriors,stood the test of time,pos,quality-aesthetic
+30,boot,decent size,pos,exterior-features
 30,boot overall capacity,slightly less,neg,exterior-features
 30,load lip,very low,neu,exterior-features
 30,boot,practical enough,neu,exterior-features
@@ -480,24 +482,24 @@ id,aspect,opinion,sentiment,category
 30,-,-,-,unknown
 30,-,-,-,unknown
 30,-,-,-,unknown
-30,pedals,slightly offset,neg,comfort
-30,automatic emergency breaking,expensive option,neg,safety
+30,pedals,slightly offset,neg,user-experience
+30,automatic emergency breaking,expensive option,neg,cost
 30,door bins,really small,neg,interior-features
 30,lumbar support,expensive option,neg,cost
 30,-,-,-,unknown
 30,-,-,-,unknown
-30,adaptive suspension,quite expensive,neg,handling
-30,adaptive suspension,well-worth,pos,handling
+30,adaptive suspension,quite expensive,neg,cost
+30,adaptive suspension,well-worth,pos,cost
 30,adaptive suspension,lovely,pos,handling
-30,drive,lovely,pos,comfort
+30,drive,lovely,pos,handling
 30,drive,pretty quiet,pos,comfort
 30,visibility,generally very good,pos,safety
 30,engines,strong performers,pos,performance
 30,petrol engine,more economical,pos,performance
 30,engine,really good,pos,performance
 30,diesel engine,little bit more noisy,neg,performance
-30,manual gearbox,not as nice,neg,performance
-30,automatic gearbox,favourite on the market,pos,performance
+30,manual gearbox,not as nice,neg,handling
+30,automatic gearbox,favourite on the market,pos,handling
 30,-,-,-,unknown
 30,adaptive suspension,fun,pos,handling
 30,entertainment system,brilliant,pos,interior-features
@@ -507,12 +509,12 @@ id,aspect,opinion,sentiment,category
 31,handling,more precise,neu,handling
 31,traction control,more lenient,neu,handling
 31,-,-,-,unknown
-31,car,feels pretty much identical to normal three series,neu,quality-aesthetic
+31,car,feels pretty much identical to normal three series,neu,general-information
 31,quality,good,pos,quality-aesthetic
-31,car,easy to use,pos,quality-aesthetic
+31,car,easy to use,pos,user-experience
 31,infotainment system,fabulous,pos,interior-features
 31,infotainment system,best,pos,interior-features
-31,carbon fibre,not tacky,neg,interior-features
+31,carbon fibre,not tacky,neg,quality-aesthetic
 31,back seats,super comfy,pos,comfort
 31,boot,big enough,neu,exterior-features
 31,-,-,-,unknown
@@ -522,13 +524,13 @@ id,aspect,opinion,sentiment,category
 31,tire noise,way too loud,neg,comfort
 31,car,fantastic all round performance,pos,general-information
 31,car,German,pos,general-information
-31,car,well-made,pos,general-information
+31,car,well-made,pos,quality-aesthetic
 34,BMW X3,really good all rounder,pos,general-information
-34,car,economical,pos,general-information
+34,car,economical,pos,cost
 34,car,desirable,pos,general-information
-34,car,fun to drive,pos,general-information
-34,off road,well,pos,general-information
-34,car,very practical,pos,comfort
+34,car,fun to drive,pos,handling
+34,off road,well,pos,handling
+34,car,very practical,pos,interior-features
 34,get in the back,nice,pos,comfort
 34,get in back,easy,pos,comfort
 34,door opening,quite wide,pos,comfort
@@ -550,8 +552,8 @@ id,aspect,opinion,sentiment,category
 34,looks,not sharp looking,neg,quality-aesthetic
 34,interior design,bit dated,neg,quality-aesthetic
 34,car,solid,pos,quality-aesthetic
-34,car storage,good,pos,quality-aesthetic
-34,equipment,impressive,pos,quality-aesthetic
+34,car storage,good,pos,interior-features
+34,equipment,impressive,pos,interior-features
 34,-,-,-,unknown
 34,I drive system,best in business,pos,user-experience
 34,tech features,cool,pos,user-experience
@@ -561,27 +563,27 @@ id,aspect,opinion,sentiment,category
 34,-,-,-,unknown
 34,everything,great,pos,general-information
 34,BMW X3,not the most reliable car,neg,general-information
-34,pedal,so far set to the right,neg,interior-features
-34,feet,feel outside the door,neg,interior-features
+34,pedal,so far set to the right,neg,user-experience
+34,feet,feel outside the door,neg,user-experience
 34,-,-,-,unknown
-34,phone cradle,annoying,neg,exterior-features
-34,phone cradle,look cool,pos,exterior-features
-34,ride quality,absolutely knackered,neg,exterior-features
+34,phone cradle,annoying,neg,interior-features
+34,phone cradle,look cool,pos,interior-features
+34,ride quality,absolutely knackered,neg,handling
 34,adaptive suspension,essential,pos,handling
 34,suspension,fairly firm,neu,handling
 34,ride,a little too bumpy,pos,handling
 34,handling,very well,pos,handling
 34,handling,surprisingly grippy,neu,handling
 34,adaptive suspension,best of both worlds,pos,handling
-34,Tyrell,quite a lot,neg,comfort
-34,visibility,pretty good,pos,comfort
-34,blind spot,large,neg,comfort
+34,Tyre roll,quite a lot,neg,comfort
+34,visibility,pretty good,pos,safety
+34,blind spot,large,neg,safety
 34,three litre diesel engine,absolutely storming,pos,performance
 34,two litre diesel engine,lower powered,neu,performance
 34,two litre diesel engine,quick enough,pos,performance
 34,automatic gearbox,brilliant,pos,performance
 34,-,-,-,unknown
-34,inside,dated,neg,handling
+34,inside,dated,neg,quality-aesthetic
 34,handling right,too firm without adaptive suspension,neg,handling
 34,handles,well,pos,handling
 34,-,-,-,unknown
@@ -614,18 +616,18 @@ id,aspect,opinion,sentiment,category
 35,I drive,absolutely love,pos,user-experience
 35,-,-,-,unknown
 35,drive,really really nice,pos,handling
-35,adaptive M6 port suspension comfort model,nice,pos,handling
-35,adaptive M6 port suspension comfort model,relaxing,pos,handling
+35,adaptive suspension comfort mode,nice,pos,comfort
+35,adaptive suspension comfort mode,relaxing,pos,comfort
 35,sports mode,improves the grip,pos,handling
 35,handling,very well,pos,handling
 35,handling,really well,pos,handling
-35,hybrid model,lot of weight,neu,general-information
+35,hybrid model,lot of weight,neu,performance
 35,corner handling,feels cumbersome,neg,handling
 35,hybrid system,problem,neg,performance
 35,automatic gearbox,quicker,pos,handling
 35,X5,noisy,neg,comfort
 35,X5,quite loud,neg,comfort
-35,Tyrell,a lot,neg,comfort
+35,Tyre roll,a lot,neg,comfort
 35,wind whistle,annoying,neg,comfort
 35,visibility,comforting,pos,safety
 35,back window,large,pos,safety
@@ -639,18 +641,18 @@ id,aspect,opinion,sentiment,category
 35,-,-,-,unknown
 35,Parcel Shelf,heavy,neg,exterior-features
 35,Parcel Shelf,not standard,neg,exterior-features
-35,wide retired,pretty,pos,cost
+35,wide tires,pretty,pos,exterior-features
 35,-,-,-,unknown
-35,traffic date,super accurate,pos,interior-features
+35,traffic data,super accurate,pos,interior-features
 35,-,-,-,unknown
 35,Automatic canister,prevent a skid,pos,handling
 35,-,-,-,unknown
 35,BMW X5,quite interesting,pos,general-information
 35,hybrid version,completely silent at low speed,pos,comfort
-35,models,quite noisy a high speed,pos,quality-aesthetic
-35,intense,little bit dated,neg,quality-aesthetic
-35,car,hugely practical,pos,general-information
-35,diesel,hugely practical,pos,general-information
+35,models,quite noisy a high speed,pos,comfort
+35,interior,little bit dated,neg,quality-aesthetic
+35,car,hugely practical,pos,interior-features
+35,diesel,hugely practical,pos,performance
 35,drive,very good,pos,handling
 35,-,-,-,unknown
 35,-,-,-,unknown
@@ -658,13 +660,13 @@ id,aspect,opinion,sentiment,category
 36,-,-,-,unknown
 36,grill,absolutely huge,pos,quality-aesthetic
 36,grill,distinctive,pos,quality-aesthetic
-36,grill,like bugs bonus teeth,pos,quality-aesthetic
+36,grill,like Bugs Bunny’s teeth,neg,quality-aesthetic
 36,grill,massive,pos,quality-aesthetic
 36,-,-,-,unknown
 36,front,looks very aggressive,neu,quality-aesthetic
 36,laser lights,cool blue,pos,exterior-features
 36,-,-,-,unknown
-36,design,new,pos,exterior-features
+36,design,new,pos,quality-aesthetic
 36,backend,slab,neu,quality-aesthetic
 36,backend,rather large,neu,quality-aesthetic
 36,boot,all electric,pos,exterior-features
@@ -673,9 +675,10 @@ id,aspect,opinion,sentiment,category
 36,lowering backseats,very easy to do,pos,exterior-features
 36,-,-,-,unknown
 36,-,-,-,unknown
-36,interior,more luxury on technology,pos,quality-aesthetic
+36,interior,more luxury,pos,quality-aesthetic
+36,interior,more technology,pos,quality-aesthetic
 36,price,bumped up a bit,neg,cost
-36,price,worth the money,pos,quality-aesthetic
+36,price,worth the money,pos,cost
 36,Quality,absolutely brilliant,pos,quality-aesthetic
 36,materials,soft touch,pos,quality-aesthetic
 36,materials,softest,pos,quality-aesthetic
@@ -689,9 +692,9 @@ id,aspect,opinion,sentiment,category
 36,Trim,not ideal,neg,quality-aesthetic
 36,crystal knob,not a fan,neg,quality-aesthetic
 36,crystal knob,naff,neg,quality-aesthetic
-36,S8,lovely,pos,comfort
-36,leather,two  tone,pos,comfort
-36,leather,looks really really good,pos,comfort
+36,S8,lovely,pos,general-information
+36,leather,two  tone,pos,quality-aesthetic
+36,leather,looks really really good,pos,quality-aesthetic
 36,I drive seven,better than ever,pos,user-experience
 36,I drive seven,absolutely fabulous,pos,user-experience
 36,I drive seven,dead easy to control,pos,user-experience
@@ -708,7 +711,7 @@ id,aspect,opinion,sentiment,category
 36,gesture commands,hard to control,neg,user-experience
 36,suspension,unique,pos,handling
 36,suspension,little bit firmer than other,neu,handling
-36,comfort mode,very very comfortable,pos,handling
+36,comfort mode,very very comfortable,pos,comfort
 36,bumps,hardly feel,pos,handling
 36,sport mode,very very good,pos,handling
 36,sport mode,feels really sporting agile,pos,handling
@@ -723,11 +726,11 @@ id,aspect,opinion,sentiment,category
 36,pickup,relentless,pos,performance
 36,engine,makes good noise,pos,performance
 36,noise,fake,neg,performance
-36,gearbox,really good,pos,performance
-36,gearbox,improved on perfection,pos,performance
-36,gearbox,well done,pos,performance
-36,car,modern,pos,performance
-36,changing gears using paddles,sharp,pos,performance
+36,gearbox,really good,pos,handling
+36,gearbox,improved on perfection,pos,handling
+36,gearbox,well done,pos,handling
+36,car,modern,pos,quality-aesthetic
+36,changing gears using paddles,sharp,pos,handling
 36,auto-breaking,safe,pos,safety
 36,stop,safe,pos,safety
 36,stop,steady,pos,safety
@@ -735,7 +738,7 @@ id,aspect,opinion,sentiment,category
 36,footroom,loads of space for legs,pos,comfort
 36,headroom,loads . looking up absolutely loads,pos,comfort
 36,rear,really spacious,pos,comfort
-36,window lead,big,pos,comfort
+36,window lead,big,pos,exterior-features
 36,backseats,super comfy,pos,comfort
 36,pockets in backseat,tough really strong,pos,interior-features
 36,BC imports,nice,pos,interior-features
@@ -745,7 +748,7 @@ id,aspect,opinion,sentiment,category
 36,backseat,really really very comfortable,pos,comfort
 36,-,-,-,unknown
 36,-,-,-,unknown
-36,air suspension,more comfortable over bumps,pos,handling
+36,air suspension,more comfortable over bumps,pos,comfort
 36,offroad height raise,right,pos,handling
 36,-,-,-,unknown
 36,offroad pack,special,pos,handling
@@ -756,14 +759,14 @@ id,aspect,opinion,sentiment,category
 36,engine,silky,pos,performance
 36,engine,smooth,pos,performance
 36,BMW X5,really impressed,pos,general-information
-36,drive,very well,pos,general-information
+36,drive,very well,pos,handling
 36,BMW X5,comfortable,pos,comfort
-36,BMW X5,quiet,pos,quality-aesthetic
+36,BMW X5,quiet,pos,comfort
 36,BMW X5,luxurious,pos,quality-aesthetic
-36,BMW X5,practical,pos,quality-aesthetic
+36,BMW X5,practical,pos,interior-features
 36,BMW X5,packed full of technology,pos,interior-features
 36,SUV,excellent,pos,general-information
-36,SUV,luxury,pos,general-information
+36,SUV,luxury,pos,quality-aesthetic
 37,-,-,-,unknown
 37,car,has a lot riding on it,pos,general-information
 37,front end look,really like,pos,quality-aesthetic
@@ -851,14 +854,14 @@ id,aspect,opinion,sentiment,category
 37,three series,practical,pos,general-information
 37,three series,comfortable,pos,general-information
 39,-,-,-,unknown
-39,interior,kind of red,pos,interior-features
-39,car,luxurious,pos,interior-features
+39,interior,kind of red,pos,quality-aesthetic
+39,car,luxurious,pos,quality-aesthetic
 39,-,-,-,unknown
 39,-,-,-,unknown
 39,launch,bizarley,neg,performance
 39,-,-,-,unknown
 39,car,mighty,pos,performance
-39,corners,bit of barge,neg,performance
+39,corners,bit of barge,neg,handling
 39,engine,lovely,pos,performance
 39,accelerating,fastest,pos,performance
 39,engine,monster,pos,performance
@@ -1886,7 +1889,7 @@ id,aspect,opinion,sentiment,category
 63,seatbelt adjustment,not have,neg,interior-features
 63,car,premium,pos,interior-features
 63,car,expensive,pos,interior-features
-63,features,cool,pos,general-information
+63,features,cool,pos,user-experience
 63,surround view cameras,brilliant,pos,exterior-features
 63,-,-,-,unknown
 63,air purification system with perfume,ideal,pos,comfort
@@ -7490,7 +7493,7 @@ id,aspect,opinion,sentiment,category
 196,lights,auto dimming,pos,interior-features
 196,seats,electric,pos,interior-features
 196,features,lots of nice,pos,interior-features
-196,features,cool,pos,interior-features
+196,features,cool,pos,user-experience
 196,wing mirrors,electric ,neu,exterior-features
 196,wing mirrors,folding,neu,exterior-features
 196,spec,really really nice,pos,general-information
@@ -9566,11 +9569,11 @@ id,aspect,opinion,sentiment,category
 253,SUV,premium,pos,general-information
 253,-,-,-,unknown
 253,performance drivability,pretty bold claims,pos,performance
-253,technology,pretty bold claims,pos,performance
+253,technology,pretty bold claims,pos,user-experience
 253,-,-,-,unknown
 253,exhaust,fake,neg,quality-aesthetic
 253,looks,same as old Q5,neu,quality-aesthetic
-253,weight,90 kilos less,pos,general-information
+253,weight,90 kilos less,pos,performance
 253,weight,feel lighter,pos,performance
 253,weight,less,pos,performance
 253,economy,better,pos,performance
@@ -9582,31 +9585,31 @@ id,aspect,opinion,sentiment,category
 253,performance,lightness helps,pos,performance
 253,0 to 60 time,impressive,pos,performance
 253,-,-,-,unknown
-253,new Q5,wider,pos,comfort
-253,new Q5,taller,pos,comfort
+253,new Q5,wider,pos,general-information
+253,new Q5,taller,pos,general-information
 253,back knee room,much more,pos,comfort
 253,back head room,much more,pos,comfort
 253,rear passenger space,class leading,pos,comfort
 253,floor,big lump,neg,comfort
 253,carrying three in back,not as good,neg,comfort
 253,boot,bigger,pos,exterior-features
-253,Audi,still impressive,pos,exterior-features
+253,Audi,still impressive,pos,general-information
 253,interior quality,kills its rivals,pos,quality-aesthetic
 253,cabin,beautifully made,pos,quality-aesthetic
 253,cabin,well designed,pos,quality-aesthetic
 253,technology,positively dripping,pos,quality-aesthetic
-253,infotaintment system,really really slick,pos,interior-features
-253,infotaintment system,steadies to use,pos,interior-features
+253,infotainment system,really really slick,pos,interior-features
+253,infotainment system,steadies to use,pos,interior-features
 253,technology,leading,pos,user-experience
 253,Q5,most aerodynamic,pos,comfort
 253,Q5,midsize,neu,comfort
 253,type,SUV,neu,comfort
-253,windscreen,acoustic,pos,comfort
+253,windscreen,acoustic,pos,general-information
 253,inside,nice,pos,comfort
 253,inside,quiet,pos,comfort
 253,sound level,normal conversation of three feet,neu,comfort
 253,air suspension comfy setting,super wolf tea ,pos,handling
-253,comfort,as comfy as A8 limousine,neu,handling
+253,comfort,as comfy as A8 limousine,neu,comfort
 253,bumpy road,not bad,pos,handling
 253,dynamic mode air suspension,lowers and stiffens,neu,handling
 253,height,tall car,neu,handling
@@ -9621,7 +9624,7 @@ id,aspect,opinion,sentiment,category
 253,cruise control,amazing,pos,safety
 253,headlamps,amazing,pos,exterior-features
 253,indicator,pulsating,pos,exterior-features
-253,stereo,a bang,pos,exterior-features
+253,stereo,a bang,pos,interior-features
 253,charging,wireless,neu,interior-features
 253,-,-,-,unknown
 253,overall,really good,pos,general-information
@@ -9701,7 +9704,7 @@ id,aspect,opinion,sentiment,category
 256,rear seat combination,less well than TT,neg,interior-features
 256,car,more practical,pos,interior-features
 256,drive,pretty much as well as inland,neu,handling
-256,drive,probably not as good as Volkswagon R,neg,handling
+256,drive,probably not as good as Volkswagen R,neg,handling
 256,steering,still a little bit remote,neg,handling
 256,steering,not much feedback,neg,handling
 256,steering,not much feel,neg,handling
@@ -9751,8 +9754,8 @@ id,aspect,opinion,sentiment,category
 257,drive,engaging,pos,handling
 257,car,absolutely love,pos,general-information
 258,practicality,usefully practical,pos,general-information
-258,Audi Q3,trendy,pos,general-information
-258,car,premium machine,pos,cost
+258,Audi Q3,trendy,pos,quality-aesthetic
+258,car,premium machine,pos,quality-aesthetic
 258,price,cheapest thing,neu,cost
 258,new Q3,lot more presence,pos,quality-aesthetic
 258,grill,big,pos,quality-aesthetic
@@ -9765,17 +9768,17 @@ id,aspect,opinion,sentiment,category
 258,creases,highlighted,pos,quality-aesthetic
 258,rear haunches,very muscular,pos,quality-aesthetic
 258,looks,smart,pos,quality-aesthetic
-258,size,small,neu,exterior-features
-258,type,SUV,neu,exterior-features
-258,car,great example,pos,exterior-features
+258,size,small,neu,general-information
+258,type,SUV,neu,general-information
+258,car,great example,pos,general-information
 258,boot,decent size,neu,exterior-features
 258,boot,biggest for this size of car,pos,exterior-features
 258,lift,little bit,neu,exterior-features
 258,scuff plates,nice,pos,exterior-features
 258,scuff plates,shiny,pos,exterior-features
 258,scuff plates,posh,pos,exterior-features
-258,paint,beautiful,pos,exterior-features
-258,paint,blue,pos,exterior-features
+258,paint,beautiful,pos,quality-aesthetic
+258,paint,blue,pos,quality-aesthetic
 258,boot,nice,pos,exterior-features
 258,boot,square,pos,exterior-features
 258,storage area,different,pos,exterior-features
@@ -9811,18 +9814,18 @@ id,aspect,opinion,sentiment,category
 258,floor,humping,neg,comfort
 258,floor,not too narrow,neu,comfort
 258,middle headroom,got this much,pos,comfort
-258,view,little kids will also like,pos,comfort
-258,window line,not too high,pos,comfort
-258,glass,big,pos,comfort
-258,window down,nice news,pos,comfort
+258,view,little kids will also like,pos,quality-aesthetic
+258,window line,not too high,pos,quality-aesthetic
+258,glass,big,pos,quality-aesthetic
+258,window down,nice news,pos,quality-aesthetic
 258,backseat,little useful features,pos,interior-features
 258,nets,flimsy,neg,interior-features
 258,nets,large,pos,interior-features
-258,nets,feel expensive,pos,interior-features
+258,nets,feel expensive,pos,cost
 258,nets,feel solid,pos,interior-features
 258,cup holders,covered,pos,interior-features
 258,cup holders,like,pos,interior-features
-258,cup holders,not annowing your arm,pos,interior-features
+258,cup holders,not annoying your arm,pos,interior-features
 258,cup holders,can rest over them,pos,interior-features
 258,storage,can fit a bottle,pos,interior-features
 258,seats,three way folding,pos,interior-features
@@ -9843,7 +9846,7 @@ id,aspect,opinion,sentiment,category
 258,space,plenty of by the steering,pos,interior-features
 258,glove box,reasonable size,neu,interior-features
 258,space,not the greatest,neg,interior-features
-258,room,not much,neg,interior-features
+258,room,not much,neg,comfort
 258,cup holder,weirdest,neg,interior-features
 258,cup holder,messy,neg,interior-features
 258,cup holder,scrappy,neg,interior-features
@@ -9855,7 +9858,7 @@ id,aspect,opinion,sentiment,category
 258,design,really nice,pos,quality-aesthetic
 258,slabs,like,pos,quality-aesthetic
 258,entertainment system,looks great,pos,quality-aesthetic
-258,screen,huge,pos,quality-aesthetic
+258,screen,huge,pos,user-experience
 258,map view,can change to make it nice,pos,user-experience
 258,digital drivers display,very very easy to use,pos,user-experience
 258,entertainment system,very easy,pos,user-experience
@@ -9869,9 +9872,9 @@ id,aspect,opinion,sentiment,category
 258,quality,really really good,pos,quality-aesthetic
 258,materials,super soft,pos,quality-aesthetic
 258,everything,feel very very solid,pos,quality-aesthetic
-258,steering,sport,pos,quality-aesthetic
-258,steering,lovely,pos,quality-aesthetic
-258,steering,expensive,pos,quality-aesthetic
+258,steering,sport,pos,handling
+258,steering,lovely,pos,handling
+258,steering,expensive,pos,cost
 258,door tops,little bit odd,neg,quality-aesthetic
 258,door tops,quite hard,neg,quality-aesthetic
 258,door design,metal,pos,quality-aesthetic
@@ -9880,9 +9883,9 @@ id,aspect,opinion,sentiment,category
 258,door handle,light,pos,interior-features
 258,door handle,little bit natural,pos,interior-features
 258,door handle,slide your fingers underneath a lot,pos,interior-features
-258,beeping,get on your neves,neg,interior-features
+258,beeping,get on your nerves,neg,comfort
 258,panel,got nothing,neg,quality-aesthetic
-258,ergonomics,brilliant,pos,quality-aesthetic
+258,ergonomics,brilliant,pos,comfort
 258,panel,big,neu,quality-aesthetic
 258,buttons,easy ,pos,user-experience
 258,buttons,sensible place,pos,user-experience
@@ -9891,7 +9894,7 @@ id,aspect,opinion,sentiment,category
 258,light,nice,pos,user-experience
 258,light,bright,pos,user-experience
 258,light,clear,pos,user-experience
-258,bulds,love,pos,user-experience
+258,builds,love,pos,user-experience
 258,sit,quite low,pos,comfort
 258,feel,like a slightly grownup hatch,pos,comfort
 258,driving position,can transform into quite high,pos,comfort
@@ -9902,7 +9905,7 @@ id,aspect,opinion,sentiment,category
 258,seats,quite nice,pos,comfort
 258,driving position,quite nice,pos,comfort
 258,driving position,loads of interest,pos,comfort
-258,steering,not gonna have any problem getting cpomfortable,pos,comfort
+258,steering,not gonna have any problem getting comfortable,pos,comfort
 258,seats,sporty,pos,quality-aesthetic
 258,seats,leather trimmed,pos,quality-aesthetic
 258,pedals,aluminium,neu,quality-aesthetic
@@ -9924,29 +9927,29 @@ id,aspect,opinion,sentiment,category
 258,panel,covered in fingerprints,neu,interior-features
 258,-,-,-,unknown
 258,-,-,-,unknown
-258,sitting position,confusing,neg,interior-features
-258,sitting position,knee constantly touching,neg,interior-features
-258,sitting position,really annoying,neg,interior-features
+258,sitting position,confusing,neg,comfort
+258,sitting position,knee constantly touching,neg,comfort
+258,sitting position,really annoying,neg,comfort
 258,panels,blanked out,neg,interior-features
-258,doors,little inserts,pos,interior-features
-258,doors,very strange,neu,interior-features
+258,doors,little inserts,neu,interior-features
+258,doors,very strange,neg,interior-features
 258,panels,amazing,pos,interior-features
 258,car,plenty to like,pos,general-information
 258,ambient lighting,luck move,pos,interior-features
-258,Audi Badge,change colors,pos,interior-features
-258,Audi Badge,super cool,pos,interior-features
-258,Audi Badge,favourite,pos,interior-features
+258,Audi Badge,change colors,pos,quality-aesthetic
+258,Audi Badge,super cool,pos,quality-aesthetic
+258,Audi Badge,favourite,pos,quality-aesthetic
 258,ambient lighting,various different schemes,pos,interior-features
 258,-,-,-,unknown
 258,front passenger seat,anchor point,pos,interior-features
 258,child seats,can carry three,pos,interior-features
 258,-,-,-,unknown
-258,traction,exciting,pos,interior-features
+258,traction,exciting,pos,handling
 258,storage pouch,special,pos,interior-features
 258,suspension,lowered,neu,handling
 258,suspension,stiffened,neg,handling
 258,bumps,quite firm,neg,handling
-258,bumps,a bit like orpathedic mattress,neu,handling
+258,bumps,a bit like orthopedic mattress,neg,comfort
 258,bumps,not uncomfortable,neu,handling
 258,bumps,alright,neu,handling
 258,deductive suspension,pay extra,neg,handling
@@ -9963,29 +9966,29 @@ id,aspect,opinion,sentiment,category
 258,steering,great,pos,handling
 258,automatic gearbox,not so great,neg,handling
 258,gearbox,really unresponsive,neg,handling
-258,value for money,not great,neg,handling
+258,value for money,not great,neg,cost
 258,at speed,cruising around,pos,handling
 258,round town,can get on your nerves,pos,handling
 258,power,just enough,neu,performance
-258,sound,not quiet quiet,neg,performance
-258,sound,problem,neg,performance
+258,sound,not quiet quiet,neg,comfort
+258,sound,problem,neg,comfort
 258,economy,could be a little better,neg,performance
 258,diesel engine,more low down pulling power,pos,performance
 258,drive,two wheel,neu,performance
 258,drive version,absolutely fine,pos,performance
-258,grips,well enough,pos,performance
-258,offroading,mild,neu,performance
+258,grips,well enough,pos,handling
+258,offroading,mild,neu,handling
 258,petrol models,high powered,pos,performance
-258,petrol models,get a little expensive,neg,performance
+258,petrol models,get a little expensive,neg,cost
 258,cruising,quite quick,pos,performance
-258,car,relaxing,pos,performance
+258,car,relaxing,pos,comfort
 258,speeds,very very stable,pos,performance
 258,sound,not too noisy,pos,comfort
 258,sound,tire noise,neu,comfort
 258,sound,wind flutter,neu,comfort
 258,sound,not tooo bad,neu,comfort
-258,sound,generally quiet,pos,handling
-258,sound,quieter than BMW X1,pos,handling
+258,sound,generally quiet,pos,comfort
+258,sound,quieter than BMW X1,pos,comfort
 258,drive,sharper,pos,handling
 258,grip,just better,pos,handling
 258,drive,more intuitive,pos,handling
@@ -10082,13 +10085,13 @@ id,aspect,opinion,sentiment,category
 262,Audi A one,identically to Volkswagen Polo,pos,general-information
 262,Audi A one,way more fruity,pos,general-information
 262,Audi A one,exciting,pos,general-information
-262,price,bit more expensive than Volkswagon Polo,neg,cost
+262,price,bit more expensive than Volkswagen Polo,neg,cost
 262,looks,really good looking,pos,quality-aesthetic
 262,car,extra sporty bits and pieces,pos,quality-aesthetic
 262,bodywork,two tone,pos,quality-aesthetic
-262,blade pane,lovely,pos,quality-aesthetic
+262,blade panel,lovely,pos,quality-aesthetic
 262,looks,great,pos,quality-aesthetic
-262,interior design,lives upto exterior look,pos,quality-aesthetic
+262,interior design,lives up to exterior look,pos,quality-aesthetic
 262,dash design,really really cool,pos,quality-aesthetic
 262,dash angles,like,pos,quality-aesthetic
 262,shapes around instrument,cool,pos,quality-aesthetic
@@ -10122,12 +10125,12 @@ id,aspect,opinion,sentiment,category
 262,seat,goes all the way up,pos,comfort
 262,view,can get good if small,pos,comfort
 262,door mirror controller,electric,neu,interior-features
-262,door mirror controller,slightly annoying,neg,interior-features
-262,door mirror controller,very fiddly,neg,interior-features
-262,door mirror controller,need small hands,neg,interior-features
-262,stereo volume control,hard to reach,neg,interior-features
-262,upgraded  sound system,sounds really good,pos,interior-features
-262,seats,heated,pos,interior-features
+262,door mirror controller,slightly annoying,neg,user-experience
+262,door mirror controller,very fiddly,neg,user-experience
+262,door mirror controller,need small hands,neg,user-experience
+262,stereo volume control,hard to reach,neg,user-experience
+262,upgraded  sound system,sounds really good,pos,user-experience
+262,seats,heated,pos,comfort
 262,-,-,-,unknown
 262,-,-,-,unknown
 262,-,-,-,unknown
@@ -10142,10 +10145,10 @@ id,aspect,opinion,sentiment,category
 262,rear door bins,pretty much as big as front,pos,interior-features
 262,room,decent,pos,comfort
 262,back,really spacious,pos,comfort
-262,car,small,neg,comfort
+262,car,small,neg,general-information
 262,floor,lump,neg,comfort
 262,window ledge,quite high,neg,comfort
-262,view,hard to get,neg,comfort
+262,view,hard to get,neg,safety
 262,carrying three in back,not so great,neg,comfort
 262,headroom (people over six foot),fine,pos,comfort
 262,coat hook,little,neg,interior-features
@@ -10157,12 +10160,12 @@ id,aspect,opinion,sentiment,category
 262,fix covers,really really hard to remove,neg,interior-features
 262,fix covers,annoying,neg,interior-features
 262,back,alright,neu,interior-features
-262,back room,just enough to manoeuvre,neu,interior-features
-262,wheel arch intrusion,hardly any,pos,interior-features
-262,wheel arch intrusion,kinda slide out,neu,interior-features
-262,roofline,problem,neg,interior-features
-262,back roofline,quite low,neg,interior-features
-262,headroom,people might bang their head,neg,interior-features
+262,back room,just enough to manoeuvre,neu,comfort
+262,wheel arch intrusion,hardly any,pos,exterior-features
+262,wheel arch intrusion,kinda slide out,neu,exterior-features
+262,roofline,problem,neg,exterior-features
+262,back roofline,quite low,neg,exterior-features
+262,headroom,people might bang their head,neg,comfort
 262,boot,decent size,pos,exterior-features
 262,car,small,neg,exterior-features
 262,load lift,none,pos,exterior-features
@@ -10191,7 +10194,7 @@ id,aspect,opinion,sentiment,category
 262,plastic,big swathe,neg,exterior-features
 262,plastic,bothers,neg,exterior-features
 262,vents,so fake,neg,exterior-features
-262,side skirts,stick out a bit,pos,comfort
+262,side skirts,stick out a bit,pos,exterior-features
 262,-,-,-,unknown
 262,options,quite a few,neu,cost
 262,-,-,-,unknown
@@ -10206,24 +10209,24 @@ id,aspect,opinion,sentiment,category
 262,passenger seat,securing their look safe,pos,interior-features
 262,drive,nice,pos,handling
 262,drive,easy,pos,handling
-262,body,quite small,neg,handling
+262,body,quite small,neg,general-information
 262,blind spot,bigger ,neg,safety
 262,rear pillar,huge,neg,safety
 262,look over shoulder,quite awkward,neg,safety
 262,steering,nice,pos,handling
 262,steering,light,pos,handling
 262,steering,precise,pos,handling
-262,driving in tow,easier,pos,handling
+262,driving in town,easier,pos,handling
 262,lower speed,jerky,neg,handling
 262,gear change,automatic,pos,handling
 262,gear change,bit clunky,neg,handling
-262,driving mode,delay when put food down,neg,handling
+262,driving mode,delay when put foot down,neg,handling
 262,driving mode,bit of pain pulling away at junctions,neg,handling
 262,suspension,very very good,pos,handling
-262,suspension,lowered stiffened sport,neg,comfort
-262,noise,not much,neg,handling
+262,suspension,lowered stiffened sport,neg,handling
+262,noise,not much,neg,comfort
 262,car,feels like bigger,pos,handling
-262,comfort,not quite comfy,neg,handling
+262,comfort,not quite comfy,neg,comfort
 262,bumps,not terrible,neu,handling
 262,bumps,not as comfy,neg,handling
 262,sound,really quiet,pos,comfort
@@ -10236,18 +10239,18 @@ id,aspect,opinion,sentiment,category
 262,two litre engine,quite expensive,neg,performance
 262,1.5 L engine,suit best,pos,performance
 262,twisty road,pretty good,pos,handling
-262,feeling,not the same darty fun,pos,handling
+262,feeling,not the same darty fun,neg,handling
 262,car,very safe,pos,safety
 262,car,secure,pos,safety
 262,car,sensible,pos,safety
 262,-,-,-,unknown
-262,price,expensive,neg,general-information
+262,price,expensive,neg,cost
 262,car,cool,pos,general-information
 262,car,little,neg,general-information
 263,-,-,-,unknown
 263,-,-,-,unknown
 263,weight,hugely heavy,neg,performance
-263,weight,heavier than M5 touring,neg,perormance
+263,weight,heavier than M5 touring,neg,performance
 263,S6,slightly faster,pos,performance
 263,drive,not much fun,neg,handling
 263,ride,pretty awful,neg,handling
@@ -10258,7 +10261,7 @@ id,aspect,opinion,sentiment,category
 263,downshift,good,pos,handling
 263,downshift,not always inch perfect,neg,handling
 263,downshift,much better than upshift,pos,handling
-263,utility,far more useful in everyday conditions,pos,user-eperience
+263,utility,far more useful in everyday conditions,pos,user-experience
 263,drive,four wheel,neu,handling
 263,car,whether everyday performance,pos,handling
 263,RS6 everyday performance,best,pos,performance
@@ -10283,12 +10286,12 @@ id,aspect,opinion,sentiment,category
 263,car,everyday,pos,general-information
 263,torque,crazy,pos,performance
 263,engine,pretty much old school,neg,performance
-263,Audi grills,get any bigger,pos,performance
+263,Audi grills,get any bigger,pos,exterior-features
 263,-,-,-,unknown
 263,weight,"big, big heavy",neg,general-information
 263,-,-,-,unknown
 263,-,-,-,unknown
-263,dials,slightly funky,pos,interior-features
+263,dials,slightly funky,pos,quality-aesthetic
 263,outside,not quite presence of RS4,neg,quality-aesthetic
 263,wheel arches,not quite as well fitted,neg,quality-aesthetic
 263,-,-,-,unknown
@@ -10329,14 +10332,14 @@ id,aspect,opinion,sentiment,category
 264,engine,very nice,pos,performance
 264,torque,nice spread,pos,performance
 264,dampers,adaptive,neu,handling
-264,comfort,excellent,pos,handling
-264,car,very comfortable,pos,handling
+264,comfort,excellent,pos,comfort
+264,car,very comfortable,pos,comfort
 264,offroad,G5 did all needed,pos,handling
 264,performed,well,pos,performance
 264,steering,electric,pos,handling
 264,steering,not most communicative,neg,handling
 264,handling,not involving,neg,handling
-264,car,not fun,neg,safety
+264,car,not fun,neg,handling
 264,car,very safe,pos,safety
 264,car,competent,pos,safety
 264,torque vectoring,standard,neu,handling
@@ -10346,10 +10349,10 @@ id,aspect,opinion,sentiment,category
 264,virtual cockpit,latest,pos,user-experience
 264,entertainment screen,not touch screen,pos,user-experience
 264,system,one of the best,pos,user-experience
-264,Audi,good formula,pos,quality-aesthetic
-264,looks,like,pos,performance
-264,car,economical a bit less,neg,general-information
-264,handling,involvement a bit less,neg,general-information
+264,Audi,good formula,pos,performance
+264,looks,like,pos,quality-aesthetic
+264,car,economical a bit less,neg,cost
+264,handling,involvement a bit less,neg,handling
 266,car,executive,pos,general-information
 266,type,saloon,neu,general-information
 266,grip,abundance of,pos,handling
@@ -10407,7 +10410,7 @@ id,aspect,opinion,sentiment,category
 268,car,competent,pos,general-information
 269,-,-,-,unknown
 269,car,fast,pos,performance
-269,car,practical,pos,performance
+269,car,practical,pos,general-information
 269,-,-,-,unknown
 269,looks,really good for instagram,pos,quality-aesthetic
 269,-,-,-,unknown
@@ -10423,8 +10426,8 @@ id,aspect,opinion,sentiment,category
 269,drive system,impressive,pos,performance
 269,drive system,all wheel,neu,performance
 269,drive system,rear biased,neu,performance
-269,corner,help push you around,pos,performance
-269,car,bit spoke,neu,interior-features
+269,corner,help push you around,pos,handling
+269,car,bit sporty,neu,interior-features
 269,rev counter,big,pos,interior-features
 269,rev counter,central,neu,interior-features
 269,suspension,adaptive,pos,handling
@@ -10466,7 +10469,7 @@ id,aspect,opinion,sentiment,category
 269,efficiency,improved,pos,performance
 269,vents,fake,neg,exterior-features
 269,gearbox auto mode,pretty good,pos,handling
-269,gearbox mannual mode,bit more involvement,neu,handling
+269,gearbox manual mode,bit more involvement,neu,handling
 269,paddles,feel absolutely cheap,neg,quality-aesthetic
 269,paddles,horrible to touch,neg,quality-aesthetic
 269,color,nado gray,neu,quality-aesthetic
@@ -10475,11 +10478,11 @@ id,aspect,opinion,sentiment,category
 269,drives,well,pos,handling
 269,car,performance,pos,handling
 269,bumps,amazed how well this thing deals,pos,handling
-269,comfort mode,really quite comfortable,pos,handling
-269,car,everyday,pos,handling
-269,car,really really easy to live with,pos,handling
+269,comfort mode,really quite comfortable,pos,comfort
+269,car,everyday,pos,comfort
+269,car,really really easy to live with,pos,comfort
 269,steering (dynamic mode),more weighted,neu,handling
-269,exhaust noise (dynamic mode),more,neg,handling
+269,exhaust noise (dynamic mode),more,neg,performance
 269,suspension (dynamic mode),stiffens up,neu,handling
 269,-,-,-,unknown
 269,drive,all wheel,neu,handling
@@ -10489,13 +10492,13 @@ id,aspect,opinion,sentiment,category
 269,car,fine,pos,handling
 269,corner,can feel it moving,pos,handling
 269,car,more fun,pos,handling
-269,finish,not quite,neg,handling
+269,finish,not quite,neg,quality-aesthetic
 269,Mercedes C 63 or a BMW M3,little bit more flight,neg,handling
 269,corner,does not turn so much,neg,handling
 269,car,good fun,pos,handling
 269,suspension settings,only complaint,neg,handling
-269,comfort,great when crusing,pos,handling
-269,comfort,little bit too soft,neg,handling
+269,comfort,great when cruising,pos,comfort
+269,comfort,little bit too soft,neg,comfort
 269,corner comfort mode,lean bit too much,neg,handling
 269,corner dynamic mode,nice,pos,handling
 269,corner dynamic mode,flat,pos,handling
@@ -10509,7 +10512,7 @@ id,aspect,opinion,sentiment,category
 269,car,comfortable,pos,comfort
 269,car,practical,pos,comfort
 269,car,easy to live with,pos,comfort
-269,drive,genuinely good fun,pos,comfort
+269,drive,genuinely good fun,pos,handling
 269,car,fast,pos,performance
 269,Audi RS4,awesome,pos,general-information
 269,car,best Audi has ever made,pos,general-information
@@ -10523,7 +10526,7 @@ id,aspect,opinion,sentiment,category
 270,seats,not full leather,neg,comfort
 270,seats,bizarre,neg,comfort
 270,headlamps,xenon,neu,exterior-features
-270,system,really good,pos,interior-features
+270,system,really good,pos,user-experience
 270,user interface,love,pos,user-experience
 270,entertainment system,love,pos,user-experience
 270,screen display,wide,pos,user-experience
@@ -10554,7 +10557,7 @@ id,aspect,opinion,sentiment,category
 270,happenings,white,neu,exterior-features
 270,unload,not too difficult,pos,exterior-features
 270,boot features,nice,pos,exterior-features
-270,practicality,most practical car in its class,pos,exterior-features
+270,practicality,most practical car in its class,pos,interior-features
 270,rear seats,three way folding,pos,interior-features
 270,aerodynamics,most in its class,pos,quality-aesthetic
 270,video chip,high speed,pos,interior-features
@@ -10562,7 +10565,7 @@ id,aspect,opinion,sentiment,category
 270,vents,huge,neu,interior-features
 270,vents,emit soft breeze,pos,interior-features
 270,efficiency,21% more,pos,performance
-270,weight,120 kilograms lighter,neg,performance
+270,weight,120 kilograms lighter,neg,general-information
 270,glove box,little bit small,neg,interior-features
 270,automatic gearbox,little bit jerky,neg,handling
 270,slow speed,little bit jerky,neg,handling
@@ -10576,13 +10579,13 @@ id,aspect,opinion,sentiment,category
 270,handling,fully exploit,pos,handling
 270,car,almost perfect,pos,general-information
 270,comfort,very very comfortable,pos,comfort
-270,adaptive dampers,very very comfortable,pos,handling
+270,adaptive dampers,very very comfortable,pos,comfort
 270,comfort,avoid sport suspension,neg,comfort
 270,drive,not fun anyway,neg,handling
 270,drive,alright,neu,handling
 270,handles,very well,pos,handling
 270,drive,so easy,pos,handling
-270,drive,relaxing,pos,handling
+270,drive,relaxing,pos,comfort
 270,all controls,judge perfectly,pos,handling
 270,steering,feels nice,pos,handling
 270,brakes,feels nice,pos,handling
@@ -10599,7 +10602,7 @@ id,aspect,opinion,sentiment,category
 270,design,little bit bland,neg,quality-aesthetic
 270,options,quite expensive,pos,cost
 270,car,really relaxing,pos,comfort
-270,car,practical,pos,handling
+270,car,practical,pos,comfort
 270,-,-,-,unknown
 271,Audi A5,A4 in a slightly snazzier jacket,pos,general-information
 271,outside,snazzier,pos,exterior-features
@@ -10611,7 +10614,7 @@ id,aspect,opinion,sentiment,category
 271,design,really nice,pos,quality-aesthetic
 271,design,clean,pos,quality-aesthetic
 271,design,simple,pos,quality-aesthetic
-271,design,not feel quite flasy,neu,quality-aesthetic
+271,design,not feel quite flashy,neu,quality-aesthetic
 271,quality,better,pos,quality-aesthetic
 271,materials,lovely,pos,quality-aesthetic
 271,materials,robust,pos,quality-aesthetic
@@ -10642,7 +10645,7 @@ id,aspect,opinion,sentiment,category
 271,back features,few practical,pos,interior-features
 271,cup holder,quite handy,pos,interior-features
 271,get in,enormous,pos,comfort
-271,get in,special could be space,pos,interior-features
+271,get in,special space,pos,interior-features
 271,seats,split three way,pos,interior-features
 271,gap in the back,nice,pos,interior-features
 271,gap in the back,wide,pos,interior-features
@@ -10670,7 +10673,7 @@ id,aspect,opinion,sentiment,category
 271,drive,not as much fun as rivals,neg,handling
 271,drive,alright,neu,handling
 271,drive,easy,pos,handling
-271,car,easy to live with,pos,handling
+271,car,easy to live with,pos,comfort
 271,controls,nicely weighted,pos,handling
 271,visibility,actually pretty good,pos,safety
 271,visibility,can see quite a lot,pos,safety
@@ -10695,7 +10698,7 @@ id,aspect,opinion,sentiment,category
 271,looks,like old Audi A5,neg,quality-aesthetic
 271,entry level,no satellite navigation,neg,cost
 271,entry level,no lumbar support,neg,cost
-271,price,bit mean convening,neg,cost
+271,price,bit mean,neg,cost
 271,variable rate steering,feels weirdly assisted,neg,handling
 271,variable rate steering,optional,neu,handling
 271,weight,60 kilograms lighter,pos,performance
@@ -10704,7 +10707,7 @@ id,aspect,opinion,sentiment,category
 271,road holding,easier to push,pos,handling
 271,seatbelt butler,a little,neu,interior-features
 271,aerodynamic,most in its class,pos,performance
-271,auto emergency braking,help protect pedestrians,pos,performance
+271,auto emergency braking,help protect pedestrians,pos,safety
 271,-,-,-,unknown
 271,-,-,-,unknown
 271,drive,rivals are more fun,pos,handling
@@ -10786,7 +10789,7 @@ id,aspect,opinion,sentiment,category
 272,Audi RS,more fun than Mercedes,pos,general-information
 272,new RS6 300D GT-R,quite surprised,pos,general-information
 272,engine,brilliant,pos,performance
-272,shacks,actually pretty good,pos,handling
+272,shocks,actually pretty good,pos,handling
 272,car,pretty good,pos,handling
 272,car,moves around,pos,handling
 272,car,playful,pos,handling
@@ -10796,7 +10799,7 @@ id,aspect,opinion,sentiment,category
 272,car,comfortable,pos,comfort
 272,drive,easy,pos,comfort
 272,AMG A4 G5,really like,pos,general-information
-272,track days,love,pos,general-information
+272,track days,love,pos,handling
 272,AMG A4 G5,track pony,pos,general-information
 272,AMG A4 G5,bit of racing car,pos,general-information
 272,RS3,really impressive for most of the time,pos,general-information
@@ -10845,7 +10848,7 @@ id,aspect,opinion,sentiment,category
 273,boot,practical otherwise,pos,exterior-features
 273,A3,really impressive,pos,handling
 273,drive,feels more luxurious,pos,quality-aesthetic
-273,drive,so comfort,pos,comfortable
+273,drive,so comfort,pos,comfort
 273,sound,reasonably quiet,pos,comfort
 273,handle,very well on sport,pos,handling
 273,car,not fun as sporty,neg,handling
@@ -10867,7 +10870,7 @@ id,aspect,opinion,sentiment,category
 273,A3,minor issues,neg,general-information
 273,-,-,-,unknown
 273,steering,artificially heavy,neg,handling
-273,wheels,large,neu,geneal-information
+273,wheels,large,neu,exterior-features
 273,corner,ride becomes less comfy,neg,comfort
 273,sport suspension mode,less comfy ride,neg,handling
 273,power dependability,third from bottom,neg,performance
@@ -10876,8 +10879,8 @@ id,aspect,opinion,sentiment,category
 273,manoeuvring speeds,a bit jerky,neg,handling
 273,-,-,-,unknown
 273,frame,absolutely gorgeous,pos,quality-aesthetic
-273,review mirror,luxurious ride,pos,quality-aesthetic
-273,rear suspension,luxurious ride,pos,quality-aesthetic
+273,rear view mirror,luxurious,pos,quality-aesthetic
+273,rear suspension,luxurious,pos,quality-aesthetic
 273,ride,luxurious,pos,comfort
 273,emergency assist,save you,pos,safety
 273,headlamps,major led,neu,exterior-features
@@ -10886,17 +10889,17 @@ id,aspect,opinion,sentiment,category
 273,Audi A3,sports back,neu,general-information
 273,car,not the most exciting,neg,handling
 273,options,quite expensive,neg,cost
-273,car,feels quality product,pos,quality-aesthtic
+273,car,feels quality product,pos,quality-aesthetic
 273,drive,lovely,pos,handling
 273,-,-,-,unknown
 273,-,-,-,unknown
-274,grill,fitted with what seems like a dentist,pos,general-information
-274,price,little more expensive than SUV,pos,cost
-274,seat,brilliant five seater,pos,general-information
-274,get in,dead easy,pos,exterior-features
+274,grill,fitted with what seems like a dentist,pos,exterior-features
+274,price,little more expensive than SUV,neg,cost
+274,seat,brilliant five seater,pos,interior-features
+274,get in,dead easy,pos,comfort
 274,rear doors,huge,pos,exterior-features
 274,rear doors,not hard to open in tight spaces,pos,exterior-features
-274,get in,dead easy,pos,exterior-features
+274,get in,dead easy,pos,comfort
 274,room,loads of,pos,comfort
 274,height,just perfect,pos,comfort
 274,headroom,all right,neu,comfort
@@ -10907,7 +10910,7 @@ id,aspect,opinion,sentiment,category
 274,front seats,incredible,pos,comfort
 274,seats,can recline to make it comfortable,pos,comfort
 274,seats,can have them sliding,pos,comfort
-274,boot space,increase,pos,comfort
+274,boot space,increase,pos,exterior-features
 274,knee room,as much even in most forward position,pos,comfort
 274,Audi A3,all good,pos,comfort
 274,middle seat,bit narrower,neg,comfort
@@ -10916,19 +10919,19 @@ id,aspect,opinion,sentiment,category
 274,foot wells,huge,pos,comfort
 274,middle seat,not too bad,neu,comfort
 274,middle seat,alright,neu,comfort
-274,roof,sloping,neg,comfort
+274,roof,sloping,neg,exterior-features
 274,back side headspace,roof eats,neg,comfort
 274,back side seats,not so great,neg,comfort
 274,middle seat,fine,pos,comfort
 274,back,bit unusual,neu,comfort
 274,digital controls,pretty snazzy,pos,interior-features
-274,rear windows,huge,pos,comfort
-274,ledge,not too high,pos,comfort
-274,visibility,smaller people can see,pos,comfort
+274,rear windows,huge,pos,exterior-features
+274,ledge,not too high,pos,exterior-features
+274,visibility,smaller people can see,pos,safety
 274,middle seat,fall down,pos,interior-features
 274,cup holders,couple of,pos,interior-features
 274,door bins,massive,pos,interior-features
-274,door bins,big ball fit,pos,interior-features
+274,door bins,big bottle fit,pos,interior-features
 274,back style,look like Audi Quattro from the eighties,neu,quality-aesthetic
 274,boot,pretty large,pos,exterior-features
 274,tailgated,automated,neu,exterior-features
@@ -10940,11 +10943,11 @@ id,aspect,opinion,sentiment,category
 274,rear,sloped,neg,exterior-features
 274,boot opening,hurt,neg,exterior-features
 274,boot,not like packing things upright,neg,exterior-features
-274,space,plenty of,neg,exterior-features
+274,space,plenty of,pos,exterior-features
 274,boot shape,square,pos,exterior-features
 274,boot shape,nice,pos,exterior-features
 274,socket,good,pos,exterior-features
-274,boot storage,bits and pieced,neg,exterior-features
+274,boot storage,bits and pieces,neg,exterior-features
 274,netted areas,specific,neu,exterior-features
 274,netted areas,ideal for organic spinach,pos,exterior-features
 274,netted areas,ideal for celery,pos,exterior-features
@@ -10956,14 +10959,14 @@ id,aspect,opinion,sentiment,category
 274,load space,not completely flat,neg,exterior-features
 274,load space,not too bad,neu,exterior-features
 274,-,-,-,unknown
-274,dash,nice than Q7,pos,quality-aesthetic
+274,dash,nice than Q7,pos,interior-features
 274,interior design,new,pos,quality-aesthetic
 274,dash,looks absolutely lovely,pos,quality-aesthetic
-274,quality,everything feels high quatlity,pos,quality-aesthetic
-274,arm rest,damn perfect,pos,quality-aesthetic
-274,arm rest,really like,pos,quality-aesthetic
-274,price,expensive,pos,quality-aesthetic
-274,price,quite expensive,pos,quality-aesthetic
+274,quality,everything feels high quality,pos,quality-aesthetic
+274,arm rest,damn perfect,pos,comfort
+274,arm rest,really like,pos,comfort
+274,price,expensive,neg,cost
+274,price,quite expensive,neg,cost
 274,leather,upgraded,pos,quality-aesthetic
 274,leather,feels like premium product,pos,quality-aesthetic
 274,leather upgrade cost,problem,neg,cost
@@ -10980,22 +10983,22 @@ id,aspect,opinion,sentiment,category
 274,satellite navigation,full,pos,user-experience
 274,satellite navigation,widescreen,pos,user-experience
 274,satellite navigation,very very cool,pos,user-experience
-274,gap,little bit annoyed,neg,quality-aesthetic
-274,gap,maybe to store credit card,pos,quality-aesthetic
+274,gap,little bit annoyed,neg,user-experience
+274,gap,maybe to store credit card,pos,user-experience
 274,seating position,loads of adjustment,pos,comfort
 274,room,enough,pos,comfort
-274,steering wheel,electric adjustment,neu,comfort
-274,green screen,sloping,neg,comfort
-274,green screen,sit close to the roof line,neg,comfort
-274,green screen,watch out,pos,comfort
-274,steerring wheel,electric adjustment,neu,cost
-274,electric adjustment (steering),not really use,neg,cost
+274,steering wheel,electric adjustment,neu,interior-features
+274,green screen,sloping,neg,interior-features
+274,green screen,sit close to the roof line,neg,interior-features
+274,green screen,watch out,pos,interior-features
+274,steering wheel,electric adjustment,neu,interior-features
+274,electric adjustment (steering),not really use,neg,interior-features
 274,electric adjustment (steering),waste of money,neg,cost
-274,trim,sline,neu,exterior-features
+274,trim,sline,neu,quality-aesthetic
 274,headlamps,led,neu,exterior-features
-274,seats,Alcantra leather,pos,comfort
-274,seats,greatest,pos,cost
-274,seats,sport,pos,cost
+274,seats,Alcantra leather,pos,quality-aesthetic
+274,seats,greatest,pos,comfort
+274,seats,sport,pos,interior-features
 274,headrest,integrated,neu,comfort
 274,side bolsters,squeeze you into place,neu,comfort
 274,air bladders,broken,neg,comfort
@@ -11010,29 +11013,29 @@ id,aspect,opinion,sentiment,category
 274,storage,good place to hide,pos,interior-features
 274,-,-,-,unknown
 274,windows,annoying,neg,comfort
-274,windows,barely halfway there,neg,comfort
+274,windows,barely halfway there,neg,exterior-features
 274,exhaust,thickest of fake,neg,exterior-features
 274,voice grins,can understand normal speaks,neu,user-experience
 274,voice grins,say still very limited,neg,user-experience
-274,seats,not heated really well,neg,user-experience
-274,local,very easy to operate,pos,exterior-features
+274,seats,not heated really well,neg,comfort
+274,local,very easy to operate,pos,user-experience
 274,light,simple to remove,pos,exterior-features
 274,light,no where to store,neg,exterior-features
 274,light,big,neu,exterior-features
 274,light,taking up space,neg,exterior-features
-274,steering wheel button,annoying,neg,interior-features
+274,steering wheel button,annoying,neg,user-experience
 274,car,plenty to like,pos,general-information
 274,rear lights,cool little dance,pos,exterior-features
-274,steering,all wheel,neu,exterior-features
-274,speed,high,pos,exterior-features
-274,reversign camera,normal,neu,handling
+274,steering,all wheel,neu,interior-features
+274,speed,high,pos,performance
+274,reversing camera,normal,neu,safety
 274,turning circle,pretty much same as smaller A3,pos,handling
-274,maneuvaribility,aided by wheel movements,pos,handling
+274,maneuverability,aided by wheel movements,pos,handling
 274,surround cameras,insane,pos,safety
-274,surround cameras,like paying a video game,pos,safety
-274,windows,frameless,pos,exterior-features
-274,windows,cool,pos,exterior-features
-274,type,SUV,neu,exterior-features
+274,surround cameras,like playing a video game,pos,safety
+274,windows,frameless,pos,quality-aesthetic
+274,windows,cool,pos,quality-aesthetic
+274,type,SUV,neu,general-information
 274,door,self closing,pos,exterior-features
 274,boot,handy,pos,exterior-features
 274,boot,easy to load heavy items,pos,exterior-features
@@ -11040,15 +11043,15 @@ id,aspect,opinion,sentiment,category
 274,boot height,can lower,pos,exterior-features
 274,drive in town,very easy,pos,handling
 274,seating,not quite high ,neu,handling
-274,view,still pretty good,pos,handling
+274,view,still pretty good,pos,safety
 274,cost steering ,so light,pos,handling
 274,steering,can do with fingertips,pos,handling
 274,U turns,great,pos,handling
 274,roundabouts,great,pos,handling
 274,air suspension,super comfy over bumps,pos,handling
 274,suspension,like,pos,handling
-274,rear steering wheel,super easy,pos,handling
-274,bumps,irons them out,pos,exterior-features
+274,rear wheel steering,super easy,pos,handling
+274,bumps,irons them out,pos,handling
 274,automatic gearbox,response not too keen,neg,handling
 274,gearbox response,two or three second delay,neg,handling
 274,gearbox response,insane,neg,handling
@@ -11057,18 +11060,18 @@ id,aspect,opinion,sentiment,category
 274,sports mode gearbox,little bit more but not much responsive,neg,handling
 274,engine noise,bit of raw,neu,performance
 274,technology,mild hybrid,neu,performance
-274,safe,helps,pos,performance
+274,safe,helps,pos,safety
 274,economy,improved,pos,performance
-274,systems,clever,pos,performance
+274,systems,clever,pos,interior-features
 274,engine,two,neu,performance
 274,engine,diesel,neu,performance
 274,engine versions,less powerful ,neu,performance
 274,engine versions,more powerful,neu,performance
-274,feels,so relaxing,pos,performance
+274,feels,so relaxing,pos,comfort
 274,sound,very very quiet,pos,comfort
-274,car,super planted,pos,safety
-274,feels,really secure,pos,safety
-274,car,bit like prop forward,pos,safety
+274,car,super planted,pos,handling
+274,feels,really secure,pos,handling
+274,car,bit like prop forward,pos,handling
 274,cruise control,important,pos,safety
 274,semi autonomous driving system,even better,pos,safety
 274,handles,very well ,pos,handling
@@ -11078,13 +11081,13 @@ id,aspect,opinion,sentiment,category
 274,corners,surprising how well it goes,pos,handling
 274,twisty road,handles well,pos,handling
 274,car,large,neu,general-information
-274,weight,heavy,neu,general-information
-274,towing up,impressive,pos,general-information
+274,weight,heavy,neu,performance
+274,towing up,impressive,pos,performance
 274,-,-,-,unknown
-274,car,really really good,pos,quality-aesthetic
+274,car,really really good,pos,general-information
 274,car,stylish,pos,quality-aesthetic
-274,look,not as good looking,neg,general-information
-274,value,better,pos,general-information
+274,look,not as good looking,neg,quality-aesthetic
+274,value,better,pos,cost
 15,A5,shining example of high end downsizing,pos,general-information
 15,size,midsize,neu,general-information
 15,shape,conservative,neu,quality-aesthetic
@@ -11126,7 +11129,7 @@ id,aspect,opinion,sentiment,category
 15,price,offers wide range,pos,cost
 15,basic five series,perfect lovely conveyance,pos,general-information
 15,front seats,16 way adjustable,neu,comfort
-15,headlights,adaptive led,neu,exterior-featuers
+15,headlights,adaptive led,neu,exterior-features
 15,pricier versions,plethora of automotive delights,pos,cost
 15,front seats,massaging,pos,comfort
 15,front seats,ventilated,pos,comfort
@@ -11164,18 +11167,18 @@ id,aspect,opinion,sentiment,category
 16,height,lower,pos,general-information
 16,length,longer,pos,general-information
 16,car,wider,pos,general-information
-16,design,more aggressively sophisticated spin,pos,general-information
+16,design,more aggressively sophisticated spin,pos,quality-aesthetic
 16,car,convertible,pos,general-information
-16,performance,high,pos,general-information
+16,performance,high,pos,performance
 16,hood,elongated,neu,quality-aesthetic
 16,vents,specially designed,pos,exterior-features
 16,vents,reduce drag,pos,exterior-features
-16,roofline,sweeping,neu,quality-aesthetic
-16,deck lid,short,neu,quality-aesthetic
-16,stance,low,neu,exterior-features
+16,roofline,sweeping,neu,exterior-features
+16,deck lid,short,neu,exterior-features
+16,stance,low,neu,quality-aesthetic
 16,centre of gravity,lowest,neu,handling
 16,exterior design,head turning,pos,quality-aesthetic
-16,interior,shortcoming,neu,exterior-features
+16,interior,shortcoming,neg,interior-features
 16,cabin layout,elegant,pos,interior-features
 16,cabin layout,ergonomically sound,pos,interior-features
 16,cabin layout,glaring absence of basic creature comforts,neg,comfort
@@ -11204,7 +11207,7 @@ id,aspect,opinion,sentiment,category
 16,-,-,-,unknown
 17,model,smaller,neu,general-information
 17,type,compact SUV,neu,general-information
-17,exterior,sporting look for offroad activities,pos,exterior-feaures
+17,exterior,sporting look for offroad activities,pos,exterior-features
 17,look,aggressive,pos,quality-aesthetic
 17,roof,lower,neu,quality-aesthetic
 17,roofline,more athletic,pos,quality-aesthetic
@@ -11449,7 +11452,7 @@ id,aspect,opinion,sentiment,category
 20,fuel,recommends premium,neu,cost
 20,M6 port,loaded,pos,general-information
 20,drive,all wheel,neu,general-information
-20,Mercedes-Benz GCL,more powerful,pos,general-information
+20,Mercedes-Benz GCL,more powerful,pos,performance
 20,BMW X3,decently equipped,neu,general-information
 20,-,-,-,unknown
 20,x two,swaps practically to up style,neu,quality-aesthetic
@@ -11513,7 +11516,7 @@ id,aspect,opinion,sentiment,category
 21,ICO pro mode,efficiency enhancing,pos,handling
 21,coasting,sounds fun,pos,handling
 21,seats,eight way power,neu,interior-features
-21,lift gate,power,neu,interior-features
+21,lift gate,power,neu,exterior-features
 21,Mercedes-Benz G . L . A,seductive,pos,general-information
 21,Audi Q3,sophisticated,pos,general-information
 21,Lincoln M . K . C,well equipped,pos,general-information
@@ -11581,8 +11584,8 @@ id,aspect,opinion,sentiment,category
 22,steering wheel controls,straightforward,pos,interior-features
 22,bluetooth,easy to pair,pos,interior-features
 22,I Drive,intuitive,pos,user-experience
-22,auxillary connectors,conveniently placed,pos,interior-features
-22,auxillary connectors,clearly labelled,pos,interior-features
+22,auxiliary connectors,conveniently placed,pos,interior-features
+22,auxiliary connectors,clearly labelled,pos,interior-features
 22,Dr Selector,annoying,neg,user-experience
 22,putting gear,pretty straightforward,pos,user-experience
 22,push button reach,awkwardly around the steering,neg,user-experience
@@ -11811,7 +11814,7 @@ id,aspect,opinion,sentiment,category
 215,headlights,led,neu,exterior-features
 215,cruise control,adaptive,neu,handling
 215,power band,widened,pos,performance
-215,interior trim,matt carbon firbre,neu,quality-aesthetic
+215,interior trim,matt carbon fiber,neu,quality-aesthetic
 215,wheel options,six staggered,neu,quality-aesthetic
 215,horsepower,high,pos,performance
 215,car,sports,pos,general-information
@@ -11848,7 +11851,7 @@ id,aspect,opinion,sentiment,category
 216,brake pedal,not gently resting,neg,handling
 216,brake pedal,particularly gruelling ordeal,neg,handling
 216,assist,interesting feature,pos,safety
-216,assisst,electronic nagging saves lives,pos,safety
+216,assist,electronic nagging saves lives,pos,safety
 216,screen,new,pos,interior-features
 216,navigation,fine,neu,interior-features
 216,-,-,-,unknown
@@ -12291,13 +12294,13 @@ id,aspect,opinion,sentiment,category
 227,size,small,neu,general-information
 227,looks,effortlessly beautiful,pos,quality-aesthetic
 227,looks,air of contemporary elegance,pos,quality-aesthetic
-227,GLC,longer,pos,quality-aesthetic
-227,GLC,wider,pos,quality-aesthetic
-227,GLC,lighter,pos,quality-aesthetic
-227,driving experience,butter,pos,handling
-227,sound,quiter than very quiet,pos,comfort
-227,sightlines,excellent in every direction except up fromthe steering to the brakes,neu,handling
-227,gearbox,middling,neu,performance
+227,GLC,longer,neu,general-information
+227,GLC,wider,neu,general-information
+227,GLC,lighter,neu,general-information
+227,driving experience,butter,pos,user-experience
+227,sound,quitter than very quiet,pos,comfort
+227,sightlines,excellent in every direction except up from the steering to the brakes,neu,safety
+227,gearbox,middling,neu,handling
 227,horsepower,good for,neu,performance
 227,fuel economy,largely mirror DA,neu,performance
 227,hybrid engine,interesting for efficiency,pos,performance
@@ -12305,19 +12308,19 @@ id,aspect,opinion,sentiment,category
 227,output figures,impressive,pos,performance
 227,acceleration,serious straight line,pos,performance
 227,performance,top of the pyramid,pos,performance
-227,suspension,AMG tuned air,pos,performance
+227,suspension,AMG tuned air,pos,handling
 227,drive,all wheel,neu,performance
-227,inside,beyond expected refinements,pos,quality-aesthetic
-227,arm rest,cushy,pos,quality-aesthetic
-227,display,high resoultion,pos,quality-aesthetic
+227,inside,beyond expected refinements,pos,interior-features
+227,arm rest,cushy,pos,comfort
+227,display,high resolution,pos,user-experience
 227,trim,premium,pos,quality-aesthetic
-227,inside,subtle nuances win us over,pos,quality-aesthetic
+227,inside,subtle nuances win us over,pos,interior-features
 227,events,make satisfying click,pos,quality-aesthetic
-227,head rest,well padded,pos,cost
-227,head rest,adjust for a raft,pos,cost
-227,materials quality,ranking highest,pos,cost
-227,materials quality,soft touches,pos,cost
-227,size,mid size,neu,cost
+227,head rest,well padded,pos,comfort
+227,head rest,adjust for a raft,pos,comfort
+227,materials quality,ranking highest,pos,quality-aesthetic
+227,materials quality,soft touches,pos,quality-aesthetic
+227,size,mid size,neu,general-information
 227,-,-,-,unknown
 227,display,high resolution,pos,user-experience
 227,touch pad,ergonomically shaped,pos,user-experience
@@ -12325,22 +12328,22 @@ id,aspect,opinion,sentiment,category
 227,practicality,master of pragmatic arts,pos,comfort
 227,rear leg room,abundance of,pos,comfort
 227,headroom,abundance of,pos,comfort
-227,storage,numerous,pos,comfort
-227,underfloor compartment,handy,pos,comfort
+227,storage,numerous,pos,interior-features
+227,underfloor compartment,handy,pos,exterior-features
 227,load floor,completely flush,pos,exterior-features
 227,load floor,free of annoying gaps,pos,exterior-features
 227,load floor,free of protrusions,pos,exterior-features
 227,front seats,move forward automatically,pos,interior-features
 227,rear quarters,not perfect,neg,comfort
-227,GLC C300,well furnished with goodies,pos,exterior-features
+227,GLC C300,well furnished with goodies,pos,general-information
 227,liftgate,power,pos,exterior-features
 227,windshield wipers,rain sensing,pos,exterior-features
-227,driver seat,supremely comfortable,pos,exterior-features
-227,driver seat,14 way adjustable,pos,exterior-features
-227,driver seat,extendable support,pos,exterior-features
-227,driver seat,three position memory,pos,exterior-features
-227,trappings,high end,pos,comfort
-227,front seats,leather,pos,comfort
+227,driver seat,supremely comfortable,pos,comfort
+227,driver seat,14 way adjustable,pos,interior-features
+227,driver seat,extendable support,pos,interior-features
+227,driver seat,three position memory,pos,interior-features
+227,trappings,high end,pos,quality-aesthetic
+227,front seats,leather,pos,interior-features
 227,front seats,heated,pos,comfort
 227,front seats,ventilated,pos,comfort
 227,steering,heated,pos,comfort
@@ -12348,27 +12351,27 @@ id,aspect,opinion,sentiment,category
 227,audio,premium,pos,handling
 227,headlights,full led,pos,handling
 227,corner lamps,active,pos,handling
-227,price,respectable$52000,pos,handling
-227,leather,exclusive nappa,pos,handling
-227,roof,moon,neu,handling
-227,roof,panaramic,neu,handling
+227,price,respectable$52000,pos,cost
+227,leather,exclusive nappa,pos,quality-aesthetic
+227,roof,moon,neu,exterior-features
+227,roof,panoramic,neu,exterior-features
 227,air suspension,dramatic,pos,handling
 227,air suspension,spotty reliability record,neg,handling
 227,air suspension,negligible performance benefits,neg,handling
 227,air suspension,not recommend,neg,handling
-227,sticker price,inflates to over $60000,neg,handling
+227,sticker price,inflates to over $60000,neg,cost
 227,X1,impressively well rounded,pos,general-information
 227,X1,accurate,pos,general-information
 227,GLC,X1 tops out where GLC begins,pos,general-information
 227,residual value,highest,pos,cost
-227,type,SUV,neu,cost
-227,size,compact,neu,cost
-227,car,luxury,pos,cost
+227,type,SUV,neu,general-information
+227,size,compact,neu,general-information
+227,car,luxury,pos,quality-aesthetic
 227,car,luxurious,pos,quality-aesthetic
 227,quality,one step further,pos,quality-aesthetic
-227,comfort,one step further,pos,quality-aesthetic
+227,comfort,one step further,pos,comfort
 227,refinement,one step further,pos,quality-aesthetic
-227,value,decent,pos,quality-aesthetic
+227,value,decent,pos,cost
 227,car,luxury,pos,quality-aesthetic
 228,size,midsize,neu,general-information
 228,type,SUV,neu,general-information
@@ -12396,8 +12399,8 @@ id,aspect,opinion,sentiment,category
 228,sun visors,not extend,neg,interior-features
 228,automatic engine shutoff,occasionally engages,neg,performance
 228,automatic engine shutoff,subtle,neu,performance
-228,side mirrors,kind of nice,pos,safety
-228,side mirrors,wider,pos,safety
+228,side mirrors,kind of nice,pos,exterior-features
+228,side mirrors,wider,pos,exterior-features
 228,aura,rich,pos,quality-aesthetic
 228,aura,premium,pos,quality-aesthetic
 228,aura,worth possessing,pos,quality-aesthetic
@@ -12405,7 +12408,7 @@ id,aspect,opinion,sentiment,category
 228,G l E 63,sassy version,pos,quality-aesthetic
 228,torque,identical,neu,performance
 228,things,more complicated,neg,general-information
-228,drive,all wheel,neu,general-information
+228,drive,all wheel,neu,performance
 228,price,same as BMW X5,neu,cost
 228,-,-,-,unknown
 228,price,same as Q7,neu,cost
@@ -12413,10 +12416,11 @@ id,aspect,opinion,sentiment,category
 228,lift gate,power,pos,exterior-features
 228,front seats,heated,pos,comfort
 228,windshield wipers,rain sensing,neu,exterior-features
-228,most frugal G L E 3 50,lovely stuff,pos,performance
-228,most frugal G L E 3 50,lack backup camera,neg,safety
+228,GLE 350,most frugal,pos,cost
+228,stuff,lovely,pos,performance
+228,backup camera,lack,neg,safety
 228,backup camera,pretty big oversight,neg,safety
-228,entry,keyless,pos,exterior-features
+228,entry,keyless,pos,user-experience
 228,engine start,keyless,pos,interior-features
 228,-,-,-,unknown
 228,-,-,-,unknown
@@ -12427,7 +12431,7 @@ id,aspect,opinion,sentiment,category
 228,price,premium,neu,cost
 229,-,-,-,unknown
 229,car,faster,pos,performance
-229,performance,all powerful,pos,performace
+229,performance,all powerful,pos,performance
 229,-,-,-,unknown
 229,-,-,-,unknown
 229,sound,fantastic,pos,performance
@@ -12458,12 +12462,12 @@ id,aspect,opinion,sentiment,category
 229,brakes,impressive,pos,handling
 229,-,-,-,unknown
 229,price,same as BMW M3,neu,cost
-229,price,"$14,000 less expensive than the Audi RS4",pos,cosp
+229,price,"$14,000 less expensive than the Audi RS4",pos,cost
 229,fuel budget,huge drain,neg,cost
 229,fuel economy,waste fuel,neg,performance
 229,-,-,-,unknown
 231,size,subcompact,neu,general-information
-231,car,luxury,pos,general-information
+231,car,luxury,pos,quality-aesthetic
 231,car,good,pos,general-information
 231,size,small,neu,general-information
 231,drive,joy,pos,handling
@@ -12475,13 +12479,13 @@ id,aspect,opinion,sentiment,category
 231,center tunnel,need to think about,neg,comfort
 231,car,really tall hatchback,neu,general-information
 231,type,hatchback,neu,general-information
-231,view,not commanding,neg,exterior-features
+231,view,not commanding,neg,quality-aesthetic
 231,cargo space,not exceptional,neg,general-information
 231,cargo area,larger than BMW X1,pos,exterior-features
 231,cargo area,smaller than Mazda three hatch,neg,exterior-features
 231,backseats,drop,pos,exterior-features
 231,extended cargo area,less than X1,neg,exterior-features
-231,size,small,neu,exterior-features
+231,size,small,neu,general-information
 231,parkability,wonderful sense of refinement,pos,user-experience
 231,sound,pretty quiet,pos,comfort
 231,off ramp,fun,pos,handling
@@ -12492,13 +12496,13 @@ id,aspect,opinion,sentiment,category
 231,drive,all wheel,neu,handling
 231,summer tires,grippy,pos,handling
 231,exterior styling,aggressive,pos,exterior-features
-231,gear shift,presumably sport,pos,exterior-features
-231,interior,raced out,pos,exterior-features
-231,drive,enhanced thrills,pos,exterior-features
+231,gear shift,presumably sport,pos,handling
+231,interior,raced out,pos,interior-features
+231,drive,enhanced thrills,pos,handling
 231,-,-,-,unknown
 231,ride,noticeably firmer,pos,handling
-231,car,fun,pos,performance
-231,car,fun,pos,performance
+231,car,fun,pos,handling
+231,car,fun,pos,handling
 231,clutch,dual,neu,handling
 231,clutch,quicker,pos,handling
 231,clutch,smoother,pos,handling
@@ -12525,7 +12529,7 @@ id,aspect,opinion,sentiment,category
 232,performance,increased,pos,performance
 232,-,-,-,unknown
 232,drive,such a hoot,pos,handling
-232,pedals and springs,no hesitation,pos,performance
+232,pedals and springs,no hesitation,pos,handling
 232,0 to 60,all well,pos,performance
 232,0 to 60,good,pos,performance
 232,throttle response,real magic,pos,performance
@@ -12562,30 +12566,30 @@ id,aspect,opinion,sentiment,category
 232,cruise control,adaptive,neu,safety
 232,technology,safe,pos,safety
 232,BMW 3 40 I  engine,slightly less powerful,neg,performance
-232,"BMW 3 40 I , drive",reae wheel,neg,performance
+232,"BMW 3 40 I , drive",rear wheel,neg,performance
 232,price,similar to AMG C 43,neu,cost
 232,drive,rear wheel,neu,performance
 232,interior,gorgeous,pos,quality-aesthetic
 232,output figures,comparable,neu,performance
 232,town,legitimate luxury sedan,pos,quality-aesthetic
 232,S4,better,pos,general-information
-232,S4,higher performing A4,pos,general-information
+232,S4,higher performing A4,pos,performance
 232,S4,proper sports car,pos,general-information
 234,-,-,-,unknown
 234,car,player in entry luxury segment,neu,general-information
-234,price tag,low,pos,general-information
+234,price tag,low,pos,cost
 234,price,sounds good,pos,cost
-234,type,sedan,neu,cost
+234,type,sedan,neu,general-information
 234,-,-,-,unknown
-234,sunroof,big,pos,interior-features
+234,sunroof,big,pos,exterior-features
 234,seats,leather,pos,interior-features
 234,screen,thin,neg,interior-features
 234,screen,low resolution,neg,interior-features
-234,base car,lovely,pos,performance
-234,drive,front wheel,neu,performance
-234,gearbox,winner,pos,performance
-234,shifting,impressive,pos,performance
-234,shifting,smoothness,pos,performance
+234,base car,lovely,pos,general-information
+234,drive,front wheel,neu,handling
+234,gearbox,winner,pos,handling
+234,shifting,impressive,pos,handling
+234,shifting,smoothness,pos,handling
 234,road demeanor,worthy of praise,pos,handling
 234,steering wheel in parking,light,pos,handling
 234,steering wheel in parking,manageable,pos,handling
@@ -12594,16 +12598,16 @@ id,aspect,opinion,sentiment,category
 234,A3,agile,pos,handling
 234,suspension,never abusive,pos,handling
 234,brakes,feel good,pos,handling
-234,sound,quiet,pos,handling
-234,overall length,short,neu,handling
+234,sound,quiet,pos,comfort
+234,overall length,short,neu,general-information
 234,car,totally stable,pos,handling
-234,size,small,neu,quality-aesthetic
-234,size,lack of,neu,quality-aesthetic
+234,size,small,neu,general-information
+234,size,lack of,neu,general-information
 234,general layout,clean,pos,quality-aesthetic
 234,general layout,logical,pos,quality-aesthetic
 234,general layout,touch of sportiness,pos,quality-aesthetic
 234,material selection,excellent,pos,quality-aesthetic
-234,trunk,small side,neg,comfort
+234,trunk,small side,neg,exterior-features
 234,backseats,"well, cozy",neu,comfort
 234,-,-,-,unknown
 234,Audi interface,simple,pos,user-experience
@@ -12611,45 +12615,45 @@ id,aspect,opinion,sentiment,category
 234,climate control,simple,pos,user-experience
 234,climate control,intuitive,pos,user-experience
 234,button placement,visually hard to check,neg,user-experience
-234,passenger space,gain much needed,neu,user-experience
+234,passenger space,gain much needed,neu,comfort
 234,gear stuff,high end,pos,interior-features
-234,headlights,led,neu,interior-features
+234,headlights,led,neu,exterior-features
 234,touch pad,clever,pos,interior-features
 234,touch pad,conveniently,pos,interior-features
 234,-,-,-,unknown
 234,Mercedes-Benz C . L . A,fewer features,pos,general-information
-234,Mercedes-Benz C . L . A,more interesting design,pos,general-information
-234,BMW two series,more powerful,pos,general-information
-234,A3 gravitas,neither could match,pos,general-information
-234,S3,high performance,pos,general-information
-234,Audi A3 lineup,plug in hybrid sportsback,pos,general-information
+234,Mercedes-Benz C . L . A,more interesting design,pos,quality-aesthetic
+234,BMW two series,more powerful,pos,performance
+234,A3 gravitas,neither could match,pos,quality-aesthetic
+234,S3,high performance,pos,performance
+234,Audi A3 lineup,plug in hybrid sports back,pos,general-information
 234,A3,gasoline powered,neu,general-information
 234,A3,traditional sedan,neu,general-information
 234,traditional sedan,love,pos,general-information
 234,traditional sedan,nice,pos,general-information
-234,riding,premium,pos,general-information
-234,handling,premium,pos,general-information
-234,features,bunch of cool,pos,general-information
-234,car,luxury,pos,general-information
-234,car,elevated image,pos,general-information
+234,riding,premium,pos,handling
+234,handling,premium,pos,handling
+234,features,bunch of cool,pos,quality-aesthetic
+234,car,luxury,pos,quality-aesthetic
+234,car,elevated image,pos,quality-aesthetic
 234,size,smaller package,neu,general-information
 234,size,downsize,neu,general-information
 235,A7,exceptionally nice,pos,general-information
-235,A7,luxury,pos,general-information
+235,A7,luxury,pos,quality-aesthetic
 235,type,SUV,neu,general-information
-235,architecture,completely new,pos,general-information
-235,architecture,aluminium rich,pos,general-information
-235,weight,hundred pounds lighter,pos,general-information
-235,weight,lighter,pos,quality-aesthetic
+235,architecture,completely new,pos,quality-aesthetic
+235,architecture,aluminium rich,pos,quality-aesthetic
+235,weight,hundred pounds lighter,pos,performance
+235,weight,lighter,pos,performance
 235,looks,prettier,pos,quality-aesthetic
-235,cabinets,plenty to praise,pos,comfort
+235,cabinets,plenty to praise,pos,interior-features
 235,sound,serenely quiet,pos,comfort
-235,aura,luxury,pos,comfort
-235,aura,sweet,pos,comfort
+235,aura,luxury,pos,quality-aesthetic
+235,aura,sweet,pos,quality-aesthetic
 235,sound,quiet luxury,pos,comfort
-235,suspension,not softly srung,neg,handling
+235,suspension,not softly sprung,neg,handling
 235,suspension,definitely feel the road,neg,handling
-235,normal driving,unpleasent harshness deftly subdued,pos,handling
+235,normal driving,unpleasant harshness deftly subdued,pos,handling
 235,ride,lovely,pos,handling
 235,corner grip,tenacious,pos,handling
 235,body control,impressive,pos,handling
@@ -12657,9 +12661,9 @@ id,aspect,opinion,sentiment,category
 235,balance point,nearly ideal between fun and refinement,pos,handling
 235,drive train flooring,nearly ideal between fun and refinement,pos,handling
 235,engine output,more than adequate,pos,performance
-235,shifts,swift,pos,performance
-235,shifts,nearly imperceptible,pos,performance
-235,drive,all wheel,neu,performance
+235,shifts,swift,pos,handling
+235,shifts,nearly imperceptible,pos,handling
+235,drive,all wheel,neu,handling
 235,fuel economy,good,pos,performance
 235,torque capability,admirable,pos,performance
 235,automatic engines start stop system,fairly unobtrusive,pos,performance
@@ -12680,7 +12684,7 @@ id,aspect,opinion,sentiment,category
 235,accents,streaky,pos,quality-aesthetic
 235,map lights,touch,pos,quality-aesthetic
 235,map lights,glowing ring surround,pos,quality-aesthetic
-235,car,new,neu,cost
+235,car,new,neu,general-information
 235,Q7,more functional note,neu,quality-aesthetic
 235,center console,very little storage,neg,interior-features
 235,phone spot,handy,pos,interior-features
@@ -12697,37 +12701,36 @@ id,aspect,opinion,sentiment,category
 235,third row,power operated 50 50 split,neu,comfort
 235,third row,barely tolerable for adults,neg,comfort
 235,-,-,-,unknown
-235,cargo sppace,healthy,pos,exterior-features
+235,cargo space,healthy,pos,exterior-features
 235,cargo space,boosts by lowering the third row,pos,exterior-features
-235,trim,premium,pos,safety
+235,trim,premium,pos,quality-aesthetic
 235,equipment,robustly equipped,pos,safety
-235,lift gate,power,pos,safety
-235,upholstery,leather,neu,safety
-235,sunroof,two channel,neu,safety
-235,sunroof,panoranamic,pos,safety
+235,lift gate,power,pos,exterior-features
+235,upholstery,leather,neu,quality-aesthetic
+235,sunroof,two channel,neu,interior-features
 235,automatic braking,senses both vehicles and pedestrians,pos,safety
 235,-,-,-,unknown
 235,audio system,premium,pos,interior-features
-235,tailgate,foot activated,pos,interior-features
-235,car,lot of fun to play,pos,safety
-235,car,luxury,pos,safety
+235,tailgate,foot activated,pos,exterior-features
+235,car,lot of fun to play,pos,handling
+235,car,luxury,pos,quality-aesthetic
 235,pricewise,absolutely loaded,pos,cost
 235,pricewise,Q7 prestige trip,neu,cost
 235,Audi Q7,deserves attention,pos,general-information
-235,Audi Q7,luxury SUV,pos,general-information
-235,vehicle,proper luxury,pos,general-information
+235,Audi Q7,luxury SUV,pos,quality-aesthetic
+235,vehicle,proper luxury,pos,quality-aesthetic
 235,vehicle,legitimate family hauler,pos,general-information
-235,drive,enjoy,pos,general-information
+235,drive,enjoy,pos,handling
 235,car,enjoy to live with,pos,general-information
 237,size,compact,neu,general-information
-237,car,luxury,pos,general-information
+237,car,luxury,pos,quality-aesthetic
 237,car,does pretty much everything,pos,general-information
 237,interior,fawning praise,pos,quality-aesthetic
 237,materials,top quality,pos,quality-aesthetic
 237,looks,crisp,pos,quality-aesthetic
 237,looks,modern aesthetics,pos,quality-aesthetic
 237,looks,modernism,pos,quality-aesthetic
-237,cockpit,usable space,pos,quality-aesthetic
+237,cockpit,usable space,pos,interior-features
 237,controls,unfussy,pos,quality-aesthetic
 237,long haul,supportive,pos,comfort
 237,front seats,powered,pos,comfort
@@ -12741,14 +12744,14 @@ id,aspect,opinion,sentiment,category
 237,middle seat,ludicrous position,neg,comfort
 237,middle seat legroom,jam up against front seat rails,neg,comfort
 237,rear quarters,work just fine,pos,comfort
-237,roof,panoramic,neu,comfort
-237,roof,moon,neu,comfort
-237,cabin,delightful,pos,exterior-features
-237,cabin,feels bright,pos,exterior-features
-237,cabin,open,pos,exterior-features
-237,interior,even more delightful,pos,exterior-features
-237,cup holders,small,neg,quality-aesthetic
-237,cup holders,dislike,neg,quality-aesthetic
+237,roof,panoramic,neu,exterior-features
+237,roof,moon,neu,exterior-features
+237,cabin,delightful,pos,interior-features
+237,cabin,feels bright,pos,interior-features
+237,cabin,open,pos,interior-features
+237,interior,even more delightful,pos,interior-features
+237,cup holders,small,neg,interior-features
+237,cup holders,dislike,neg,interior-features
 237,looks,handsome,pos,quality-aesthetic
 237,looks,sculpted,pos,quality-aesthetic
 237,looks,desirable,pos,quality-aesthetic
@@ -12758,37 +12761,37 @@ id,aspect,opinion,sentiment,category
 237,fuel economy,not amazing for a compact SUV,neg,performance
 237,fuel economy,actually quite good for a compact luxury SUV,pos,performance
 237,power delivery,refined,pos,performance
-237,shift operation,very seamless,pos,performance
-237,shift operation,slightly marred with a little bit of surgeon,neg,performance
-237,drive,all wheel,neu,performance
+237,shift operation,very seamless,pos,handling
+237,shift operation,slightly marred with a little bit of surgeon,neg,handling
+237,drive,all wheel,neu,handling
 237,efficiency,improved,pos,performance
-237,handling,lively,pos,performance
-237,grip,all wheather,pos,performance
+237,handling,lively,pos,handling
+237,grip,all weather,pos,handling
 237,offroad mode,dedicated,pos,handling
-237,ground clearence,8.2 inches,neu,handling
+237,ground clearance,8.2 inches,neu,handling
 237,driving,outstanding manners,pos,handling
-237,performance,skillfully negotiated the chasm between comfort and sports,pos,handling
+237,performance,skillfully negotiated the chasm between comfort and sports,pos,performance
 237,sound,incredibly quiet,pos,comfort
-237,outward visibility,clear,pos,comfort
-237,brakes,strong,pos,comfort
-237,field,excellent,pos,comfort
+237,outward visibility,clear,pos,safety
+237,brakes,strong,pos,handling
+237,feel,excellent,pos,handling
 237,drive,absolute pleasure,pos,handling
 237,air suspension,adaptive,pos,handling
 237,-,-,-,unknown
 237,SUV,fun,pos,handling
-237,features,packed with,pos,cost
-237,tailgate,power,neu,cost
+237,features,packed with,pos,interior-features
+237,tailgate,power,neu,exterior-features
 237,-,-,-,unknown
-237,infotaintment system,works pretty well,pos,user-experience
-237,infotaintment system knob,wish was touch screen,neg,user-experience
+237,infotainment system,works pretty well,pos,user-experience
+237,infotainment system knob,wish was touch screen,neg,user-experience
 237,Apple carplay,lovely,pos,user-experience
 237,Apple carplay,standard,neu,user-experience
 237,touch screen,lack of,neg,user-experience
 237,swiping zoom manoeuvres,great,pos,user-experience
 237,Apple carplay,love so much,pos,user-experience
-237,front seats,ventilated,pos,cost
-237,rear seats,heated,pos,cost
-237,tailgate,handsfree,pos,cost
+237,front seats,ventilated,pos,comfort
+237,rear seats,heated,pos,comfort
+237,tailgate,handsfree,pos,exterior-features
 237,speaker,brilliant,pos,interior-features
 237,audio system,premium,pos,interior-features
 237,display,vivid,pos,interior-features
@@ -12797,18 +12800,18 @@ id,aspect,opinion,sentiment,category
 237,beams,automatic,neu,safety
 237,steering guidance,so you can invest just a little less brain power,pos,safety
 237,car,maximally loaded,pos,cost
-237,drive,all wheel,neu,cost
-237,Q5,sporty,pos,cost
-237,Q5,comfortable,pos,cost
-237,Q5,agreeable,pos,cost
-237,Q5,understanding,pos,cost
-237,car,charms intensified,pos,general-information
+237,drive,all wheel,neu,handling
+237,Q5,sporty,pos,general-information
+237,Q5,comfortable,pos,comfort
+237,Q5,agreeable,pos,comfort
+237,Q5,understanding,pos,user-experience
+237,car,charms intensified,pos,quality-aesthetic
 237,car,truly well-rounded,pos,general-information
 237,size,compact,neu,general-information
-237,car,luxury,pos,general-information
+237,car,luxury,pos,quality-aesthetic
 238,Audi TT,pretty well,pos,quality-aesthetic
 238,shape,same basic,neu,quality-aesthetic
-238,driving experience,evolved considerably,pos,quality-aesthetic
+238,driving experience,evolved considerably,pos,user-experience
 238,design,fresh but familiar,neu,quality-aesthetic
 238,front face,three D style,pos,quality-aesthetic
 238,edges,sharper,pos,quality-aesthetic
@@ -12824,16 +12827,16 @@ id,aspect,opinion,sentiment,category
 238,ergonomics,natural,pos,user-experience
 238,ergonomics,ease of use,pos,user-experience
 238,mastering the system,slight learning curve,pos,user-experience
-238,mastering the system,moderate tech savy drivers feel at home,pos,user-experience
+238,mastering the system,moderate tech savvy drivers feel at home,pos,user-experience
 238,philosophy,minimalist,pos,quality-aesthetic
 238,philosophy,holy,pos,quality-aesthetic
-238,digital climate control,embracing  elegance simplicity,pos,quality-aesthetic
+238,digital climate control,embracing elegance simplicity,pos,quality-aesthetic
 238,digital climate control,built directly into air vents,neu,quality-aesthetic
 238,events,fixed position,neu,quality-aesthetic
 238,clicking sound,annoying,neg,comfort
 238,rear seat legroom,as friendly the legs as Annie Wilkes,neg,comfort
-238,rear seat roadster,non-existant,neg,comfort
-238,storage space,clever use,pos,exterior-features
+238,rear seat roadster,non-existent,neg,comfort
+238,storage space,clever use,pos,interior-features
 238,cell phone spot,not convenient,neg,interior-features
 238,winding mountain roads,does everything you ask of,pos,handling
 238,drive,light nimble package,pos,handling
@@ -12841,45 +12844,45 @@ id,aspect,opinion,sentiment,category
 238,driving position,perfectly centred,pos,handling
 238,steering wheel shape,elevate Audi above rivals,pos,handling
 238,steering ratio,best quality,pos,handling
-238,steering ratio,too tiight,pos,handling
+238,steering ratio,too tight,pos,handling
 238,turning radius,also tight,pos,handling
 238,steering ratio ride,quick,pos,handling
-238,ride quality,"slips between the softer BMW , Z4 and Mercedes-Benz S L C and more aggressive Porsche , Boxter and Cayman",pos,handling
-238,stopping power,"slips between the softer BMW , Z4 and Mercedes-Benz S L C and more aggressive Porsche , Boxter and Cayman",pos,handling
-238,driver involvement,"slips between the softer BMW , Z4 and Mercedes-Benz S L C and more aggressive Porsche , Boxter and Cayman",pos,handling
-238,comfort,everyday,pos,handling
-238,performance,engaging,pos,handling
+238,ride quality,"slips between the softer BMW , Z4 and Mercedes-Benz S L C and more aggressive Porsche , Boxster and Cayman",pos,handling
+238,stopping power,"slips between the softer BMW , Z4 and Mercedes-Benz S L C and more aggressive Porsche , Boxster and Cayman",pos,handling
+238,driver involvement,"slips between the softer BMW , Z4 and Mercedes-Benz S L C and more aggressive Porsche , Boxster and Cayman",pos,handling
+238,comfort,everyday,pos,comfort
+238,performance,engaging,pos,performance
 238,cabin noise,equal to small luxury sedan,pos,comfort
-238,TT,convertible,neu,interior-features
-238,qualities,of high end touring,pos,interior-features
-238,price point,significantly lower,neg,interior-features
-238,windscreen,electronic,neu,interior-features
-238,windscreen,releives wind turbulence,pos,interior-features
+238,TT,convertible,neu,general-information
+238,qualities,of high end touring,pos,general-information
+238,price point,significantly lower,neg,cost
+238,windscreen,electronic,neu,exterior-features
+238,windscreen,relieves wind turbulence,pos,exterior-features
 238,events,blow hot air,pos,exterior-features
 238,top,soft,neu,exterior-features
 238,top,triple layer,neu,exterior-features
 238,engine,exclusive,pos,performance
-238,dual clutch,well mannered,pos,performance
+238,dual clutch,well mannered,pos,handling
 238,turbo lag,practically free,pos,performance
 238,fuel economy,not greatly impacting,pos,performance
 238,drive,rear wheel,neu,performance
-238,exterior,sharper styling,pos,performance
-238,seats,sport,neu,performance
-238,seats,heavily bolstered,pos,performance
+238,exterior,sharper styling,pos,interior-features
+238,seats,sport,neu,interior-features
+238,seats,heavily bolstered,pos,comfort
 238,-,-,-,unknown
-238,equipment,impressively well equipped,pos,exterior-features
+238,equipment,impressively well equipped,pos,interior-features
 238,windshield wipers,rain sensing,pos,exterior-features
 238,fuel filler,capitalist,pos,exterior-features
-238,seats,heated,pos,exterior-features
-238,seats,leather,pos,exterior-features
+238,seats,heated,pos,comfort
+238,seats,leather,pos,interior-features
 238,-,-,-,unknown
 238,-,-,-,unknown
-238,blind spot mornitoring,highly recommendable,pos,interior-features
+238,blind spot monitoring,highly recommendable,pos,safety
 238,speaker sound system,banging,pos,interior-features
 238,TT,fully loaded,pos,general-information
-238,price,relatively bargain,pos,general-information
+238,price,relatively bargain,pos,cost
 238,car,convertible,neu,general-information
-238,car,luxury,pos,general-information
+238,car,luxury,pos,quality-aesthetic
 238,door,two,neu,general-information
 238,Audi TT,tough to be,pos,general-information
 239,-,-,-,unknown
@@ -12918,7 +12921,7 @@ id,aspect,opinion,sentiment,category
 239,clutch,shifts quickly,pos,handling
 239,throttle response,better,pos,user-experience
 239,E brake,old school,neu,user-experience
-239,E break activation lever,little,npu,user-experience
+239,E break activation lever,little,neu,user-experience
 239,interior design,super clean,pos,quality-aesthetic
 239,trim,carbon fibre,neu,quality-aesthetic
 239,steering wheel,flat bottom,neu,quality-aesthetic
@@ -12934,7 +12937,7 @@ id,aspect,opinion,sentiment,category
 239,grill,huge,neu,exterior-features
 239,lights,striking led,pos,exterior-features
 239,height,lowered by 0.8 inches,neu,exterior-features
-239,fenders,flaired air,neu,exterior-features
+239,fenders,flared air,neu,exterior-features
 239,spoiler,enlarged,pos,exterior-features
 239,spoiler,retractable,pos,exterior-features
 239,appearance,track ready,pos,quality-aesthetic
@@ -12949,14 +12952,15 @@ id,aspect,opinion,sentiment,category
 239,design,excellent,pos,quality-aesthetic
 239,performance,exhilarating,pos,performance
 239,performance,intimidating,neu,performance
-239,spirit,iconoclast,pos,general-information
-239,hierarchy,top,pos,general-information
+239,spirit,iconoclast,pos,quality-aesthetic
+239,hierarchy,top,pos,quality-aesthetic
 239,price,worth the money,pos,cost
 241,-,-,-,unknown
 241,-,-,-,unknown
 241,chassis,lighter,pos,handling
 241,chassis,more rigid,pos,handling
 241,suspension tuning,more brilliant,pos,handling
+241,car,luxury sedan,pos,quality-aesthetic
 241,type,sedan,neu,general-information
 241,grip,like a vice,pos,handling
 241,rides,like a popular luxury,pos,handling
@@ -12970,7 +12974,7 @@ id,aspect,opinion,sentiment,category
 241,tight spaces,joy to navigate,pos,handling
 241,economics,excellent,pos,cost
 241,cabin,quieter,pos,comfort
-241,two litre turbo size,something speciuioal,pos,performance
+241,two litre turbo size,something special,pos,performance
 241,throttle response,frustratingly lag,neg,performance
 241,0 to 60 spread,good,pos,performance
 241,0 to 60 spread,pretty quick,pos,performance
@@ -12979,19 +12983,19 @@ id,aspect,opinion,sentiment,category
 241,-,-,-,unknown
 241,efficiency,trumps all,pos,performance
 241,A4 ultra,based,pos,performance
-241,clutch,smooth,pos,performance
-241,clutch,remarkably quick,pos,performance
+241,clutch,smooth,pos,handling
+241,clutch,remarkably quick,pos,handling
 241,cockpit,driver oriented,pos,interior-features
 241,cockpit,dignified show of luxury,pos,quality-aesthetic
-241,interior,laiden with high q/b uality materials,pos,quality-aesthetic
+241,interior,laden with high quality materials,pos,quality-aesthetic
 241,materials,high quality,pos,quality-aesthetic
 241,materials,soft touch,pos,quality-aesthetic
-241,materials,thoughful touches,pos,quality-aesthetic
+241,materials,thoughtful touches,pos,quality-aesthetic
 241,center arm,highly adjustable,pos,comfort
 241,switches,nifty,pos,interior-features
 241,leg room,average at best,neg,comfort
 241,middle seat,effectively uninhabitable,neg,comfort
-241,rear quarters,tight,neg,exterior-features
+241,rear quarters,tight,neg,comfort
 241,trunks,largest,pos,exterior-features
 241,rear seatbacks,wide aperture,pos,exterior-features
 241,rear seatbacks,pull almost completely flat,pos,exterior-features
@@ -13007,7 +13011,7 @@ id,aspect,opinion,sentiment,category
 241,system,topping it all,pos,user-experience
 241,standard equipment,lengthier list,pos,cost
 241,headlight control,automatic,neu,interior-features
-241,windshield wipers,rain sensing,neu,interior-features
+241,windshield wipers,rain sensing,neu,exterior-features
 241,driver seat,eight way power,neu,comfort
 241,driver seat,four way lumbar support,neu,comfort
 241,roof,moon,neu,exterior-features
@@ -13085,7 +13089,7 @@ id,aspect,opinion,sentiment,category
 243,room,two plus luggage,pos,comfort
 243,race track,playful but manageable,pos,handling
 243,car,amazingly civilized,pos,general-information
-243,body style,spider,neu,quality-aethetic
+243,body style,spider,neu,quality-aesthetic
 243,drive,all wheel,neu,performance
 243,engine,perfectly satisfying,pos,performance
 243,sound,wicked,pos,performance
@@ -13146,7 +13150,7 @@ id,aspect,opinion,sentiment,category
 244,driver seat heat dissipation,top of class,pos,comfort
 244,steering wheel,downward travel restricted,neg,comfort
 244,driving position,awkward for tall drivers,neg,comfort
-244,steering wheel,chief complain,neg,interir-features
+244,steering wheel,chief complain,neg,interior-features
 244,ergonomics,working,neu,handling
 244,Q3,impresses,pos,handling
 244,balance,supremely well balanced,pos,handling
@@ -13166,7 +13170,7 @@ id,aspect,opinion,sentiment,category
 244,control interface,logically laid out,pos,user-experience
 244,driver distraction,minimize,pos,user-experience
 244,graphics,most beautiful,pos,user-experience
-244,upholstery,leather,neu,quality-aesthetc
+244,upholstery,leather,neu,quality-aesthetic
 244,starting price,slew of premium standards,pos,cost
 244,front seats,heated,pos,comfort
 244,roof,moon,pos,exterior-features
@@ -13421,7 +13425,7 @@ id,aspect,opinion,sentiment,category
 280,interior,new,pos,quality-aesthetic
 280,-,-,-,unknown
 280,looks,lot like S class,neu,quality-aesthetic
-280,looks,baby s class strong family rememblance,neu,quality-aesthetic
+280,looks,baby s class strong family resemblance,neu,quality-aesthetic
 280,aluminium,new,neu,quality-aesthetic
 280,external panel,pretty much every aluminium,pos,quality-aesthetic
 280,weight,lighter,pos,performance
@@ -13458,7 +13462,6 @@ id,aspect,opinion,sentiment,category
 280,torque,just kicks in,pos,performance
 280,torque,feels phenomenal,pos,performance
 280,size,lot bigger,neu,handling
-280,car,doesnt feel agile,neg,handling
 280,car,more of a touring,pos,handling
 280,car,luxury,pos,quality-aesthetic
 280,settings,obligatory,neu,handling
@@ -13505,7 +13508,7 @@ id,aspect,opinion,sentiment,category
 280,Audi A4,oldest,neg,general-information
 280,Alexis I,size smaller,neu,general-information
 280,Alexis I,much more nimble,pos,general-information
-280,car,chocolate luxury flavour icecream,pos,quality-aesthetic
+280,car,chocolate luxury flavour ice cream,pos,quality-aesthetic
 280,overall,very impressed,pos,general-information
 280,car,best sense of German Automobiles,pos,general-information
 280,weight,lighter than its predecessor,pos,general-information
@@ -13523,9 +13526,10 @@ id,aspect,opinion,sentiment,category
 280,weight,lighter,pos,performance
 280,car,happy owning,pos,general-information
 280,drive,need to spend a little more time behind the wheel,pos,handling
-280,car,great for Colarado mountains,pos,handling
+280,car,great for Colorado mountains,pos,handling
 280,brakes,love,pos,handling
-280,brakes,feels plant,pos,handling
+280,brakes,love,pos,handling
+280,brakes,feels planted,pos,handling
 280,brakes,feel solid,pos,handling
 280,car,about right,pos,general-information
 280,car,about being grand touring,pos,general-information
@@ -13540,24 +13544,24 @@ id,aspect,opinion,sentiment,category
 280,inside,comfortable,pos,comfort
 280,car,comfortable,pos,comfort
 280,car,comfortable for big guy,pos,comfort
-281,car,sexy,pos,general-information
-281,car,magical,pos,general-information
+281,car,sexy,pos,quality-aesthetic
+281,car,magical,pos,quality-aesthetic
 281,doors,two,neu,general-information
 281,doors,lengthen,neu,general-information
-281,car,sexy two door,neu,general-information
-281,car,longer,neu,interior-features
-281,car,wider,neu,interior-features
+281,car,sexy two door,neu,quality-aesthetic
+281,car,longer,neu,general-information
+281,car,wider,neu,general-information
 281,belt line,new,pos,interior-features
 281,belt line,runs the entire length,pos,interior-features
-281,shape,more of a sexy coke bottle,pos,interior-features
-281,design,ground up,neu,interior-features
-281,design,share many components with sedan,neu,interior-features
-281,wheelbase,same length,neu,interior-features
+281,shape,more of a sexy coke bottle,pos,quality-aesthetic
+281,design,ground up,neu,quality-aesthetic
+281,design,share many components with sedan,neu,quality-aesthetic
+281,wheelbase,same length,neu,general-information
 281,seating,lower,neu,interior-features
-281,styling,unique,pos,handling
-281,car,feels like put together by one solid piece,pos,handling
+281,styling,unique,pos,quality-aesthetic
+281,car,feels like put together by one solid piece,pos,quality-aesthetic
 281,drive,all wheel,pos,performance
-281,snow,great for places with plenty of snow,pos,performance
+281,snow,great for places with plenty of snow,pos,handling
 281,-,-,-,unknown
 281,air suspension,changes the way it can drive,neu,handling
 281,sport suspension,firms up,neu,handling
@@ -13565,12 +13569,12 @@ id,aspect,opinion,sentiment,category
 281,steering,more precise,pos,handling
 281,sport suspension,more of a widely inactive car,pos,handling
 281,exhaust note,more grunt,pos,performance
-281,car,luxury,pos,general-information
-281,comfort,can sit back,pos,handling
-281,comfort,put your head back,pos,handling
-281,comfort,cruise down the street,pos,handling
-281,window,panoramic,pos,handling
-281,feel,kind of sexy,pos,handling
+281,car,luxury,pos,quality-aesthetic
+281,comfort,can sit back,pos,comfort
+281,comfort,put your head back,pos,comfort
+281,comfort,cruise down the street,pos,comfort
+281,window,panoramic,pos,exterior-features
+281,feel,kind of sexy,pos,quality-aesthetic
 281,car,footloose,pos,handling
 281,car,free,pos,handling
 281,steering wheel,flat bottom,neu,quality-aesthetic
@@ -13588,21 +13592,21 @@ id,aspect,opinion,sentiment,category
 281,room,as you would expect,pos,comfort
 281,comfort,as you would expect,pos,comfort
 281,practicality,everyday except for back,neg,comfort
-281,back,little bit smaller,neu,comfort
+281,back,little bit smaller,neg,comfort
 281,size,smaller,neu,comfort
 281,door,two,neu,comfort
 281,headroom,little bit less,neg,comfort
-281,seat,retracts out of the way,neg,comfort
+281,seat,retracts out of the way,neu,comfort
 281,leg room,so far so good,pos,comfort
 281,seat,automatically moves forward,pos,comfort
 281,handle,easy to use,pos,interior-features
 281,back,very tight,neg,comfort
-281,car,very practical,pos,quality-aesthetic
+281,car,very practical,pos,comfort
 281,rear seats,split folding 40 2040,pos,interior-features
 281,rear seats,very very usable,pos,interior-features
 281,-,-,-,unknown
 281,car,sporty,pos,handling
-281,car,not fast,pos,handling
+281,car,not fast,neg,performance
 281,character,more of a relaxed gran tour,pos,handling
 281,-,-,-,unknown
 281,steering,electric,neu,handling
@@ -13612,9 +13616,9 @@ id,aspect,opinion,sentiment,category
 281,lights,full wraparound led,neu,exterior-features
 281,Mercedes-Benz star,prominent visuals,pos,quality-aesthetic
 281,car,solid,pos,exterior-features
-281,car,comfortable,pos,general-information
-281,car,confidence inspiring,pos,general-information
-281,car,even sexy,pos,general-information
+281,car,comfortable,pos,comfort
+281,car,confidence inspiring,pos,quality-aesthetic
+281,car,even sexy,pos,quality-aesthetic
 281,-,-,-,unknown
 282,-,-,-,unknown
 282,-,-,-,unknown
@@ -13623,9 +13627,9 @@ id,aspect,opinion,sentiment,category
 282,drive,all four wheels,pos,performance
 282,0 to 60,craziest number,pos,performance
 282,speed,lot of,pos,performance
-282,money,lot of,neg,performance
+282,money,lot of,neg,cost
 282,off roader,really good,pos,general-information
-282,vehicle,military,neu,performance
+282,vehicle,military,neu,general-information
 282,horsepower,very small,neg,performance
 282,car,sports,pos,performance
 282,car,retro,neu,quality-aesthetic
@@ -13637,8 +13641,7 @@ id,aspect,opinion,sentiment,category
 282,body,vault like construction,pos,quality-aesthetic
 282,-,-,-,unknown
 282,vehicle everything else,completely new,pos,quality-aesthetic
-282,outside,very simple,pos,performance
-282,off road,pretty worthy,pos,quality-aesthetic
+282,off road,pretty worthy,pos,handling
 282,looks,more off road worthy,pos,quality-aesthetic
 282,-,-,-,unknown
 282,wheels,unusual,pos,quality-aesthetic
@@ -13647,16 +13650,16 @@ id,aspect,opinion,sentiment,category
 282,vehicle,gone old school,pos,quality-aesthetic
 282,vehicle,matches the bull bar,pos,quality-aesthetic
 282,vehicle,like,pos,quality-aesthetic
-282,inside,biggest difference,pos,comfort
+282,inside,biggest difference,pos,interior-features
 282,inside,lot bigger,pos,comfort
-282,car,five inches wider,pos,comfort
-282,car,two  inches longer,pos,comfort
-282,infotaintment system,latest,pos,interior-features
-282,infotaintment system,greatest,pos,interior-features
+282,car,five inches wider,pos,general-information
+282,car,two  inches longer,pos,general-information
+282,infotainment system,latest,pos,interior-features
+282,infotainment system,greatest,pos,interior-features
 282,events,wonderful,pos,quality-aesthetic
 282,events,very elegant,pos,quality-aesthetic
-282,center section,lets you change driving dynamics,pos,interior-features
-282,center section,lets you change offroad ability,pos,interior-features
+282,center section,lets you change driving dynamics,pos,handling
+282,center section,lets you change offroad ability,pos,handling
 282,exhaust note,changing,pos,performance
 282,exhaust note,favorite feature,pos,performance
 282,exhaust,butterfly valves,neu,performance
@@ -13668,34 +13671,34 @@ id,aspect,opinion,sentiment,category
 282,sunroof,not full size,neg,exterior-features
 282,-,-,-,unknown
 282,headliner,pretty elegant,pos,interior-features
-282,headliner,super kush,pos,interior-features
+282,headliner,super cush,pos,interior-features
 282,headliner,almost velour like,pos,interior-features
-282,vehicle,body on frame,neu,handling
+282,vehicle,body on frame,neu,general-information
 282,off road,goodness,pos,handling
 282,car,fast,pos,handling
 282,car,off road worthy,pos,handling
-282,car,small horse,neu,handling
+282,car,small horse,neu,performance
 282,suspension,front,neu,handling
 282,right on the road,much more controllable,pos,handling
 282,right on the road,much more compliant,pos,handling
 282,power,too much for chassis,pos,performance
-282,front suspension,independent,pos,handling
-282,construction technique,much more modern,pos,handling
-282,shape,breadbox,neu,handling
+282,front suspension,independent,neg,handling
+282,construction technique,much more modern,pos,quality-aesthetic
+282,shape,breadbox,neu,quality-aesthetic
 282,drive,much better,pos,handling
 282,car,ability to go and drive around the world,pos,handling
 282,car,ability to keep up with fastest sports car,pos,handling
-282,price,cost a lot,neg,quality-aesthetic
-282,car,worth a lot,pos,quality-aesthetic
-282,vehicle,al about status,neu,performance
+282,price,cost a lot,neg,cost
+282,car,worth a lot,pos,cost
+282,vehicle,all about status,neu,performance
 282,offroad,ultimately capable,pos,handling
 282,offroad,could do it,pos,handling
 282,offroad,part of his huge appeal,pos,handling
 282,-,-,-,unknown
 282,car,more of a real truck,neu,general-information
 282,price,even more expensive,pos,cost
-282,car,my dream,pos,cost
-282,0 to 60 time,crazy,pos,handling
+282,car,my dream,pos,user-experience
+282,0 to 60 time,crazy,pos,performance
 282,-,-,-,unknown
 282,-,-,-,unknown
 282,-,-,-,unknown
@@ -13704,16 +13707,16 @@ id,aspect,opinion,sentiment,category
 283,looks,never seen as good as this one,pos,quality-aesthetic
 283,car,so sculpted,pos,quality-aesthetic
 283,car,so beautifully built,pos,quality-aesthetic
-283,horsepower,not quite enough,neg,general-information
-283,weight,over two tons,neu,general-information
-283,car,fastlane,neu,general-information
+283,horsepower,not quite enough,neg,performance
+283,weight,over two tons,neu,performance
+283,car,fast lane,neu,performance
 283,-,-,-,unknown
 283,cruise control,stupid,neg,user-experience
 283,rear row seat,problem,neg,comfort
 283,size,"really , really , really , really small",neg,comfort
-283,minivan,stupid,neg,comfort
-283,driving cars,best,pos,comfort
-283,car,fast lane,pos,comfort
+283,minivan,stupid,neg,user-experience
+283,driving cars,best,pos,handling
+283,car,fast lane,pos,performance
 283,backseat room,1/3 seat,neu,comfort
 283,-,-,-,unknown
 283,-,-,-,unknown
@@ -13726,33 +13729,33 @@ id,aspect,opinion,sentiment,category
 284,road,spectacular,pos,general-information
 284,-,-,-,unknown
 284,-,-,-,unknown
-284,car,amazing,pos,handling
-284,car,big,pos,handling
-284,weight,veritable heavy,pos,handling
+284,car,amazing,pos,general-information
+284,car,big,pos,general-information
+284,weight,veritable heavy,neg,performance
 284,car,lively,pos,performance
 284,car,sporting,pos,performance
-284,e class,large family,pos,performance
+284,e class,large family,pos,general-information
 284,diesel engine,traditional,neu,performance
-284,drive,not a lot of fun,pos,general-information
+284,drive,not a lot of fun,neg,handling
 284,car,convertible,neu,general-information
-284,car,amazing,pos,cost
+284,car,amazing,pos,general-information
 284,price,expensive,pos,cost
 284,price,lot of money,pos,cost
 284,safety features,packed full,pos,safety
 284,traffic,self driving,neu,handling
 284,brakes,phenomenal,pos,handling
 284,steering,direct,pos,handling
-284,comfrot mode ride,well dampened,pos,handling
+284,comfort mode ride,well dampened,pos,handling
 284,feel,race car driver,pos,handling
 284,drive,flying,pos,handling
 284,drive,pretty quickly,pos,handling
-284,styling,lot of,pos,handling
+284,styling,lot of,pos,quality-aesthetic
 284,-,-,-,unknown
-284,car,luxury,pos,handling
+284,car,luxury,pos,quality-aesthetic
 284,car,can go really fast,pos,handling
-284,sound,no tire noise,pos,handling
-284,road,fantastic,pos,handling
-284,sound,some kind of squealing,neg,comfort
+284,sound,no tire noise,pos,performance
+284,road,fantastic,pos,general-information
+284,sound,some kind of squealing,neg,performance
 284,front,feel the weight of the engine,neu,performance
 284,corner,understeer,neu,handling
 284,corner,most part neutral,neu,handling
@@ -13772,41 +13775,41 @@ id,aspect,opinion,sentiment,category
 284,-,-,-,unknown
 285,Audi A7,brand new,pos,general-information
 285,Audi A7,identical to A6,neu,general-information
-285,drive train technology,identical to A6,neu,general-information
-285,A7,sexy one,pos,general-information
-285,A7 price,more expensive,neg,general-information
+285,drive train technology,identical to A6,neu,performance
+285,A7,sexy one,pos,quality-aesthetic
+285,A7 price,more expensive,neg,cost
 285,A7,little bit sporty,neu,general-information
-285,technology,tour de force,pos,general-information
+285,technology,tour de force,pos,performance
 285,A6 weight,lighter,pos,performance
 285,red cable hybrid engine,interesting,pos,performance
 285,mpg,a lot better,pos,performance
 285,fuel efficient,very,pos,performance
 285,skin,different,neu,quality-aesthetic
 285,tail,sexy,pos,exterior-features
-285,tail,sloping,pos,exterior-features
-285,back headroom,cut down,neg,exterior-features
-285,car,ultimate hatchback,pos,exterior-features
-285,A7 practicalty,little bit compromised,neg,comfort
-285,headrom,adequate,neu,comfort
+285,tail,sloping,pos,quality-aesthetic
+285,back headroom,cut down,neg,comfort
+285,car,ultimate hatchback,pos,general-information
+285,A7 practicality,little bit compromised,neg,comfort
+285,headroom,adequate,neu,comfort
 285,three passengers,go for A6,pos,comfort
 285,three passengers,not go for it,neu,comfort
 285,seats,fold,pos,comfort
 285,hatchback,love to see,pos,comfort
-285,back,little bit tighter,neg,quality-aesthetic
+285,back,little bit tighter,neg,comfort
 285,outside,lot better looking,pos,quality-aesthetic
 285,quattro ultra system,newest,pos,handling
 285,quattro ultra system,interesting,pos,handling
-285,fuel efficient,more,pos,handling
+285,fuel efficient,more,pos,performance
 285,quattro system,predictive,neu,handling
 285,drive,all wheel,neu,handling
 285,drive,front wheel,neu,handling
 285,snow,confidence of having all wheel drive,pos,handling
 285,snow,not sudden snap oversteer,pos,handling
-285,technology,new,pos,exterior-features
-285,steering,all wheel,neu,exterior-features
-285,rear wheel steering,great,pos,exterior-features
-285,parking,easier,pos,exterior-features
-285,rear wheel steering,great for parking,pos,exterior-features
+285,technology,new,pos,interior-features
+285,steering,all wheel,neu,handling
+285,rear wheel steering,great,pos,handling
+285,parking,easier,pos,handling
+285,rear wheel steering,great for parking,pos,handling
 285,screens,little bit of counting,neu,interior-features
 285,technology,more advanced,pos,interior-features
 285,technology,similar to cell phone operation,neu,interior-features
@@ -13818,7 +13821,7 @@ id,aspect,opinion,sentiment,category
 285,Google Earth,love,pos,user-experience
 285,car settings,100 ways to customize,pos,user-experience
 285,screens,can customize,pos,user-experience
-285,system,will probablty become very intuitive,pos,user-experience
+285,system,will probably become very intuitive,pos,user-experience
 285,wireless charging,best,pos,user-experience
 285,system,all good,pos,user-experience
 285,functions,lot of,neu,user-experience
@@ -13894,8 +13897,8 @@ id,aspect,opinion,sentiment,category
 285,back,not super happy for long periods,neg,comfort
 285,A6 back,pretty happy,pos,comfort
 285,room,lot more,pos,quality-aesthetic
-285,infotaintment system,like,pos,quality-aesthetic
-285,infotaintment system,smartphone based,neu,quality-aesthetic
+285,infotainment system,like,pos,quality-aesthetic
+285,infotainment system,smartphone based,neu,quality-aesthetic
 285,technology,lot of,pos,quality-aesthetic
 285,leather,beige,neu,quality-aesthetic
 285,screen,sea of black when off,neu,quality-aesthetic
@@ -13916,14 +13919,14 @@ id,aspect,opinion,sentiment,category
 285,technology,more,pos,general-information
 285,steering,all wheel,neu,general-information
 285,technology,ton of,pos,general-information
-285,technology,very simiar to cellphone,pos,general-information
+285,technology,very similar to cellphone,pos,general-information
 285,power,more,pos,general-information
 285,fuel economy,better,pos,general-information
 285,tech,too much,pos,general-information
 285,new technology,fascinating,pos,general-information
-285,change,incredible amoounts in automotive world,pos,general-information
+285,change,incredible amounts in automotive world,pos,general-information
 285,electricity fuel,good,pos,general-information
-286,sounds,good,pos,general-information
+286,sounds,good,pos,performance
 286,launch control process,same,neu,performance
 286,launch control,very simple,pos,performance
 286,0 to 60 time,fast,pos,performance
@@ -13932,17 +13935,17 @@ id,aspect,opinion,sentiment,category
 286,front wheels,lot of weight,neu,performance
 286,power,lot of,pos,performance
 286,attitude,lot of,pos,performance
-286,exhausts,big,neu,performance
-286,exhausts,oval,neu,performance
+286,exhausts,big,neu,exterior-features
+286,exhausts,oval,neu,exterior-features
 286,engine,little hot,neu,performance
 286,engine,so hot here,neu,performance
 286,weight,reduced,pos,performance
 286,torque,much more,pos,performance
-286,0 to 60 time,going and moiving so quickly,pos,performance
+286,0 to 60 time,going and moving so quickly,pos,performance
 286,0 to 60 time,fastest in its class,pos,performance
 286,0 to 60 time,faster,pos,performance
-286,dynamic mode,baffles open,neu,exterior-features
-286,lower side wall,little more firmness feelinng from road,pos,exterior-features
+286,dynamic mode,baffles open,neu,handling
+286,lower side wall,little more firmness feeling from road,pos,handling
 286,tires,hand cooked,pos,exterior-features
 286,tires,Audi specific hand cook,pos,exterior-features
 286,tires,specific,neu,exterior-features
@@ -13951,9 +13954,9 @@ id,aspect,opinion,sentiment,category
 286,grip,lot of,pos,handling
 286,grip,good for track,pos,handling
 286,grip,harsh for arizona,neg,handling
-286,tyres,low profile,neg,handling
-286,drive modes,sramatically change the character,pos,handling
-286,dynamic mode,least amount of suspension complianc,neu,handling
+286,tyres,low profile,neg,exterior-features
+286,drive modes,dramatically change the character,pos,handling
+286,dynamic mode,least amount of suspension compliance,neu,handling
 286,sound,like Formula One,neu,performance
 286,drive,little bit harsher on the road,neg,handling
 286,drive,not too bad,neg,handling
@@ -13970,8 +13973,8 @@ id,aspect,opinion,sentiment,category
 286,automatic performance,better,pos,performance
 286,manual,little bit limitation,neg,performance
 286,manual,love,pos,performance
-286,manual,minority of minority will buy,neg,performance
-286,manual,market not there anymore,neg,performance
+286,manual,minority of minority will buy,neg,general-information
+286,manual,market not there anymore,neg,general-information
 286,display,configurable,pos,interior-features
 286,display,really great job,pos,interior-features
 286,power,really cool,pos,interior-features
@@ -13989,10 +13992,10 @@ id,aspect,opinion,sentiment,category
 286,car,really GT,neu,general-information
 286,car,good,pos,general-information
 286,car,everyday,pos,general-information
-286,comfort,able to drive,pos,general-information
-286,weight,gain a little bit,pos,general-information
-286,equipment level,heavy,pos,general-information
-286,equipped,very well,pos,general-information
+286,comfort,able to drive,pos,comfort
+286,weight,gain a little bit,pos,performance
+286,equipment level,heavy,pos,interior-features
+286,equipped,very well,pos,interior-features
 286,trunk,nice slope,pos,exterior-features
 286,trunk,not very roomy,neg,exterior-features
 286,seats,folding,pos,exterior-features
@@ -14009,11 +14012,11 @@ id,aspect,opinion,sentiment,category
 286,miles per gallon,respectable,pos,performance
 286,map,little FBI,neg,user-experience
 286,map,can zoom in and out,pos,user-experience
-286,long distance,very comfortable cruiser,pos,handling
+286,long distance,very comfortable cruiser,pos,comfort
 286,brakes,surrounding,neu,handling
-286,speed,very quickly,pos,handling
-286,style,comfort,pos,handling
-286,Audi,very green,pos,handling
+286,speed,very quickly,pos,performance
+286,style,comfort,pos,comfort
+286,Audi,very green,pos,quality-aesthetic
 286,color,green,neu,quality-aesthetic
 286,color,like,pos,quality-aesthetic
 286,color,help highlight the vehicle,pos,quality-aesthetic
@@ -14023,31 +14026,31 @@ id,aspect,opinion,sentiment,category
 286,power,surge of,pos,performance
 286,power,favorite,pos,performance
 286,performance amount,little bit subtle,neu,performance
-286,looks,favorite feature,pos,performance
+286,looks,favorite feature,pos,quality-aesthetic
 286,body,wide,pos,quality-aesthetic
 286,back,looks fantastic,pos,quality-aesthetic
 286,back,little bit wider,pos,quality-aesthetic
 286,front,wider,neu,general-information
 286,rear,wider,neu,general-information
-286,track,increased,neu,general-information
-286,hubs,large,neu,general-information
-286,hubs,strengthened,neu,general-information
-286,wheels,offset,neu,general-information
+286,track,increased,neu,handling
+286,hubs,large,neu,exterior-features
+286,hubs,strengthened,neu,exterior-features
+286,wheels,offset,neu,exterior-features
 286,drive,all wheel,neu,handling
 286,dynamic mode,let you slide the back out a bit more,pos,handling
 286,control,all wheel drive,pos,handling
 286,dynamics,rear wheel drive benefit,pos,handling
 286,turn,fastest way around,pos,handling
-286,drive,all wheel,neu,general-information
-286,numbers,important,neu,cost
+286,drive,all wheel,neu,handling
+286,numbers,important,neu,general-information
 286,tire pressure monitor,pretty cool,pos,interior-features
-286,space,so spacey,pos,interior-features
+286,space,so spacey,pos,comfort
 286,colors,lot of different,pos,quality-aesthetic
 286,colors,calm,pos,quality-aesthetic
 286,colors,interesting,pos,quality-aesthetic
 286,green color,lot of pride,pos,quality-aesthetic
 286,RS6 color,lot of cult following,pos,quality-aesthetic
-286,RS5 color,sonoma Green,neu,quality-aesthetic
+286,RS5 color,Sonoma Green,neu,quality-aesthetic
 286,RS5 color,exclusive,pos,quality-aesthetic
 286,RS5 color,love,pos,quality-aesthetic
 286,RS5 color,gorgeous kind of,pos,quality-aesthetic
@@ -14060,27 +14063,27 @@ id,aspect,opinion,sentiment,category
 286,-,-,-,unknown
 287,-,-,-,unknown
 287,drive,all wheel,neu,performance
-287,suspension,active,pos,performance
-287,color,red,neu,performance
-287,car,what is not to love,pos,performance
+287,suspension,active,pos,handling
+287,color,red,neu,quality-aesthetic
+287,car,what is not to love,pos,general-information
 287,-,-,-,unknown
 287,-,-,-,unknown
 287,-,-,-,unknown
 287,-,-,-,unknown
 287,car,lot of fun,pos,handling
-287,booth,canyon carving,pos,handling
-287,job breaks,not a bad tool,neg,handling
+287,car,really fun in canyon carving,pos,handling
+287,brakes,not a bad tool for canyon carving,pos,handling
 287,engine,linear,neu,performance
 287,engine,lusty,pos,performance
 287,engine,more power,pos,performance
-287,engine,more power,pos,handling
+287,engine,more power,pos,performance
 287,drive,fast,pos,handling
 287,drive,lot of fun,pos,handling
 287,-,-,-,unknown
 287,engine,sexy,pos,performance
 287,power distribution,good,pos,performance
 287,engine,cool,pos,performance
-287,cover,plastic,neg,performance
+287,cover,plastic,neg,quality-aesthetic
 287,dual clutch,none,neg,handling
 287,clutch,manual,neu,handling
 287,clutch,okay,neu,handling
@@ -14090,21 +14093,21 @@ id,aspect,opinion,sentiment,category
 287,steering,electric,neu,handling
 287,steering,yet to find one that works as well as old,neg,handling
 287,steering,gets heavier,neg,handling
-287,get out,hard time,neg,handling
-287,interior,driver centric,pos,quality-aesthetic
+287,get out,hard time,neg,comfort
+287,interior,driver centric,pos,interior-features
 287,car,very sporty,pos,quality-aesthetic
 287,everything,leather,neu,quality-aesthetic
 287,car,full aluminium,neu,quality-aesthetic
 287,steering wheel,big,pos,interior-features
 287,steering wheel,fat,neu,interior-features
 287,steering wheel,flat bottom,neu,interior-features
-287,navigation,very modern,pos,quality-aesthetic
-287,navigation,very comfortable,pos,quality-aesthetic
-287,navigation,very tuckey,pos,quality-aesthetic
+287,navigation,very modern,pos,user-experience
+287,navigation,very comfortable,pos,user-experience
+287,navigation,very techy,pos,user-experience
 287,headroom,some,neu,comfort
 287,leg room,some,neu,comfort
 287,back,not comfortable,neg,comfort
-287,suspension,active,pos,performance
+287,suspension,active,pos,handling
 287,drive,all wheel,neu,performance
 287,car,very neutral,neu,performance
 287,power,most going to the  back,neu,performance
@@ -14114,23 +14117,23 @@ id,aspect,opinion,sentiment,category
 287,front end,more rugged,pos,quality-aesthetic
 287,front end,more masculine,pos,quality-aesthetic
 287,front end,more masculine,pos,quality-aesthetic
-287,weight,lot of,pos,quality-aesthetic
+287,weight,lot of,pos,performance
 287,S5,more emotionally,pos,quality-aesthetic
 287,cars,very similar,neu,general-information
-287,engine note,really hear,neg,exterior-features
+287,engine note,really hear,neg,performance
 287,speakers,realism,pos,performance
 287,exhaust,cool,pos,performance
 287,exhaust,real,pos,performance
 287,exhaust flaps,open,neu,performance
-287,motor noise,emphasized,neu,interior-features
-287,windshield,like a soundboard,neu,interior-features
-287,windshield  intensity,resonating,neu,interior-features
+287,motor noise,emphasized,neu,performance
+287,windshield,like a soundboard,neu,exterior-features
+287,windshield  intensity,resonating,neu,exterior-features
 287,engine noise,resonating,neu,interior-features
 287,sound,emphasized,neu,interior-features
 287,sound,can adjust,neu,interior-features
 287,-,-,-,unknown
-288,car,so fast,pos,general-information
-288,car,so fun,pos,general-information
+288,car,so fast,pos,performance
+288,car,so fun,pos,handling
 288,drive,all wheel,neu,performance
 288,power train,familiar,neu,performance
 288,headlights,new,pos,exterior-features
@@ -14139,10 +14142,10 @@ id,aspect,opinion,sentiment,category
 288,grill,meaner,pos,quality-aesthetic
 288,looks,like baby A4,neu,quality-aesthetic
 288,looks,like Mini Me A8,neu,quality-aesthetic
-288,size,small,neg,quality-aesthetic
+288,size,small,neu,general-information
 288,version,refreshed,pos,general-information
 288,A3 platform,very familiar,neu,general-information
-288,drive,such a hoot,pos,performance
+288,drive,such a hoot,pos,handling
 288,size,small,neu,general-information
 288,car,premium,pos,general-information
 288,car,really good choice,pos,general-information
@@ -14150,29 +14153,29 @@ id,aspect,opinion,sentiment,category
 288,-,-,-,unknown
 288,performance,near level of S4,neu,performance
 288,power,more than A3,pos,performance
-288,size,smaller,neu,performance
+288,size,smaller,neu,general-information
 288,interior,hard pressed,neu,quality-aesthetic
 288,interior,classy,pos,quality-aesthetic
 288,interior,more stylish,pos,quality-aesthetic
 288,interior,more sporty,pos,quality-aesthetic
 288,seat,sport,pos,quality-aesthetic
-288,seat,really hug you,pos,quality-aesthetic
+288,seat,really hug you,pos,comfort
 288,steering wheel,flat bottom,neu,quality-aesthetic
-288,front seating,love,pos,quality-aesthetic
-288,front seating,great place to spend time,pos,quality-aesthetic
+288,front seating,love,pos,comfort
+288,front seating,great place to spend time,pos,comfort
 288,backseat,no good,neg,comfort
 288,headroom,none,neg,comfort
 288,leg room,not much,neg,comfort
-288,size,tiny,neg,comfort
+288,size,tiny,neg,general-information
 288,backseat,penalty box,neg,comfort
 288,Virtual Cockpit,new,pos,interior-features
 288,Virtual Cockpit,very different,neu,interior-features
-288,Virual Cockpit,can customize,pos,user-experience
+288,Virtual Cockpit,can customize,pos,user-experience
 288,car settings,everything done at your fingertips,pos,user-experience
-288,numbers,important,neu,performance
-288,seats,sport,neu,cost
-288,paint,metallic white glacier,neu,cost
-288,wheels,big,pos,cost
+288,numbers,important,neu,user-experience
+288,seats,sport,neu,quality-aesthetic
+288,paint,metallic white glacier,neu,quality-aesthetic
+288,wheels,big,pos,quality-aesthetic
 288,0 to 60 time,not exactly hellcats,neg,performance
 288,drive,way too fast,pos,performance
 288,0 to 60 time,fees like five seconds,neu,performance
@@ -14185,11 +14188,11 @@ id,aspect,opinion,sentiment,category
 288,dynamic mode,little bit more fun to drive,pos,handling
 288,shock absorbers,magnetic,neu,handling
 288,ride,lot more stable at high speed,pos,handling
-288,car,nice,pos,handling
+288,car,nice,pos,user-experience
 288,turn in,flat,pos,handling
 288,stick shift,miss,neg,interior-features
 288,dual clutch,really phenomenal,pos,handling
-288,materials,upper quality,pos,handling
+288,materials,upper quality,pos,quality-aesthetic
 288,manual transmission,not there,neg,handling
 288,engine,amazing,pos,performance
 288,power,so much,pos,performance
@@ -14199,13 +14202,13 @@ id,aspect,opinion,sentiment,category
 288,turbo lag,hint of,pos,performance
 288,take off,like a scalded cat,pos,performance
 288,steering,electric,pos,handling
-288,steering,heavieras car speeds up,pos,handling
+288,steering,heavier as car speeds up,pos,handling
 288,steering,lighter as it slows down,pos,handling
 288,Audi S A3,good thing,pos,general-information
 288,size,small package,neu,general-information
 289,car,mid cycle refresh,neu,general-information
-289,front grill,new,pos,general-information
-289,engine output,new,pos,general-information
+289,front grill,new,pos,quality-aesthetic
+289,engine output,new,pos,performance
 289,engine,big news,pos,performance
 289,engine,revised,neu,performance
 289,look,more luxurious,pos,quality-aesthetic
@@ -14216,7 +14219,7 @@ id,aspect,opinion,sentiment,category
 289,mpg,great,pos,performance
 289,engine,surprisingly powerful,pos,performance
 289,tail lights,led,pos,exterior-features
-289,grill,most important difference,pos,exterior-features
+289,grill,most important difference,pos,quality-aesthetic
 289,look,cleaned up led,neu,quality-aesthetic
 289,look,little bit more modern,pos,quality-aesthetic
 289,look,more chrome,pos,quality-aesthetic
@@ -14232,10 +14235,10 @@ id,aspect,opinion,sentiment,category
 289,front,little bit wider splitter,pos,quality-aesthetic
 289,stance,more wider,pos,quality-aesthetic
 289,stance,more dynamic,pos,quality-aesthetic
-289,sound,much quieter cabin,pos,quality-aesthetic
+289,sound,much quieter cabin,pos,comfort
 289,wood,different color,pos,quality-aesthetic
 289,interior design,class leading,pos,quality-aesthetic
-289,interior design,good,pos,performance
+289,interior design,good,pos,quality-aesthetic
 289,engine,sense of top,pos,performance
 289,engine,like,pos,performance
 289,fuel economy,better,pos,performance
@@ -14254,25 +14257,25 @@ id,aspect,opinion,sentiment,category
 289,engine notes,not harsh,pos,performance
 289,engine notes,cool,pos,performance
 289,engine notes,respect,pos,performance
-289,engine notes,very possible,pos,handling
+289,engine notes,very possible,pos,performance
 289,car,compromised between harshness and possibility,neu,handling
-289,overall,tightened up package,neg,general-information
+289,overall,tightened up package,pos,general-information
 289,car,lot more compliant,pos,handling
 289,car,a lot compliant,pos,handling
 289,suspension,five degrees softer,pos,handling
 289,bumps,does a better job of soaking,pos,handling
 289,handling,not quite sharp,neg,handling
 289,brakes,not quite grabby,neg,handling
-289,car,designed to be luxurious,pos,handling
-289,door,four,neu,handling
-289,car,family sedan,pos,handling
+289,car,designed to be luxurious,pos,quality-aesthetic
+289,door,four,neu,general-information
+289,car,family sedan,pos,general-information
 289,car,can be very sporting,pos,handling
 289,drive,fun,pos,handling
-289,drive,comfortable,pos,handling
+289,drive,comfortable,pos,comfort
 289,smell,good,pos,quality-aesthetic
 289,car,luxurious,pos,quality-aesthetic
-289,type,sedan,neu,quality-aesthetic
-289,car,family,pos,quality-aesthetic
+289,type,sedan,neu,general-information
+289,car,family,pos,general-information
 290,-,-,-,unknown
 290,torque,amount greater,pos,performance
 290,torque,forces gassing horsepower,pos,performance
@@ -14388,36 +14391,36 @@ id,aspect,opinion,sentiment,category
 291,technology,bridge between latest technology and autonomous cars,pos,general-information
 291,technology,latest,pos,general-information
 291,version,long,neu,general-information
-291,cabin,gentle smells of spring,pos,general-information
-291,seat,massage feet,pos,general-information
-291,seat,massage back,pos,general-information
-291,drives,itself,pos,general-information
+291,cabin,gentle smells of spring,pos,quality-aesthetic
+291,seat,massage feet,pos,comfort
+291,seat,massage back,pos,comfort
+291,drives,itself,pos,handling
 291,torque,confident,pos,performance
 291,power,bad boy needs a lot,pos,performance
 291,exhaust tips,fake,neg,exterior-features
 291,0 to 60 time,felt pretty fast,pos,performance
 291,torque,rush towards start,pos,performance
-291,torque,dissipitated little bit towards the end,neg,performance
+291,torque,dissipated little bit towards the end,neg,performance
 291,-,-,-,unknown
 291,experience,very bespoke,pos,user-experience
 291,experience,unique,pos,user-experience
 291,experience,custom,pos,user-experience
-291,profiles,several different,pos,user-experience
+291,profiles,several different,pos,quality-aesthetic
 291,features,different,pos,user-experience
 291,features,customized,pos,user-experience
-291,doors,electric,neu,user-experience
-291,doors,newest feature,pos,user-experience
-291,door open,gently put hand on the door,pos,user-experience
-291,door close,gentle,pos,user-experience
-291,events,coolest,pos,user-experience
+291,doors,electric,neu,exterior-feature
+291,doors,newest feature,pos,exterior-feature
+291,door open,gently put hand on the door,pos,exterior-feature
+291,door close,gentle,pos,exterior-feature
+291,events,coolest,pos,quality-aesthetic
 291,events,open and close as you walk in,pos,user-experience
 291,sound,incredibly silent,pos,user-experience
-291,events,incredibly cool,pos,user-experience
-291,car,cool party,pos,user-experience
+291,events,incredibly cool,pos,quality-aesthetic
+291,car,cool party,pos,quality-aesthetic
 291,event,reclines into the dashboard,pos,user-experience
-291,wood,giant,neu,user-experience
-291,wood,very elegant,pos,user-experience
-291,wood,beautiful,pos,user-experience
+291,wood,giant,neu,quality-aesthetic
+291,wood,very elegant,pos,quality-aesthetic
+291,wood,beautiful,pos,quality-aesthetic
 291,Google Earth,favorite,pos,user-experience
 291,Google Earth,can zoom in,pos,user-experience
 291,Google Earth,can zoom out,pos,user-experience
@@ -14428,28 +14431,30 @@ id,aspect,opinion,sentiment,category
 291,settings,400 different,neu,user-experience
 291,rpm,very small,neg,user-experience
 291,rpm,can make bigger,pos,user-experience
-291,guages,large,pos,user-experience
+291,gauges,large,pos,user-experience
 291,car,can set up the way you like,pos,user-experience
-291,profiles,different,pos,user-experience
-291,profiles,memorize,pos,user-experience
-291,profiles,powerful way of customizing,pos,user-experience
-291,profiles,making car familiar to you,pos,user-experience
-291,smells,good,pos,user-experience
-291,fragrance,can set,pos,user-experience
-291,fragrance,really a preference,pos,user-experience
+291,profiles,different,pos,quality-aesthetic
+291,profiles,memorize,pos,quality-aesthetic
+291,profiles,powerful way of customizing,pos,quality-aesthetic
+291,profiles,making car familiar to you,pos,quality-aesthetic
+291,smells,good,pos,quality-aesthetic
+291,fragrance,can set,pos,quality-aesthetic
+291,fragrance,really a preference,pos,quality-aesthetic
 291,touch screen,take stress out of driving,pos,user-experience
 291,touch screen,takes cognitive load off,pos,user-experience
 291,touch screen,bit more intuitive,pos,user-experience
 291,buttons,gotten rid of,neu,user-experience
-291,car,brand new,pos,user-experience
+291,car,brand new,pos,general-information
 291,writing pad,natural handwriting recognition,pos,user-experience
 291,car interaction,big upgrade,pos,user-experience
 291,display,wonderful,pos,user-experience
-291,display,giant sweeping piano black,pos,user-experience
+291,display,giant,pos,quality-aesthetic
+291,display,sweeping,pos,quality-aesthetic
+291,display,piano black,pos,quality-aesthetic
 291,screen,privacy,neu,user-experience
 291,buttons,not hard wired,pos,user-experience
-291,display,lot of ways very elegant,pos,handling
-291,economy,basically level two,neu,handling
+291,display,lot of ways very elegant,pos,quality-aesthetic
+291,autonomous driving,basically level two,neu,handling
 291,autonomous driving,not much would keep this car from being fully autonomous,pos,handling
 291,drive,driving itself,pos,handling
 291,autonomous driving,depends on conditions,pos,handling
@@ -14469,47 +14474,47 @@ id,aspect,opinion,sentiment,category
 291,control,best of,pos,user-experience
 291,control,so much,pos,user-experience
 291,backseat functions,not been able to learn,neg,user-experience
-291,car,luxury,pos,user-experience
-291,type,sedan,neu,user-experience
-291,comfort package,greatest thing,pos,user-experience
-291,seats,individua; reroute,neu,user-experience
+291,car,luxury,pos,quality-aesthetic
+291,type,sedan,neu,general-information
+291,comfort package,greatest thing,pos,comfort
+291,seats,individual reroute,neu,user-experience
 291,seats,sport,neu,user-experience
 291,controls,lot of,pos,user-experience
-291,seats,can recline a bit,pos,user-experience
-291,seats,lumbar,pos,user-experience
+291,seats,can recline a bit,pos,comfort
+291,seats,lumbar,pos,comfort
 291,rear seat control,remote,pos,user-experience
 291,remote control,nice thing,pos,user-experience
-291,seats,can adjust,pos,user-experience
-291,seats,massage,pos,user-experience
-291,massage programs,different,pos,user-experience
-291,massage,60 to 80 % more,pos,user-experience
-291,luxury,higher level of,pos,user-experience
+291,seats,can adjust,pos,comfort
+291,seats,massage,pos,comfort
+291,massage programs,different,pos,comfort
+291,massage,60 to 80 % more,pos,comfort
+291,luxury,higher level of,pos,quality-aesthetic
 291,remote features,interesting,pos,user-experience
 291,reading lights,matrix,pos,user-experience
 291,reading lights,interesting,pos,user-experience
 291,reading lights,can set different size,pos,user-experience
 291,reading lights,can move around,pos,user-experience
 291,reading lights,nice idea,pos,user-experience
-291,front headlights,matrix beam,neu,user-experience
+291,front headlights,matrix beam,neu,exterior-features
 291,-,-,-,unknown
-291,seats,heated,pos,user-experience
-291,seats,cooled,pos,user-experience
-291,seats,got heating all four,pos,user-experience
-291,seats,massage all four,pos,user-experience
-291,seats,lumbar all four,pos,user-experience
-291,seats,ventilated,pos,user-experience
-291,seats,recline,pos,user-experience
+291,seats,heated,pos,comfort
+291,seats,cooled,pos,comfort
+291,seats,got heating all four,pos,comfort
+291,seats,massage all four,pos,comfort
+291,seats,lumbar all four,pos,comfort
+291,seats,ventilated,pos,comfort
+291,seats,recline,pos,comfort
 291,buttons,hardy hard,neg,user-experience
 291,front seats,can control from rear,pos,user-experience
 291,front seat control,cool,pos,user-experience
-291,seats,can move forward for more legroom,pos,user-experience
+291,seats,can move forward for more legroom,pos,comfort
 291,utility,ski pass,pos,user-experience
 291,utility,can put snowboard,pos,user-experience
 291,control,pretty cool,pos,user-experience
-291,interior design philosophy,sophisticated,pos,user-experience
-291,interior design philosophy,simplistic,pos,user-experience
+291,interior design philosophy,sophisticated,pos,quality-aesthetic
+291,interior design philosophy,simplistic,pos,quality-aesthetic
 291,controls,sliders instead of buttons,pos,user-experience
-291,technology,lot same as benteley,pos,cost
+291,technology,lot same as benteley,pos,general-information
 291,price,either a bargain or very expensive,neu,cost
 291,power,most powerful,pos,performance
 291,engine,bigger,pos,performance
@@ -14517,15 +14522,15 @@ id,aspect,opinion,sentiment,category
 291,power,not unlimited,neu,performance
 291,engine,not a sense of world warping around,neu,performance
 291,engine,fast,neu,performance
-291,engine,not take your breadth away fast,neu,performance
+291,engine,not take your breath away fast,neu,performance
 291,technology,so much needs to be powered,neu,performance
 291,grill,laser,neu,exterior-features
 291,grill,lets car sense its environment,pos,exterior-features
 291,sensors,suite of ultrasonic,pos,exterior-features
 291,-,-,-,unknown
-291,canyon,car will do it,pos,general-information
-291,canyon,not exactly designed,neg,general-information
-291,canyon,not happy not sad,neg,general-information
+291,canyon,car will do it,pos,handling
+291,canyon,not exactly designed,neg,handling
+291,canyon,not happy not sad,neg,handling
 291,steering,dynamic rear wheel,neu,handling
 291,car,more nimble,pos,handling
 291,steering,front and back wheels steer,pos,handling
@@ -14536,38 +14541,38 @@ id,aspect,opinion,sentiment,category
 291,turning radius,much tighter,pos,handling
 291,turning radius,a lot,pos,handling
 291,turning radius,exact same as Audi A4,neu,handling
-291,size,by definition very large,pos,handling
+291,size,by definition very large,pos,general-information
 291,version,short,neu,general-information
 291,car,German luxury,pos,general-information
 291,Audi,would choose,pos,general-information
 291,technology,silver bullet,pos,general-information
 291,drive,all wheel,neu,general-information
-291,car,kind of understated elegance,pos,general-information
-291,car,elegant and understated combination of sportiness and luxury,pos,general-information
-291,price,little too wealthy for old unit,neg,general-information
+291,car,kind of understated elegance,pos,quality-aesthetic
+291,car,elegant and understated combination of sportiness and luxury,pos,quality-aesthetic
+291,price,little too wealthy for old unit,neg,cost
 292,utility,of sedan,neu,general-information
-292,car,sexiness of coupe,pos,general-information
+292,car,sexiness of coupe,pos,quality-aesthetic
 292,utility,of hatchback,neu,general-information
-292,back,sport,pos,general-information
+292,back,sport,neu,general-information
 292,type,all three coupe sedan hatchback mashed into one,pos,general-information
 292,-,-,-,unknown
-292,utility,of  sedan,neu,general-information
+292,utility,of sedan,neu,general-information
 292,functionality,of hatchback,neu,general-information
-292,room,of hatchback,neu,general-information
+292,room,of hatchback,neu,comfort
 292,car,sport back,neu,general-information
 292,profile,special,pos,quality-aesthetic
-292,type,hatchback,neu,exterior-features
+292,type,hatchback,neu,general-information
 292,car,lot sexier than A4 and A5,pos,quality-aesthetic
 292,body,much sexier on top of it,pos,quality-aesthetic
-292,back,sport,neu,exterior-features
-292,front doors,relatively short,pos,exterior-features
+292,back,sport,neu,general-information
+292,front doors,relatively short,neg,exterior-features
 292,doors,relatively short,neg,comfort
 292,get in and out,little tricker,neg,comfort
-292,back,sport,neu,performance
+292,back,sport,neu,general-information
 292,drive,all four wheel,neu,performance
 292,-,-,-,unknown
-292,roof,lower,neu,comfort
-292,roof,sexier,pos,comfort
+292,roof,lower,neu,exterior-features
+292,roof,sexier,pos,quality-aesthetic
 292,get in,hard,neg,comfort
 292,get out,hard,neg,comfort
 292,get in,crane my neck a little to get back,neg,comfort
@@ -14575,17 +14580,17 @@ id,aspect,opinion,sentiment,category
 292,room,okay,neu,comfort
 292,headroom,not a place I want to take road trip,neg,comfort
 292,back,more comfortable than you think,pos,comfort
-292,roof,has roofline,neu,comfort
-292,mpg,rather remarkable,neu,performance
-292,navigation,fancy,pos,general-information
-292,wood,beautiful,pos,general-information
-292,stuff,expensive,pos,general-information
-292,vehicle,premium,pos,general-information
+292,roof,has roofline,neu,exterior-features
+292,mpg,rather remarkable,pos,performance
+292,navigation,fancy,pos,user-experience
+292,wood,beautiful,pos,quality-aesthetic
+292,stuff,expensive,neg,cost
+292,vehicle,premium,pos,quality-aesthetic
 292,utility,A4,pos,general-information
 292,functionality,A4,pos,general-information
-292,sexiness,A5 coop,pos,general-information
+292,sexiness,A5 coop,pos,quality-aesthetic
 292,car,completely different,pos,general-information
-292,car,beauty,pos,general-information
+292,car,beauty,pos,quality-aesthetic
 292,car,combining coupe with sedan,pos,general-information
 292,-,-,-,unknown
 292,design,very dynamic,pos,quality-aesthetic
@@ -14598,17 +14603,17 @@ id,aspect,opinion,sentiment,category
 292,car,fantastic,pos,general-information
 292,torque,immediate amount,pos,performance
 292,turbo lag,little,neg,performance
-292,transmission,dual clutch,neu,performance
+292,transmission,dual clutch,neu,handling
 292,launch,evenly off the line,pos,performance
 292,S5 sport back torque,so much,pos,performance
 292,S5 sport back launch,very hard to get it smooth,neg,performance
-292,drives,the way it handles,pos,performance
+292,drives,the way it handles,pos,handling
 292,A5 sport back,love,pos,handling
 292,A5 sport back,very similar to A4,neu,handling
 292,car,very confidence inspiring,pos,handling
 292,handling,very neutral,neu,handling
-292,Quattro system,all wheather capability,pos,handling
-292,Quattro system,all wheather confidence,pos,handling
+292,Quattro system,all weather capability,pos,handling
+292,Quattro system,all weather confidence,pos,handling
 292,drives,feel like rear wheel,neu,handling
 292,steering,missing a little bit of sporting,neg,handling
 292,sport mode steering,heavy,neu,handling
@@ -14616,29 +14621,29 @@ id,aspect,opinion,sentiment,category
 292,steering,not necessarily more communicative,neg,handling
 292,steering,electronic,neu,interior-features
 292,steering,falls down,neg,interior-features
-292,navigation,favorite feature,pos,interior-features
-292,navigation,configurable,pos,interior-features
-292,navigation,so tomorrow,pos,interior-features
-292,Audi,new,pos,interior-features
-292,navigation,well,pos,interior-features
+292,navigation,favorite feature,pos,user-experience
+292,navigation,configurable,pos,user-experience
+292,navigation,so tomorrow,pos,user-experience
+292,Audi,new,pos,general-information
+292,navigation,well,pos,user-experience
 292,generation,second,neu,general-information
 292,purchase,easy go for it,pos,general-information
 292,utility,love,pos,general-information
 292,utility,of hatchback,pos,general-information
-292,car,sexiness of coupe,pos,general-information
+292,car,sexiness of coupe,pos,quality-aesthetic
 292,boot capacity,all that room,pos,exterior-features
 292,boot capacity,can get kayak,pos,exterior-features
 292,boot capacity,can get bike,pos,exterior-features
 292,seats,folding,pos,exterior-features
 292,-,-,-,unknown
-293,engine,pretty,pos,general-information
+293,engine,pretty,pos,performance
 293,Audi,brand new,pos,general-information
 293,badge,little,neu,exterior-features
 293,badge,tiny,neu,exterior-features
 293,air intakes,lower,neu,exterior-features
 293,headlights,new,pos,exterior-features
-293,horsepower,kind of confusing,neg,exterior-features
-293,horsepower,not terrible really,neg,exterior-features
+293,horsepower,kind of confusing,neg,performance
+293,horsepower,not terrible really,neg,performance
 293,mirror,chrome,neu,exterior-features
 293,mirror,lovely,pos,exterior-features
 293,exhaust,premium looking,pos,exterior-features
@@ -14646,26 +14651,26 @@ id,aspect,opinion,sentiment,category
 293,exhaust,pretty sweet,pos,exterior-features
 293,exhaust,looks pretty bad ass,pos,exterior-features
 293,exhaust,poking,neu,exterior-features
-293,0 to 60,under five seconds,neg,performance
+293,0 to 60,under five seconds,pos,performance
 293,-,-,-,unknown
-293,back room,not too bad,neu,exterior-features
+293,back room,not too bad,neu,comfort
 293,body,very small,neg,exterior-features
 293,body,not really big,neg,exterior-features
-293,room,enough,neu,exterior-features
+293,room,enough,neu,comfort
 293,back,surprisingly deep,pos,exterior-features
 293,back,can move back little bit,pos,exterior-features
-293,looks,marvelous,pos,general-information
-293,steering wheel,flat bottom,neu,interior-features
+293,looks,marvelous,pos,quality-aesthetic
+293,steering wheel,flat bottom,neu,quality-aesthetic
 293,dual clutch,unavailable,neg,interior-features
 293,back comfort,not bad,neu,comfort
-293,comfort,not bad,neg,handling
+293,comfort,not bad,neu,comfort
 293,car,sports,pos,handling
 293,car,hard,neu,handling
 293,car,precise,pos,handling
 293,car,bumps,neu,handling
 293,car,jumps,neu,handling
-293,sound,rattles your teeth,neu,handling
-293,corner handlig,fast,pos,handling
+293,sound,rattles your teeth,neu,performance
+293,corner handling,fast,pos,handling
 293,corner handling,flat,pos,handling
 293,car,not bad,neu,handling
 293,-,-,-,unknown
@@ -14674,24 +14679,24 @@ id,aspect,opinion,sentiment,category
 293,car,convertible,pos,general-information
 293,car,enjoy wide open road,pos,general-information
 293,car,feel classic wind in your hair,pos,general-information
-293,driving experience,not missing out on anything,pos,general-information
+293,driving experience,not missing out on anything,pos,user-experience
 294,BMW,ultimate drive machine,pos,general-information
-294,offroad,can be good,pos,general-information
+294,offroad,can be good,pos,handling
 294,-,-,-,unknown
 294,-,-,-,unknown
 294,-,-,-,unknown
 294,-,-,-,unknown
-294,parking assist,little annoying,neg,interior-features
-294,offroading traction control,advanced,pos,performance
-294,offroading traction control,electronic,pos,performance
-294,offroadinfg,just fine,pos,performance
+294,parking assist,little annoying,neg,handling
+294,offroading traction control,advanced,pos,handling
+294,offroading traction control,electronic,pos,handling
+294,offroadinfg,just fine,pos,handling
 294,tire,all season,neu,exterior-features
 294,tire,very popular with German brands,pos,exterior-features
 294,tire,relatively good for offroad,pos,exterior-features
-294,offroader,light,neu,exterior-features
+294,offroader,light,neu,handling
 294,offroad,would have to upgrade these tires to an all terrain tire,neg,exterior-features
 294,-,-,-,unknown
-294,offroad,not vehicle designed for it,neu,quality-aesthetic
+294,offroad,not vehicle designed for it,neu,handling
 294,offroad,actually not bad,pos,handling
 294,air suspension,lucky,pos,handling
 294,height,can raise or lower the vehicle,pos,handling
@@ -14701,11 +14706,11 @@ id,aspect,opinion,sentiment,category
 294,camera,cool,pos,safety
 294,camera,full 360 degree,neu,safety
 294,camera,can see over the top of the hill,pos,safety
-294,BMW X5,new,pos,safety
-294,price,very expensive,neg,safety
+294,BMW X5,new,pos,general-information
+294,price,very expensive,neg,cost
 294,camera,relatively high definition,pos,safety
 294,camera,does a really good job,pos,safety
-294,offroad,one of the new wonders,pos,safety
+294,offroad,one of the new wonders,pos,general-information
 294,visibility,not ideal,neg,safety
 294,chassis,teeter totter,neu,exterior-features
 294,chassis,very rigid,pos,exterior-features
@@ -14714,7 +14719,7 @@ id,aspect,opinion,sentiment,category
 294,front grill,big,pos,quality-aesthetic
 294,front grill,XL,pos,quality-aesthetic
 294,grill,big,pos,quality-aesthetic
-294,front,double XL,pos,interior-features
+294,front,double XL,pos,exterior-features
 294,inside,pretty much classic,pos,interior-features
 294,digital dash,new,pos,interior-features
 294,display,very big,pos,interior-features
@@ -14722,12 +14727,12 @@ id,aspect,opinion,sentiment,category
 294,gear selector,never fallen in love,neg,interior-features
 294,controls,whole bunch of different,pos,interior-features
 294,headroom,plenty of,pos,comfort
-294,sunroof,massive,pos,comfort
-294,sunroof,stretches all the way back,pos,comfort
+294,sunroof,massive,pos,exterior-features
+294,sunroof,stretches all the way back,pos,exterior-features
 294,room,plenty of,pos,comfort
 294,back,see five people in relative comfort,pos,comfort
-294,room,generous look,pos,exterior-features
-294,back,lot of space,pos,exterior-features
+294,room,generous look,pos,comfort
+294,back,lot of space,pos,comfort
 294,backpacks,two big,neu,exterior-features
 294,split gate,love,pos,exterior-features
 294,split gate,really great for offroading,pos,exterior-features
@@ -14739,14 +14744,14 @@ id,aspect,opinion,sentiment,category
 294,split gate,really thoughtful,pos,exterior-features
 294,split gate,can lower,pos,exterior-features
 294,split gate,can raise for offroad,pos,exterior-features
-294,air suspension,probably not the suspension you want,neg,exterior-features
-294,water porting,not the vehicle to go across,neg,general-information
+294,air suspension,probably not the suspension you want,neg,handling
+294,water porting,not the vehicle to go across,neg,handling
 294,-,-,-,unknown
 294,offroad,not as good as Land Rover,neg,handling
 294,offroad,not as good as Range Rover,neg,handling
-294,car,heritage of onroad driving,pos,handling
+294,car,heritage of on road driving,pos,handling
 294,woods,not have any problems,pos,handling
-294,woods,hgets a little dusty and mudy,neu,handling
+294,woods,gets a little dusty and muddy,neu,handling
 294,mountains,just fine,pos,handling
 294,snow storm,just fine,pos,handling
 294,offroad,not the ultimate machine,neg,handling
@@ -14855,55 +14860,55 @@ id,aspect,opinion,sentiment,category
 295,-,-,-,unknown
 295,-,-,-,unknown
 296,car,latest BMW variant,pos,general-information
-296,car,sexier A3 series,pos,performance
-296,car,unique,pos,performance
+296,car,sexier A3 series,pos,quality-aesthetic
+296,car,unique,pos,quality-aesthetic
 296,0 to 60,a full second faster,pos,performance
 296,0 to 60,mile above sea level,neu,performance
 296,0 to 60,less power,neu,performance
 296,0 to 60,less air density,neu,performance
-296,height,lower,neu,quality-aesthetic
+296,height,lower,neu,general-information
 296,car,superior,pos,quality-aesthetic
 296,headroom,lot less in back,neg,comfort
 296,back,not want to spend lot of time,neg,comfort
 296,-,-,-,unknown
-296,windows,no frames,pos,quality-aesthetic
+296,windows,no frames,pos,exterior-features
 296,look,sexier coop,pos,quality-aesthetic
 296,-,-,-,unknown
 296,car,wide,neu,general-information
-296,footprint,bigger,pos,general-information
-296,handle,little bit better,pos,general-information
-296,weight distribution,little bit more to the rear,neu,general-information
-296,weight distribution,ideal 50 50,pos,general-information
-296,handle,little bit better on track,pos,general-information
+296,footprint,bigger,neu,general-information
+296,handle,little bit better,pos,handling
+296,weight distribution,little bit more to the rear,neu,handling
+296,weight distribution,ideal 50 50,pos,handling
+296,handle,little bit better on track,pos,handling
 296,tires,aggressive,pos,handling
 296,weight distribution,hopefully ideal 50 50,pos,handling
-296,turbo power,comes out right away,pos,handling
+296,turbo power,comes out right away,pos,performance
 296,steering,sharp,pos,handling
 296,steering,electric,neu,handling
-296,steering,simulating the field,pos,handling
+296,steering,simulating the feel,pos,handling
 296,steering,electric,neu,handling
 296,steering,tad disconnected,neg,handling
-296,steering,would want a little more field,neg,handling
+296,steering,would want a little more feel,neg,handling
 296,engine,all the rage,pos,performance
 296,torque,just incredible amount,pos,performance
 296,displacement,norm,neu,performance
 296,technology price,considerable chunk of change,neg,cost
-296,technology price,oh my,neu,cost
+296,technology price,oh my,neg,cost
 296,brakes,feel really strong,pos,handling
-296,suspension,really strong,pos,performance
+296,suspension,really strong,pos,handling
 296,power,all that,pos,performance
 296,torque,all that,pos,performance
 296,limit,right,pos,handling
-296,power,really great,pos,handling
+296,power,really great,pos,performance
 296,brakes,hit really hard,pos,handling
 296,car,different flavour of BMW,pos,general-information
-296,engine,gem of,pos,general-information
+296,engine,gem of,pos,performance
 297,-,-,-,unknown
 297,-,-,-,unknown
-297,infotaintment system,five different ways to interact,pos,interior-features
+297,infotainment system,five different ways to interact,pos,interior-features
 297,car,everything interchangeable,pos,interior-features
 297,technology,full of,pos,interior-features
-297,car,double down on luxury,pos,interior-features
+297,car,double down on luxury,pos,quality-aesthetic
 297,gesture control,interesting,pos,interior-features
 297,technology,crammed full of cutting edge technology,pos,user-experience
 297,torque,definition of a wave,pos,performance
@@ -14914,28 +14919,28 @@ id,aspect,opinion,sentiment,category
 297,torque,wave of,pos,performance
 297,torque,very impressive,pos,performance
 297,weight,heavy,neu,performance
-297,technology,tons of,pos,general-information
-297,weight,magically reduced,pos,general-information
-297,body,expensive metals,pos,general-information
+297,technology,tons of,pos,interior-features
+297,weight,magically reduced,pos,performance
+297,body,expensive metals,pos,quality-aesthetic
 297,drive modes,fewer than four,neg,handling
 297,sport mode,lean towards comfort and luxury,pos,handling
 297,comfort mode,Rolls Royce like super,pos,handling
 297,-,-,-,unknown
-297,car,ultimately comfort,pos,handling
-297,comfort ICO plus,all changes,pos,handling
-297,comfort mode,Rolls royce like,pos,handling
+297,car,ultimately comfort,pos,comfort
+297,comfort ICO plus,all changes,pos,comfort
+297,comfort mode,Rolls royce like,pos,comfort
 297,car,not go into ultimate driving machine,neg,handling
 297,s class,rather be in driver seat,pos,comfort
-297,s class driving experience,much more satisfying,pos,comfort
+297,s class driving experience,much more satisfying,pos,user-experience
 297,BMW backseat,would rather be in back seat,pos,comfort
 297,-,-,-,unknown
-297,control,iPad like,pos,comfort
+297,control,iPad like,pos,user-experience
 297,comfort,ultimate,pos,comfort
 297,leg room,ultimate,pos,comfort
 297,seat,massaging,pos,comfort
-297,car,all about business level,pos,interior-features
-297,car,higher luxury,pos,interior-features
-297,car,higher comfort,pos,interior-features
+297,car,all about business level,pos,quality-aesthetic
+297,car,higher luxury,pos,quality-aesthetic
+297,car,higher comfort,pos,comfort
 297,-,-,-,unknown
 297,-,-,-,unknown
 297,design,classic BMW,pos,quality-aesthetic
@@ -14944,15 +14949,15 @@ id,aspect,opinion,sentiment,category
 297,Mercedes-Benz  design,more holistic,pos,quality-aesthetic
 297,Mercedes-Benz  design,bit more striking,pos,quality-aesthetic
 297,Mercedes-Benz  design,little bit more road presence,pos,quality-aesthetic
-297,wheelbase,long,pos,quality-aesthetic
+297,wheelbase,long,pos,general-information
 297,car,better looking,pos,quality-aesthetic
 297,button,little,neu,interior-features
-297,button,looks like a perfume bottle,pos,interior-features
-297,smell,car just wasps fresh scented air,pos,interior-features
-297,smell,spring fresh,pos,interior-features
-297,smell,little extra lightness,pos,interior-features
+297,button,looks like a perfume bottle,pos,quality-aesthetic
+297,smell,car just was fresh scented air,pos,quality-aesthetic
+297,smell,spring fresh,pos,quality-aesthetic
+297,smell,little extra lightness,pos,quality-aesthetic
 297,buy,go for s class more,pos,cost
-297,s class front seat,like more than back,pos,cost
+297,s class front seat,like more than back,neg,comfort
 297,BMW technology,nothing wrong,pos,interior-features
 297,BMW technology,Harry Porter like Magic Wand,pos,interior-features
 297,BMW technology,piled on top of technology on top of technology,pos,interior-features
@@ -14962,44 +14967,44 @@ id,aspect,opinion,sentiment,category
 297,-,-,-,unknown
 297,-,-,-,unknown
 298,size,much larger,pos,general-information
-298,trunk,great,pos,general-information
+298,trunk,great,pos,exterior-features
 298,trunk,giant,pos,exterior-features
-298,car,works,pos,exterior-features
-298,car,hybrid between station wagon crossover sedan,pos,exterior-features
-298,room,unique,pos,exterior-features
-298,room,lot more room,pos,exterior-features
+298,car,works,pos,general-information
+298,car,hybrid between station wagon crossover sedan,pos,general-information
+298,room,unique,pos,comfort
+298,room,lot more room,pos,comfort
 298,back seat,more room than seven series,pos,comfort
 298,back,lot more room,pos,comfort
-298,open the bonnet,very unique,pos,interior-features
+298,open the bonnet,very unique,pos,exterior-features
 298,engine,quick,pos,performance
 298,engine,two variations,pos,performance
 298,engine,fast,pos,performance
 298,air intake,funky feature,neg,quality-aesthetic
-298,air intake GT-R,dysfunctional,neg,quality-aesthetic
+298,air intake GT-R,dysfunctional,neg,performance
 298,BMW air intake,like,pos,quality-aesthetic
 298,BMW air intake,looks cool,pos,quality-aesthetic
-298,car,wider,pos,quality-aesthetic
-298,car,longer,pos,quality-aesthetic
-298,height,taller,pos,quality-aesthetic
-298,functionality,lot of,pos,quality-aesthetic
-298,utility,lot of,pos,quality-aesthetic
-298,weight,heavier,pos,cost
-298,seating,sitting in essence behind the mountain crossover,pos,comfort
-298,headroom,lot more,pos,exterior-features
+298,car,wider,pos,general-information
+298,car,longer,pos,general-information
+298,height,taller,pos,general-information
+298,functionality,lot of,pos,interior-features
+298,utility,lot of,pos,interior-features
+298,weight,heavier,pos,performance
+298,seating,sitting in essence behind the mountain crossover,pos,performance
+298,headroom,lot more,pos,comfort
 298,sunroof,enormous,pos,exterior-features
 298,car,feels like puffed out standard three series,neu,general-information
-298,interior,not in love,neg,quality-aesthetic
-298,interior,feels like BMW,neu,quality-aesthetic
+298,interior,not in love,neg,interior-features
+298,interior,feels like BMW,neu,interior-features
 298,plastics,feel little bit cheap,neg,quality-aesthetic
 298,door handle,feel little bit cheap,neg,quality-aesthetic
-298,interior,very logical,pos,quality-aesthetic
-298,interior,very mechanical,pos,quality-aesthetic
-298,interior,very BMW,pos,quality-aesthetic
+298,interior,very logical,pos,interior-features
+298,interior,very mechanical,pos,interior-features
+298,interior,very BMW,pos,interior-features
 298,seats,20 different ways to adjust,pos,interior-features
 298,seats,30 70 split,neu,interior-features
 298,seats,50 50 split,neu,interior-features
 298,seats,fold down,pos,interior-features
-298,back,giant enormous room,pos,interior-features
+298,back,giant enormous room,pos,comfort
 298,car,bit schizophrenic,neu,quality-aesthetic
 298,spoiler button,coolest feature,pos,quality-aesthetic
 298,spoiler,little,neu,quality-aesthetic
@@ -15014,7 +15019,7 @@ id,aspect,opinion,sentiment,category
 298,shifts,like there is no tomorrow,pos,handling
 298,shifts,unusual,pos,handling
 298,functionality,this much,pos,handling
-298,comfort mode,comfortable,pos,handling
+298,comfort mode,comfortable,pos,comfort
 298,sport plus mode,everything tightens up,pos,handling
 298,sport plus mode,steering becomes sharper,pos,handling
 298,sport plus mode,car becomes more sporty,pos,handling
@@ -15038,9 +15043,9 @@ id,aspect,opinion,sentiment,category
 298,system,more functionality,neu,user-experience
 298,system,falls in between,neu,user-experience
 298,system,give a 5 on functionality slash user friendliness scale,neu,user-experience
-298,station wagon,all the functionality,pos,comfort
+298,station wagon,all the functionality,pos,interior-features
 298,station wagon,less room GT-R,neg,comfort
-298,room,of modern crossover,neu,interior-features
+298,room,of modern crossover,neu,comfort
 298,utility,of modern crossover,pos,interior-features
 298,functionality,of modern crossover,pos,interior-features
 298,wagon,little bit sharper,pos,handling
@@ -15050,10 +15055,10 @@ id,aspect,opinion,sentiment,category
 298,wagon,better,pos,handling
 298,drive,5000 miles without issues except gas,pos,general-information
 300,car,brand new,pos,general-information
-300,looks,sexy,pos,general-information
-300,looks,gorgeous,pos,general-information
+300,looks,sexy,pos,quality-aesthetic
+300,looks,gorgeous,pos,quality-aesthetic
 300,drive,all wheel,neu,general-information
-300,sound,something that bagman would have composed himself .,pos,performance
+300,sound,something that bagman would have composed himself,pos,performance
 300,engine,best of all,pos,performance
 300,engine,safe stuffed,pos,performance
 300,-,-,-,unknown
@@ -15068,7 +15073,7 @@ id,aspect,opinion,sentiment,category
 300,interior,very impressive,pos,quality-aesthetic
 300,sunroof,panoramic,pos,exterior-features
 300,-,-,-,unknown
-300,seating,low compared to door panels,neu,general-information
+300,seating,low compared to door panels,neu,interior-features
 300,car,ultimate G T cruiser,pos,general-information
 300,view,can see outward sculpture and shape,pos,quality-aesthetic
 300,hood,beautifully scalloped,pos,quality-aesthetic
@@ -15078,9 +15083,9 @@ id,aspect,opinion,sentiment,category
 300,weight,heavy,neu,performance
 300,size,big,neu,performance
 300,engine,big,pos,performance
-300,weight,over two ton,pos,general-information
-300,weight,heavier,pos,general-information
-300,car,grand touring,neu,comfort
+300,weight,over two ton,pos,performance
+300,weight,heavier,pos,performance
+300,car,grand touring,neu,general-information
 300,comfort,not really meant for four adults,neg,comfort
 300,seat,something quite cool,pos,comfort
 300,room,big enough,pos,comfort
@@ -15089,31 +15094,31 @@ id,aspect,opinion,sentiment,category
 300,seat,takes a long time to get back,pos,comfort
 300,ride,easily controlled,pos,handling
 300,handling,easily controlled,pos,handling
-300,comfort,like exhales,pos,handling
+300,comfort,like exhales,pos,comfort
 300,sport,everything tightens up like ready to pop,pos,handling
 300,ride,one of the best easily,pos,handling
 300,drive,all wheel,neu,general-information
 300,competition,only a handful,neu,general-information
-300,transmission,offers manual,neu,general-information
+300,transmission,offers manual,neu,handling
 300,weight,heavy,neu,performance
 300,0 to 60 time,just a tick over 5 seconds,neu,performance
 300,0 to 60 time,Wow,pos,performance
 300,fuel economy,thirsty thirsty car,neg,performance
 300,price,lot of money,neg,cost
-300,engine note,lot of,neg,cost
+300,engine note,lot of,neg,performance
 300,competition,so few,neu,cost
-300,engine note,could do a lot worse,neg,cost
+300,engine note,could do a lot worse,neg,performance
 300,-,-,-,unknown
-300,hood latches,awesome,pos,interior-features
-300,safety,stickers to prevent you from being impaled,neu,interior-features
+300,hood latches,awesome,pos,exterior-features
+300,safety,stickers to prevent you from being impaled,neu,safety
 300,car,German,neu,interior-features
 300,-,-,-,unknown
 301,price,least expensive,pos,cost
 301,transmission,unique,pos,performance
 301,drive,all four wheels,neu,performance
-301,interior,love,pos,comfort
+301,interior,love,pos,interior-features
 301,seat,perfect for big fat guy,pos,comfort
-301,seat,little smaller,neu,comfort
+301,seat,little smaller,neg,comfort
 301,interior,well laid out,pos,quality-aesthetic
 301,materials,high quality,pos,quality-aesthetic
 301,transmission,not exactly weird flappy,neg,interior-features
@@ -15134,36 +15139,36 @@ id,aspect,opinion,sentiment,category
 301,leg room,put my toes under front seat helpful,pos,comfort
 301,backseats,usable for pair of kids,pos,comfort
 301,backseats,make sure friends are really short,neg,comfort
-301,back room,enough for me to curl up,pos,exterior-features
-301,back room,enough for a stroller,pos,exterior-features
-301,car,interesting for family  kid,pos,exterior-features
-301,car,interesting for young demographic,pos,exterior-features
+301,back room,enough for me to curl up,pos,comfort
+301,back room,enough for a stroller,pos,comfort
+301,car,interesting for family  kid,pos,general-information
+301,car,interesting for young demographic,pos,general-information
 301,inside,looks great,pos,quality-aesthetic
 301,interior,red,pos,quality-aesthetic
 301,interior,looks good,pos,quality-aesthetic
 301,back,fantastic,pos,quality-aesthetic
-301,carpeting,little thing seems out of place,neg,exterior-features
-301,car,premium small,neu,cost
-301,size,mini,neu,cost
-301,size,small,neu,cost
+301,carpeting,little thing seems out of place,neg,quality-aesthetic
+301,car,premium small,neu,general-information
+301,size,mini,neu,general-information
+301,size,small,neu,general-information
 301,price,little pricey,neg,cost
-301,package,packed with BMW stuff,pos,performance
+301,package,packed with BMW stuff,pos,general-information
 301,engine,big,pos,performance
 301,engine,fat,pos,performance
 301,drive,all wheel,neu,performance
-301,price,premium,pos,performance
+301,price,premium,pos,cost
 301,height,not very tall,neu,general-information
 301,size,X1 size package,neu,general-information
 301,-,-,-,unknown
-301,size,baby baby,neu,quality-aesthetic
+301,size,baby baby,neu,general-information
 301,-,-,-,unknown
 301,back,slant,neu,quality-aesthetic
-301,space,not a lot of,neg,quality-aesthetic
-301,space,little bit,neg,quality-aesthetic
+301,space,not a lot of,neg,comfort
+301,space,little bit,neg,comfort
 301,car,good ski,pos,quality-aesthetic
 301,wheels,look anemic,neg,quality-aesthetic
 301,wheels,look little small,neg,quality-aesthetic
-301,ground clearence,lot small,pos,quality-aesthetic
+301,ground clearance,lot small,pos,handling
 301,dirt road,yes,pos,handling
 301,offroad,not so much,neg,handling
 301,snow,yes,pos,handling
@@ -15176,31 +15181,31 @@ id,aspect,opinion,sentiment,category
 301,car,capable of high sixes,pos,performance
 301,engine,big,pos,performance
 301,engine,fat,pos,performance
-301,size,little,neu,performance
+301,size,little,neu,general-information
 301,car,lots of fun,pos,handling
 301,standard engine power,fine,neu,performance
-301,size,tiny,neu,performance
+301,size,tiny,neu,general-information
 301,300D power,very very cool,pos,performance
 301,torque,very very cool,pos,performance
-301,power,overgrowth of,pos,handling
+301,power,overgrowth of,pos,performance
 301,corners,typical BMW,neu,handling
 301,steering,feel decent,neu,handling
 301,steering,goes exactly where pointed like a scalpel,pos,handling
 301,car,fun,pos,handling
 301,drive,very fun,pos,handling
-301,power,crazy powerful,pos,cost
-301,car,small,neu,cost
+301,power,crazy powerful,pos,performance
+301,car,small,neu,general-information
 301,purchase,buy,pos,cost
-301,Volvo XC60 offroad,better,pos,cost
-301,Volvo XC60 room,more,pos,cost
+301,Volvo XC60 offroad,better,pos,handling
+301,Volvo XC60 room,more,pos,comfort
 301,Volvo XC60 drive,not as fun,neg,handling
 301,Volvo XC60 power,certainly much more practical,pos,handling
-301,car,funny as hell,pos,general-information
-301,car,powerful,pos,general-information
-301,tyres,big fat Harry,pos,general-information
+301,car,funny as hell,pos,handling
+301,car,powerful,pos,performance
+301,tyres,big fat Harry,pos,exterior-features
 302,X5,brand new,pos,general-information
-302,power,more,pos,general-information
-302,package,performance and sport,neu,general-information
+302,power,more,pos,performance
+302,package,performance and sport,neu,performance
 302,X5,no ordinary,pos,general-information
 302,wheels,massive,neu,exterior-features
 302,tires,massive,neu,exterior-features
@@ -15211,7 +15216,7 @@ id,aspect,opinion,sentiment,category
 302,looks,fast,pos,quality-aesthetic
 302,looks,powerful,pos,quality-aesthetic
 302,looks,elegant,pos,quality-aesthetic
-302,car,works as family,pos,quality-aesthetic
+302,car,works as family,pos,general-information
 302,third row seat,biggest change,neu,interior-features
 302,third row seat,in the way back,neu,interior-features
 302,getting in the back,very slow,neg,comfort
@@ -15222,7 +15227,7 @@ id,aspect,opinion,sentiment,category
 302,tailgate,little,neu,exterior-features
 302,tailgate,love,pos,exterior-features
 302,getting stuff in and out,very simple,pos,exterior-features
-302,suspension,sports tuned,neu,general-information
+302,suspension,sports tuned,neu,handling
 302,competition,still competes with five passenger cars,neu,general-information
 302,BMW,really rough,neu,handling
 302,rough road,car will knock your fillings out,neg,handling
@@ -15234,19 +15239,19 @@ id,aspect,opinion,sentiment,category
 302,vehicle,sport activity,pos,handling
 302,drive,no car like a BMW,pos,handling
 302,competition,very few,neu,general-information
-302,car,twitst ease,pos,handling
+302,car,twist ease,pos,handling
 302,car,absolute booth places,pos,handling
-302,drive,amazed,pos,cost
+302,drive,amazed,pos,handling
 302,-,-,-,unknown
 302,wheels,same as M,neu,exterior-features
-302,suspension,same as M,neu,exterior-features
+302,suspension,same as M,neu,handling
 302,-,-,-,unknown
 302,air density,less,pos,performance
 302,engine,less air,neg,performance
 302,car,air slower,neg,performance
 302,rpm,wow,pos,performance
 302,engine,spooling up,pos,performance
-302,weight,lot of,neg,general-information
+302,weight,lot of,neg,performance
 302,-,-,-,unknown
 302,torque,just adequate,neu,performance
 302,size,big,neu,performance
@@ -15257,33 +15262,33 @@ id,aspect,opinion,sentiment,category
 302,-,-,-,unknown
 302,diesel version,plenty of torque,pos,performance
 302,diesel version,really good gas mileage,pos,performance
-302,driving experience,same,pos,performance
-302,real world testing,expensive,pos,performance
-302,inside,really like,pos,quality-aesthetic
+302,driving experience,same,pos,user-experience
+302,real world testing,expensive,pos,cost
+302,inside,really like,pos,interior-features
 302,materials,soft,pos,quality-aesthetic
 302,materials,real,pos,quality-aesthetic
 302,steering,fat,pos,quality-aesthetic
-302,steering,heated,pos,quality-aesthetic
+302,steering,heated,pos,interior-features
 302,interior,everything you touch and feel is expensive,pos,quality-aesthetic
-302,interior,everything oriented towards driver,pos,user-experience
+302,interior,everything oriented towards driver,pos,interior-features
 302,I drive,second best system,pos,user-experience
 302,sport and performance package,lease,neu,general-information
-302,sport and performance package,looks like M,neu,general-information
+302,sport and performance package,looks like M,neu,quality-aesthetic
 302,car,bit of a poser,neu,quality-aesthetic
 302,body,cladding,neu,quality-aesthetic
 302,X5,like,pos,general-information
-302,purchase,gonna buy,pos,general-information
+302,purchase,gonna buy,pos,user-experience
 302,snow,summer tyres get stuck,neg,handling
 302,snow,get proper tyring,pos,handling
-303,BMW,huge fan,pos,general-information
-303,BMW,love,pos,general-information
-303,drive,bir treat,pos,general-information
+303,BMW,huge fan,pos,user-experience
+303,BMW,love,pos,user-experience
+303,drive,bit treat,pos,user-experience
 303,car,plenty good,pos,general-information
 303,looks,no longer ugly duckling of BMW family,neg,quality-aesthetic
 303,design,more modern,pos,quality-aesthetic
 303,design,elegant,pos,quality-aesthetic
-303,car,wider,neu,quality-aesthetic
-303,height,lowered,pos,quality-aesthetic
+303,car,wider,neu,general-information
+303,height,lowered,pos,general-information
 303,car,stretched,pos,quality-aesthetic
 303,car,serious road presence,pos,quality-aesthetic
 303,BMW,shaken not stirred,neu,quality-aesthetic
@@ -15291,7 +15296,7 @@ id,aspect,opinion,sentiment,category
 303,package,optional sport,neu,cost
 303,lights,led,neu,interior-features
 303,lights,fog,neu,interior-features
-303,goodies,expensive,pos,interior-features
+303,goodies,expensive,pos,cost
 303,drive settings,actually works,pos,handling
 303,ride,up to you,pos,handling
 303,handling,up to you,pos,handling
@@ -15300,7 +15305,7 @@ id,aspect,opinion,sentiment,category
 303,steering,electronic,neu,handling
 303,steering,somewhat dislocated,neg,handling
 303,steering,so low to the ground,neg,handling
-303,tyres,performance,pos,exterior-features
+303,tyres,performance,pos,handling
 303,seating,biggest downside,neg,comfort
 303,front two seats,great,pos,comfort
 303,front two seats,can get two full size grown adults,pos,comfort
@@ -15309,15 +15314,15 @@ id,aspect,opinion,sentiment,category
 303,backseats,a challenge,neg,comfort
 303,crossover,comfort with four people,pos,comfort
 303,sedan,comfort with four people,pos,comfort
-303,price,most price elastic,neu,general-information
+303,price,most price elastic,neu,cost
 303,-,-,-,unknown
 303,fuel economy,not bad,neg,performance
-303,power,boatload of,pos,cost
-303,performance,boatload of,pos,cost
-303,luxury,boatload of,pos,cost
-303,performance,close to supercar,pos,general-information
+303,power,boatload of,pos,performance
+303,performance,boatload of,pos,performance
+303,luxury,boatload of,pos,quality-aesthetic
+303,performance,close to supercar,pos,performance
 303,car,everyday,pos,general-information
-303,price,big bucks,neg,general-information
-303,value,worth the big bucks,pos,general-information
-303,room,want a little bit more,neg,general-information
-303,power,intoxicating,pos,general-information
+303,price,big bucks,neg,cost
+303,value,worth the big bucks,pos,cost
+303,room,want a little bit more,neg,comfort
+303,power,intoxicating,pos,performance
