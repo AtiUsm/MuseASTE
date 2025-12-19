@@ -46,7 +46,7 @@ def app():
     )
 
     try:
-        st.image("car_images/"+str(int(car_id)+1)+'.jpg', use_container_width=True)
+        st.image(str(int(car_id)+1)+'.jpg', use_container_width=True)
     except:
         if car_id==302:
             st.image('car_images/303.jpg', use_container_width=True)
@@ -938,4 +938,5 @@ def app():
         )
     
         
+
 #app()        
