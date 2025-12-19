@@ -1,0 +1,18 @@
+# packages in environment at C:\Users\Atiya\Downloads\anaconda3:
+#pip install
+streamlit==1.40.0
+streamlit-camera-input-live==0.2.0
+streamlit-card==1.0.2
+streamlit-echarts==0.4.0
+st-annotated-text==4.0.1
+streamlit-embedcode==0.1.2
+streamlit-extras==0.5.0
+streamlit-faker==0.0.3
+streamlit-image-coordinates==0.1.9
+streamlit-keyup==0.2.4
+streamlit-toggle-switch==1.0.2
+streamlit-vertical-slider==2.5.5
+matplotlib
+networkx 
+pandas
+scipy
