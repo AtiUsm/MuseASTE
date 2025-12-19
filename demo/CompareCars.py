@@ -146,7 +146,7 @@ def app():
 
     with col1_placeholder:
         try:
-            st.image(f'car_images/24.jpg')
+            st.image(f'24.jpg')
         except:
             st.image('car1.jpeg')    
     with col2:
@@ -163,7 +163,7 @@ def app():
         # --- later in the code, assign the images ---
     with col2_placeholder:
         try:
-            st.image(f'car_images/19.jpg')
+            st.image(f'19.jpg')
         except:
             st.image('car1.jpeg')
     
@@ -665,4 +665,5 @@ def app():
                             f"{html_annotations}</div>",
                             unsafe_allow_html=True
                         )    
+
 #app()
