@@ -48,12 +48,12 @@
 46,cargo volume,boot/cargo
 47,second row,passenger space
 48,knee room,Passenger Space
-49,competition pack,climate / temperature control
+49,competition pack,packages / trims / variants
 50,soft pillow,seats
 51,a6 weight,weight
-52,few pieces of plastic,exterior materials & finish
+52,few pieces of plastic,interior materials & finish
 53,process,Technology
-54,extra bracing,climate / temperature control
+54,extra bracing,chassis / structural
 55,v10 twin turbo charge,engine/ power train
 56,reversing assistant,driver assistance
 57,seven speed automatic transmission,transmission
@@ -61,9 +61,9 @@
 59,road imperfections,road terrain
 60,taste,Emotional & Sensory Experience
 61,hybrid engine,engine / power train
-62,automatic acceleration,climate / temperature control
+62,automatic acceleration,acceleration
 63,roof rains,roof
-64,carbon ceramics,model / generic car terms
+64,carbon ceramics,brake
 65,reductive sport end suspension,suspension
 66,potential performance,performance
 67,driver distraction,drive
@@ -72,7 +72,7 @@
 70,aspects,Generic References & Miscellaneous
 71,character lines,body class
 72,bolsters,seats
-73,fold down receipts,Comfort & Ergonomics
+73,fold down receipts,Functional Features
 74,buy,value / cost
 75,head,Front Section
 76,adults in back,Passenger Space
@@ -80,18 +80,18 @@
 78,magic body control,body class
 79,air suspension,suspension
 80,exhaust volume,exhaust
-81,fitting a child seat,model / generic car terms
-82,a5 seats,model / generic car terms
+81,fitting a child seat,Seats
+82,a5 seats,Seats
 83,top down display,roof
 84,bmw three series new,model / generic car terms
 85,tank,fuel / energy / charging
 86,boxes,boot/cargo
 87,noise flow,audio
 88,m3,model / generic car terms
-89,entry level,doors
+89,entry level,packages / trims / variants
 90,storage drawer,storage & utility
 91,sporty suspension,suspension
-92,seat belts,seats
+92,seat belts,safety
 93,metallic flack,exterior materials & finish
 94,technology price,Value / Cost
 95,rev counter,engine/ power train
