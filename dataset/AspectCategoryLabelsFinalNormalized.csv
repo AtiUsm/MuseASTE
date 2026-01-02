@@ -1,0 +1,2888 @@
+,aspect,base_category
+0,miles,distance / efficiency / mileage
+1,mechanical upgrades,engine / power train
+2,circular dial,physical controls
+3,a5 cooper,model / generic car terms
+4,rs5 quality,quality & durability
+5,e 43 a m g,model / generic car terms
+6,land rover discovery sport,model / generic car terms
+7,rubber,exterior materials & finish
+8,models,model / generic car terms
+9,transmission,transmission
+10,years,model / generic car terms
+11,space,passenger space
+12,blowers,climate / temperature control
+13,entertainment screen,displays / instrumentation
+14,dynamic exhaust,exhaust
+15,corner in wet weather,road terrain
+16,bumper sticks,rear section
+17,delivering,performance
+18,air blower,aerodynamics / airflow
+19,load lips,boot / cargo
+20,suspension tuning,suspension
+21,quilting,interior materials & trim / finish
+22,locks,keys & lock
+23,sound,audio
+24,sharp bumps,road terrain
+25,m5 competition,model / generic car terms
+26,m 8 50 i the 4.4 litre twin turbo v8,engine / power train
+27,sd card slot,connectivity / integration
+28,no control for rear window,physical controls
+29,charge,fuel / energy / charging
+30,consumption,distance / efficiency / mileage
+31,apple carplay,connectivity / integration
+32,modern startup technology,technology
+33,wood trim effect,design
+34,mud,road terrain
+35,back seat control,seats
+36,arm,seats
+37,rear passenger space,passenger space
+38,comfort suspension corner handling,driving dynamics / handling
+39,inside enhancements,interior
+40,apple carplay,connectivity / integration
+41,cargo room,boot / cargo
+42,rotate,driving dynamics / handling
+43,tires,wheels & tyres
+44,drive train technology,technology
+45,virtual cockpit,displays / instrumentation
+46,cargo volume,boot / cargo
+47,second row,passenger space
+48,knee room,passenger space
+49,competition pack,packages / trims / variants
+50,soft pillow,seats
+51,a6 weight,weight
+52,few pieces of plastic,interior materials & trim / finish
+53,process,technology
+54,extra bracing,chassis / structural
+55,v10 twin turbo charge,engine / power train
+56,reversing assistant,driver assistance
+57,seven speed automatic transmission,transmission
+58,load,boot / cargo
+59,road imperfections,road terrain
+60,taste,emotional & sensory experience
+61,hybrid engine,engine / power train
+62,automatic acceleration,acceleration
+63,roof rains,roof
+64,carbon ceramics,brake
+65,reductive sport end suspension,suspension
+66,potential performance,performance
+67,driver distraction,drive
+68,lighting animations,lighting / indicators
+69,contouring,seats
+70,aspects,generic description & miscellaneous
+71,character lines,body class
+72,bolsters,seats
+73,fold down rear seats,seats
+74,buy,value / cost
+75,head,front section
+76,adults in back,passenger space
+77,red cable hybrid engine,engine / power train
+78,magic body control,body class
+79,air suspension,suspension
+80,exhaust volume,exhaust
+81,fitting a child seat,seats
+82,a5 seats,seats
+83,top down display,roof
+84,bmw three series new,model / generic car terms
+85,tank,fuel / energy / charging
+86,boxes,boot / cargo
+87,noise flow,audio
+88,m3,model / generic car terms
+89,entry level,packages / trims / variants
+90,storage drawer,storage & utility
+91,sporty suspension,suspension
+92,seat belts,safety
+93,metallic flack,exterior materials & finish
+94,technology price,value / cost
+95,rev counter,engine / power train
+96,qa8,model / generic car terms
+97,car,generic description & miscellaneous
+98,storage underneath,storage & utility
+99,content,technology
+100,performance figures,performance
+101,cabriole price entry point,body type
+102,looks,design
+103,bmw 3 40 i  engine,engine / power train
+104,s4,model / generic car terms
+105,rear following front,driving dynamics / handling
+106,behaving,driving dynamics / handling
+107,aero bits price,aerodynamics / airflow
+108,prices,road terrain
+109,structural rigidity,chassis / structural
+110,sophistication,emotional & sensory experience
+111,boot underfloor area,boot / cargo
+112,front face,front section
+113,shift operation,transmission
+114,materials,interior materials & trim / finish
+115,storage bits,storage & utility
+116,beam span,lighting / indicators
+117,car feels,emotional & sensory experience
+118,electric motor,engine / power train
+119,rear headroom,passenger space
+120,air bags,safety
+121,panoramic glass freeze,roof
+122,off switch,physical controls
+123,head room,passenger space
+124,exhaust,exhaust
+125,frame,build quality / construction
+126,launch control process,acceleration
+127,wind whistles,audio
+128,air breather,aerodynamics / airflow
+129,carrying stuff,boot / cargo
+130,sand dunes,road terrain
+131,surround cameras,cameras
+132,display unit,displays / instrumentation
+133,new battery pack,model / generic car terms
+134,rear seatbacks,seats
+135,navigation system,navigation / mapping
+136,c e400,model / generic car terms
+137,bmw i three,model / generic car terms
+138,blind spot,safety
+139,ferry three,passenger space
+140,surround view parking,visibility & view
+141,everything,functionality & features
+142,support adjustments,comfort & ergonomics
+143,right on the road,road terrain
+144,long distances,design
+145,tyres,wheels & tyres
+146,over six foot people,passenger space
+147,ability,performance
+148,volvo xc60 room,passenger space
+149,woods,road terrain
+150,a7 practicality,comfort & ergonomics
+151,backpacks,storage & utility
+152,upholstery,interior materials & trim / finish
+153,x6,model / generic car terms
+154,driving position,drive
+155,back headroom,passenger space
+156,grill,grill
+157,towbar,storage & utility
+158,value for money,value / cost
+159,horns,audio
+160,orange peel,exterior materials & finish
+161,elements,design
+162,whole package,packages / trims / variants
+163,2.1 litre turbo diesel four cylinder,engine / power train
+164,satellite system,navigation / mapping
+165,out,body class
+166,exterior,exterior materials & finish
+167,carrying five once,passenger space
+168,normal driving speed,drive
+169,few things,generic description & miscellaneous
+170,six speed manual,transmission
+171,0 to 60 spread,acceleration
+172,glove boxes,boot / cargo
+173,does everything,functionality & features
+174,load cover,boot / cargo
+175,driving,drive
+176,rear window shades,aerodynamics / airflow
+177,edges,body class
+178,highway efficiency,road terrain
+179,outside dimensions,body class
+180,storage space,passenger space
+181,striping,design
+182,back get in,doors
+183,badges,design
+184,audi r8,model / generic car terms
+185,a4 driving position,model / generic car terms
+186,1.5 l engine,engine / power train
+187,back seats down,seats
+188,vocal,voice & commands
+189,gt -r,model / generic car terms
+190,estate cars,body type
+191,gauge setup,displays / instrumentation
+192,coasting,driving dynamics / handling
+193,amg a4 g5,model / generic car terms
+194,start,engine / power train
+195,boot height,boot / cargo
+196,signature on every windscreen,windscreen / wipers
+197,latest version,packages / trims / variants
+198,power band,engine / power train
+199,downhill,road terrain
+200,haunches,body class
+201,rear window,aerodynamics / airflow
+202,sensations,emotional & sensory experience
+203,smaller people,passenger space
+204,turbulence,aerodynamics / airflow
+205,comfort level,comfort & ergonomics
+206,learn to drive,drive
+207,external panel,exterior materials & finish
+208,four people,passenger space
+209,mirrors,mirrors
+210,stop,brake
+211,protection,safety
+212,vent,aerodynamics / airflow
+213,sailing mode,driving dynamics / handling
+214,current design,design
+215,interface operation,software / interaction
+216,money,value / cost
+217,first generation drive,model / generic car terms
+218,storage jets,storage & utility
+219,electric car,fuel / energy / charging
+220,backrest,seats
+221,s5 sport back launch,acceleration
+222,light,lighting / indicators
+223,off roader,road terrain
+224,material selection,physical controls
+225,long term reliability,value / cost
+226,a8 reversing,model / generic car terms
+227,tech features,functionality & features
+228,stop start system,brake
+229,front armrest,seats
+230,engine start button,engine / power train
+231,pricewise,road terrain
+232,contrast,design
+233,digital dash,displays / instrumentation
+234,driver satisfaction,drive
+235,offroad sound,audio
+236,get in the back,doors
+237,dash angles,displays / instrumentation
+238,manual sport mode,transmission
+239,front bottom,front section
+240,back,rear section
+241,weirdness,emotional & sensory experience
+242,shocks,driving dynamics / handling
+243,fuel consumption,fuel / energy / charging
+244,swiping zoom manoeuvres,gesture / motion controls
+245,s line indicators,displays / instrumentation
+246,emergency services button,model / generic car terms
+247,specifications,options & specifications
+248,most laid back position,comfort & ergonomics
+249,handles,doors
+250,tops,roof
+251,tail lamps,lighting / indicators
+252,car tire pot,wheels & tyres
+253,sedan,body type
+254,mercedes c 63 or a bmw m3,model / generic car terms
+255,automatic gear,transmission
+256,scuff plates,exterior materials & finish
+257,door design,design
+258,road,road terrain
+259,profiles,design
+260,rear wheel drive,drive
+261,air breathers,aerodynamics / airflow
+262,left hand drive steering wheel,steering
+263,stereo volume control,audio
+264,offroad travel,road terrain
+265,canyon,road terrain
+266,potholes,road terrain
+267,dynamics,driving dynamics / handling
+268,wheel arches,exterior materials & finish
+269,rs5,model / generic car terms
+270,steering column,steering
+271,gt three wet road,model / generic car terms
+272,efficiency,distance / efficiency / mileage
+273,back roofline,roof
+274,rear wheels,drive
+275,roof rails,roof
+276,look over shoulder,design
+277,expense,value / cost
+278,storage pack,storage & utility
+279,turbos,engine / power train
+280,carbon trim price,design
+281,gearboxes,transmission
+282,crackles,emotional & sensory experience
+283,electronic system,software / interaction
+284,turns in,cornering
+285,automatic gear selector,transmission
+286,hatchback tailgate,boot / cargo
+287,wheel look change,design
+288,dynamic gearbox shift,transmission
+289,obstacles,road terrain
+290,quattro system petrol,model / generic car terms
+291,rs5 color,design
+292,spaces,passenger space
+293,g l e 63,model / generic car terms
+294,seatbelt butler,seats
+295,black box on white red,emotional & sensory experience
+296,storage areas,storage & utility
+297,under floor support,chassis / structural
+298,front apron port,front section
+299,torque uplift,engine / power train
+300,back view,visibility & view
+301,dynamic downshift,transmission
+302,motorways,engine / power train
+303,a4 ultra,model / generic car terms
+304,cooling ducts,aerodynamics / airflow
+305,big bulky child safe,safety
+306,tail light color,design
+307,backend,rear section
+308,audi g5,model / generic car terms
+309,structural integrity,build quality / construction
+310,seat adjustment,seats
+311,wood veneer,interior materials & trim / finish
+312,steering wheel in parking,steering
+313,speed on,acceleration
+314,cruiser,driver assistance
+315,street limit,road terrain
+316,interior quality,interior
+317,air bladders,aerodynamics / airflow
+318,360 degree camera system,cameras
+319,offset pedals,brake
+320,open the bonnet,bonnet
+321,voice control system,voice & commands
+322,integrated laser lights,lighting / indicators
+323,rear peasant blocker,visibility & view
+324,attitude,model / generic car terms
+325,high speed motorways,engine / power train
+326,command,voice & commands
+327,race,performance
+328,front passenger seat,seats
+329,level,dimensions & measurements
+330,tire looks,design
+331,comfort mode ride,comfort & ergonomics
+332,water porting,fuel / energy / charging
+333,cushion,seats
+334,audi q5,model / generic car terms
+335,central locking,keys & lock
+336,m 7 60,model / generic car terms
+337,cruising ability,driver assistance
+338,petrol tank,fuel / energy / charging
+339,pillows,seats
+340,central locking sound,audio
+341,premium plus trim level,design
+342,new audi rs three,model / generic car terms
+343,lift,boot / cargo
+344,fake sound,audio
+345,side vents,aerodynamics / airflow
+346,six cylinder car,engine / power train
+347,cargo area,boot / cargo
+348,roofline,roof
+349,s5 sport back torque,engine / power train
+350,touch,gesture / motion controls
+351,damper suspension,suspension
+352,f40 i x dr,model / generic car terms
+353,cruising around,driver assistance
+354,interface,software / interaction
+355,upgraded sound system,audio
+356,pedal field,brake
+357,standing quarter,acceleration
+358,value,value / cost
+359,0 to 60,acceleration
+360,volume knob,physical controls
+361,rear passenger door bins,passenger space
+362,nameplate,model / generic car terms
+363,audio system,model / generic car terms
+364,steering control,steering
+365,efficiency system,distance / efficiency / mileage
+366,front track,dimensions & measurements
+367,launch,acceleration
+368,i drive system,drive
+369,connection to front axle,driving dynamics / handling
+370,six series gt,model / generic car terms
+371,ceiling,roof
+372,stance,design
+373,v8 engine,engine / power train
+374,overhangs,aerodynamics / airflow
+375,three people in the back,passenger space
+376,controls,physical controls
+377,rear view,visibility & view
+378,fold seats down,seats
+379,turn,cornering
+380,uphill drive,drive
+381,front area,front section
+382,underfloor compartment,storage & utility
+383,chassis,chassis / structural
+384,back trim,interior materials & trim / finish
+385,wood,interior materials & trim / finish
+386,rocks,road terrain
+387,back knee room,passenger space
+388,gauge display,displays / instrumentation
+389,speed transmission shifts,transmission
+390,body kit,body class
+391,main entertainment screen,displays / instrumentation
+392,offroad mode,road terrain
+393,sports plus,driving dynamics / handling
+394,manoeuvring speeds,steering
+395,velocity,performance
+396,steering system,steering
+397,center seat,seats
+398,kneeroom,passenger space
+399,diesel version,fuel / energy / charging
+400,coat hook,storage & utility
+401,steel,exterior materials & finish
+402,screen,displays / instrumentation
+403,visibility,visibility & view
+404,front end grip,cornering
+405,feels,emotional & sensory experience
+406,swivel wheel,wheels & tyres
+407,visibility,visibility & view
+408,hybrid system,fuel / energy / charging
+409,mode,driving dynamics / handling
+410,digital space,passenger space
+411,storage nooks,storage & utility
+412,plenty of things,generic description & miscellaneous
+413,heat pump,climate / temperature control
+414,paddle shifter,transmission
+415,propulsion,engine / power train
+416,paddle shift gearbox,transmission
+417,junctions in efficiency mode,fuel / energy / charging
+418,key,keys & lock
+419,a3 looks,design
+420,rs6 everyday performance,model / generic car terms
+421,drive long way,drive
+422,on track performance,performance
+423,below body structure,body class
+424,car interaction,software / interaction
+425,tv chair,displays / instrumentation
+426,purple ambient lighting,lighting / indicators
+427,virtual 360 degree cameras,cameras
+428,experience,emotional & sensory experience
+429,goodies,functional features
+430,exteriors,exterior materials & finish
+431,magic sky control,roof
+432,adult occupant protection in the crash test .,safety
+433,small,dimensions & measurements
+434,speed,acceleration
+435,top up,roof
+436,hooks,storage & utility
+437,control,physical controls
+438,long haul,distance / efficiency / mileage
+439,stereo system,audio
+440,buttons,model / generic car terms
+441,brightness,lighting / indicators
+442,serious offroad,road terrain
+443,driving modes,drive
+444,laser beam headlights,lighting / indicators
+445,car start,model / generic car terms
+446,cover storage,storage & utility
+447,high speed,acceleration
+448,fittings,model / generic car terms
+449,carbon fibre trim,design
+450,q3,model / generic car terms
+451,surfacing treatment,design
+452,false floor,boot / cargo
+453,stitching,interior materials & trim / finish
+454,spirit,emotional & sensory experience
+455,oil,fuel / energy / charging
+456,graphic,displays / instrumentation
+457,footspace,passenger space
+458,take off,acceleration
+459,lower section,boot / cargo
+460,exhaust noise (dynamic mode),exhaust
+461,long distance,design
+462,stability control,traction / stability
+463,space in backseats,passenger space
+464,m 135,model / generic car terms
+465,over six foot,passenger space
+466,beeping,audio
+467,cruise,driver assistance
+468,rs6,model / generic car terms
+469,boot spoiler,fuel / energy / charging
+470,ventilation controls,aerodynamics / airflow
+471,playing music,audio
+472,headlights,lighting / indicators
+473,fixed covers,exterior materials & finish
+474,moon roof shade,roof
+475,engine notes,engine / power train
+476,thirdrow seats,seats
+477,door open,doors
+478,cubby space,passenger space
+479,third row space,passenger space
+480,s line,packages / trims / variants
+481,radio,audio
+482,getting back,model / generic car terms
+483,releases,model / generic car terms
+484,manual transmission,transmission
+485,lights,lighting / indicators
+486,carrying rear passengers,passenger space
+487,ingredients,generic description & miscellaneous
+488,menus,software / interaction
+489,reversing with assistant,driver assistance
+490,electricity,fuel / energy / charging
+491,front discs,brake
+492,boot volume,boot / cargo
+493,front seats sound,seats
+494,concierge service,road terrain
+495,brake callipers,aerodynamics / airflow
+496,speeding,acceleration
+497,crossover,body type
+498,aura,emotional & sensory experience
+499,steering reflexes,steering
+500,camera system,cameras
+501,underline support,chassis / structural
+502,zero petrol use,fuel / energy / charging
+503,going round,road terrain
+504,surfaces,road terrain
+505,two litre diesel engine,engine / power train
+506,surface,road terrain
+507,traffic updates,navigation / mapping
+508,digital gauge,displays / instrumentation
+509,leg room second row,passenger space
+510,discount,brake
+511,boot floor,boot / cargo
+512,a8,model / generic car terms
+513,driving sensation,drive
+514,cabin layout,interior
+515,front seating,seats
+516,travelling,distance / efficiency / mileage
+517,temperature,climate / temperature control
+518,anti friction turbo bearings,engine / power train
+519,isolation,comfort & ergonomics
+520,normal wheel base version,chassis / structural
+521,windows,aerodynamics / airflow
+522,model x,model / generic car terms
+523,parkability,parking
+524,standard entertainment screen,displays / instrumentation
+525,energy,fuel / energy / charging
+526,engine stop start feature,functionality & features
+527,audio systems,model / generic car terms
+528,electric adjustment (steering),steering
+529,head restraints,seats
+530,sound level,audio
+531,battery,model / generic car terms
+532,graphics,displays / instrumentation
+533,architecture platform,chassis / structural
+534,four wheel drive system,drive
+535,parking assistant plus,driver assistance
+536,second row roof,roof
+537,quattro engine,engine / power train
+538,carsick people,model / generic car terms
+539,rs5 looks,design
+540,seating tunnel,seats
+541,audi a7,model / generic car terms
+542,departure angle,road terrain
+543,gestures,gesture / motion controls
+544,rear wheel steering,steering
+545,new engine,engine / power train
+546,offroading,road terrain
+547,going faster,acceleration
+548,voice recognition,road terrain
+549,marina leather,interior materials & trim / finish
+550,dynamic mode,driving dynamics / handling
+551,standard engine power,engine / power train
+552,bmw a8 plug in hybrid,fuel / energy / charging
+553,audi presence,model / generic car terms
+554,slabs,model / generic car terms
+555,get in and out,doors
+556,indicators,displays / instrumentation
+557,boot overall capacity,boot / cargo
+558,find the right gear,transmission
+559,throttle (sport),model / generic car terms
+560,audi a one s line,model / generic car terms
+561,surround view cameras,visibility & view
+562,driving assistance package,design
+563,false floor storage,storage & utility
+564,nintendo entertainment system,software / interaction
+565,fuel efficient,fuel / energy / charging
+566,rev counter,engine / power train
+567,usb,connectivity / integration
+568,upgrades,options & specifications
+569,every material,interior materials & trim / finish
+570,3 50 d price,road terrain
+571,gated shifter,transmission
+572,air purification system with perfume,aerodynamics / airflow
+573,reversing assistant,driver assistance
+574,bluetooth,connectivity / integration
+575,down the door bins,storage & utility
+576,bowers and wilkins diamond surround sound system,audio
+577,charging points,fuel / energy / charging
+578,remote control,gesture / motion controls
+579,room,passenger space
+580,overall quality,quality & durability
+581,automatic performance,performance
+582,stronic transmission,transmission
+583,digital screens,displays / instrumentation
+584,third row seats,seats
+585,back tire,wheels & tyres
+586,sport suspension,suspension
+587,rear leg room,passenger space
+588,no load lift,boot / cargo
+589,over six foot tall,passenger space
+590,satnav screen,displays / instrumentation
+591,interior light pattern,model / generic car terms
+592,throttle,model / generic car terms
+593,family seat,seats
+594,digital controls,displays / instrumentation
+595,mercedes-benz accents,design
+596,v six,engine / power train
+597,glovebox size,boot / cargo
+598,plastic head,exterior materials & finish
+599,grill,grill
+600,wheel arch,exterior materials & finish
+601,rear seat control,seats
+602,back legroom,passenger space
+603,bmw backseat,seats
+604,sl,model / generic car terms
+605,engine starting,engine / power train
+606,paddle shifters,transmission
+607,tired,wheels & tyres
+608,sporting suspension,functionality & features
+609,practical side,comfort & ergonomics
+610,automatic box,boot / cargo
+611,goes over bumps,road terrain
+612,space saver,passenger space
+613,cabin noise,interior
+614,side collision avoidance system,safety
+615,trip,distance / efficiency / mileage
+616,speakers,audio
+617,lighting colors,design
+618,steering controls,steering
+619,around the bend,driving dynamics / handling
+620,launch control system,acceleration
+621,running costs,value / cost
+622,dynamic steering,steering
+623,pulls,acceleration
+624,economics,value / cost
+625,towing capacity,performance
+626,laser headlights,lighting / indicators
+627,a4 dual clutch,transmission
+628,comfort mode,comfort & ergonomics
+629,bmw technology,technology
+630,c 250 d,model / generic car terms
+631,drive at speed,drive
+632,vehicle lowest setting,model / generic car terms
+633,front end look,design
+634,sports exhaust,exhaust
+635,window ledges,body class
+636,carbon emission,model / generic car terms
+637,old v8 engine,engine / power train
+638,drawer,storage & utility
+639,change,generic description & miscellaneous
+640,display panel,displays / instrumentation
+641,carrying three adults,model / generic car terms
+642,bmw x5,model / generic car terms
+643,seven speed gear box,transmission
+644,moonroof,roof
+645,off road,road terrain
+646,trunk space,passenger space
+647,middle seat footroom,passenger space
+648,operating window,aerodynamics / airflow
+649,rear trunk,boot / cargo
+650,core,chassis / structural
+651,semi autonomous driving system,drive
+652,v8 engine,engine / power train
+653,video chip,displays / instrumentation
+654,sport mode shift,transmission
+655,displacement,engine / power train
+656,center,interior
+657,catches,keys & lock
+658,mercedes badge,design
+659,load lip,aerodynamics / airflow
+660,runs,performance
+661,head rest not put up,seats
+662,rear quarters,passenger space
+663,exterior color,exterior materials & finish
+664,middle spot,passenger space
+665,driving tech,technology
+666,automatic mode,driving dynamics / handling
+667,side blades,side section
+668,driving on bumps,drive
+669,power folding,engine / power train
+670,ecosystem,connectivity / integration
+671,gravel road,road terrain
+672,voice activation system,voice & commands
+673,console layer,software / interaction
+674,technology,technology
+675,towing up,functional features
+676,ridge,exterior materials & finish
+677,suspension,suspension
+678,dump control,suspension
+679,sport mode,driving dynamics / handling
+680,name,model / generic car terms
+681,tire holding,wheels & tyres
+682,child seat base,seats
+683,autonomous driving system,drive
+684,indicator,lighting / indicators
+685,latest generation,model / generic car terms
+686,carriage pull,model / generic car terms
+687,seat bench,seats
+688,audi s a3,model / generic car terms
+689,architecture,chassis / structural
+690,0 to 60 run,acceleration
+691,trunk capacity,boot / cargo
+692,diesel,fuel / energy / charging
+693,car settings,model / generic car terms
+694,mid corner,cornering
+695,steering wheel controls,steering
+696,vents,aerodynamics / airflow
+697,automated tailgate,boot / cargo
+698,general layout,design
+699,ico mode,fuel / energy / charging
+700,auto gearbox,transmission
+701,performance advantage,performance
+702,lift items,boot / cargo
+703,cover,exterior materials & finish
+704,at speed,acceleration
+705,suspension(sport),suspension
+706,side pillars,chassis / structural
+707,aesthetics,design
+708,luxury spectrum,emotional & sensory experience
+709,central seat,seats
+710,lifting things,boot / cargo
+711,detailing,design
+712,wooden effect,interior materials & trim / finish
+713,rear suspension,suspension
+714,agility switch,driving dynamics / handling
+715,rs7,model / generic car terms
+716,boot light,lighting / indicators
+717,haptic feedback,driving dynamics / handling
+718,reversing camera,driver assistance
+719,shifting,transmission
+720,curves,body class
+721,exhaust tips,exhaust
+722,charging panel,fuel / energy / charging
+723,windows down,aerodynamics / airflow
+724,q7,model / generic car terms
+725,four cylinder engine,engine / power train
+726,shopping bag hookers,storage & utility
+727,headroom (people over six foot),passenger space
+728,boot shape,design
+729,understeer,steering
+730,engine brace,engine / power train
+731,well being spoiled recreation thing,emotional & sensory experience
+732,finish,interior materials & trim / finish
+733,belt line,exterior materials & finish
+734,lobe,engine / power train
+735,footstool,seats
+736,virtual cockpit,displays / instrumentation
+737,sports package,packages / trims / variants
+738,r8,model / generic car terms
+739,cylinder,engine / power train
+740,a7,model / generic car terms
+741,front grill,grill
+742,views,visibility & view
+743,drive train flooring,drive
+744,exhaust clip,exhaust
+745,slow road,model / generic car terms
+746,seat release,seats
+747,acceleration from stop,acceleration
+748,emergency service,road terrain
+749,formula,performance
+750,power seats,seats
+751,touchscreen,displays / instrumentation
+752,stripe,design
+753,dit,engine / power train
+754,display,displays / instrumentation
+755,electrification,fuel / energy / charging
+756,charging sockets,fuel / energy / charging
+757,basic five series,model / generic car terms
+758,base car,model / generic car terms
+759,feeling,emotional & sensory experience
+760,rear wheel,drive
+761,petrol models,fuel / energy / charging
+762,refinement,emotional & sensory experience
+763,c 220,model / generic car terms
+764,settings,model / generic car terms
+765,rear view camera,visibility & view
+766,individual setting,model / generic car terms
+767,adjustability,functional features
+768,places,passenger space
+769,flat upshift,transmission
+770,reclining,seats
+771,front brakes,brake
+772,generation,model / generic car terms
+773,nets,storage & utility
+774,throttle response,model / generic car terms
+775,sea level,road terrain
+776,fuel economy,fuel / energy / charging
+777,adaptive dampers,suspension
+778,sport mode suspension,suspension
+779,machine,generic description & miscellaneous
+780,graphics screen,displays / instrumentation
+781,seating,seats
+782,built in sundress holder,storage & utility
+783,going fast,acceleration
+784,gearbox,transmission
+785,cargo floor,boot / cargo
+786,roll bars,traction / stability
+787,kids,passenger space
+788,back camera,cameras
+789,distance driving,design
+790,mercedes a class,model / generic car terms
+791,dynamic package,packages / trims / variants
+792,launch time,acceleration
+793,shifter,transmission
+794,bumps,road terrain
+795,lettering feature,functionality & features
+796,set buttons,model / generic car terms
+797,mix and match settings,model / generic car terms
+798,new look,design
+799,pedal,brake
+800,travel,distance / efficiency / mileage
+801,front doors,doors
+802,s tronic,model / generic car terms
+803,"bmw 3 40 i , drive",model / generic car terms
+804,500e,model / generic car terms
+805,mercedes-benz gcl,model / generic car terms
+806,corner,cornering
+807,bmw two series,model / generic car terms
+808,cup holder,storage & utility
+809,quattro,model / generic car terms
+810,sl s amg,model / generic car terms
+811,trade off,value / cost
+812,energy harvesting,fuel / energy / charging
+813,i drive,drive
+814,three adults in the back,passenger space
+815,mercedes-benz g . l . a,model / generic car terms
+816,pickup range,distance / efficiency / mileage
+817,glc,model / generic car terms
+818,overall,generic description & miscellaneous
+819,ventilated seat option,seats
+820,rs three,model / generic car terms
+821,steering weight,weight
+822,traditional sedan,body type
+823,-,unknown
+824,cutout design,design
+825,battery size,model / generic car terms
+826,phone spot,connectivity / integration
+827,positioning of steering wheel,steering
+828,stitched button,model / generic car terms
+829,audi rs4,model / generic car terms
+830,audi,model / generic car terms
+831,putting gear,model / generic car terms
+832,acoustic windscreen,windscreen / wipers
+833,door bin back,storage & utility
+834,four wheel drive traction,drive
+835,tech display,technology
+836,dynamic damper control,suspension
+837,upgraded command system,software / interaction
+838,premium plus package,packages / trims / variants
+839,sitting position,model / generic car terms
+840,appearance,design
+841,stunning,emotional & sensory experience
+842,construction technique,technology
+843,exhausts,exhaust
+844,s c car,model / generic car terms
+845,get in and out -back,doors
+846,character,emotional & sensory experience
+847,1.6 litre petrol engine,engine / power train
+848,equipment,equipment
+849,material on the glove box,boot / cargo
+850,steering (sports),steering
+851,gear selector,transmission
+852,m6,model / generic car terms
+853,19 inch wheels,wheels & tyres
+854,a4  g5 seating,seats
+855,force,performance
+856,engine choice,engine / power train
+857,engine mounts,engine / power train
+858,image,design
+859,competion choices,road terrain
+860,360 degree surround camera,cameras
+861,tri color logo,design
+862,wear,quality & durability
+863,mercedes,model / generic car terms
+864,mercedes s class coupe a8,body type
+865,proportions,design
+866,qualities,quality & durability
+867,tt cornering,cornering
+868,touch screen,displays / instrumentation
+869,get in back,doors
+870,engine choices,engine / power train
+871,split gate,boot / cargo
+872,place,passenger space
+873,spend extra on adaptive suspension,suspension
+874,limit,performance
+875,steering and lane controlled assistant,steering
+876,cup holders,storage & utility
+877,normal comfort suspension,comfort & ergonomics
+878,instrument gearbox,transmission
+879,safe,safety
+880,gear changes,transmission
+881,adaptive suspension,suspension
+882,gear shift,transmission
+883,trim (inside),design
+884,map view,visibility & view
+885,seat pockets,storage & utility
+886,wing mirrors,mirrors
+887,noise suppression,audio
+888,s5,model / generic car terms
+889,bc imports,connectivity / integration
+890,seat cover,seats
+891,upshift,transmission
+892,change direction,steering
+893,anchor points,safety
+894,sls,model / generic car terms
+895,warning,safety
+896,manoeuvring at low speed,steering
+897,feet,passenger space
+898,luxury items,emotional & sensory experience
+899,magic sky roof,roof
+900,load bay,boot / cargo
+901,v 10 plus,model / generic car terms
+902,boot opening,doors
+903,price tag,road terrain
+904,tire,wheels & tyres
+905,edition,packages / trims / variants
+906,descent,road terrain
+907,bmw 360 degree surround camera,model / generic car terms
+908,fridge,storage & utility
+909,fold third row,comfort & ergonomics
+910,charging,fuel / energy / charging
+911,bonnet opening,bonnet
+912,bigger bumps,road terrain
+913,practicality,comfort & ergonomics
+914,ionic,fuel / energy / charging
+915,climate controls action,climate / temperature control
+916,noises,audio
+917,grab handle,doors
+918,dynamic handling package,driving dynamics / handling
+919,electric engine,engine / power train
+920,back seating,seats
+921,styling cars,design
+922,audi tt,model / generic car terms
+923,automatic engines start stop system,engine / power train
+924,dirt road,road terrain
+925,seats down,seats
+926,packaging,generic description & miscellaneous
+927,plugin hybrids,fuel / energy / charging
+928,individual mode,driving dynamics / handling
+929,base price,road terrain
+930,backseat legroom,passenger space
+931,performed,performance
+932,hood vent,aerodynamics / airflow
+933,torque rating,engine / power train
+934,delay,performance
+935,bmw m6,model / generic car terms
+936,control system,software / interaction
+937,race track,road terrain
+938,premium plus package price,value / cost
+939,creases,body class
+940,s line ride,drive
+941,rear passenger,passenger space
+942,getting in the back,doors
+943,cummings,generic description & miscellaneous
+944,dynamic clutch,transmission
+945,m5 designation within tachometer,design
+946,offroad height raise,road terrain
+947,spaciousness,passenger space
+948,road demeanor,road terrain
+949,first few miles,distance / efficiency / mileage
+950,road holding,road terrain
+951,three in the back,passenger space
+952,ergonomics,comfort & ergonomics
+953,entry,doors
+954,platform,chassis / structural
+955,city noise,audio
+956,air intake,aerodynamics / airflow
+957,wheels,wheels & tyres
+958,dash,displays / instrumentation
+959,side skirts,side section
+960,acoustic glass,windows / glass
+961,ipad stall screen,displays / instrumentation
+962,roof spoiler,roof
+963,back side headspace,passenger space
+964,door down head,doors
+965,remote gesture control,gesture / motion controls
+966,noise levels,audio
+967,quilted leather,interior materials & trim / finish
+968,tour curve,road terrain
+969,entire engine lineup,engine / power train
+970,a6 backseats,seats
+971,s class front seat,model / generic car terms
+972,roof panel,roof
+973,vehicle,generic description & miscellaneous
+974,roof down,roof
+975,average speed,acceleration
+976,storage,storage & utility
+977,middle seat legroom,passenger space
+978,full multi beam led headlights,lighting / indicators
+979,front wheel drive,drive
+980,wheel,wheels & tyres
+981,inside looks,design
+982,windscreen signature,windscreen / wipers
+983,seatbelt straps,seats
+984,center arm,seats
+985,lift gate,boot / cargo
+986,sand,road terrain
+987,gt three bumpy road,model / generic car terms
+988,interior color,design
+989,right hand drive steering wheel,steering
+990,customization,functionality & features
+991,three series,model / generic car terms
+992,phone cradle,connectivity / integration
+993,few bumps,road terrain
+994,interior trim,design
+995,sound insulation,audio
+996,mile above sea level,distance / efficiency / mileage
+997,rear track,dimensions & measurements
+998,equipped levels,equipment
+999,tailgate,boot / cargo
+1000,air events,aerodynamics / airflow
+1001,storage(front passenger seat),storage & utility
+1002,car engineering,engine / power train
+1003,brake pedal field,brake
+1004,general goodness,functionality & features
+1005,cabins,interior
+1006,back seat space,passenger space
+1007,windshield  intensity,windscreen / wipers
+1008,option list,options & specifications
+1009,sport seats,seats
+1010,brake discs,brake
+1011,command system,voice & commands
+1012,roof bars,roof
+1013,operation,functionality & features
+1014,model,model / generic car terms
+1015,220 c d engine,engine / power train
+1016,ground clearance,dimensions & measurements
+1017,hands free,voice & commands
+1018,front storage kit,storage & utility
+1019,accelerating in comfort mode,comfort & ergonomics
+1020,carry three passengers in back,passenger space
+1021,new q3,model / generic car terms
+1022,modes,driving dynamics / handling
+1023,get snow off the car,road terrain
+1024,price,value / cost
+1025,steering feedback,steering
+1026,lip,aerodynamics / airflow
+1027,back piano plastic,interior materials & trim / finish
+1028,second row sound,audio
+1029,wind intakes,aerodynamics / airflow
+1030,cabin,interior
+1031,smaller bumps,road terrain
+1032,sensors,connectivity / integration
+1033,spokes,wheels & tyres
+1034,top down,roof
+1035,color tone,design
+1036,trip computer,displays / instrumentation
+1037,door handle,doors
+1038,panel gaps,build quality / construction
+1039,pure electric range,fuel / energy / charging
+1040,load space,passenger space
+1041,hierarchy,packages / trims / variants
+1042,hold assist price,driver assistance
+1043,rs4,model / generic car terms
+1044,finishes,interior materials & trim / finish
+1045,tray,storage & utility
+1046,innovations,technology
+1047,blind state monitoring,visibility & view
+1048,front suspension,suspension
+1049,fuel,fuel / energy / charging
+1050,damp,suspension
+1051,netting,storage & utility
+1052,dynamic cruise control,driver assistance
+1053,amenities,functional features
+1054,parking guidance system,driver assistance
+1055,turbo petrol,fuel / energy / charging
+1056,door,doors
+1057,pedals and springs,brake
+1058,massage,comfort & ergonomics
+1059,built,build quality / construction
+1060,feature set,functionality & features
+1061,cargo hold,boot / cargo
+1062,lincoln m . k . c,model / generic car terms
+1063,launch control,acceleration
+1064,options,software / interaction
+1065,compartment,storage & utility
+1066,rain,road terrain
+1067,climate control dials,physical controls
+1068,badge,design
+1069,metal area,exterior materials & finish
+1070,electric steering,steering
+1071,bmw,model / generic car terms
+1072,happenings,emotional & sensory experience
+1073,real world testing,performance
+1074,audi badge,design
+1075,wagon,body type
+1076,low speed,acceleration
+1077,front brakes discs,brake
+1078,glove box space,passenger space
+1079,navigating menus,software / interaction
+1080,glass,windows / glass
+1081,skin,interior materials & trim / finish
+1082,leather upgrade cost,interior materials & trim / finish
+1083,response,driving dynamics / handling
+1084,foot and leg rest,seats
+1085,button,model / generic car terms
+1086,dead paddle,physical controls
+1087,cell,connectivity / integration
+1088,door,doors
+1089,audi a8,model / generic car terms
+1090,command online system,voice & commands
+1091,wagon load,body type
+1092,swivel,physical controls
+1093,body lines,body class
+1094,bmw seven series,model / generic car terms
+1095,s c suspension,suspension
+1096,hybrid,fuel / energy / charging
+1097,disk,brake
+1098,drive train,drive
+1099,wheel arch intrusion,exterior materials & finish
+1100,entry level diesel engine,engine / power train
+1101,upgraded screen,displays / instrumentation
+1102,optional baskets,storage & utility
+1103,rear headrooms,passenger space
+1104,gesture controls,gesture / motion controls
+1105,sensation,emotional & sensory experience
+1106,e brake,brake
+1107,plastic,exterior materials & finish
+1108,camera review,visibility & view
+1109,pull,acceleration
+1110,coupe,body type
+1111,my vehicle,generic description & miscellaneous
+1112,head unit,displays / instrumentation
+1113,sports standard,driving dynamics / handling
+1114,in the car,model / generic car terms
+1115,driver seat heat dissipation,drive
+1116,rear seat combination,seats
+1117,boot capacity,boot / cargo
+1118,quattro system,model / generic car terms
+1119,satnav,navigation / mapping
+1120,load floor,boot / cargo
+1121,center console,software / interaction
+1122,screen display,displays / instrumentation
+1123,driving cars,drive
+1124,driver assistant system,drive
+1125,category,generic description & miscellaneous
+1126,cabriole,body type
+1127,driving function,drive
+1128,front seat side bolster,seats
+1129,central armrest,seats
+1130,accelerations,acceleration
+1131,sunshades,comfort & ergonomics
+1132,drag,aerodynamics / airflow
+1133,steering sensitivity,steering
+1134,stop start system,brake
+1135,backseat functions,functional features
+1136,warning sound,audio
+1137,benefits,value / cost
+1138,suspension spring,suspension
+1139,glc c300,model / generic car terms
+1140,offroadinfg,road terrain
+1141,accelerates,acceleration
+1142,stuff,generic description & miscellaneous
+1143,side bolsters,seats
+1144,intakes,aerodynamics / airflow
+1145,normal suspension,suspension
+1146,car,generic description & miscellaneous
+1147,wheel base,chassis / structural
+1148,feel,emotional & sensory experience
+1149,support under legs,seats
+1150,reversing camera definition,driver assistance
+1151,adjustment,functional features
+1152,top end rush,acceleration
+1153,supercar,model / generic car terms
+1154,magnifying glass,visibility & view
+1155,winding roads,road terrain
+1156,quattro wheel drive,model / generic car terms
+1157,door mirror controller,doors
+1158,electric platform,chassis / structural
+1159,opening bonnet,bonnet
+1160,three litre v sixty,engine / power train
+1161,bmw i a8 price,model / generic car terms
+1162,fuel efficiency,fuel / energy / charging
+1163,storage cubbies,storage & utility
+1164,a7 price,model / generic car terms
+1165,crevice,road terrain
+1166,features,functionality & features
+1167,battery pack,model / generic car terms
+1168,sound,audio
+1169,engine start,engine / power train
+1170,exhaust crackle,exhaust
+1171,rough terrain,road terrain
+1172,exhaust pipe,exhaust
+1173,magic sky feature,functionality & features
+1174,boot useful features,boot / cargo
+1175,massaging function,seats
+1176,stereo,audio
+1177,engineering prowess,engine / power train
+1178,neighs,emotional & sensory experience
+1179,f40 5 a.m. g,model / generic car terms
+1180,audi x1,model / generic car terms
+1181,steering (sports mode),steering
+1182,snow storm,road terrain
+1183,steering (dynamic mode),steering
+1184,gear shifter,transmission
+1185,pine white,exterior materials & finish
+1186,version,packages / trims / variants
+1187,get out,doors
+1188,electricity fuel,fuel / energy / charging
+1189,v8 engine,engine / power train
+1190,x1,model / generic car terms
+1191,climate control location,climate / temperature control
+1192,s6,model / generic car terms
+1193,blind spot warning,safety
+1194,equipped,equipment
+1195,rear seats,seats
+1196,brake pedal,brake
+1197,tracks drive,drive
+1198,eco pro,fuel / energy / charging
+1199,braking feel,emotional & sensory experience
+1200,turning,cornering
+1201,any given road,road terrain
+1202,carpet,model / generic car terms
+1203,loading heavy cargo,boot / cargo
+1204,steering,steering
+1205,see,visibility & view
+1206,technology pack cost,value / cost
+1207,x line up,packages / trims / variants
+1208,inside,interior
+1209,work tables,storage & utility
+1210,patterns,model / generic car terms
+1211,underneath coating,exterior materials & finish
+1212,trim,design
+1213,ownership proposition,seats
+1214,second row legroom,passenger space
+1215,hold assist system,driver assistance
+1216,interior color choices,design
+1217,foot brake,brake
+1218,torque capability,engine / power train
+1219,parking assist,driver assistance
+1220,base engine,engine / power train
+1221,software,software / interaction
+1222,field,road terrain
+1223,fourth gear,transmission
+1224,camera gun,cameras
+1225,universal garage door opener,doors
+1226,front wheels,wheels & tyres
+1227,third generation,model / generic car terms
+1228,backseat environment,comfort & ergonomics
+1229,few buttons,model / generic car terms
+1230,new platforms,chassis / structural
+1231,package,packages / trims / variants
+1232,prowess,performance
+1233,child seats,seats
+1234,pedals,brake
+1235,bump,road terrain
+1236,window seal,aerodynamics / airflow
+1237,rear row seat,seats
+1238,audi a6,model / generic car terms
+1239,view from back,visibility & view
+1240,energizing comfort control,comfort & ergonomics
+1241,piston calliper,aerodynamics / airflow
+1242,get in the car,doors
+1243,bracing,chassis / structural
+1244,torque,engine / power train
+1245,balance,traction / stability
+1246,protective system,driver assistance
+1247,cool features,functionality & features
+1248,kicks,acceleration
+1249,font,displays / instrumentation
+1250,stiffness,suspension
+1251,audi a4,model / generic car terms
+1252,modal,model / generic car terms
+1253,general quality,quality & durability
+1254,bodywork,body class
+1255,bmw a5,model / generic car terms
+1256,backseat room,passenger space
+1257,front door bins,storage & utility
+1258,high load floor,boot / cargo
+1259,footroom,passenger space
+1260,seat sliding forward,model / generic car terms
+1261,pose,emotional & sensory experience
+1262,manual,transmission
+1263,picking the route,navigation / mapping
+1264,crystal,interior materials & trim / finish
+1265,handled,driving dynamics / handling
+1266,track days,driving dynamics / handling
+1267,gas truck,fuel / energy / charging
+1268,technology pack,technology
+1269,snow,road terrain
+1270,quattro drive,model / generic car terms
+1271,fuel filler,fuel / energy / charging
+1272,ride suspension,drive
+1273,lower side wall,body class
+1274,speed limit,acceleration
+1275,class,body class
+1276,audi q3,model / generic car terms
+1277,engine range,engine / power train
+1278,mercedes technology,technology
+1279,rear doors,doors
+1280,suspension choice,suspension
+1281,air conditioning,aerodynamics / airflow
+1282,front end,front section
+1283,getting rid of  v10,engine / power train
+1284,power train,engine / power train
+1285,split tailgate,boot / cargo
+1286,extended cargo area,boot / cargo
+1287,things,generic description & miscellaneous
+1288,volvo xc60 offroad,road terrain
+1289,control interface,software / interaction
+1290,blue and red stitches,interior materials & trim / finish
+1291,engine sounds,engine / power train
+1292,traction,traction / stability
+1293,dynamic turn signals,lighting / indicators
+1294,petrol engine running,engine / power train
+1295,glove box,boot / cargo
+1296,ashtray,storage & utility
+1297,back seat,seats
+1298,window switches,physical controls
+1299,grip level,cornering
+1300,sport back,body type
+1301,q5,model / generic car terms
+1302,sloping roof,roof
+1303,exhaust note,exhaust
+1304,door pockets,storage & utility
+1305,front center,front section
+1306,dynamic,driving dynamics / handling
+1307,tire design,design
+1308,back of the car,rear section
+1309,unlock,keys & lock
+1310,carrying three people in back,passenger space
+1311,cost steering,steering
+1312,fenders,body class
+1313,tracks,dimensions & measurements
+1314,storage spaces,passenger space
+1315,minimalism,design
+1316,a6,model / generic car terms
+1317,seat folding,seats
+1318,engine note,engine / power train
+1319,hardtop,roof
+1320,logo,design
+1321,bench,seats
+1322,speed up,acceleration
+1323,drive system,drive
+1324,gearbox auto mode,transmission
+1325,build,build quality / construction
+1326,ipod connector to stereo,audio
+1327,differential,traction / stability
+1328,ring system,software / interaction
+1329,technologies,technology
+1330,smooth road drive,drive
+1331,daily use,storage & utility
+1332,hot hatch package,body type
+1333,rear seat,seats
+1334,parcel shelf,storage & utility
+1335,headliner,roof
+1336,interior experience,interior
+1337,audio,model / generic car terms
+1338,wide tires,wheels & tyres
+1339,turn off option,engine / power train
+1340,touchpad,software / interaction
+1341,silver trim on steering,design
+1342,second row seats,seats
+1343,incredibly tight street,road terrain
+1344,opulence,emotional & sensory experience
+1345,boot space,passenger space
+1346,view forward,visibility & view
+1347,main screen,displays / instrumentation
+1348,accelerate,acceleration
+1349,angular,design
+1350,power release,engine / power train
+1351,offroad driving,drive
+1352,gt price,model / generic car terms
+1353,wind noise,audio
+1354,equipment level,equipment
+1355,reversing,driver assistance
+1356,boot storage,storage & utility
+1357,button to open the boot,model / generic car terms
+1358,rpm band,engine / power train
+1359,direction change,steering
+1360,steering wheel mounted controls,steering
+1361,folders,storage & utility
+1362,digital display view change,visibility & view
+1363,engines,engine / power train
+1364,construction material,exterior materials & finish
+1365,lighting,lighting / indicators
+1366,fuel budget,fuel / energy / charging
+1367,300d power,engine / power train
+1368,view of the vehicle,visibility & view
+1369,wheel drive,drive
+1370,adjustable lumbar support,seats
+1371,manual gearboxes,transmission
+1372,center tunnel,interior
+1373,ending,generic description & miscellaneous
+1374,headrest pillows,seats
+1375,seatbelt,seats
+1376,definition,emotional & sensory experience
+1377,hold feature,functionality & features
+1378,steering lock,steering
+1379,x3,model / generic car terms
+1380,front curves,body class
+1381,sifting through menus,software / interaction
+1382,shock absorbers,brake
+1383,x1 x drive 28,model / generic car terms
+1384,e break activation lever,physical controls
+1385,u turns,cornering
+1386,deceleration,brake
+1387,storage area,storage & utility
+1388,petrol engine,engine / power train
+1389,bmw badge,design
+1390,openings,doors
+1391,leather,interior materials & trim / finish
+1392,engine sound,engine / power train
+1393,motorway,engine / power train
+1394,option packages,packages / trims / variants
+1395,overall interior quality,interior
+1396,stretch out,comfort & ergonomics
+1397,covering,exterior materials & finish
+1398,temperature control,climate / temperature control
+1399,back window,windows / glass
+1400,lift over height,dimensions & measurements
+1401,offroad pack,packages / trims / variants
+1402,audi a one,model / generic car terms
+1403,torque redirection,engine / power train
+1404,camera on the roof,roof
+1405,lower speed,acceleration
+1406,standard system,software / interaction
+1407,power allocation,engine / power train
+1408,coin holders,storage & utility
+1409,nooks,storage & utility
+1410,two litre turbo size,engine / power train
+1411,warranty,value / cost
+1412,mirror cover,mirrors
+1413,driver seat,drive
+1414,corner dynamic mode,cornering
+1415,arm rest,seats
+1416,entertainment system touch,software / interaction
+1417,parking assistant plus,driver assistance
+1418,underfloor storage area,storage & utility
+1419,tow hitch,storage & utility
+1420,windshield wipers,aerodynamics / airflow
+1421,sit up,seats
+1422,front door,doors
+1423,wax dropping from the door,doors
+1424,sense,functionality & features
+1425,dynamic mode air suspension,suspension
+1426,acoustics,audio
+1427,volvo xc60 power,engine / power train
+1428,x drive,drive
+1429,mountains,road terrain
+1430,slide,model / generic car terms
+1431,unload,boot / cargo
+1432,center seats,seats
+1433,fix covers,exterior materials & finish
+1434,trim,design
+1435,anti jacking,safety
+1436,hanging,storage & utility
+1437,hinges,doors
+1438,smells,emotional & sensory experience
+1439,bmw cars,model / generic car terms
+1440,two litre engine,engine / power train
+1441,carplay connectivity,connectivity / integration
+1442,50 d engine,engine / power train
+1443,steers,steering
+1444,usb on 12v socket,connectivity / integration
+1445,types of suspension,suspension
+1446,sporting,functionality & features
+1447,suspension (dynamic mode),suspension
+1448,wheel designs,design
+1449,trappings,interior materials & trim / finish
+1450,touring headroom,passenger space
+1451,throttle responsiveness,model / generic car terms
+1452,1.40 s8 engine upgrade,engine / power train
+1453,rollover,safety
+1454,front tires,wheels & tyres
+1455,sidewall,body class
+1456,seats dropping,seats
+1457,windscreen,windscreen / wipers
+1458,entertainment setup,software / interaction
+1459,theme,design
+1460,kick,acceleration
+1461,road noise,audio
+1462,push button reach,model / generic car terms
+1463,trunk shape,design
+1464,exterior styling,exterior materials & finish
+1465,sun visors,comfort & ergonomics
+1466,shape,design
+1467,planted call features,functionality & features
+1468,infotainment system,software / interaction
+1469,events,aerodynamics / airflow
+1470,carrying large items,model / generic car terms
+1471,rear air conditioning,aerodynamics / airflow
+1472,diesel engines,engine / power train
+1473,mercedes-benz  design,design
+1474,heads up display,displays / instrumentation
+1475,figures,distance / efficiency / mileage
+1476,interior loom,interior
+1477,price point feature,functionality & features
+1478,control over region,driving dynamics / handling
+1479,toggle switches,physical controls
+1480,couch,seats
+1481,back comfort,comfort & ergonomics
+1482,choice,road terrain
+1483,focus,emotional & sensory experience
+1484,door bin,storage & utility
+1485,exhaust systems,exhaust
+1486,fragrance,emotional & sensory experience
+1487,wireless charging,connectivity / integration
+1488,air intakes,aerodynamics / airflow
+1489,swivel controller,physical controls
+1490,metallic speakers,audio
+1491,torque vectoring,engine / power train
+1492,front motor setup,engine / power train
+1493,mileage,distance / efficiency / mileage
+1494,engine automatic switch off,engine / power train
+1495,comfy setting,comfort & ergonomics
+1496,virtual cockpit,displays / instrumentation
+1497,platform base,chassis / structural
+1498,back room,passenger space
+1499,downhill speed regulation,acceleration
+1500,0.1 litre,engine / power train
+1501,entertainment display,displays / instrumentation
+1502,rock crawling,road terrain
+1503,cornering,cornering
+1504,device,road terrain
+1505,quality,quality & durability
+1506,drivers,drive
+1507,drive in town,drive
+1508,overall seating position,seats
+1509,v8 engine,engine / power train
+1510,hatch,body type
+1511,traction management,traction / stability
+1512,emission,fuel / energy / charging
+1513,nine speed automatic,transmission
+1514,rear parking,parking
+1515,wheel design,design
+1516,durability,quality & durability
+1517,mode switch,driving dynamics / handling
+1518,down storage,storage & utility
+1519,bmw i a8,model / generic car terms
+1520,material quality,interior materials & trim / finish
+1521,front headlights,lighting / indicators
+1522,20 inch wheel,wheels & tyres
+1523,upgrade premium plus package,packages / trims / variants
+1524,smell,emotional & sensory experience
+1525,bmw x1,model / generic car terms
+1526,gt three dry road,model / generic car terms
+1527,c class,model / generic car terms
+1528,styling,design
+1529,gearbox,transmission
+1530,seatbelt adjustment,safety
+1531,gearshift modifications,transmission
+1532,rear pillar,chassis / structural
+1533,progress,driving dynamics / handling
+1534,central speaker,audio
+1535,sport,driving dynamics / handling
+1536,center of gravity,weight
+1537,fender flares,body class
+1538,get stuff in boot,boot / cargo
+1539,visual presence,design
+1540,heavy cornering,cornering
+1541,vibe,emotional & sensory experience
+1542,new x3,model / generic car terms
+1543,starting the car,model / generic car terms
+1544,a3 series,model / generic car terms
+1545,graphics chip,displays / instrumentation
+1546,satellite navigation system,navigation / mapping
+1547,ac,climate / temperature control
+1548,torque converter,engine / power train
+1549,mapping,navigation / mapping
+1550,steering wheel paddles,steering
+1551,comfort plus mode,comfort & ergonomics
+1552,rear spoiler,fuel / energy / charging
+1553,receiving position,seats
+1554,air scarf,aerodynamics / airflow
+1555,carrying three headroom,passenger space
+1556,new technology,technology
+1557,station wagon,body type
+1558,trunk,boot / cargo
+1559,remote features,functionality & features
+1560,interior design philosophy,design
+1561,opening,doors
+1562,rough surface,road terrain
+1563,lower lip,aerodynamics / airflow
+1564,length,model / generic car terms
+1565,dampers,suspension
+1566,central arm rest,seats
+1567,dials and buttons,model / generic car terms
+1568,diesel with four turbos,engine / power train
+1569,rear seating,seats
+1570,handling,driving dynamics / handling
+1571,seal between the doors,doors
+1572,foot room,passenger space
+1573,material,interior materials & trim / finish
+1574,bits,generic description & miscellaneous
+1575,camera special effects,cameras
+1576,plugin hybrid,fuel / energy / charging
+1577,fifth portion,passenger space
+1578,functionality,functionality & features
+1579,ride comfort,comfort & ergonomics
+1580,water jets,windscreen / wipers
+1581,middle chair,aerodynamics / airflow
+1582,knee airbag,safety
+1583,tray tables,storage & utility
+1584,public roads,road terrain
+1585,well being,emotional & sensory experience
+1586,touch pad,software / interaction
+1587,center section,interior
+1588,start stop,engine / power train
+1589,user interface,software / interaction
+1590,seat,seats
+1591,output figures,engine / power train
+1592,entertainment system view,visibility & view
+1593,steering ratio,steering
+1594,carplay,connectivity / integration
+1595,bmw four serious,model / generic car terms
+1596,brake,brake
+1597,bonnet,bonnet
+1598,storage tray,storage & utility
+1599,centre armrest,seats
+1600,folding metal roof,roof
+1601,load lift,boot / cargo
+1602,eco pro mode,fuel / energy / charging
+1603,seatback release,seats
+1604,sports plus mode,driving dynamics / handling
+1605,rest of the car,generic description & miscellaneous
+1606,cruising,driver assistance
+1607,look,design
+1608,lateral grip,cornering
+1609,boot storage cover,boot / cargo
+1610,rear engine,engine / power train
+1611,centre console,software / interaction
+1612,acceleration noise,audio
+1613,new r8,model / generic car terms
+1614,taxi drive,drive
+1615,comfort adaptive,comfort & ergonomics
+1616,touring body,body class
+1617,tire pressure monitoring,wheels & tyres
+1618,gear select,transmission
+1619,driver assisstance technology,technology
+1620,steering wheel control,steering
+1621,laser light headlights,lighting / indicators
+1622,backseats,seats
+1623,deductive suspension,suspension
+1624,microphones,audio
+1625,m6 port,model / generic car terms
+1626,get in and out -front,doors
+1627,steering guidance,steering
+1628,extra bits of trim,design
+1629,spring,suspension
+1630,standard seats,seats
+1631,tail lights design,design
+1632,net,storage & utility
+1633,styling appeal,design
+1634,reading light,lighting / indicators
+1635,loading,boot / cargo
+1636,hood,bonnet
+1637,manoeuvre in traffic,road terrain
+1638,leds,lighting / indicators
+1639,new q5,model / generic car terms
+1640,volvo xc60 drive,model / generic car terms
+1641,design quality,design
+1642,gesture control,gesture / motion controls
+1643,callipers,aerodynamics / airflow
+1644,crystal knob,physical controls
+1645,running cost,value / cost
+1646,highway,road terrain
+1647,saloon,body type
+1648,door trim,design
+1649,overall picture,model / generic car terms
+1650,seating position,seats
+1651,release button for center console,model / generic car terms
+1652,third row leg room,passenger space
+1653,storage pouch,storage & utility
+1654,high speed mobile internet,connectivity / integration
+1655,roundabouts,cornering
+1656,sport suspension mode,suspension
+1657,town,road terrain
+1658,option sheet,options & specifications
+1659,information display,displays / instrumentation
+1660,sports model,model / generic car terms
+1661,front seat backs,seats
+1662,review of car,visibility & view
+1663,slippery track,model / generic car terms
+1664,leather,interior materials & trim / finish
+1665,window surround,aerodynamics / airflow
+1666,weight balance,weight
+1667,climate control,climate / temperature control
+1668,hybrid version,fuel / energy / charging
+1669,split gate height,boot / cargo
+1670,tire pressure monitor,wheels & tyres
+1671,going downhill,road terrain
+1672,sides,side section
+1673,sports plus exhaust,exhaust
+1674,center stack,interior
+1675,g class,model / generic car terms
+1676,curvy road,road terrain
+1677,middle setting,model / generic car terms
+1678,performance amount,performance
+1679,smooth road,road terrain
+1680,x5,model / generic car terms
+1681,tray storage,storage & utility
+1682,glove box latch,boot / cargo
+1683,get in,doors
+1684,tronic gearbox,transmission
+1685,torque vectoring rear differential,traction / stability
+1686,electric seats,seats
+1687,audi a3 lineup,model / generic car terms
+1688,speed control,acceleration
+1689,emotion,emotional & sensory experience
+1690,life in tires,wheels & tyres
+1691,front space,passenger space
+1692,total range,distance / efficiency / mileage
+1693,performance,performance
+1694,rough roads,road terrain
+1695,sports car,model / generic car terms
+1696,rs6 color,design
+1697,bmw remote control parking,model / generic car terms
+1698,rest of the finish,interior materials & trim / finish
+1699,aluminium,exterior materials & finish
+1700,bumper,road terrain
+1701,steering precision,driving dynamics / handling
+1702,glove box size,boot / cargo
+1703,luxury package,packages / trims / variants
+1704,interior leather,interior
+1705,led lights,lighting / indicators
+1706,cushions,seats
+1707,light cover,lighting / indicators
+1708,autonomous driving,drive
+1709,drift mode,driving dynamics / handling
+1710,windscreen wipers,windscreen / wipers
+1711,bmw,model / generic car terms
+1712,flaps,aerodynamics / airflow
+1713,slip differential,traction / stability
+1714,widescreen setting,model / generic car terms
+1715,carpeting,model / generic car terms
+1716,twist road,road terrain
+1717,electronic shifter,transmission
+1718,interior,interior
+1719,s60 time,model / generic car terms
+1720,i drive seven,drive
+1721,bmw a8,model / generic car terms
+1722,rough road,road terrain
+1723,a4 boot,model / generic car terms
+1724,headlight,lighting / indicators
+1725,window lead,aerodynamics / airflow
+1726,blind spot monitoring,safety
+1727,dials,displays / instrumentation
+1728,styling accents,design
+1729,back pillar,chassis / structural
+1730,people over six foot,passenger space
+1731,steering feel,emotional & sensory experience
+1732,reliability,value / cost
+1733,exhaust flaps,exhaust
+1734,air curtains,aerodynamics / airflow
+1735,peddle operation,physical controls
+1736,audi tron,model / generic car terms
+1737,corner comfort mode,comfort & ergonomics
+1738,driving environment,drive
+1739,put together,build quality / construction
+1740,rev. counter,displays / instrumentation
+1741,usability,storage & utility
+1742,visibility at the front,visibility & view
+1743,driving environment lay out,drive
+1744,design details,design
+1745,competition,model / generic car terms
+1746,0 to 60 acceleration,acceleration
+1747,track,driving dynamics / handling
+1748,roadworks,functionality & features
+1749,camber,road terrain
+1750,useable,storage & utility
+1751,dirt,road terrain
+1752,surround view camera system,visibility & view
+1753,twin turbo petrol,engine / power train
+1754,sitting,model / generic car terms
+1755,regionalism,driving dynamics / handling
+1756,piano black trim,design
+1757,paint,exterior materials & finish
+1758,room inside,passenger space
+1759,adjustable side bolsters,seats
+1760,magic body control camera,body class
+1761,horses,performance
+1762,keyless entry,doors
+1763,style,design
+1764,paddles,physical controls
+1765,portal pini k gearbox,transmission
+1766,wind,aerodynamics / airflow
+1767,door plastics,doors
+1768,vehicle everything else,generic description & miscellaneous
+1769,laser lights,lighting / indicators
+1770,straight driving,drive
+1771,interior fit and finish,interior
+1772,information,technology
+1773,middle section,passenger space
+1774,charges,fuel / energy / charging
+1775,top cover,roof
+1776,usb charging ports,connectivity / integration
+1777,detail lights,lighting / indicators
+1778,go to 50,acceleration
+1779,side trim,design
+1780,artificial noise,audio
+1781,a one,model / generic car terms
+1782,electronic,technology
+1783,trunks,boot / cargo
+1784,backend capacity,rear section
+1785,glovebox,boot / cargo
+1786,softer suspension,suspension
+1787,wheel turn,wheels & tyres
+1788,shoulder room,passenger space
+1789,wing mirror,mirrors
+1790,top end,acceleration
+1791,hood latches,bonnet
+1792,foot down,acceleration
+1793,wider items,storage & utility
+1794,selection mode,physical controls
+1795,fit and finish,interior materials & trim / finish
+1796,driving system,drive
+1797,ends,rear section
+1798,brake field,brake
+1799,overall length,model / generic car terms
+1800,passenger space,passenger space
+1801,wheel options,software / interaction
+1802,corner braking,brake
+1803,quattro software,model / generic car terms
+1804,dash angle,displays / instrumentation
+1805,ski hatch,body type
+1806,manual mode drive,transmission
+1807,boot lip,aerodynamics / airflow
+1808,arches,exterior materials & finish
+1809,straps,storage & utility
+1810,sexiness,emotional & sensory experience
+1811,ceramic brakes,brake
+1812,sub menus,software / interaction
+1813,interior space,passenger space
+1814,drivability,driving dynamics / handling
+1815,materials quality,interior materials & trim / finish
+1816,cervix fittings,model / generic car terms
+1817,body shape,body class
+1818,audi virtual cockpit,model / generic car terms
+1819,s class driving experience,model / generic car terms
+1820,augmented reality satellite navigation system,navigation / mapping
+1821,diesel engine,engine / power train
+1822,goc 43,model / generic car terms
+1823,turbo lag,engine / power train
+1824,steering wheel shape,design
+1825,dry,road terrain
+1826,glass elements on gear selector,transmission
+1827,rear end,rear section
+1828,going fast on motorway,acceleration
+1829,air deflector,aerodynamics / airflow
+1830,chassis braces,chassis / structural
+1831,speaker,audio
+1832,traction control,traction / stability
+1833,corner lamps,cornering
+1834,cutaways for covers,exterior materials & finish
+1835,rear seats,seats
+1836,safety kit,safety
+1837,maneuverability,driving dynamics / handling
+1838,feel,emotional & sensory experience
+1839,lettering,design
+1840,blind spots,safety
+1841,changing gears using paddles,transmission
+1842,door handles,doors
+1843,power recovery,engine / power train
+1844,interior ambience,emotional & sensory experience
+1845,rear diffuser,aerodynamics / airflow
+1846,cooling drink,storage & utility
+1847,utility,storage & utility
+1848,country roads,road terrain
+1849,gear,transmission
+1850,bmw six series gt,model / generic car terms
+1851,cabin features,functionality & features
+1852,roof up and down,roof
+1853,sight,visibility & view
+1854,boot size,boot / cargo
+1855,switches,physical controls
+1856,dash design,design
+1857,accelerating,acceleration
+1858,center armrest,seats
+1859,blinds,windows / glass
+1860,shortcut buttons,model / generic car terms
+1861,no lower lip,aerodynamics / airflow
+1862,elbow room,passenger space
+1863,glass elements,windows / glass
+1864,fuel tank,fuel / energy / charging
+1865,v8 engine drive,engine / power train
+1866,air density,seats
+1867,top,roof
+1868,exhaust layer,exhaust
+1869,stability,traction / stability
+1870,boot,boot / cargo
+1871,diamonds,interior materials & trim / finish
+1872,iceberg covers,exterior materials & finish
+1873,sports plus suspension,suspension
+1874,shift lever,transmission
+1875,estate,body type
+1876,comfort,comfort & ergonomics
+1877,voice recognition system,voice & commands
+1878,petrol consumption,fuel / energy / charging
+1879,automatic numbers,distance / efficiency / mileage
+1880,a3 platform,model / generic car terms
+1881,outside,body class
+1882,speed dialog system,acceleration
+1883,driving experience,drive
+1884,starting price,road terrain
+1885,road around bends,road terrain
+1886,alloys,wheels & tyres
+1887,spacious,passenger space
+1888,x interface,software / interaction
+1889,mercedes-benz c . l . a,model / generic car terms
+1890,rotary dial,physical controls
+1891,central hat,roof
+1892,electricity usage,fuel / energy / charging
+1893,weight loss,weight
+1894,bmw x3,model / generic car terms
+1895,entertainment system,software / interaction
+1896,sport driving,drive
+1897,room width wise,passenger space
+1898,climate control buttons,model / generic car terms
+1899,r three,model / generic car terms
+1900,wifi connectivity,connectivity / integration
+1901,satellite navigation,navigation / mapping
+1902,engine noise,engine / power train
+1903,cargo space,passenger space
+1904,steering wheel,steering
+1905,cockpit,displays / instrumentation
+1906,corner exiting traction,traction / stability
+1907,front can,front section
+1908,audi x3,model / generic car terms
+1909,saloon s5 headroom,passenger space
+1910,over speed,acceleration
+1911,rear haunches,passenger space
+1912,mercedes-benz,model / generic car terms
+1913,trim (outside),design
+1914,widescreen,displays / instrumentation
+1915,front two seats,seats
+1916,three passengers,passenger space
+1917,manual gear change,transmission
+1918,quattro wheel drive,model / generic car terms
+1919,exterior noise,exterior materials & finish
+1920,gear change,transmission
+1921,sticker price,road terrain
+1922,folders on the backs of the chairs,storage & utility
+1923,antiroll bars,traction / stability
+1924,parking brake,brake
+1925,armrest,seats
+1926,front weight,weight
+1927,interior design,design
+1928,power uplift,engine / power train
+1929,foot well,passenger space
+1930,x two,model / generic car terms
+1931,rear windows,aerodynamics / airflow
+1932,i three,model / generic car terms
+1933,gt-r,model / generic car terms
+1934,cost,value / cost
+1935,load and unload,boot / cargo
+1936,luxury seating package,packages / trims / variants
+1937,climb,road terrain
+1938,aerodynamics,driving dynamics / handling
+1939,trunk size,boot / cargo
+1940,changing plugs,engine / power train
+1941,front cabin,interior
+1942,engine auto cut off,engine / power train
+1943,drives,drive
+1944,s tronic gearbox,model / generic car terms
+1945,tether points,boot / cargo
+1946,shift changes,transmission
+1947,car wash,model / generic car terms
+1948,digital key,connectivity / integration
+1949,door locks,doors
+1950,feel behind the steering,emotional & sensory experience
+1951,sport pack,packages / trims / variants
+1952,upgraded all round air suspension,suspension
+1953,middle headroom,passenger space
+1954,mpg,distance / efficiency / mileage
+1955,residual value,value / cost
+1956,city drive,drive
+1957,rear door bins,storage & utility
+1958,sport and performance package,packages / trims / variants
+1959,view,visibility & view
+1960,wipers,windscreen / wipers
+1961,key start,keys & lock
+1962,five and 1/2 1000 rpm,engine / power train
+1963,box,boot / cargo
+1964,variable rate steering,steering
+1965,exhaust sound,exhaust
+1966,dynamic driving mode,drive
+1967,digital dollars,value / cost
+1968,boot features,functionality & features
+1969,rear lights,lighting / indicators
+1970,rear deck lid,boot / cargo
+1971,nose,front section
+1972,upgrade,options & specifications
+1973,condition,build quality / construction
+1974,usablility,comfort & ergonomics
+1975,auxiliary connectors,connectivity / integration
+1976,manual paddles,transmission
+1977,rear visibility,visibility & view
+1978,driver assistant pack,drive
+1979,bulbs,lighting / indicators
+1980,audi grills,model / generic car terms
+1981,speaker sound system,audio
+1982,two in the back,passenger space
+1983,door bins,storage & utility
+1984,i drive,drive
+1985,bumpers,road terrain
+1986,visors,comfort & ergonomics
+1987,steering at speed,steering
+1988,drive motor,drive
+1989,window surrounds,aerodynamics / airflow
+1990,safety features,functionality & features
+1991,corner handling,driving dynamics / handling
+1992,quadrille wheel drive,drive
+1993,designed,design
+1994,handling right,driving dynamics / handling
+1995,m performance version,model / generic car terms
+1996,standard equipment,equipment
+1997,coat off,exterior materials & finish
+1998,soft touch plastics,interior materials & trim / finish
+1999,someone over six foot,passenger space
+2000,builds,build quality / construction
+2001,2.1 litre diesel engine,engine / power train
+2002,auto bends,cornering
+2003,panoramic sunroof,roof
+2004,real wood,interior materials & trim / finish
+2005,load height,boot / cargo
+2006,mirror,mirrors
+2007,details,design
+2008,turning radius,cornering
+2009,exhaust pipe surround,exhaust
+2010,steering mode,steering
+2011,liftgate,boot / cargo
+2012,window,aerodynamics / airflow
+2013,electrically operated steering column,steering
+2014,road conditions,road terrain
+2015,power trade,engine / power train
+2016,lower bumper,road terrain
+2017,side profile,body class
+2018,verdict,emotional & sensory experience
+2019,screen interface,displays / instrumentation
+2020,satin finish line,interior materials & trim / finish
+2021,stopping power,engine / power train
+2022,view changes,visibility & view
+2023,move,driving dynamics / handling
+2024,engineering,engine / power train
+2025,rear executive seat package,packages / trims / variants
+2026,metal roof,roof
+2027,smoke,exhaust
+2028,firmness,suspension
+2029,electric lumbar support,seats
+2030,mercedes-benz star,model / generic car terms
+2031,mercedes glc,model / generic car terms
+2032,a8 series,model / generic car terms
+2033,area,storage & utility
+2034,windshield,aerodynamics / airflow
+2035,efficiency mode,fuel / energy / charging
+2036,exhaust pipes,exhaust
+2037,foot wells,passenger space
+2038,gle 350,model / generic car terms
+2039,tail,rear section
+2040,midnight edition,packages / trims / variants
+2041,tethering point,connectivity / integration
+2042,prestige trim level,design
+2043,shift button,model / generic car terms
+2044,apple carplay,connectivity / integration
+2045,sports mode sound,audio
+2046,body,body class
+2047,exhausts pipes,exhaust
+2048,piloted drive system,drive
+2049,capacity,boot / cargo
+2050,boot liner,boot / cargo
+2051,horsepower,engine / power train
+2052,normal driving,drive
+2053,rear space,passenger space
+2054,servicing,value / cost
+2055,buying,value / cost
+2056,handling package,driving dynamics / handling
+2057,four zone climate control,climate / temperature control
+2058,road noise levels,audio
+2059,twin turbo petrol horsepower,engine / power train
+2060,big boy twin turbo,engine / power train
+2061,head space,passenger space
+2062,front seat control,seats
+2063,s line suspension,suspension
+2064,portia 7 18,model / generic car terms
+2065,slow speed,model / generic car terms
+2066,delivery,value / cost
+2067,bumps dynamic mode,road terrain
+2068,tie down tethers,boot / cargo
+2069,backseat headroom,passenger space
+2070,boots,boot / cargo
+2071,infotainment system knob,physical controls
+2072,a piece of plastic,exterior materials & finish
+2073,lighting functions,functionality & features
+2074,product,generic description & miscellaneous
+2075,motor noise,engine / power train
+2076,braking field,brake
+2077,power surge,engine / power train
+2078,front engine,engine / power train
+2079,x3 suspension,suspension
+2080,rides,drive
+2081,usefulness,storage & utility
+2082,cubby,storage & utility
+2083,number keypad,physical controls
+2084,3 series,model / generic car terms
+2085,emergency assist,safety
+2086,body style,body class
+2087,high pressure oil system,engine / power train
+2088,bmw 6 50,model / generic car terms
+2089,size,dimensions & measurements
+2090,gas cap,fuel / energy / charging
+2091,e 63,model / generic car terms
+2092,miles per gallon,distance / efficiency / mileage
+2093,lag,performance
+2094,upgraded command system definition,software / interaction
+2095,apple carplay price,connectivity / integration
+2096,shift,transmission
+2097,speed limiter,acceleration
+2098,cell phone spot,connectivity / integration
+2099,ico pro mode,fuel / energy / charging
+2100,ambient lighting package,packages / trims / variants
+2101,top down air,roof
+2102,bmw s4,model / generic car terms
+2103,f40 5 a.m. g suspension,model / generic car terms
+2104,gt three operating window,model / generic car terms
+2105,gesture commands,gesture / motion controls
+2106,towing,functional features
+2107,electronically controlled dampers,lighting / indicators
+2108,outside wheels,wheels & tyres
+2109,leather seats,seats
+2110,performers,performance
+2111,sound proofing,roof
+2112,drive version,drive
+2113,clicking sound,audio
+2114,rear quarter lights,lighting / indicators
+2115,push,acceleration
+2116,roar,audio
+2117,start stop feature,functionality & features
+2118,rear differential,traction / stability
+2119,steering adjustment,steering
+2120,alcantara,interior materials & trim / finish
+2121,door handle inserts,doors
+2122,tailgated,boot / cargo
+2123,suspension redesign,design
+2124,spoiler button,fuel / energy / charging
+2125,car racing technology increments,performance
+2126,fidget,emotional & sensory experience
+2127,acceleration in efficiency mode,acceleration
+2128,balance point,traction / stability
+2129,back frame,build quality / construction
+2130,oversteer,steering
+2131,back pillars,chassis / structural
+2132,headlamps,lighting / indicators
+2133,weight ratio,weight
+2134,automatic canister,fuel / energy / charging
+2135,nine speed automatic transmission,transmission
+2136,front seat,seats
+2137,rivals,model / generic car terms
+2138,snow and ice,road terrain
+2139,under floor storage,storage & utility
+2140,high speeds,acceleration
+2141,newest s class,model / generic car terms
+2142,front motor,engine / power train
+2143,front passenger seat fittings,model / generic car terms
+2144,touring,packages / trims / variants
+2145,sunroof,roof
+2146,slope,model / generic car terms
+2147,off roading,road terrain
+2148,talking price,road terrain
+2149,rpm,engine / power train
+2150,standard screen,displays / instrumentation
+2151,suv,body type
+2152,door opening,doors
+2153,lack of cabin noise,audio
+2154,long drives,drive
+2155,engineered,engine / power train
+2156,seat buttons,model / generic car terms
+2157,aero bits,aerodynamics / airflow
+2158,upward visibility,visibility & view
+2159,turbo power,engine / power train
+2160,battery location,model / generic car terms
+2161,three litre diesel engine,engine / power train
+2162,satnav system,navigation / mapping
+2163,gas struts,chassis / structural
+2164,parking sensors,parking
+2165,height from ground,dimensions & measurements
+2166,pulling power,engine / power train
+2167,normal mode sound,audio
+2168,downshift,transmission
+2169,quattro system,model / generic car terms
+2170,exterior design,exterior materials & finish
+2171,pillars,chassis / structural
+2172,color,design
+2173,ride,drive
+2174,automatic tailgate,boot / cargo
+2175,spoiler,fuel / energy / charging
+2176,under storage,storage & utility
+2177,sports mode gearbox,transmission
+2178,hard corners,cornering
+2179,drive everyday,drive
+2180,passenger seat,seats
+2181,start up,engine / power train
+2182,middle,passenger space
+2183,offroad grip,cornering
+2184,driving position,drive
+2185,blow,climate / temperature control
+2186,gt,model / generic car terms
+2187,offroad,road terrain
+2188,sports steering,steering
+2189,speeds,acceleration
+2190,green color,design
+2191,wind whistle,audio
+2192,technology pack processor,technology
+2193,dashes,displays / instrumentation
+2194,parking system,parking
+2195,front trunk,boot / cargo
+2196,acceleration,acceleration
+2197,auto emergency braking,brake
+2198,driving through central london,drive
+2199,exhaust system,exhaust
+2200,middle seat headroom,passenger space
+2201,rear seat legroom,passenger space
+2202,remote key operations,driver assistance
+2203,back door,doors
+2204,downforce,aerodynamics / airflow
+2205,practical,comfort & ergonomics
+2206,audio inputs,model / generic car terms
+2207,screen for air conditioning,displays / instrumentation
+2208,detail,design
+2209,accents,design
+2210,floor,interior
+2211,twin turbo petrol torque,engine / power train
+2212,carbon footprint,model / generic car terms
+2213,privacy glass,windows / glass
+2214,headlights,lighting / indicators
+2215,m5,model / generic car terms
+2216,dr selector,physical controls
+2217,body structure,body class
+2218,middle seat,seats
+2219,passenger in the back,passenger space
+2220,motor,engine / power train
+2221,a3,model / generic car terms
+2222,control over driving,drive
+2223,spring rate,suspension
+2224,camera mirrors,mirrors
+2225,center arm rest,seats
+2226,quattro ultra system,model / generic car terms
+2227,gear selection,transmission
+2228,extend front part seat,seats
+2229,side finish,interior materials & trim / finish
+2230,boot door,boot / cargo
+2231,bolsters on steering,steering
+2232,comforts,comfort & ergonomics
+2233,acceleration,acceleration
+2234,s3,model / generic car terms
+2235,drive feel,emotional & sensory experience
+2236,drive modes,drive
+2237,hybrid technology,fuel / energy / charging
+2238,passenger,passenger space
+2239,super sideways,body class
+2240,riding,drive
+2241,parcel shelf,storage & utility
+2242,security,safety
+2243,rearward facing child seats,seats
+2244,offroading traction control,traction / stability
+2245,power,engine / power train
+2246,reading lights,lighting / indicators
+2247,radio system,audio
+2248,google earth,navigation / mapping
+2249,door bin front,storage & utility
+2250,plastics,exterior materials & finish
+2251,c pillar,chassis / structural
+2252,air intake gt-r,model / generic car terms
+2253,front seat set,seats
+2254,folds in back seat,seats
+2255,springs,suspension
+2256,phone cradle,connectivity / integration
+2257,priced,road terrain
+2258,comfort suspension,comfort & ergonomics
+2259,navigation,navigation / mapping
+2260,netted areas,storage & utility
+2261,carbon fibre,exterior materials & finish
+2262,track driving,driving dynamics / handling
+2263,body control,body class
+2264,switch between screens,displays / instrumentation
+2265,front,front section
+2266,tight spaces,passenger space
+2267,tied down points,boot / cargo
+2268,twisty road,road terrain
+2269,upgraded command system screen,displays / instrumentation
+2270,a5,model / generic car terms
+2271,simplicity,comfort & ergonomics
+2272,front quarters,passenger space
+2273,folding mirrors,mirrors
+2274,safety technology,technology
+2275,carrying three in back,passenger space
+2276,miles an hour,distance / efficiency / mileage
+2277,adaptive suspension comfort mode,driving dynamics / handling
+2278,rear passengers,passenger space
+2279,deck lid,bonnet
+2280,writing pad,storage & utility
+2281,bmw m3,model / generic car terms
+2282,door tops,doors
+2283,undulations of the road,road terrain
+2284,seating flexibility,seats
+2285,a6 500e f40,model / generic car terms
+2286,knee rooms,passenger space
+2287,spare wheel,wheels & tyres
+2288,three action,gesture / motion controls
+2289,traffic,road terrain
+2290,range,fuel / energy / charging
+2291,throb,audio
+2292,corner handle,cornering
+2293,cable,connectivity / integration
+2294,two litre tf excitable petrol,fuel / energy / charging
+2295,back style,design
+2296,going reverse,transmission
+2297,no underfloor storage,storage & utility
+2298,carrying three,model / generic car terms
+2299,philosophy,emotional & sensory experience
+2300,entertainment system,software / interaction
+2301,a6 back,model / generic car terms
+2302,power distribution,engine / power train
+2303,recline,seats
+2304,legs,passenger space
+2305,carrying three abreast,passenger space
+2306,optional backup camera,cameras
+2307,parallel parking,parking
+2308,s90,model / generic car terms
+2309,audi q7,model / generic car terms
+2310,overall look,design
+2311,optional led 19 system,lighting / indicators
+2312,hook,storage & utility
+2313,dynamic engine,engine / power train
+2314,leg side bolsters,seats
+2315,dashboard,displays / instrumentation
+2316,touch pad swivel world system,software / interaction
+2317,assist,driver assistance
+2318,extendable seat base,seats
+2319,tire rim,wheels & tyres
+2320,battery management system,model / generic car terms
+2321,interior overall,interior
+2322,diesel model fuel tank,fuel / energy / charging
+2323,servicing plan,value / cost
+2324,unfamiliar back roads,road terrain
+2325,gap in the back,build quality / construction
+2326,turbo petrol engine,engine / power train
+2327,a 35,model / generic car terms
+2328,parking center switch,parking
+2329,grip,cornering
+2330,blade panel,exterior materials & finish
+2331,mastering the system,software / interaction
+2332,0 to 60 time,acceleration
+2333,silhouette,design
+2334,switches and dials,displays / instrumentation
+2335,maximum cargo space,passenger space
+2336,van,body type
+2337,steering wheel adjustment,steering
+2338,phone box,boot / cargo
+2339,entry level petrol engine,engine / power train
+2340,rear bumper,road terrain
+2341,quality,quality & durability
+2342,drive,drive
+2343,e class,model / generic car terms
+2344,back digital climate control,climate / temperature control
+2345,rail,chassis / structural
+2346,straight line,road terrain
+2347,display screen,displays / instrumentation
+2348,system,software / interaction
+2349,beam,lighting / indicators
+2350,seat backs,seats
+2351,handbrake,brake
+2352,counter,displays / instrumentation
+2353,sport steering,steering
+2354,mercedes-benz e class,model / generic car terms
+2355,minivan,body type
+2356,center screen,displays / instrumentation
+2357,gear change sound,transmission
+2358,performance exhaust,exhaust
+2359,children,passenger space
+2360,key less entry,doors
+2361,steering ratio ride,steering
+2362,instrument cluster,displays / instrumentation
+2363,sports suspension,suspension
+2364,tire noise,audio
+2365,shifts,transmission
+2366,corner balance,traction / stability
+2367,comfort ico plus,comfort & ergonomics
+2368,child seat,seats
+2369,sit,seats
+2370,side wall,side section
+2371,pillar for leaning on window,chassis / structural
+2372,power delivery,engine / power train
+2373,performance level,performance
+2374,stops,brake
+2375,back light bar,lighting / indicators
+2376,engine output,engine / power train
+2377,front seats,seats
+2378,gap,build quality / construction
+2379,e400 twin turbo v six power,engine / power train
+2380,composure,driving dynamics / handling
+2381,electrical system,software / interaction
+2382,dynamism,driving dynamics / handling
+2383,anti-roll bars,traction / stability
+2384,8 siris,voice & commands
+2385,right hand drive steering,steering
+2386,car storage,storage & utility
+2387,central screen,displays / instrumentation
+2388,rain sensing windshield wiper,aerodynamics / airflow
+2389,design ethos,design
+2390,front climbing and back,passenger space
+2391,manual gearbox,transmission
+2392,event,aerodynamics / airflow
+2393,construction,build quality / construction
+2394,electronic stability off,traction / stability
+2395,tail lights,lighting / indicators
+2396,panoramic moon,roof
+2397,finishing,interior materials & trim / finish
+2398,ionic range,fuel / energy / charging
+2399,foot walls,seats
+2400,seat up,seats
+2401,mpg sports mode,driving dynamics / handling
+2402,packs,packages / trims / variants
+2403,spec,options & specifications
+2404,hatchback,body type
+2405,persona,design
+2406,sun visor,comfort & ergonomics
+2407,public charges,fuel / energy / charging
+2408,especially back,rear section
+2409,centre of gravity,weight
+2410,gearshift,transmission
+2411,chairs,seats
+2412,camera angle,cameras
+2413,pockets in backseat,storage & utility
+2414,f40 5 a.m. g brakes,model / generic car terms
+2415,normal screen,displays / instrumentation
+2416,performance power,engine / power train
+2417,weight distribution,weight
+2418,manual mode,transmission
+2419,back wheel,wheels & tyres
+2420,rear seat roadster,seats
+2421,hybrid model,fuel / energy / charging
+2422,back side seats,seats
+2423,car seat,seats
+2424,new three series,model / generic car terms
+2425,2.5 litre petrol engine,engine / power train
+2426,battery upgrade,model / generic car terms
+2427,dry road,road terrain
+2428,setup,functional features
+2429,a4 quatro,model / generic car terms
+2430,auto driving,drive
+2431,economy,distance / efficiency / mileage
+2432,legroom,passenger space
+2433,load lifter,boot / cargo
+2434,audi a5,model / generic car terms
+2435,new sl,model / generic car terms
+2436,base,chassis / structural
+2437,back head room,passenger space
+2438,interior sophistication,interior
+2439,auto mode,driving dynamics / handling
+2440,side,side section
+2441,sporting events,functionality & features
+2442,upgraded professional satnav,navigation / mapping
+2443,mercedes e class coupe a,body type
+2444,format,displays / instrumentation
+2445,back seat elongated bracket,seats
+2446,lifespan,value / cost
+2447,design,design
+2448,upgraded satellite system,navigation / mapping
+2449,s class,model / generic car terms
+2450,lines,design
+2451,black stitching,interior materials & trim / finish
+2452,second generation,model / generic car terms
+2453,transmission tunnel,transmission
+2454,menu,software / interaction
+2455,electronics,technology
+2456,sounds,audio
+2457,magic vision control,visibility & view
+2458,automatic gearbox,transmission
+2459,dynamic sport mode,driving dynamics / handling
+2460,drive in narrow streets,drive
+2461,a5 sport back,model / generic car terms
+2462,front toe handle,physical controls
+2463,s three price,road terrain
+2464,pillar,chassis / structural
+2465,newest s class price,model / generic car terms
+2466,standard kit,options & specifications
+2467,set up,functional features
+2468,climate control knobs,physical controls
+2469,wood grain,interior materials & trim / finish
+2470,memory settings,model / generic car terms
+2471,bay,engine / power train
+2472,powerful,engine / power train
+2473,rapid charging,fuel / energy / charging
+2474,store,storage & utility
+2475,android auto,connectivity / integration
+2476,visors,comfort & ergonomics
+2477,green screen,displays / instrumentation
+2478,manual mode transmission,transmission
+2479,purchase,value / cost
+2480,insurance price,road terrain
+2481,socket,connectivity / integration
+2482,roof line,roof
+2483,automatic braking,brake
+2484,numbers,distance / efficiency / mileage
+2485,carrying larger items,boot / cargo
+2486,stick shift,transmission
+2487,graphics card,model / generic car terms
+2488,bottom,model / generic car terms
+2489,driving mode,drive
+2490,button placement,model / generic car terms
+2491,tailpipes,exhaust
+2492,power dependability,engine / power train
+2493,bmw entertainment system,model / generic car terms
+2494,headlining,interior materials & trim / finish
+2495,sound system,audio
+2496,footprint,dimensions & measurements
+2497,performance drivability,driving dynamics / handling
+2498,ambient lighting,lighting / indicators
+2499,current style,design
+2500,corner acceleration,cornering
+2501,step up,value / cost
+2502,deck,bonnet
+2503,f 30,model / generic car terms
+2504,automatic emergency breaking,brake
+2505,supportive gas struts,seats
+2506,seat pulling back,seats
+2507,shelf,storage & utility
+2508,led lighting,lighting / indicators
+2509,leg room,passenger space
+2510,rs3,model / generic car terms
+2511,engine,engine / power train
+2512,wireless charging,connectivity / integration
+2513,winding mountain roads,road terrain
+2514,getting stuff in and out,model / generic car terms
+2515,digital drivers display,drive
+2516,petrol usage,fuel / energy / charging
+2517,linearity,acceleration
+2518,precision,driving dynamics / handling
+2519,s8,model / generic car terms
+2520,lower dash plastic,displays / instrumentation
+2521,lock,keys & lock
+2522,digital climate control,climate / temperature control
+2523,body roll,body class
+2524,underfloor storage,storage & utility
+2525,gear stuff,transmission
+2526,cars,generic description & miscellaneous
+2527,power plant,engine / power train
+2528,grips,cornering
+2529,petrol,fuel / energy / charging
+2530,view out,visibility & view
+2531,silver screen,displays / instrumentation
+2532,door close,doors
+2533,braking,brake
+2534,launch control function,acceleration
+2535,small bump,road terrain
+2536,x two,model / generic car terms
+2537,experience in town (drive),drive
+2538,cruise control system,driver assistance
+2539,seat belt,seats
+2540,map lights,lighting / indicators
+2541,quattro drive system,model / generic car terms
+2542,shapes around instrument,design
+2543,amber lighting,lighting / indicators
+2544,backup camera,cameras
+2545,coat hooks,storage & utility
+2546,front practicality,comfort & ergonomics
+2547,traffic data,navigation / mapping
+2548,analog dials,displays / instrumentation
+2549,two keys,keys & lock
+2550,x drive system,drive
+2551,rear view mirror,visibility & view
+2552,one plastic,exterior materials & finish
+2553,cupholders,storage & utility
+2554,pedal configuration,brake
+2555,traction control system,traction / stability
+2556,sports mode,driving dynamics / handling
+2557,back seats,seats
+2558,g wagon,body type
+2559,steering resistance,steering
+2560,functions,functionality & features
+2561,cold weather,road terrain
+2562,modular system,software / interaction
+2563,interior upgrades,interior
+2564,mmi interface,software / interaction
+2565,steering comfort mode,comfort & ergonomics
+2566,ledge,lighting / indicators
+2567,bumpy road,road terrain
+2568,mountain road,road terrain
+2569,speed shift transmission,transmission
+2570,media centre,displays / instrumentation
+2571,pricier versions,value / cost
+2572,fold down seats,seats
+2573,optional heads up displays,displays / instrumentation
+2574,map,navigation / mapping
+2575,trim pieces,design
+2576,two axle air suspension,suspension
+2577,carbon ceramic discs,brake
+2578,driving in town,drive
+2579,upshifts,transmission
+2580,v8,engine / power train
+2581,headrest,seats
+2582,selector,physical controls
+2583,low speed manoeuvres,driving dynamics / handling
+2584,dry condition,road terrain
+2585,interior noise,interior
+2586,a3 gravitas,model / generic car terms
+2587,s8,model / generic car terms
+2588,digital instruments,displays / instrumentation
+2589,town traffic,road terrain
+2590,outward visibility,visibility & view
+2591,remote driving,drive
+2592,safety,safety
+2593,review,visibility & view
+2594,turning circle,cornering
+2595,first impression,emotional & sensory experience
+2596,front drive shafts,drive
+2597,sharp turn,cornering
+2598,long in the car,comfort & ergonomics
+2599,feedback,driving dynamics / handling
+2600,back windows,windows / glass
+2601,momentum99 fuel,fuel / energy / charging
+2602,mercedes sl,model / generic car terms
+2603,door mirrors,mirrors
+2604,large,dimensions & measurements
+2605,driving dynamics,driving dynamics / handling
+2606,driver display panel,displays / instrumentation
+2607,back space,passenger space
+2608,a4  g5 steering,steering
+2609,swerve control,traction / stability
+2610,rear pillars,chassis / structural
+2611,ambience,emotional & sensory experience
+2612,interiors,interior
+2613,automatic transmission,transmission
+2614,camber dirt road,road terrain
+2615,digital display,displays / instrumentation
+2616,panel,build quality / construction
+2617,reversing assistant tech,technology
+2618,damper control,suspension
+2619,second row seat,seats
+2620,build quality,build quality / construction
+2621,a4  g5,model / generic car terms
+2622,bmw drivers,model / generic car terms
+2623,rear parking sensors,parking
+2624,handle,doors
+2625,standard frame,build quality / construction
+2626,third row,passenger space
+2627,nap screen,displays / instrumentation
+2628,baby seats,seats
+2629,boosting,engine / power train
+2630,foot down (acceleration),acceleration
+2631,voice commands,voice & commands
+2632,distracted driving,safety
+2633,bmw air intake,model / generic car terms
+2634,screens,displays / instrumentation
+2635,head rest,seats
+2636,porsche 911,model / generic car terms
+2637,places in the front,passenger space
+2638,kilometres,distance / efficiency / mileage
+2639,hubs,wheels & tyres
+2640,engine start stop system,engine / power train
+2641,indicator lights,lighting / indicators
+2642,cameras,cameras
+2643,weight,weight
+2644,audi interface,model / generic car terms
+2645,rear,rear section
+2646,steering wheel button,steering
+2647,price point,road terrain
+2648,top speed,acceleration
+2649,change mode controls,driving dynamics / handling
+2650,roof,roof
+2651,pickup,acceleration
+2652,air 18,aerodynamics / airflow
+2653,revs,engine / power train
+2654,round town,road terrain
+2655,drive itself,drive
+2656,roof up,roof
+2657,window ledge,lighting / indicators
+2658,all controls,physical controls
+2659,headroom,passenger space
+2660,entertainment screen passenger view,visibility & view
+2661,parking,parking
+2662,feet adjustment,seats
+2663,drive position,drive
+2664,colors,design
+2665,aerodynamic,aerodynamics / airflow
+2666,ports,connectivity / integration
+2667,volume control,audio
+2668,engine response,engine / power train
+2669,manoeuvre,driving dynamics / handling
+2670,summer tires,wheels & tyres
+2671,porsche gearbox,transmission
+2672,gauges,displays / instrumentation
+2673,doors open,doors
+2674,comfort package,comfort & ergonomics
+2675,magnetic ride,drive
+2676,counter drive,drive
+2677,keys,keys & lock
+2678,tech,technology
+2679,front wheel,wheels & tyres
+2680,pumps sound,audio
+2681,auto-breaking,brake
+2682,works,functionality & features
+2683,air,aerodynamics / airflow
+2684,no rapid charging,fuel / energy / charging
+2685,grips in the corners,cornering
+2686,brakes,brake
+2687,steering rod,steering
+2688,adaptive steering,steering
+2689,soundtrack,audio
+2690,executive tier,packages / trims / variants
+2691,tire change pot,wheels & tyres
+2692,front wheel drive version,drive
+2693,magic sky control,roof
+2694,audi a3,model / generic car terms
+2695,rs lineage,model / generic car terms
+2696,dual clutch,transmission
+2697,agility,driving dynamics / handling
+2698,headroom backseat,passenger space
+2699,offroader,road terrain
+2700,roundabout,cornering
+2701,gear selector knob,transmission
+2702,parcel shelf,storage & utility
+2703,driver involvement,drive
+2704,flipping down the second row seats,aerodynamics / airflow
+2705,van lock,keys & lock
+2706,automatic engine start stop system,engine / power train
+2707,massage programs,comfort & ergonomics
+2708,cabinets,storage & utility
+2709,camera,cameras
+2710,ride quality,drive
+2711,wheelbase,chassis / structural
+2712,key,keys & lock
+2713,practicalities,comfort & ergonomics
+2714,adjustments,functional features
+2715,wet road,road terrain
+2716,lowering backseats,functional features
+2717,back door bins,storage & utility
+2718,headlight design,design
+2719,base x1,model / generic car terms
+2720,headlight control,lighting / indicators
+2721,interior,interior
+2722,sun roof,roof
+2723,backseat head room,passenger space
+2724,carrying three in the back,passenger space
+2725,footroom,passenger space
+2726,air suspension comfy setting,comfort & ergonomics
+2727,gi .a.,model / generic car terms
+2728,third row seat,seats
+2729,on road,road terrain
+2730,downshifts,transmission
+2731,cables,connectivity / integration
+2732,drive settings,model / generic car terms
+2733,loading things,boot / cargo
+2734,storage by steering,steering
+2735,sport setting,model / generic car terms
+2736,handling limit,driving dynamics / handling
+2737,off ramp,road terrain
+2738,city driving,drive
+2739,electric assistant,driver assistance
+2740,result,performance
+2741,"30,000 miles",distance / efficiency / mileage
+2742,turn in,cornering
+2743,displays,displays / instrumentation
+2744,window down,aerodynamics / airflow
+2745,tt,model / generic car terms
+2746,transition,seats
+2747,navigation control,navigation / mapping
+2748,virtual cockpit instrument,displays / instrumentation
+2749,bmw launch control,model / generic car terms
+2750,side mirrors,mirrors
+2751,beams,lighting / indicators
+2752,q a8,model / generic car terms
+2753,back features,functional features
+2754,advantages,functionality & features
+2755,systems,software / interaction
+2756,proposition,seats
+2757,power liftgate,engine / power train
+2758,corner grip,cornering
+2759,vision,visibility & view
+2760,sport plus mode,driving dynamics / handling
+2761,rear armrest,seats
+2762,handling balance,traction / stability
+2763,steering sport,steering
+2764,front bumpers,road terrain
+2765,gearbox manual mode,transmission
+2766,most plastics,exterior materials & finish
+2767,engine versions,engine / power train
+2768,engine turn off,engine / power train
+2769,lumbar support,seats
+2770,brake temperature,brake
+2771,backseat for people over 6 4,passenger space
+2772,gear shifts,transmission
+2773,doors,doors
+2774,seats,seats
+2775,sightlines,visibility & view
+2776,rear balance,traction / stability
+2777,window line,aerodynamics / airflow
+2778,boot section,boot / cargo
+2779,gearbox response,transmission
+2780,windscreen map,windscreen / wipers
+2781,fit,build quality / construction
+2782,load area,boot / cargo
+2783,suspension settings,model / generic car terms
+2784,alexis i,model / generic car terms
+2785,back shape,design
+2786,convertibles,body type
+2787,amg gt,model / generic car terms
+2788,sport mode steering,steering
+2789,climate controls,climate / temperature control
+2790,screen clarity,displays / instrumentation
+2791,steering buttons,steering
+2792,turns,cornering
+2793,pockets,storage & utility
+2794,tailgate opening,doors
+2795,g l a4,model / generic car terms
+2796,cruise control,driver assistance
+2797,soundproofing,roof
+2798,two litre diesel,fuel / energy / charging
+2799,bmw 7 60 li,model / generic car terms
+2800,general qualities,quality & durability
+2801,boot lid,boot / cargo
+2802,design feature,functionality & features
+2803,frontal progressions,front section
+2804,kit,options & specifications
+2805,body shell,body class
+2806,power buildup,build quality / construction
+2807,height,dimensions & measurements
+2808,all wheel drive,drive
+2809,optional surrounding cameras,cameras
+2810,engine,engine / power train
+2811,pulses,audio
+2812,tyre roll,wheels & tyres
+2813,new m3,model / generic car terms
+2814,seven series,model / generic car terms
+2815,petrol charging,fuel / energy / charging
+2816,quick charge system,fuel / energy / charging
+2817,airflow,aerodynamics / airflow
+2818,infotainment platform,software / interaction
+2819,noise,audio
+2820,deals,value / cost
+2821,under the car,model / generic car terms
+2822,digital gauge cluster,displays / instrumentation
+2823,charging the battery,model / generic car terms
+2824,manoeuvring,steering
+2825,voice grins,road terrain
+2826,feature,functionality & features
+2827,engine pulling power,engine / power train
+2828,manual driving,transmission
+2829,cushioning,seats
+2830,m two,model / generic car terms
+2831,family car,body type
+2832,powertrain,engine / power train
+2833,scuff plate,exterior materials & finish
+2834,a4,model / generic car terms
+2835,steering response,steering
+2836,seat,seats
+2837,whole,generic description & miscellaneous
+2838,old v8 sound,engine / power train
+2839,profile,design
+2840,turning volume with index finger,cornering
+2841,headspace,passenger space
+2842,layout,design
+2843,internet connectivity package,connectivity / integration
+2844,new rs6 300d gt-r,model / generic car terms
+2845,carbon fibre engine cover,engine / power train
+2846,rear seat headroom,passenger space
+2847,portfolio,functionality & features
+2848,automatic engine shutoff,engine / power train
+2849,steer,steering
+2850,sl c300,model / generic car terms
+2851,luxury,emotional & sensory experience
+2852,seat shape,design
+2853,backseat,seats
+2854,panels,build quality / construction
+2855,bins,storage & utility
+2856,body panels,body class
+2857,offer,value / cost
+2858,traditional amber lighting,lighting / indicators
+2859,brand,generic description & miscellaneous
+2860,corner breaking,cornering
+2861,eight speed automatic transmission,transmission
+2862,corners,cornering
+2863,trim without extra bits,design
+2864,new g class,model / generic car terms
+2865,type,body type
+2866,handling appeal,driving dynamics / handling
+2867,steering turn,steering
+2868,full sports plus mode,driving dynamics / handling
+2869,x drive system,drive
+2870,heavy items,boot / cargo
+2871,fuel momentum99,fuel / energy / charging
+2872,audi rs,model / generic car terms
+2873,wifi speed,connectivity / integration
+2874,grip,cornering
+2875,shopping basket,boot / cargo
+2876,compartmentalize stuff,storage & utility
+2877,daily traffic,road terrain
+2878,rear apron,boot / cargo
+2879,rev limit,engine / power train
+2880,v10 engine,engine / power train
+2881,dynamic ability,driving dynamics / handling
+2882,clutch,transmission
+2883,drive mode,drive
+2884,aluminium finish,interior materials & trim / finish
+2885,insulation,comfort & ergonomics
+2886,petrol tank,fuel / energy / charging
