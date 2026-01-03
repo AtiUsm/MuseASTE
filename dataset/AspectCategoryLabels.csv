@@ -2882,7 +2882,8 @@
 2880,v10 engine,engine / power train,POWERTRAIN / PERFORMANCE
 2881,dynamic ability,driving dynamics / handling,HANDLING / DYNAMICS
 2882,clutch,transmission,POWERTRAIN / PERFORMANCE
-2883,drive mode,drive,POWERTRAIN / PERFORMANCE
+2883,drive mode,driving dynamics / handling,HANDLING / DYNAMICS
 2884,aluminium finish,interior materials & trim / finish,INTERIOR / COMFORT / ERGONOMICS
 2885,insulation,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
 2886,petrol tank,fuel / energy / charging,POWERTRAIN / PERFORMANCE
+
