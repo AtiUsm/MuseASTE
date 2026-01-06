@@ -481,7 +481,7 @@ cubby space,passenger space,INTERIOR / COMFORT / ERGONOMICS
 third row space,passenger space,INTERIOR / COMFORT / ERGONOMICS
 s line,packages / trims / variants,GENERAL INFORMATION
 radio,audio,EMOTIONAL / SENSORY / VISUAL
-getting back,generic description & miscellaneous,GENERAL INFORMATION
+getting back,passenger space,INTERIOR / COMFORT / ERGONOMICS
 releases,packages / trims / variants,GENERAL INFORMATION
 manual transmission,transmission,POWERTRAIN / PERFORMANCE
 lights,lighting / indicators,FUNCTIONAL / UTILITY FEATURES
@@ -2886,5 +2886,6 @@ drive mode,driving dynamics / handling,HANDLING / DYNAMICS
 aluminium finish,interior materials & trim / finish,INTERIOR / COMFORT / ERGONOMICS
 insulation,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
 petrol tank,fuel / energy / charging,POWERTRAIN / PERFORMANCE
+
 
 
