@@ -94,7 +94,7 @@ sporty suspension,suspension,HANDLING / DYNAMICS
 seat belts,safety,SAFETY
 metallic flack,exterior materials & finish,EXTERIOR / STYLING / DESIGN
 technology price,value / cost,DISTANCE / MEASUREMENT /  COST
-rev counter,engine / power train,POWERTRAIN / PERFORMANCE
+rev counter,displays / instrumentation,TECHNOLOGY / ELECTRONICS / SOFTWARE
 qa8,model / generic car terms,GENERAL INFORMATION
 car,generic description & miscellaneous,GENERAL INFORMATION
 storage underneath,storage & utility,FUNCTIONAL / UTILITY FEATURES
@@ -565,7 +565,7 @@ driving assistance package,driver assistance,SAFETY
 false floor storage,storage & utility,FUNCTIONAL / UTILITY FEATURES
 nintendo entertainment system,software / interaction,TECHNOLOGY / ELECTRONICS / SOFTWARE
 fuel efficient,fuel / energy / charging,POWERTRAIN / PERFORMANCE
-rev counter,engine / power train,POWERTRAIN / PERFORMANCE
+rev counter,displays / instrumentation,TECHNOLOGY / ELECTRONICS / SOFTWARE
 usb,connectivity / integration,TECHNOLOGY / ELECTRONICS / SOFTWARE
 upgrades,options & specifications,GENERAL INFORMATION
 every material,interior materials & trim / finish,INTERIOR / COMFORT / ERGONOMICS
@@ -2878,7 +2878,7 @@ shopping basket,storage & utility,FUNCTIONAL / UTILITY FEATURES
 compartmentalize stuff,storage & utility,FUNCTIONAL / UTILITY FEATURES
 daily traffic,road terrain,HANDLING / DYNAMICS
 rear apron,boot / cargo,FUNCTIONAL / UTILITY FEATURES
-rev limit,engine / power train,POWERTRAIN / PERFORMANCE
+rev limit,displays / instrumentation,TECHNOLOGY / ELECTRONICS / SOFTWARE
 v10 engine,engine / power train,POWERTRAIN / PERFORMANCE
 dynamic ability,driving dynamics / handling,HANDLING / DYNAMICS
 clutch,transmission,POWERTRAIN / PERFORMANCE
@@ -2886,3 +2886,4 @@ drive mode,driving dynamics / handling,HANDLING / DYNAMICS
 aluminium finish,interior materials & trim / finish,INTERIOR / COMFORT / ERGONOMICS
 insulation,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
 petrol tank,fuel / energy / charging,POWERTRAIN / PERFORMANCE
+
