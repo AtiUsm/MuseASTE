@@ -299,6 +299,7 @@ def app():
 
         st.markdown("---")
         st.subheader("💬 Review & Aspect Opinion Search (Optional)")
+        st.subheader("Car with:")
         search_term = st.text_input("Enter a word or phrase:", key="review_term_search")
 
         st.subheader("Examples:")
@@ -560,3 +561,4 @@ def app():
 
 #if __name__ == "__main__":
 #app()
+
