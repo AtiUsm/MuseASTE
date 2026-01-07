@@ -149,7 +149,7 @@ over six foot people,passenger space,INTERIOR / COMFORT / ERGONOMICS
 ability,performance,POWERTRAIN / PERFORMANCE
 volvo xc60 room,passenger space,INTERIOR / COMFORT / ERGONOMICS
 woods,road terrain,HANDLING / DYNAMICS
-a7 practicality,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
+a7 practicality,storage & utility,FUNCTIONAL / UTILITY FEATURES
 backpacks,storage & utility,FUNCTIONAL / UTILITY FEATURES
 upholstery,interior materials & trim / finish,INTERIOR / COMFORT / ERGONOMICS
 x6,model / generic car terms,GENERAL INFORMATION
@@ -608,7 +608,7 @@ engine starting,engine / power train,POWERTRAIN / PERFORMANCE
 paddle shifters,transmission,POWERTRAIN / PERFORMANCE
 tired,wheels & tyres,HANDLING / DYNAMICS
 sporting suspension,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
-practical side,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
+practical side,storage & utility,FUNCTIONAL / UTILITY FEATURES
 automatic box,boot / cargo,FUNCTIONAL / UTILITY FEATURES
 goes over bumps,road terrain,HANDLING / DYNAMICS
 space saver,passenger space,INTERIOR / COMFORT / ERGONOMICS
@@ -912,7 +912,7 @@ fold third row,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
 charging,fuel / energy / charging,POWERTRAIN / PERFORMANCE
 bonnet opening,bonnet,EXTERIOR / STYLING / DESIGN
 bigger bumps,road terrain,HANDLING / DYNAMICS
-practicality,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
+practicality,storage & utility,FUNCTIONAL / UTILITY FEATURES
 ionic,fuel / energy / charging,POWERTRAIN / PERFORMANCE
 climate controls action,climate / temperature control,INTERIOR / COMFORT / ERGONOMICS
 noises,audio,EMOTIONAL / SENSORY / VISUAL
@@ -2204,7 +2204,7 @@ rear seat legroom,passenger space,INTERIOR / COMFORT / ERGONOMICS
 remote key operations,driver assistance,SAFETY
 back door,doors,EXTERIOR / STYLING / DESIGN
 downforce,aerodynamics / airflow,EXTERIOR / STYLING / DESIGN
-practical,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
+practical,storage & utility,FUNCTIONAL / UTILITY FEATURES
 audio inputs,audio,EMOTIONAL / SENSORY / VISUAL
 screen for air conditioning,displays / instrumentation,TECHNOLOGY / ELECTRONICS / SOFTWARE
 detail,design,EMOTIONAL / SENSORY / VISUAL
@@ -2545,7 +2545,7 @@ shapes around instrument,design,EMOTIONAL / SENSORY / VISUAL
 amber lighting,lighting / indicators,FUNCTIONAL / UTILITY FEATURES
 backup camera,cameras,TECHNOLOGY / ELECTRONICS / SOFTWARE
 coat hooks,storage & utility,FUNCTIONAL / UTILITY FEATURES
-front practicality,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
+front practicality,storage & utility,FUNCTIONAL / UTILITY FEATURES
 traffic data,navigation / mapping,TECHNOLOGY / ELECTRONICS / SOFTWARE
 analog dials,displays / instrumentation,TECHNOLOGY / ELECTRONICS / SOFTWARE
 two keys,keys & lock,SAFETY
@@ -2712,7 +2712,7 @@ camera,cameras,TECHNOLOGY / ELECTRONICS / SOFTWARE
 ride quality,drive,POWERTRAIN / PERFORMANCE
 wheelbase,chassis / structural,STRUCTURAL
 key,keys & lock,SAFETY
-practicalities,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
+practicalities,storage & utility,FUNCTIONAL / UTILITY FEATURES
 adjustments,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
 wet road,road terrain,HANDLING / DYNAMICS
 lowering backseats,functionality & features,FUNCTIONAL / UTILITY FEATURES
@@ -2886,6 +2886,7 @@ drive mode,driving dynamics / handling,HANDLING / DYNAMICS
 aluminium finish,interior materials & trim / finish,INTERIOR / COMFORT / ERGONOMICS
 insulation,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
 petrol tank,fuel / energy / charging,POWERTRAIN / PERFORMANCE
+
 
 
 
