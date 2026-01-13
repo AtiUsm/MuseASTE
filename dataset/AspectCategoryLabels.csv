@@ -2615,7 +2615,7 @@ interiors,interior,INTERIOR / COMFORT / ERGONOMICS
 automatic transmission,transmission,POWERTRAIN / PERFORMANCE
 camber dirt road,road terrain,HANDLING / DYNAMICS
 digital display,displays / instrumentation,TECHNOLOGY / ELECTRONICS / SOFTWARE
-panel,build quality / construction,STRUCTURAL
+panel,displays / instrumentation,TECHNOLOGY / ELECTRONICS / SOFTWARE
 reversing assistant tech,driver assistance,SAFETY
 damper control,suspension,HANDLING / DYNAMICS
 second row seat,seats,INTERIOR / COMFORT / ERGONOMICS
@@ -2853,7 +2853,7 @@ sl c300,model / generic car terms,GENERAL INFORMATION
 luxury,emotional & sensory experience,EMOTIONAL / SENSORY / VISUAL
 seat shape,seats,INTERIOR / COMFORT / ERGONOMICS
 backseat,seats,INTERIOR / COMFORT / ERGONOMICS
-panels,build quality / construction,STRUCTURAL
+panels,displays / instrumentation,TECHNOLOGY / ELECTRONICS / SOFTWARE
 bins,storage & utility,FUNCTIONAL / UTILITY FEATURES
 body panels,body class,EXTERIOR / STYLING / DESIGN
 offer,value / cost,DISTANCE / MEASUREMENT /  COST
@@ -2886,6 +2886,7 @@ drive mode,driving dynamics / handling,HANDLING / DYNAMICS
 aluminium finish,interior materials & trim / finish,INTERIOR / COMFORT / ERGONOMICS
 insulation,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
 petrol tank,fuel / energy / charging,POWERTRAIN / PERFORMANCE
+
 
 
 
