@@ -355,7 +355,7 @@ f40 i x dr,model / generic car terms,GENERAL INFORMATION
 cruising around,driver assistance,SAFETY
 interface,software / interaction,TECHNOLOGY / ELECTRONICS / SOFTWARE
 upgraded sound system,audio,EMOTIONAL / SENSORY / VISUAL
-pedal field,brake,HANDLING / DYNAMICS
+pedal field,physical controls,INTERIOR / COMFORT / ERGONOMICS
 standing quarter,acceleration,POWERTRAIN / PERFORMANCE
 value,value / cost,DISTANCE / MEASUREMENT /  COST
 0 to 60,acceleration,POWERTRAIN / PERFORMANCE
@@ -798,7 +798,7 @@ lettering feature,functionality & features,FUNCTIONAL / UTILITY FEATURES
 set buttons,physical controls,INTERIOR / COMFORT / ERGONOMICS
 mix and match settings,functionality & features,FUNCTIONAL / UTILITY FEATURES
 new look,design,EMOTIONAL / SENSORY / VISUAL
-pedal,brake,HANDLING / DYNAMICS
+pedal,physical controls,INTERIOR / COMFORT / ERGONOMICS
 travel,distance / efficiency / mileage,DISTANCE / MEASUREMENT /  COST
 front doors,doors,EXTERIOR / STYLING / DESIGN
 s tronic,transmission,POWERTRAIN / PERFORMANCE
@@ -2553,7 +2553,7 @@ x drive system,technology,TECHNOLOGY / ELECTRONICS / SOFTWARE
 rear view mirror,visibility & view,SAFETY
 one plastic,exterior materials & finish,EXTERIOR / STYLING / DESIGN
 cupholders,storage & utility,FUNCTIONAL / UTILITY FEATURES
-pedal configuration,brake,HANDLING / DYNAMICS
+pedal configuration,physical controls,INTERIOR / COMFORT / ERGONOMICS
 traction control system,traction / stability,HANDLING / DYNAMICS
 sports mode,driving dynamics / handling,HANDLING / DYNAMICS
 back seats,seats,INTERIOR / COMFORT / ERGONOMICS
@@ -2886,6 +2886,7 @@ drive mode,driving dynamics / handling,HANDLING / DYNAMICS
 aluminium finish,interior materials & trim / finish,INTERIOR / COMFORT / ERGONOMICS
 insulation,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
 petrol tank,fuel / energy / charging,POWERTRAIN / PERFORMANCE
+
 
 
 
