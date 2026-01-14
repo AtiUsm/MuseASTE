@@ -775,7 +775,7 @@ generation,packages / trims / variants,GENERAL INFORMATION
 nets,storage & utility,FUNCTIONAL / UTILITY FEATURES
 throttle response,engine / power train,POWERTRAIN / PERFORMANCE
 sea level,road terrain,HANDLING / DYNAMICS
-fuel economy,fuel / energy / charging,POWERTRAIN / PERFORMANCE
+fuel economy,distance / efficiency / mileage,DISTANCE / MEASUREMENT /  COST
 adaptive dampers,suspension,HANDLING / DYNAMICS
 sport mode suspension,suspension,HANDLING / DYNAMICS
 machine,generic description & miscellaneous,GENERAL INFORMATION
@@ -2886,6 +2886,7 @@ drive mode,driving dynamics / handling,HANDLING / DYNAMICS
 aluminium finish,interior materials & trim / finish,INTERIOR / COMFORT / ERGONOMICS
 insulation,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
 petrol tank,fuel / energy / charging,POWERTRAIN / PERFORMANCE
+
 
 
 
