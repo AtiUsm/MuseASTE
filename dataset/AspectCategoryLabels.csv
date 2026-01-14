@@ -609,7 +609,7 @@ paddle shifters,transmission,POWERTRAIN / PERFORMANCE
 tired,wheels & tyres,HANDLING / DYNAMICS
 sporting suspension,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
 practical side,storage & utility,FUNCTIONAL / UTILITY FEATURES
-automatic box,boot / cargo,FUNCTIONAL / UTILITY FEATURES
+automatic box,transmission,POWERTRAIN / PERFORMANCE
 goes over bumps,road terrain,HANDLING / DYNAMICS
 space saver,passenger space,INTERIOR / COMFORT / ERGONOMICS
 cabin noise,interior,INTERIOR / COMFORT / ERGONOMICS
@@ -2886,6 +2886,7 @@ drive mode,driving dynamics / handling,HANDLING / DYNAMICS
 aluminium finish,interior materials & trim / finish,INTERIOR / COMFORT / ERGONOMICS
 insulation,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
 petrol tank,fuel / energy / charging,POWERTRAIN / PERFORMANCE
+
 
 
 
