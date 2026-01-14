@@ -242,7 +242,7 @@ front bottom,front section,EXTERIOR / STYLING / DESIGN
 back,rear section,EXTERIOR / STYLING / DESIGN
 weirdness,emotional & sensory experience,EMOTIONAL / SENSORY / VISUAL
 shocks,driving dynamics / handling,HANDLING / DYNAMICS
-fuel consumption,fuel / energy / charging,POWERTRAIN / PERFORMANCE
+fuel consumption,distance / efficiency / mileage,DISTANCE / MEASUREMENT /  COST
 swiping zoom manoeuvres,gesture / motion controls,TECHNOLOGY / ELECTRONICS / SOFTWARE
 s line indicators,displays / instrumentation,TECHNOLOGY / ELECTRONICS / SOFTWARE
 emergency services button,functionality & features,FUNCTIONAL / UTILITY FEATURES
@@ -2886,6 +2886,7 @@ drive mode,driving dynamics / handling,HANDLING / DYNAMICS
 aluminium finish,interior materials & trim / finish,INTERIOR / COMFORT / ERGONOMICS
 insulation,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
 petrol tank,fuel / energy / charging,POWERTRAIN / PERFORMANCE
+
 
 
 
