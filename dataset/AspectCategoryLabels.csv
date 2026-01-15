@@ -339,7 +339,7 @@ m 7 60,model / generic car terms,GENERAL INFORMATION
 cruising ability,driver assistance,SAFETY
 petrol tank,fuel / energy / charging,POWERTRAIN / PERFORMANCE
 pillows,seats,INTERIOR / COMFORT / ERGONOMICS
-central locking sound,keys & lock,SAFETY
+central locking sound,audio,EMOTIONAL / SENSORY / VISUAL
 premium plus trim level,packages / trims / variants,GENERAL INFORMATION
 new audi rs three,model / generic car terms,GENERAL INFORMATION
 lift,boot / cargo,FUNCTIONAL / UTILITY FEATURES
@@ -1135,7 +1135,7 @@ drag,aerodynamics / airflow,EXTERIOR / STYLING / DESIGN
 steering sensitivity,steering,HANDLING / DYNAMICS
 stop start system,engine / power train,POWERTRAIN / PERFORMANCE
 backseat functions,functionality & features,FUNCTIONAL / UTILITY FEATURES
-warning sound,safety,SAFETY
+warning sound,audio,EMOTIONAL / SENSORY / VISUAL
 benefits,value / cost,DISTANCE / MEASUREMENT /  COST
 suspension spring,suspension,HANDLING / DYNAMICS
 glc c300,model / generic car terms,GENERAL INFORMATION
@@ -2886,6 +2886,7 @@ drive mode,driving dynamics / handling,HANDLING / DYNAMICS
 aluminium finish,interior materials & trim / finish,INTERIOR / COMFORT / ERGONOMICS
 insulation,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
 petrol tank,fuel / energy / charging,POWERTRAIN / PERFORMANCE
+
 
 
 
