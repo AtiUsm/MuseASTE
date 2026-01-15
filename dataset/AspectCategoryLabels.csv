@@ -1377,7 +1377,7 @@ headrest pillows,seats,INTERIOR / COMFORT / ERGONOMICS
 seatbelt,seats,INTERIOR / COMFORT / ERGONOMICS
 definition,emotional & sensory experience,EMOTIONAL / SENSORY / VISUAL
 hold feature,functionality & features,FUNCTIONAL / UTILITY FEATURES
-steering lock,steering,HANDLING / DYNAMICS
+steering lock,keys & lock,SAFETY
 x3,model / generic car terms,GENERAL INFORMATION
 front curves,design,EMOTIONAL / SENSORY / VISUAL
 sifting through menus,software / interaction,TECHNOLOGY / ELECTRONICS / SOFTWARE
@@ -1948,7 +1948,7 @@ tether points,boot / cargo,FUNCTIONAL / UTILITY FEATURES
 shift changes,transmission,POWERTRAIN / PERFORMANCE
 car wash,functionality & features,FUNCTIONAL / UTILITY FEATURES
 digital key,connectivity / integration,TECHNOLOGY / ELECTRONICS / SOFTWARE
-door locks,doors,EXTERIOR / STYLING / DESIGN
+door locks,keys & lock,SAFETY
 feel behind the steering,emotional & sensory experience,EMOTIONAL / SENSORY / VISUAL
 sport pack,packages / trims / variants,GENERAL INFORMATION
 upgraded all round air suspension,suspension,HANDLING / DYNAMICS
@@ -2886,6 +2886,7 @@ drive mode,driving dynamics / handling,HANDLING / DYNAMICS
 aluminium finish,interior materials & trim / finish,INTERIOR / COMFORT / ERGONOMICS
 insulation,comfort & ergonomics,INTERIOR / COMFORT / ERGONOMICS
 petrol tank,fuel / energy / charging,POWERTRAIN / PERFORMANCE
+
 
 
 
