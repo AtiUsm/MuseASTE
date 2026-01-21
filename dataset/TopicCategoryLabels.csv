@@ -1,4 +1,4 @@
-id,aspect,opinion,sentiment,category
+id,aspect,opinion,sentiment,topic
 23,-,-,-,unknown
 23,-,-,-,unknown
 23,graphic,drawn on by the child,neg,user-experience
