@@ -2,7 +2,7 @@ The contents of the folder is described below:
 
 - **Main dataset:** train.csv, devel.csv, contain transcripts and gold ASTE annotations.
 
-- **Full Dataset Folder:** Full dataset with transcripts, ASTE and category annotations
+- **Full Dataset Folder:** Full dataset with transcripts, ASTE and category annotations, objective and subjective anotations.
 - **Objective Anotations Folder:** Contains full factual annotations of objective attributes.
 - **Subjective Annotations Folder:** Contains full subjective ASTE and category annotations
   
