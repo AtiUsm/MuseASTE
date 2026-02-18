@@ -1,0 +1,228 @@
+id,Make,Model,Body Type,Cost,Drive,Fuel,Horsepower ,Revolutions per minute (rpm),Combined miles per gallon (mpg),0 to 60 time (seconds),Color,type_dataset,mpg_dataset,type_gold,model_dataset
+15,BMW,A5,Saloon,"$52,000 ",all wheel drive,hybrid,not mentioned,not mentioned,not mentioned,not mentioned,Grey,saloon,not mentioned,saloon,A5
+16,BMW,4 Series,Coupe,"$40,000 ",all wheel drive,not mentioned,240,not mentioned,20,not mentioned,"Blue, Grey",coupe,20,coupe,4 Series
+17,BMW,X3,Suv,"$42,000 ",rear wheel drive,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Black,suv,not mentioned,suv,X3
+18,BMW,i8,Roadster,"$137,000 ",not mentioned,electric,357,not mentioned,not mentioned,4.2,Silver,roadster,not mentioned,roadster,i8
+19,BMW,M2,Coupe,"$52,000 ",not mentioned,not mentioned,365,7000,not mentioned,4.2,Blue,not mentioned,not mentioned,coupe,M2
+20,BMW,X2,Coupe,"$53,000 ",front wheel drive,petrol,not mentioned,not mentioned,not mentioned,6,Red,coupe,not mentioned,coupe,X2
+21,BMW,X1,Suv,"$50,000 ",all wheel drive,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,White,suv,not mentioned,suv,X1
+22,BMW,i3,Hatchback,"$42,000 ",not mentioned,electric,not mentioned,not mentioned,not mentioned,7,Red,not mentioned,not mentioned,hatchback,i3
+23,BMW,E60 M5,Saloon,"86,000 euros",not mentioned,not mentioned,507,8000,not mentioned,not mentioned,Purple,not mentioned,not mentioned,saloon,E60 M5
+24,BMW,8 Series,Coupe,"£76,000",not mentioned,diesel,320,not mentioned,not mentioned,5,Orange,coupe,not mentioned,coupe,8 Series
+25,BMW,M5,Saloon,"£90,000",rear wheel drive,not mentioned,600,not mentioned,not mentioned,3.2,Blue,saloon,not mentioned,saloon,M5
+26,BMW,X1,Suv,"$42,000 ",all wheel drive,diesel,230,not mentioned,39,6.6,Grey,suv,39,suv,X1
+27,BMW,A4,Coupe,not mentioned,all wheel drive,diesel,230,not mentioned,60,not mentioned,Blue,coupe,60,coupe,A4
+28,BMW,3 Series,Saloon,not mentioned,all wheel drive,petrol,not mentioned,not mentioned,48,not mentioned,Grey,saloon,48,saloon,3 Series
+29,BMW,X4,Suv,"£43,000",all wheel drive,diesel,not mentioned,not mentioned,42,8,Red,suv,42,suv,X4
+30,BMW,5 Series,Saloon,not mentioned,rear wheel drive,petrol,not mentioned,not mentioned,54,8,White,saloon,54,saloon,5 Series
+31,BMW,M3,Saloon,"£59,000",not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,4,Grey,not mentioned,not mentioned,saloon,M3
+34,BMW,X3,Suv,not mentioned,not mentioned,diesel,not mentioned,not mentioned,48,6,Black,suv,48,suv,X3
+35,BMW,X5,Suv,not mentioned,not mentioned,petrol,not mentioned,not mentioned,35,not mentioned,Siver,not mentioned,35,suv,X5
+36,BMW,X5,Suv,"£57,000",all wheel drive,petrol,400,not mentioned,not mentioned,5.2,Black,suv,not mentioned,suv,X5
+37,BMW,3 Series,Saloon,"£34,000",all wheel drive,diesel,258,not mentioned,not mentioned,not mentioned,Blue,saloon,not mentioned,saloon,3 Series
+38,BMW,i8,Roadster,"$137,000 ",all wheel drive,hybrid,357,not mentioned,not mentioned,4.2,Silver,roadster,not mentioned,roadster,i8
+39,BMW,760 Li,Saloon,not mentioned,all wheel drive,not mentioned,610,not mentioned,not mentioned,not mentioned,Black,not mentioned,not mentioned,saloon,760LI
+40,BMW,X5,Suv,"£57,500",all wheel drive,diesel,not mentioned,not mentioned,29,6,Black,suv,29,suv,X5
+42,BMW,6 Series,Hatchback,"£48,000",all wheel drive,petrol,340,not mentioned,27,not mentioned,Black,hatchback,27,hatchback,6 Series
+43,BMW,i5,Estate,"£38,000",not mentioned,diesel,165,not mentioned,62,5.8,Grey,estate,62,estate,i5
+47,BMW,i3,Hatchback,not mentioned,not mentioned,hybrid,not mentioned,not mentioned,not mentioned,not mentioned,Grey,hatchback,not mentioned,hatchback,i3
+48,BMW,i3,Hatchback,not mentioned,not mentioned,electric,not mentioned,not mentioned,50.3,not mentioned,Red,not mentioned,50.3,hatchback,i3
+49,BMW,330e,Saloon,"£34,200",rear wheel drive,hybrid,249,not mentioned,99.9,6.1,Silver,not mentioned,99.9,saloon,330e
+50,BMW,i8,Coupe,not mentioned,not mentioned,hybrid,not mentioned,not mentioned,36.4,4.8,Black,not mentioned,36.4,coupe,i8
+51,BMW,i8,Coupe,not mentioned,not mentioned,hybrid,231,not mentioned,113,not mentioned,Blue,not mentioned,113,coupe,i8
+52,BMW,M135i,Hatchback,"£17,500",not mentioned,not mentioned,390,3000,not mentioned,not mentioned,Blue,not mentioned,not mentioned,hatchback,M135i
+53,BMW,Z4,Roadster,"£50,000",not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Grey,roadster,not mentioned,roadster,Z4
+54,BMW,3 Series,Saloon,not mentioned,not mentioned,diesel,not mentioned,not mentioned,not mentioned,not mentioned,Red,saloon,not mentioned,saloon,3 Series
+55,BMW,M6,Coupe,£94000,not mentioned,not mentioned,552,not mentioned,28,not mentioned,Red,not mentioned,28,coupe,M6
+56,BMW,3 Series,Saloon,not mentioned,all wheel drive,diesel,369,not mentioned,not mentioned,4.4,"White, Black",saloon,not mentioned,saloon,3 Series
+57,BMW,M5,Saloon,not mentioned,all wheel drive,electric,600,not mentioned,not mentioned,not mentioned,Blue,not mentioned,not mentioned,saloon,M5
+58,BMW,M2,Coupe,"$46,000 ",not mentioned,not mentioned,365,not mentioned,not mentioned,not mentioned,Blue,not mentioned,not mentioned,coupe,M2
+59,BMW,M3,Saloon,not mentioned,not mentioned,not mentioned,not mentioned,5500,not mentioned,not mentioned,White,not mentioned,not mentioned,saloon,M3
+60,BMW,M5,Saloon,"£73,000",not mentioned,not mentioned,552,not mentioned,not mentioned,4.4,Blue,not mentioned,not mentioned,saloon,M5
+61,BMW,M 760 Li,Saloon,"£135,000",all wheel drive,not mentioned,609,not mentioned,25,not mentioned,Purple,not mentioned,25,saloon,M 760li
+62,BMW,840d,Coupe,"£86,000",all wheel drive,diesel,320,not mentioned,33,5.1,Red,not mentioned,33,coupe,840d
+63,BMW,X3,Suv,£39000,all wheel drive,diesel,190,not mentioned,39,8,Silver,suv,39,suv,X3
+64,Mercedes-Benz,E Class,Saloon,not mentioned,not mentioned,diesel,200,not mentioned,55,7,Grey,saloon,55,saloon,E Class
+65,BMW,7 Series,Saloon,"£63,500",all wheel drive,diesel,300,not mentioned,52,5,White,saloon,52,saloon,7 Series
+66,BMW,E34 M5,Saloon,"60,000 euros",not mentioned,not mentioned,340,not mentioned,not mentioned,6.3,Black,not mentioned,not mentioned,saloon,E34 M5
+67,Mercedes-Benz,C 63 AMG,Coupe,"£62,000",rear wheel drive,not mentioned,510,not mentioned,21,3.9,Black,coupe,21,coupe,C 63 AMG
+68,Mercedes-Benz,250e,Saloon,"£20,000",not mentioned,electric,340,not mentioned,not mentioned,not mentioned,White,not mentioned,not mentioned,saloon,250e
+69,Mercedes-Benz,C 63 AMG,Saloon,"£73,000",not mentioned,not mentioned,510,not mentioned,not mentioned,4,Blue,not mentioned,not mentioned,saloon,C 63 AMG
+70,Mercedes-Benz,C 350e,Saloon,"£38,845",not mentioned,hybrid,293,not mentioned,25.9,5.9,Blue,not mentioned,25.9,saloon,C 350e 
+71,Mercedes-Benz,EQC,Suv,not mentioned,not mentioned,electric,not mentioned,not mentioned,not mentioned,5,White,suv,not mentioned,suv,EQC
+72,Mercedes-Benz,CLS,Saloon,"£58,000",not mentioned,diesel,not mentioned,not mentioned,48,5,Black,saloon,48,saloon,CLS
+73,BMW,M3,Saloon,"£56,000",not mentioned,not mentioned,425,not mentioned,not mentioned,4.1,Blue,not mentioned,not mentioned,saloon,M3
+74,BMW,1M,Coupe,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,27,not mentioned,Red,not mentioned,27,coupe,1M
+75,BMW,M3,Coupe,not mentioned,not mentioned,not mentioned,404,not mentioned,not mentioned,not mentioned,Silver,coupe,not mentioned,coupe,M3
+76,BMW,i8,Coupe,"£100,000",rear wheel drive,hybrid,228,not mentioned,35,4.4,White,not mentioned,35,coupe,i8
+77,BMW,X6,Crossover,not mentioned,all wheel drive,diesel,286,not mentioned,not mentioned,6.9,Grey,not mentioned,not mentioned,crossover,X6
+78,BMW,M3,Saloon,"£51,000",not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Red,not mentioned,not mentioned,saloon,M3
+79,BMW,i3,Hatchback,"£25,000",not mentioned,hybrid,168,not mentioned,not mentioned,7.2,Silver,hatchback,not mentioned,hatchback,i3
+80,Mercedes-Benz,A Class,Hatchback,"£26,000",all wheel drive,petrol,224,not mentioned,not mentioned,6,Grey,not mentioned,not mentioned,hatchback,A Class
+81,Mercedes-Benz,AMG GT R,Coupe,not mentioned,all wheel drive,not mentioned,577,not mentioned,not mentioned,3.6,Silver,not mentioned,not mentioned,coupe,AMG GT R
+82,Mercedes-Benz,AMG CLS 53,Saloon,"£65,000",rear wheel drive,petrol,577,not mentioned,not mentioned,not mentioned,Black,saloon,not mentioned,saloon,AMG CLS 53
+83,Mercedes-Benz,AMG GT C,Roadster,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Grey,roadster,not mentioned,roadster,AMG GT C 
+84,Mercedes-Benz,S Class,Saloon,"£72,000",all wheel drive,diesel,286,not mentioned,50,6,Grey,saloon,50,saloon,S Class
+85,Mercedes-Benz,63 AMG,Suv,"£100,000",rear wheel drive,not mentioned,500,not mentioned,not mentioned,4.2,White,suv,not mentioned,suv,63 AMG
+86,Mercedes-Benz,AMG GT R,Coupe,"£110,000",not mentioned,not mentioned,500,not mentioned,not mentioned,3.8,"Red, Grey",not mentioned,not mentioned,coupe,AMG GT-R
+87,Mercedes-Benz,AMG E 63 S,Saloon,not mentioned,all wheel drive,not mentioned,600,not mentioned,not mentioned,not mentioned,White,saloon,not mentioned,saloon,AMG E 63 S
+88,Mercedes-Benz,GLA,Suv,not mentioned,all wheel drive,petrol,not mentioned,not mentioned,43,6.6,Black,suv,43,suv,GLA
+89,Mercedes-Benz,A 45 AMG,Hatchback,"£37,000",all wheel drive,not mentioned,355,not mentioned,40,4.6,Silver,not mentioned,40,hatchback,A 45 AMG
+90,Mercedes-Benz,500E,Saloon,"$58,000 ",not mentioned,not mentioned,326,not mentioned,not mentioned,not mentioned,Black,saloon,not mentioned,saloon,500E
+91,Mercedes-Benz,ML,Suv,"£45,000",not mentioned,diesel,201,not mentioned,not mentioned,9,Black,not mentioned,not mentioned,suv,ML
+92,Mercedes-Benz,SLC,Convertible,"£32,000",front wheel drive,petrol,145,not mentioned,not mentioned,5.6,Black,convertible,not mentioned,convertible,SLC
+93,Mercedes-Benz,AMG GT 63 S,Saloon,not mentioned,all wheel drive,not mentioned,630,not mentioned,not mentioned,3.2,Blue,saloon,not mentioned,saloon,AMG GT 63 S
+94,Mercedes-Benz,AMG C 63,Saloon,"£67,000",not mentioned,not mentioned,470,not mentioned,not mentioned,not mentioned,Blue,not mentioned,not mentioned,saloon,AMG C 63
+95,Mercedes-Benz,GLA 45,Hatchback,not mentioned,not mentioned,not mentioned,355,not mentioned,not mentioned,not mentioned,Grey,hatchback,not mentioned,hatchback,GLA 45
+96,Mercedes-Benz,C Class,Coupe,not mentioned,not mentioned,diesel,not mentioned,not mentioned,57,7,Black,coupe,57,coupe,C Class
+97,Mercedes-Benz,SLS,Roadster,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Grey,not mentioned,not mentioned,roadster,SLS
+98,Mercedes-Benz,C Class,Saloon,"£40,000",not mentioned,diesel,not mentioned,not mentioned,not mentioned,8.1,Silver,not mentioned,not mentioned,saloon,C Class
+99,Mercedes-Benz,C Class,Hatchback,not mentioned,all wheel drive,diesel,not mentioned,not mentioned,65,6,White,hatchback,65,hatchback,C Class
+100,Mercedes-Benz,SLS,Roadster,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Red,roadster,not mentioned,roadster,SLS
+101,Mercedes-Benz,SL,Convertible,"£82,000",not mentioned,not mentioned,430,not mentioned,31,4.6,Red,not mentioned,31,convertible,SL
+103,Mercedes-Benz,AMG A 35,Hatchback,"£35,580",front wheel drive,not mentioned,300,not mentioned,not mentioned,not mentioned,Yellow,hatchback,not mentioned,hatchback,AMG A 35
+104,Mercedes-Benz,C Class,Coupe,"£35,000",not mentioned,diesel,not mentioned,not mentioned,61,not mentioned,Red,coupe,61,coupe,C Class 
+105,Mercedes-Benz,E Class,Coupe,"£40,000",all wheel drive,diesel,not mentioned,not mentioned,32,not mentioned,Black,coupe,32,coupe,E Class 
+106,Mercedes-Benz,E Class,Estate,"£37,000",not mentioned,diesel,not mentioned,not mentioned,57,not mentioned,Grey,estate,57,estate,E Class
+107,Mercedes-Benz,GLA,Crossover,"£60,000",not mentioned,diesel,not mentioned,not mentioned,40,not mentioned,Black,not mentioned,40,crossover,GLA
+108,Mercedes-Benz,S Class,Coupe,"£105,000",not mentioned,not mentioned,not mentioned,not mentioned,22,4.6,Grey,coupe,22,coupe,S Class 
+109,BMW,GLC,Suv,"£34,950",front wheel drive,diesel,204,not mentioned,35,not mentioned,"Silver, Black, Grey",suv,35,suv,GLC
+110,Mercedes-Benz,GLC,Suv,not mentioned,not mentioned,diesel,not mentioned,not mentioned,56,7.5,Grey,not mentioned,56,suv,GLC
+111,Mercedes-Benz,SLC 300,Coupe,"£56,000",rear wheel drive,petrol,245,not mentioned,not mentioned,not mentioned,Black,coupe,not mentioned,coupe,SLC 300
+112,Mercedes-Benz,G Class,Suv,"£143,000",not mentioned,not mentioned,585,not mentioned,18,4.5,Grey,not mentioned,18,suv,G Class/G 63
+113,Mercedes-Benz,CLA 45 AMG,Saloon,"£41,000",all wheel drive,not mentioned,355,not mentioned,40,not mentioned,Red,not mentioned,40,saloon,CLA 45 AMG
+114,Mercedes-Benz,C Class,Coupe,not mentioned,not mentioned,diesel,not mentioned,not mentioned,not mentioned,not mentioned,Grey,coupe,not mentioned,coupe,C Class
+115,Mercedes-Benz,E 63 AMG,Estate,"£74,400",not mentioned,not mentioned,518,not mentioned,not mentioned,not mentioned,White,estate,not mentioned,estate,E 63 AMG 
+116,Mercedes-Benz,SLS AMG,Roadster,"£160,000",not mentioned,not mentioned,563,not mentioned,not mentioned,not mentioned,White,not mentioned,not mentioned,roadster,SLS AMG
+117,Mercedes-Benz,AMG GT 63 S,Hatchback,"£135,000",all wheel drive,not mentioned,639,4000,not mentioned,not mentioned,Black,hatchback,not mentioned,hatchback,AMG GT 63 S
+118,Mercedes-Benz,AMG A 35,Hatchback,"£36,000",front wheel drive,petrol,306,3000,not mentioned,4.7,Grey,hatchback,not mentioned,hatchback,AMG A 35 
+122,Mercedes-Benz,S Class,Saloon,"£69,000",all wheel drive,petrol,not mentioned,not mentioned,50,6,Black,saloon,50,saloon,S Class
+125,Mercedes-Benz,A Class,Hatchback,"£20,000",all wheel drive,petrol,not mentioned,not mentioned,68,not mentioned,White,hatchback,68,hatchback,A class
+155,BMW,330i,Saloon,"$40,250 ",rear wheel drive,not mentioned,255,5000,30.5,5.6,Silver,saloon,"26 city, 36 highway (rear-wheel drive), 25 city, 34 highway (all-wheel drive)",saloon,330i
+157,BMW,X1,Suv,"$47,000 ",not mentioned,not mentioned,230,not mentioned,not mentioned,not mentioned,Blue,suv,not mentioned,suv,X1
+159,BMW,X7,Suv,"$73,900 ",all wheel drive,not mentioned,456,5500,20,5.8,Grey,suv,20,suv,X7
+160,BMW,Z4,Convertible,"$49,700 ",rear wheel drive,not mentioned,255,5000,25,5.2,Red,convertible,25,convertible,Z4
+162,BMW,X5,Suv,"$60,700 ",all wheel drive,not mentioned,456,5500,17,5.3,Black,suv,17,suv,X5
+163,BMW,M5,Saloon,"$102,700 ",all wheel drive,not mentioned,600,5700,15,3.2,Purple,saloon,15,saloon,M5
+165,BMW,2 Series,Coupe,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Black,not mentioned,not mentioned,coupe,2 Series
+166,BMW,320d,Saloon,not mentioned,not mentioned,diesel,not mentioned,not mentioned,not mentioned,not mentioned,Black,not mentioned,not mentioned,saloon,320d
+168,BMW,318i,Saloon,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Black,saloon,not mentioned,saloon,318i
+169,BMW,X5 4.8i,Hatchback,not mentioned,all wheel drive,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Silver,hatchback,not mentioned,hatchback,X5 4.8i
+171,BMW,M4,Coupe,"£46,000",not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Blue,not mentioned,not mentioned,coupe,M4
+173,BMW,X5M,Suv,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Grey,suv,not mentioned,suv,X5M
+175,BMW,i8,Coupe,"£85,000",not mentioned,hybrid,not mentioned,not mentioned,not mentioned,not mentioned,Silver,not mentioned,not mentioned,coupe,i8
+177,Mercedes-Benz,AMG GTS,Coupe,not mentioned,rear wheel drive,petrol,503,not mentioned,not mentioned,not mentioned,Red,not mentioned,not mentioned,coupe,AMG GTS
+178,Mercedes-Benz,AMG A45,Hatchback,"£50,000",all wheel drive,not mentioned,300,not mentioned,not mentioned,not mentioned,Grey,not mentioned,not mentioned,hatchback,AMG A45
+179,Mercedes-Benz,CLS 63 AMG,Saloon,"$70,000 ",not mentioned,not mentioned,577,6500,not mentioned,not mentioned,White,saloon,not mentioned,saloon,CLS 63 AMG
+180,Mercedes-Benz,A180,Hatchback,"£26,000",not mentioned,diesel,not mentioned,not mentioned,78,not mentioned,Black,not mentioned,78,hatchback,A180
+181,Mercedes-Benz,C200 CGI,Saloon,"$20,000 ",not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Silver,not mentioned,not mentioned,saloon,C200 CGI
+183,Mercedes-Benz,Sprinter Van,Van,"$40,000 ",not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,White,not mentioned,not mentioned,van,Sprinter Van
+184,Mercedes-Benz,E320,Convertible,"$144,000 ",not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,White,convertible,not mentioned,convertible,E320
+186,Mercedes-Benz,SLK350,Convertible,not mentioned,rear wheel drive,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Black,not mentioned,not mentioned,convertible,SLK350
+187,Audi,S4,Hatchback,"$50,200 ",all wheel drive,not mentioned,349,5400,21,4.4,Grey,hatchback,21,hatchback,S4
+188,Audi,A4,Saloon,"$37,400 ",front wheel drive,not mentioned,188,4200,23,5.1,Black,not mentioned,23,saloon,A4
+189,Audi,TT,Coupe,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Black,not mentioned,not mentioned,coupe,TT
+190,Audi,A1,Hatchback,"£20,000",not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Black,not mentioned,not mentioned,hatchback,A1
+191,Audi,A1,Hatchback,not mentioned,not mentioned,petrol,not mentioned,not mentioned,not mentioned,not mentioned,Black,not mentioned,not mentioned,hatchback,A1
+192,Audi,TT RS,Coupe,"$80,200 ",all wheel drive,not mentioned,400,not mentioned,22,3.6,Black,not mentioned,"{'city': 19, 'highway': 29, 'combined':22}",coupe,TT RS
+194,Audi,RS4,Estate,not mentioned,all wheel drive,not mentioned,444,not mentioned,not mentioned,not mentioned,Green,not mentioned,not mentioned,estate,RS4
+196,Audi,R8,Coupe,not mentioned,all wheel drive,petrol,420,not mentioned,not mentioned,4.6,Silver,not mentioned,not mentioned,coupe,R8
+198,Audi,A1,Hatchback,not mentioned,all wheel drive,petrol,not mentioned,not mentioned,30,not mentioned,Blue,not mentioned,30,hatchback,A1
+199,Audi,A8,Hatchback,not mentioned,not mentioned,not mentioned,200,not mentioned,not mentioned,not mentioned,White,hatchback,not mentioned,hatchback,A8
+201,Audi,A3,Hatchback,"£26,000",not mentioned,not mentioned,not mentioned,not mentioned,59.5,7,Red,not mentioned,50 and 69,hatchback,A3
+202,Audi,TT RS,Hatchback,"291,000 dirhams",all wheel drive,not mentioned,114,not mentioned,not mentioned,3.7,Red,hatchback,not mentioned,hatchback,TT RS
+204,Audi,RS 7,Hatchback,"£50,000",all wheel drive,not mentioned,367,not mentioned,34.9,4.3,White,not mentioned,34.9,hatchback,RS 7
+205,Audi,S4,Saloon,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,saloon,not mentioned,saloon,S4
+207,Audi,S3,Saloon,"£35,000",not mentioned,not mentioned,297,not mentioned,not mentioned,not mentioned,Blue,not mentioned,not mentioned,saloon,S3
+208,Audi,S1,Estate,"£35,000",all wheel drive,diesel,231,not mentioned,not mentioned,not mentioned,Blue,estate,not mentioned,estate,S1
+210,Audi,RS6,Hatchback,not mentioned,not mentioned,hybrid,650,not mentioned,not mentioned,not mentioned,Black,hatchback,not mentioned,hatchback,RS6
+211,Audi,X3,Suv,"£33,000",all wheel drive,petrol,310,not mentioned,not mentioned,4.6,Blue,suv,not mentioned,suv,X3
+212,Mercedes-Benz,GLC 43,Convertible,"$56,000 ",all wheel drive,not mentioned,362,6500,not mentioned,4.8,White,convertible,not mentioned,convertible,GOC 43
+213,Mercedes-Benz,SLC 300,Hatchback,"$49,000 ",rear wheel drive,not mentioned,362,not mentioned,not mentioned,4.6,Red,hatchback,not mentioned,hatchback,SL C300
+214,Audi,A5,Hatchback,"£33,000",front wheel drive,petrol,190,not mentioned,68,4.7,White,hatchback,68,hatchback,A5
+215,Audi,AMG GT,Coupe,"$110,000 ",not mentioned,not mentioned,600,2000,23,3.7,Yellow,coupe,23,coupe,AMG GT
+216,Mercedes-Benz,C Class,Saloon,"$36,000 ",all wheel drive,not mentioned,302,not mentioned,not mentioned,not mentioned,Red,not mentioned,not mentioned,saloon,C Class
+217,Mercedes-Benz,C Class,Convertible,"$40,000 ",all wheel drive,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Silver,convertible,not mentioned,convertible,C Class
+218,Mercedes-Benz,AMG GT C,Suv,"$120,000 ",not mentioned,not mentioned,469,not mentioned,not mentioned,3.9,Grey,suv,not mentioned,suv,AMG GT C
+219,Audi,Q5,Saloon,"£36,000",all wheel drive,petrol,not mentioned,not mentioned,not mentioned,5,Purple,saloon,not mentioned,saloon,Q5
+220,Mercedes-Benz,S Class,Suv,"$53,000 ",all wheel drive,hybrid,400,not mentioned,24,not mentioned,Black,suv,24,suv,S Class
+221,Mercedes-Benz,GL,Coupe,"$53,000 ",not mentioned,hybrid,not mentioned,not mentioned,not mentioned,5.5,Red,coupe,not mentioned,coupe,GL 
+222,Audi,TT,Saloon,not mentioned,front wheel drive,diesel,250,not mentioned,40,not mentioned,Red,saloon,40,saloon,TT
+223,Mercedes-Benz,S Class,Coupe,"$94,000 ",rear wheel drive,not mentioned,449,not mentioned,not mentioned,4.8,Black,coupe,not mentioned,coupe,S Class
+224,Mercedes-Benz,CLA,Saloon,"$30,000 ",front wheel drive,hybrid,355,not mentioned,38,7,Red,not mentioned,38,saloon,CLA
+225,Audi,A6,Saloon,not mentioned,front wheel drive,petrol,190,not mentioned,45,8,Black,saloon,45,saloon,A6
+226,Mercedes-Benz,SLS AMG,Suv,"$183,000 ",not mentioned,not mentioned,563,5000,not mentioned,not mentioned,Grey,suv,not mentioned,suv,SLS AMG
+227,Mercedes-Benz,GLC,Suv,"$40,000 ",all wheel drive,diesel,362,not mentioned,not mentioned,not mentioned,Blue,suv,not mentioned,suv,GLC
+228,Mercedes-Benz,GLE,Suv,"$52,000 ",rear wheel drive,diesel,not mentioned,not mentioned,not mentioned,not mentioned,Grey,not mentioned,not mentioned,suv,GLE
+229,Mercedes-Benz,AMG C 63,Hatchback,not mentioned,not mentioned,not mentioned,451,not mentioned,12,4.3,Silver,hatchback,12,hatchback,AMG C 63
+230,Audi,A7,Hatchback,"£55,000",all wheel drive,hybrid,286,not mentioned,not mentioned,5.7,Grey,hatchback,not mentioned,hatchback,A7
+231,Mercedes-Benz,GLA 250,Saloon,"$49,000 ",all wheel drive,not mentioned,208,not mentioned,not mentioned,4.8,"Blue, Red",saloon,not mentioned,saloon,GLA 250
+232,Audi,S4,Estate,"$52,000 ",all wheel drive,not mentioned,354,2000,32.4,not mentioned,White,estate,32.4,estate,S4
+233,Audi,A4,Saloon,£28000,all wheel drive,petrol,190,not mentioned,61,5,Red,saloon,61,saloon,A4
+234,Audi,A3,Suv,"$45,000 ",all wheel drive,petrol,170,not mentioned,not mentioned,7,Blue,suv,not mentioned,suv,A3
+235,Audi,Q7,Suv,"$56,000 ",all wheel drive,diesel,not mentioned,not mentioned,not mentioned,6,Silver,suv,not mentioned,suv,Q7
+236,Audi,Q2,Suv,"£20,000",all wheel drive,petrol,not mentioned,not mentioned,51,not mentioned,White,suv,51,suv,Q2
+237,Audi,Q5,Convertible,"$57,000 ",all wheel drive,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Black,convertible,not mentioned,convertible,Q5
+238,Audi,TT,Coupe,"$44,000 ",all wheel drive,not mentioned,220,6500,23,5,Red,coupe,23,coupe,TT
+239,Audi,RS5,Coupe,"$70,000 ",all wheel drive,not mentioned,450,8500,not mentioned,4.5,"White, Grey, Red",not mentioned,not mentioned,coupe,RS5
+240,Audi,A1,Saloon,not mentioned,not mentioned,petrol,not mentioned,not mentioned,not mentioned,not mentioned,Grey,saloon,not mentioned,saloon,A1
+241,Audi,A4,Saloon,"$54,500 ",all wheel drive,not mentioned,252,not mentioned,38.4,5,Black,not mentioned,38.4,saloon,A4
+242,Audi,R8,Convertible,"$150,000 ",rear wheel drive,not mentioned,525,8700,15,4,White,convertible,15,convertible,R8
+243,Audi,R8,Suv,"$175,000 ",all wheel drive,not mentioned,550,not mentioned,not mentioned,not mentioned,"Orange, Blue, White",suv,not mentioned,suv,R8
+244,Audi,Q3,Suv,"$34,000 ",front wheel drive,not mentioned,not mentioned,not mentioned,20,not mentioned,Black,suv,20,suv,Q3
+245,Audi,Q3,Suv,"£26,000",front wheel drive,diesel,180,not mentioned,53,not mentioned,Blue,not mentioned,53,suv,Q3
+246,Audi,E Tron,Saloon,not mentioned,not mentioned,electric,not mentioned,not mentioned,not mentioned,not mentioned,black-white-red,saloon,not mentioned,saloon,E Tron
+247,Audi,A8,Suv,"£63,500",not mentioned,diesel,not mentioned,not mentioned,47,6,Grey,suv,47,suv,A8
+248,Audi,E Tron,Suv,"£71,500",all wheel drive,electric,not mentioned,not mentioned,not mentioned,5.7,Red,not mentioned,not mentioned,suv,E Tron
+249,Audi,R8,Suv,"£135,000",all wheel drive,not mentioned,610,not mentioned,20,3.2,Yellow,suv,20,suv,R8
+250,Audi,Q8,Estate,"£65,000",all wheel drive,diesel,not mentioned,not mentioned,not mentioned,not mentioned,Yellow,estate,not mentioned,estate,Q8
+251,Audi,SQ7,Saloon,"70,000 quid",not mentioned,hybrid,435,70000,not mentioned,4.9,Grey,saloon,not mentioned,saloon,SQ7
+252,Audi,A3,Suv,"£24,000",front wheel drive,not mentioned,148,not mentioned,not mentioned,not mentioned,Silver,suv,not mentioned,suv,A3
+253,Audi,Q5,Suv,"£37,000",all wheel drive,diesel,190,not mentioned,56,7.9,Silver,not mentioned,56,suv,Q5
+254,Audi,RS4,Saloon,not mentioned,all wheel drive,not mentioned,not mentioned,8250,not mentioned,not mentioned,Red,saloon,not mentioned,saloon,RS4
+255,Audi,A6,Hatchback,"$30,000 ",front wheel drive,diesel,not mentioned,not mentioned,not mentioned,not mentioned,Black,hatchback,not mentioned,hatchback,A6
+256,Audi,TT,Coupe,not mentioned,all wheel drive,not mentioned,306,not mentioned,not mentioned,not mentioned,Yellow,not mentioned,not mentioned,coupe,TT
+257,Audi,R8,Suv,not mentioned,all wheel drive,not mentioned,152,not mentioned,not mentioned,not mentioned,White,suv,not mentioned,suv,R8
+258,Audi,Q3,Suv,"£30,000",rear wheel drive,petrol,not mentioned,not mentioned,37,not mentioned,Blue,not mentioned,37,suv,Q3
+259,Audi,RS5,Coupe,"£54,000",all wheel drive,not mentioned,444,not mentioned,not mentioned,not mentioned,Red,not mentioned,not mentioned,coupe,RS5
+261,Audi,RS5,Hatchback,"£57,480",not mentioned,not mentioned,444,not mentioned,not mentioned,not mentioned,Red,hatchback,not mentioned,hatchback,RS5
+262,Audi,A1,Estate,"£30,100",not mentioned,not mentioned,444,not mentioned,45,10,Blue,estate,45,estate,A1
+263,Audi,RS6,Estate,"£77,000",all wheel drive,not mentioned,572,6500,not mentioned,not mentioned,Silver,not mentioned,not mentioned,estate,RS6
+264,Audi,Q5,Saloon,not mentioned,all wheel drive,diesel,not mentioned,not mentioned,not mentioned,not mentioned,Grey,saloon,not mentioned,saloon,Q5
+266,Audi,A8,Suv,£80000,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,5,Silver,suv,not mentioned,suv,A8
+267,Audi,Q3,Estate,"£24,000",front wheel drive,not mentioned,138,not mentioned,not mentioned,not mentioned,Grey,estate,not mentioned,estate,Q3
+268,Audi,A6,Estate,"£41,000,",not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,Silver,estate,not mentioned,estate,A6
+269,Audi,RS4,Estate,"£60,000",rear wheel drive,not mentioned,450,not mentioned,32,4.1,Grey,not mentioned,32,estate,RS4
+270,Audi,A4,Saloon,not mentioned,front wheel drive,petrol,190,not mentioned,67,not mentioned,Red,not mentioned,67,saloon,A4
+271,Audi,A5,Hatchback,"£43,000",front wheel drive,petrol,190,not mentioned,64,7.7,Blue,hatchback,64,hatchback,A5
+272,Audi,RS3,Hatchback,"£65,000",all wheel drive,not mentioned,400,not mentioned,not mentioned,4.1,Silver,hatchback,not mentioned,hatchback,RS3
+273,Audi,A3,Crossover,£32000,all wheel drive,petrol,not mentioned,not mentioned,67,not mentioned,Grey,crossover,67,crossover,A3
+274,Audi,Q8,Suv,"£65,000",all wheel drive,diesel,286,not mentioned,34,6.3,Yellow,suv,34,suv,Q8
+275,Mercedes-Benz,GLK350,Suv,"$36,000 ",all wheel drive,not mentioned,260,not mentioned,16.7,7,Red,suv,16.7,suv,GLK350
+276,Mercedes-Benz,SL,Convertible,"$120,000 ",not mentioned,not mentioned,429,not mentioned,19,4.15,Purple,not mentioned,19,convertible,SL
+277,Mercedes-Benz,SL 450,Coupe,"$108,000 ",not mentioned,not mentioned,362,not mentioned,not mentioned,4.9,Red,coupe,not mentioned,coupe,SL 450
+278,Mercedes-Benz,E 350,Suv,not mentioned,all wheel drive,not mentioned,302,6500,not mentioned,7.18,Black,suv,not mentioned,suv,E 350
+279,Mercedes-Benz,GL 63 AMG,Saloon,"$127,000 ",not mentioned,not mentioned,550,not mentioned,not mentioned,5.43,Black,saloon,not mentioned,saloon,GL 63 AMG
+280,Mercedes-Benz,C Class,Coupe,"$38,000 ",all wheel drive,not mentioned,329,not mentioned,20,not mentioned,Silver,coupe,20,coupe,C class
+281,Mercedes-Benz,C300,Saloon,"$57,000 ",rear wheel drive,petrol,241,not mentioned,not mentioned,not mentioned,Blue,not mentioned,not mentioned,saloon,C300
+282,Mercedes-Benz,AMG G 63,Estate,"$167,000 ",all wheel drive,diesel,577,not mentioned,not mentioned,4.5,Blue,estate,not mentioned,estate, AMG G 63
+283,Mercedes-Benz,E350,Convertible,not mentioned,not mentioned,not mentioned,302,not mentioned,not mentioned,not mentioned,Silver,convertible,not mentioned,convertible,E350 
+284,Mercedes-Benz,E550,Hatchback,"$85,000 ",not mentioned,diesel,401,not mentioned,not mentioned,5.5,"Grey (out), Red (inside)",hatchback,not mentioned,hatchback,E550
+285,Audi,A7,Hatchback,"$70,000 ",all wheel drive,hybrid,335,not mentioned,25,5.2,Grey,not mentioned,25,hatchback,A7
+286,Audi,RS5,Coupe,"$69,900 ",all wheel drive,not mentioned,443,3000,23,3.7," Green, Grey",not mentioned,23,coupe,RS5
+287,Audi,S4,Saloon,"$51,000 ",all wheel drive,not mentioned,354,not mentioned,30,4.4,Red,not mentioned,30,saloon,S4
+288,Audi,S3,Saloon,"$42,900 ",all wheel drive,electric,292,not mentioned,24,4.7,White,saloon,"{'city mpg': 21, 'highway mpg': 20, 'combined mpg': 24}",saloon,S3
+289,Audi,A6,Suv,not mentioned,front wheel drive,not mentioned,252,not mentioned,26,not mentioned,Red,suv,26,suv,A6
+290,Audi,Q5,Saloon,"$51,000 ",not mentioned,diesel,240,not mentioned,30,7.18,White,saloon,30,saloon,Q5
+291,Audi,A8,Hatchback,"$84,000 ",all wheel drive,hybrid,335,not mentioned,not mentioned,5.6,Silver,hatchback,not mentioned,hatchback,A8
+292,Audi,A5,Coupe,"$42,000 ",rear wheel drive,not mentioned,252,not mentioned,27,5.7,Grey,not mentioned,27,coupe,A5
+293,Audi,S4,Suv,not mentioned,all wheel drive,not mentioned,330,not mentioned,not mentioned,5,White,suv,not mentioned,suv,S4
+294,BMW,X5,Crossover,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,not mentioned,White,crossover,not mentioned,crossover,X5
+295,BMW,X4,Coupe,"$70,000 ",all wheel drive,not mentioned,248,1500,20,4.6,Black,coupe,20,coupe,X4
+296,BMW,428i,Coupe,"$42,000 ",all wheel drive,not mentioned,240,1250,27,5.7,Black,not mentioned,27,coupe,428i 
+297,BMW,750i,Saloon,"$130,000 ",not mentioned,not mentioned,440,not mentioned,not mentioned,4.93,Black,saloon,not mentioned,saloon,750i 
+298,BMW,328i,Hatchback,not mentioned,not mentioned,not mentioned,240,not mentioned,not mentioned,not mentioned,Black,hatchback,not mentioned,hatchback,328i
+300,BMW,650i,Estate,"$100,000 ",all wheel drive,not mentioned,400,not mentioned,15.6,5,White,estate,15.6,estate,650i 
+301,BMW,X1,Suv,"$48,000 ",all wheel drive,not mentioned,300,not mentioned,not mentioned,6.1,Silver,suv,not mentioned,suv,X1
+302,BMW,X5,Coupe,"$74,000 ",all wheel drive,diesel,315,7000,18.2,7.83,White,coupe,18.2,coupe,X5
+303,BMW,650i,Coupe,"$97,825 ",not mentioned,not mentioned,400,not mentioned,15,not mentioned,Grey,coupe,15,coupe,650i
