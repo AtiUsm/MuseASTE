@@ -137,7 +137,7 @@ id,Make,Model,Body Type,Cost,Drive,Fuel,Horsepower,Revolutions per minute (rpm),
 208,Audi,S1,Estate,42700,all wheel drive,diesel,231,,,,Blue
 210,Audi,RS6,Hatchback,,not mentioned,hybrid,650,,,,Black
 211,Audi,X3,Suv,40260,all wheel drive,petrol,310,,,4.6,Blue
-212,Mercedes-Benz,GLC 43,Convertible,56000,all wheel drive,not mentioned,362,6500,,4.8,White
+212,Mercedes-Benz,GLC 43,Crossover,56000,all wheel drive,not mentioned,362,6500,,4.8,White
 213,Mercedes-Benz,SLC 300,Hatchback,49000,rear wheel drive,not mentioned,362,,,4.6,Red
 214,Audi,A5,Hatchback,40260,front wheel drive,petrol,190,,68,4.7,White
 215,Audi,AMG GT,Coupe,110000,not mentioned,not mentioned,600,2000,23,3.7,Yellow
@@ -226,3 +226,4 @@ id,Make,Model,Body Type,Cost,Drive,Fuel,Horsepower,Revolutions per minute (rpm),
 301,BMW,X1,Suv,48000,all wheel drive,not mentioned,300,,,6.1,Silver
 302,BMW,X5,Coupe,74000,all wheel drive,diesel,315,7000,18.2,7.83,White
 303,BMW,650i,Coupe,97825,not mentioned,not mentioned,400,,15,,Grey
+
