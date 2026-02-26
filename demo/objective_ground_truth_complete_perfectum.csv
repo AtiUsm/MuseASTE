@@ -137,7 +137,7 @@ id,Make,Model,Body Type,Cost,Drive,Fuel,Horsepower ,Revolutions per minute (rpm)
 208,Audi,S1,Estate,"£35,000",all wheel drive,diesel,231,not mentioned,not mentioned,not mentioned,Blue,estate,not mentioned,estate,S1
 210,Audi,RS6,Hatchback,not mentioned,not mentioned,hybrid,650,not mentioned,not mentioned,not mentioned,Black,hatchback,not mentioned,hatchback,RS6
 211,Audi,X3,Suv,"£33,000",all wheel drive,petrol,310,not mentioned,not mentioned,4.6,Blue,suv,not mentioned,suv,X3
-212,Mercedes-Benz,GLC 43,Convertible,"$56,000 ",all wheel drive,not mentioned,362,6500,not mentioned,4.8,White,convertible,not mentioned,convertible,GOC 43
+212,Mercedes-Benz,GLC 43,Crossover,"$56,000 ",all wheel drive,not mentioned,362,6500,not mentioned,4.8,White,convertible,not mentioned,convertible,GOC 43
 213,Mercedes-Benz,SLC 300,Hatchback,"$49,000 ",rear wheel drive,not mentioned,362,not mentioned,not mentioned,4.6,Red,hatchback,not mentioned,hatchback,SL C300
 214,Audi,A5,Hatchback,"£33,000",front wheel drive,petrol,190,not mentioned,68,4.7,White,hatchback,68,hatchback,A5
 215,Audi,AMG GT,Coupe,"$110,000 ",not mentioned,not mentioned,600,2000,23,3.7,Yellow,coupe,23,coupe,AMG GT
@@ -226,4 +226,5 @@ id,Make,Model,Body Type,Cost,Drive,Fuel,Horsepower ,Revolutions per minute (rpm)
 301,BMW,X1,Suv,"$48,000 ",all wheel drive,not mentioned,300,not mentioned,not mentioned,6.1,Silver,suv,not mentioned,suv,X1
 302,BMW,X5,Coupe,"$74,000 ",all wheel drive,diesel,315,7000,18.2,7.83,White,coupe,18.2,coupe,X5
 303,BMW,650i,Coupe,"$97,825 ",not mentioned,not mentioned,400,not mentioned,15,not mentioned,Grey,coupe,15,coupe,650i
+
 
