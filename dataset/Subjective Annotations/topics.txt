@@ -9,3 +9,4 @@ general-information  6
 cost  7
 user-experience  8
 exterior-features  9
+unknown -1
