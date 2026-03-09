@@ -126,7 +126,8 @@ This demo gives you a sneak-peek in to one of our cars of our dataset. We create
 
 
 Requirements:
-@@ -129,45 +11,17 @@ pip install matplotlib
+```
+pip install matplotlib
 pip install streamlit
 pip install networkx
 pip install streamit-extras
@@ -178,4 +179,5 @@ streamlit run demo.py
 
 ### License
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/). This work is licensed under a [Creative Commons Attribution-NonCommercial-4.0-International License](http://creativecommons.org/licenses/by-nc/4.0/) for Noncommercial (academic & research) purposes only and must not be used for any other purpose without the author's explicit permission.
+
 ```
