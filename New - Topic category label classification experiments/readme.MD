@@ -40,6 +40,10 @@ This repository contains the code, data setup, and results for **topic classific
 
 ├── results_triple wise labels/ # Model outputs, checkpoints, metrics, confusion matrices for new labels
 
+├── requirements.txt #  Install Dependencies
+
+├── environment.yml # Conda environment File
+
 └── README.md                         # This file
 
 ## Usage
@@ -47,6 +51,10 @@ This repository contains the code, data setup, and results for **topic classific
 1. **Install dependencies:**
 
 pip install -r requirements.txt
+
+Or
+
+conda env create -f demo_run_environment.yml
 
 2. **Run training:**
 
@@ -63,5 +71,6 @@ python scripts/train_ddp_albert.py --no_train False --no_eval_final False
 
 - Code uses **PyTorch DDP** for multi-GPU training. The code requires at least one GPU
 - Fine-grained labels are at **triple-level granularity**; older labels are at**triple-level granularity** for baseline comparison, andcan be accessed in original muse dataset and not included here.
+
 
 
