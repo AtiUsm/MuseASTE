@@ -27,12 +27,19 @@ This repository contains the code, data setup, and results for **topic classific
 
 .
 ├── train136.csv                     # Training data (136 videos)
+
 ├── devel45.csv                      # Development data (45 videos)
+
 ├── test46.csv                        # Test data (46 videos, subset available)
+
 ├── topic_class_mapping_MuSe2020.csv # Mapping of topic labels
+
 ├── trainnewdd.py           # Main distributed training script
+
 ├── results_segment wise old labels/ # Model outputs, checkpoints, metrics, confusion matrices for old labels
+
 ├── results_triple wise labels/ # Model outputs, checkpoints, metrics, confusion matrices for new labels
+
 └── README.md                         # This file
 
 ## Usage
@@ -56,4 +63,5 @@ python scripts/train_ddp_albert.py --no_train False --no_eval_final False
 
 - Code uses **PyTorch DDP** for multi-GPU training. The code requires at least one GPU
 - Fine-grained labels are at **triple-level granularity**; older labels are at**triple-level granularity** for baseline comparison, andcan be accessed in original muse dataset and not included here.
+
 
