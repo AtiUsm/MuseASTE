@@ -1,4 +1,4 @@
-# Fine-Grained Topic Classification with ALBERT — MuSe Dataset
+# Fine-Grained Topic Classification with ALBERT — MuSeCarASTE Dataset
 
 This repository contains the code, data setup, and results for **topic classification using new fine-grained triple-level labels**.
 
@@ -71,6 +71,7 @@ python scripts/train_ddp_albert.py --no_train False --no_eval_final False
 
 - Code uses **PyTorch DDP** for multi-GPU training. The code requires at least one GPU
 - Fine-grained labels are at **triple-level granularity**; older labels are at**triple-level granularity** for baseline comparison, andcan be accessed in original muse dataset and not included here.
+
 
 
 
