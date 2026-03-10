@@ -24,8 +24,7 @@ This repository contains the code, data setup, and results for **topic classific
 > **Note:** All experiments used identical segments for both labels for a fair comparison. Segments that do not yield any triple were dropped since fine-grained triple-level labels do not apply and are not aligned with them.
 
 ## Directory Structure
-
-──
+.
 
 ├── train136.csv                     # Training data (136 videos)
 
@@ -72,6 +71,7 @@ python scripts/train_ddp_albert.py --no_train False --no_eval_final False
 
 - Code uses **PyTorch DDP** for multi-GPU training. The code requires at least one GPU
 - Fine-grained labels are at **triple-level granularity**; older labels are at **segment-level granularity** for baseline comparison, and can be accessed in original muse dataset and not included here.
+
 
 
 
