@@ -56,11 +56,12 @@ Or
 
 conda env create -f environment.yml
 
-2. **Run training:**
+2. **Run training & evaluation:**
 
-python trainewdd.py --no_train False --no_eval_final False
+python trainewdd.py 
 
 > This launches distributed training on all available GPUs.
+
 
 3. **Evaluation and metrics:**
    - F1, UAR, and TopicScore are automatically computed and saved.
@@ -71,6 +72,7 @@ python trainewdd.py --no_train False --no_eval_final False
 
 - Code uses **PyTorch DDP** for multi-GPU training. The code requires at least one GPU
 - Fine-grained labels are at **triple-level granularity**; older labels are at **segment-level granularity** for baseline comparison, and can be accessed in original muse dataset and not included here.
+
 
 
 
