@@ -1,10 +1,11 @@
-# Fine-Grained Topic Classification with ALBERT — MuSeCarASTE Dataset
+# Fine-Grained Topic Classification, Base Category Classification and Main Category with ALBERT — MuSeCarASTE Dataset
 
-This repository contains the code, data setup, and results for **topic classification using new fine-grained triple-level labels**.
+This repository contains the code, data setup, and results for **topic classification using new fine-grained triple-level labels**, base category claafication, and main category classifcation.
 
 ## Experiment Overview
 
 - **Goal:** Compare topic classification performance using **fine-grained triple-level labels** vs. original MuSe segment-level labels.
+             Base and Main Category Classification performance
 - **Dataset:** MuSe dataset devel and train file with **subject-level split**:
   - Training: 136 videos  
   - Development: 45 videos  
@@ -15,13 +16,28 @@ This repository contains the code, data setup, and results for **topic classific
 
 ## Results
 
+1. Topic Category (triple and segment wise)
+
 | Label Type | F1 Score test | Notes |
 |------------|---------------|-------|
 | Fine-grained triple-level labels | 82 | Current experiment |
 | MuSe segment-level labels (original) | 70 | Baseline |
 
+2. Base Category 
 
-> **Note:** All experiments used identical segments for both labels for a fair comparison. Segments that do not yield any triple were dropped since fine-grained triple-level labels do not apply and are not aligned with them.
+| Label Type | F1 Score test | Notes |
+|------------|---------------|-------|
+| Base Aspect labels | 95 | score on all test |
+| Base Aspect unseen | 81 |  score on 792 useen aspect|
+
+
+2. Main Category 
+
+| Label Type | F1 Score test | Notes |
+|------------|---------------|-------|
+| Main Category | 99 | current experiment |
+
+> **Note:** All experiments used identical segments for all labels for a fair comparison. Segments that do not yield any triple were dropped since fine-grained triple-level labels do not apply and are not aligned with them.
 
 ## Directory Structure
 .
@@ -34,11 +50,19 @@ This repository contains the code, data setup, and results for **topic classific
 
 ├── topic_class_mapping_MuSe2020.csv # Mapping of topic labels
 
-├── trainnewdd.py           # Main distributed training script
+├── museaste_base_class_mapping.csv # Mapping of base category labels
 
-├── results_segment wise old labels/ # Model outputs, checkpoints, metrics, confusion matrices for old labels
+├── museaste_MAIN_CATEGORY_mapping.csv # Mapping of main category labels
 
-├── results_triple wise labels/ # Model outputs, checkpoints, metrics, confusion matrices for new labels
+├── TrainCategory.py           # Main distributed training script
+
+├── results_segment wise old labels/ # Model outputs, checkpoints, metrics, confusion matrices for old topic labels
+
+├── results_triple wise labels/ # Model outputs, checkpoints, metrics, confusion matrices for new topic labels
+
+├── results base category/ # Model outputs, checkpoints, metrics, confusion matrices for new base labels
+
+├── results main category/ # Model outputs, checkpoints, metrics, confusion matrices for new main labels
 
 ├── requirements.txt #  Install Dependencies
 
@@ -58,7 +82,9 @@ conda env create -f environment.yml
 
 2. **Run training & evaluation:**
 
-python trainewdd.py 
+python  TrainCategory.py --category main
+python TrainCategory.py --no_train --category base
+python TrainCategory.py --no_eval --category topic
 
 > This launches distributed training on all available GPUs.
 
