@@ -83,7 +83,9 @@ conda env create -f environment.yml
 2. **Run training & evaluation:**
 
 python  TrainCategory.py --category main
+
 python TrainCategory.py --no_train --category base
+
 python TrainCategory.py --no_eval --category topic
 
 > This launches distributed training on all available GPUs.
