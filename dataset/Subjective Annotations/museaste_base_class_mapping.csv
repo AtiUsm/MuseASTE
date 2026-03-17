@@ -1,0 +1,70 @@
+id,base_category
+0,acceleration
+1,aerodynamics / airflow
+2,audio
+3,body class
+4,body type
+5,bonnet
+6,boot / cargo
+7,brake
+8,build quality / construction
+9,bumper
+10,cameras
+11,chassis / structural
+12,climate / temperature control
+13,comfort & ergonomics
+14,connectivity / integration
+15,cornering
+16,design
+17,dimensions & measurements
+18,displays / instrumentation
+19,distance / efficiency / mileage
+20,doors
+21,drive
+22,driver assistance
+23,driving dynamics / handling
+24,emotional & sensory experience
+25,engine / power train
+26,equipment
+27,exhaust
+28,exterior materials & finish
+29,front section
+30,fuel / energy / charging
+31,functionality & features
+32,generic description & miscellaneous
+33,gesture / motion controls
+34,grill
+35,interior
+36,interior materials & trim / finish
+37,keys & lock
+38,lighting / indicators
+39,mirrors
+40,model / generic car terms
+41,navigation / mapping
+42,options & specifications
+43,packages / trims / variants
+44,parking
+45,passenger space
+46,performance
+47,physical controls
+48,quality & durability
+49,rear section
+50,road terrain
+51,roof
+52,safety
+53,seats
+54,side section
+55,software / interaction
+56,steering
+57,storage & utility
+58,suspension
+59,technology
+60,traction / stability
+61,transmission
+62,value / cost
+63,visibility & view
+64,voice & commands
+65,weight
+66,wheels & tyres
+67,windows / glass
+68,windscreen / wipers
