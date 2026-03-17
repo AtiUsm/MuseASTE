@@ -5,7 +5,7 @@ This repository contains the code, data setup, and results for **topic classific
 ## Experiment Overview
 
 - **Goal:** Compare topic classification performance using **fine-grained triple-level labels** vs. original MuSe segment-level labels.
-             Base and Main Category Classification performance
+             Evaluate Base and Main Category Classification performance.
 - **Dataset:** MuSe dataset devel and train file with **subject-level split**:
   - Training: 136 videos  
   - Development: 45 videos  
@@ -47,6 +47,8 @@ This repository contains the code, data setup, and results for **topic classific
 ├── devel45.csv                      # Development data (45 videos)
 
 ├── test46.csv                        # Test data (46 videos)
+
+├── datasetpartition.csv              # Video ids and the corresponding partition (train, test, devel) that they belong to.
 
 ├── topic_class_mapping_MuSe2020.csv # Mapping of topic labels
 
