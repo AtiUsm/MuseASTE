@@ -1,4 +1,4 @@
-# Fine-Grained Topic Classification, Base Category Classification and Main Category with ALBERT — MuSeCarASTE Dataset
+# Fine-Grained Topic Classification, Base Category Classification and Main Category with BASELINE ALBERT — MuSeCarASTE Dataset
 
 This repository contains the code, data setup, and results for **topic classification using new fine-grained triple-level labels**, base category claafication, and main category classifcation.
 
