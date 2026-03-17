@@ -27,8 +27,8 @@ This repository contains the code, data setup, and results for **topic classific
 
 | Label Type | F1 Score test | Notes |
 |------------|---------------|-------|
-| Base Aspect labels | 95 | score on all test |
-| Base Aspect unseen | 81 |  score on 792 useen aspect|
+| Base Aspect labels | 95 | score on all test including all columns |
+| Base Aspect unseen | 81 |  score on 792 useen aspects alone|
 
 
 2. Main Category 
