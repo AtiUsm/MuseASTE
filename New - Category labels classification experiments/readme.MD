@@ -40,7 +40,6 @@ This repository contains the code, data setup, and results for **topic classific
 > **Note:** All experiments used identical segments for all labels for a fair comparison. Segments that do not yield any triple were dropped since fine-grained triple-level labels do not apply and are not aligned with them.
 
 ## Directory Structure
-.
 
 ├── Car_Dataset_Categories_Readme.pdf   # Description of different categories in the dataset.
 
