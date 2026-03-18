@@ -27,7 +27,7 @@ This repository contains the code, data setup, and results for **topic classific
 
 | Label Type | F1 Score test | Notes |
 |------------|---------------|-------|
-| Base Aspect labels | 95 | score on all test including all columns |
+| Base Aspect labels | 95 | score on test including all columns |
 | Base Aspect unseen | 81 |  score on 792 useen aspects alone|
 
 
@@ -35,7 +35,7 @@ This repository contains the code, data setup, and results for **topic classific
 
 | Label Type | F1 Score test | Notes |
 |------------|---------------|-------|
-| Main Category | 99 | current experiment |
+| Main Category | 99 | score on test including all columns |
 
 > **Note:** All experiments used identical segments for all labels for a fair comparison. Segments that do not yield any triple were dropped since fine-grained triple-level labels do not apply and are not aligned with them.
 
