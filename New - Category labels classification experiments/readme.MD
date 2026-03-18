@@ -95,7 +95,7 @@ python TrainCategory.py --no_eval --category topic
 
 
 3. **Evaluation and metrics:**
-   - F1, UAR, and TopicScore are automatically computed and saved.
+   - F1, UAR, and CategoryScore are automatically computed and saved.
    - Classification reports and confusion matrices are saved for each split (train/dev/test).
    - TensorBoard logs are saved in `logs/` for easy visualization.
 .
