@@ -122,7 +122,8 @@ Demo gives you a sneak-peek in to one of our ASTE knowledge graphs and allows yo
 ![Screenshot (166)](https://github.com/user-attachments/assets/eb01bc87-051f-4cc1-ae06-3a71d327bbad)
 This demo gives you a sneak-peek in to one of our cars of our dataset. We created topic and ASTE labels for one car (example_demp.csv), and implemented this demo using streamlit.
 
-![Screenshot (167)](https://github.com/user-attachments/assets/e083d459-0a4a-46d9-bb4b-7073d7e55a02)
+<img width="1433" height="822" alt="Screenshot (304)" src="https://github.com/user-attachments/assets/06dcac17-2b2d-45b0-bdb7-55017514afa7" />
+
 
 
 Requirements:
