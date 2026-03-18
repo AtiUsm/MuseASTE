@@ -14,7 +14,7 @@ This repository contains the code, data setup, and results for **topic classific
 - **Framework:** Hugging Face Transformers with **ALBERT-xxlarge-v2**.  
 - **Training:** Distributed training on 4 GPUs using **PyTorch DDP**.
 
-## Results
+## Main Results (F1)
 
 1. Topic Category (triple and segment wise)
 
