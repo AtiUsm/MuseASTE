@@ -148,7 +148,8 @@ To run the code:
 
 # Usecase
 
-![Screenshot_7-11-2024_6133_](https://github.com/user-attachments/assets/e5464294-606d-43fd-b64b-8bbe8204c61a)
+<img width="736" height="832" alt="image" src="https://github.com/user-attachments/assets/cb58179f-55d1-4c3a-8025-dfc849166403" />
+
 
 # Contact
 
