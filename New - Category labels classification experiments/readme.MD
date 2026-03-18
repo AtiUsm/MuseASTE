@@ -41,6 +41,7 @@ This repository contains the code, data setup, and results for **topic classific
 
 ## Directory Structure
 .
+├── Car_Dataset_Categories_Readme.pdf # Description of different categories in the dataset.
 
 ├── train136.csv                     # Training data (136 videos)
 
