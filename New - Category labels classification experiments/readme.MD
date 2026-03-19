@@ -31,7 +31,7 @@ This repository contains the code, data setup, and results for **topic classific
 | Base Aspect unseen | 81 |  score on 792 useen aspects alone|
 
 
-2. Main Category 
+3. Main Category 
 
 | Label Type | F1 Score test | Notes |
 |------------|---------------|-------|
